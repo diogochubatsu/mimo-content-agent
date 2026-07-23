@@ -24,6 +24,9 @@
       "role": "criador",
       "status": "aguardando",
       "responses": {}
+    },
+    "pc1": {
+      "status": "respondido"
     }
   },
   "questions": [
@@ -31,111 +34,173 @@
       "id": "Q001",
       "category": "arquitetura",
       "question": "O Scout Agent consegue coletar de TODAS as fontes listadas?",
-      "options": ["sim", "nao", "parcialmente"],
+      "options": [
+        "sim",
+        "nao",
+        "parcialmente"
+      ],
       "gcp_response": "parcialmente",
       "gcp_note": "Reddit e YouTube funcionam. TikTok e LinkedIn precisam de API.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "parcialmente",
+      "pc2_response": null,
+      "pc1_note": "Reddit, YouTube, blogs funcionam via web scraping. TikTok precisa de API ou Decodo. LinkedIn e o mais dificil — requer autenticacao."
     },
     {
       "id": "Q002",
       "category": "arquitetura",
       "question": "O Writer Agent gera conteudo que passa no teste de deteccao de IA?",
-      "options": ["sim", "nao", "precisa_testar"],
+      "options": [
+        "sim",
+        "nao",
+        "precisa_testar"
+      ],
       "gcp_response": "precisa_testar",
       "gcp_note": "Editor Agent tem techniques, mas precisa de validacao real.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "precisa_testar",
+      "pc2_response": null,
+      "pc1_note": "Editor tem tecnicas boas, mas sem teste com GPTZero ou Originality.ai nao da pra afirmar. Prioridade: rodar 5 artigos pelo Editor e testar."
     },
     {
       "id": "Q003",
       "category": "arquitetura",
       "question": "Falta algum agente?",
-      "options": ["seo_agent", "analytics_agent", "monetization_agent", "nenhum"],
+      "options": [
+        "seo_agent",
+        "analytics_agent",
+        "monetization_agent",
+        "nenhum"
+      ],
       "gcp_response": "seo_agent",
       "gcp_note": "SEO e critico para ranqueamento. Precisa de keyword research automatico.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "seo_agent",
+      "pc2_response": null,
+      "pc1_note": "SEO Agent faria keyword research automatico + on-page optimization. Sem isso, conteudo bom pode nao ranquear."
     },
     {
       "id": "Q004",
       "category": "pipeline",
       "question": "O pipeline Bronze→Silver funciona como esta descrito?",
-      "options": ["sim", "nao", "precisa_ajuste"],
+      "options": [
+        "sim",
+        "nao",
+        "precisa_ajuste"
+      ],
       "gcp_response": "precisa_ajuste",
       "gcp_note": "Logica esta correta, mas falta implementar. E a prioridade #1.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "precisa_ajuste",
+      "pc2_response": null,
+      "pc1_note": "T001 ja esta done. Pipeline funciona para Bronze. Falta integrar Silver template e automatizar a transicao Bronze to Silver."
     },
     {
       "id": "Q005",
       "category": "pipeline",
       "question": "Precisamos de mais templates? Quais?",
-      "options": ["reviews", "comparacao", "calculadora", "nenhum"],
+      "options": [
+        "reviews",
+        "comparacao",
+        "calculadora",
+        "nenhum"
+      ],
       "gcp_response": "reviews",
       "gcp_note": "Reviews convertem mais que pricing puro. Template Reviews e obrigatorio.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "reviews",
+      "pc2_response": null,
+      "pc1_note": "Template Top 10 produto para Importar converte mais. Reviews com dados reais de preco + ranking sao o diferencial."
     },
     {
       "id": "Q006",
       "category": "pipeline",
       "question": "Qual a frequencia ideal de geracao de conteudo?",
-      "options": ["diaria", "3x_semana", "semanal", "sob_demanda"],
+      "options": [
+        "diaria",
+        "3x_semana",
+        "semanal",
+        "sob_demanda"
+      ],
       "gcp_response": "diaria",
       "gcp_note": "Velocidade e vida. 1-2 artigos por dia no minimo.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "diaria",
+      "pc2_response": null,
+      "pc1_note": "Com pipeline automatizado, 1-2 artigos/dia e possivel. Meta: 50 artigos em 30 dias = 1.7/dia."
     },
     {
       "id": "Q007",
       "category": "monetizacao",
       "question": "Quais afiliados podemos integrar AGORA?",
-      "options": ["jungle_scout", "helium10", "aliexpress", "amazon", "supplyia"],
+      "options": [
+        "jungle_scout",
+        "helium10",
+        "aliexpress",
+        "amazon",
+        "supplyia"
+      ],
       "gcp_response": "amazon,aliexpress,supplyia",
       "gcp_note": "Amazon Associates e o mais facil. AliExpress e Supplyia ja temos dados.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "amazon,aliexpress",
+      "pc2_response": null,
+      "pc1_note": "Amazon Associates e o mais facil (API simples). AliExpress ja temos dados do scraper. Supplyia precisa de parceria formal."
     },
     {
       "id": "Q008",
       "category": "monetizacao",
       "question": "Newsletter premium funciona nesse nicho?",
-      "options": ["sim", "nao", "testar"],
+      "options": [
+        "sim",
+        "nao",
+        "testar"
+      ],
       "gcp_response": "testar",
       "gcp_note": "Gratuito primeiro. Premium so apos 1000 assinantes.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "testar",
+      "pc2_response": null,
+      "pc1_note": "Gratuito primeiro para validar. Premium quando tivermos 1000+ assinantes e conteudo exclusivo."
     },
     {
       "id": "Q009",
       "category": "seo",
       "question": "Quais keywords tem mais volume com menos concorrencia?",
-      "options": ["long_tail", "short_tail", "branded", "local"],
+      "options": [
+        "long_tail",
+        "short_tail",
+        "branded",
+        "local"
+      ],
       "gcp_response": "long_tail",
       "gcp_note": "'1688 vs amazon margin', 'buy from 1688 outside china', 'import electronics china'",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "long_tail",
+      "pc2_response": null,
+      "pc1_note": "1688 vs amazon margin, buy from 1688 outside china, import electronics china — volume bom, concorrencia baixa."
     },
     {
       "id": "Q010",
       "category": "riscos",
       "question": "Google pode penalizar conteudo gerado por IA?",
-      "options": ["sim", "nao", "depende"],
+      "options": [
+        "sim",
+        "nao",
+        "depende"
+      ],
       "gcp_response": "depende",
       "gcp_note": "Se dados reais e unicos, nao. Se generico e copiado, sim.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "depende",
+      "pc2_response": null,
+      "pc1_note": "Dados reais + opiniao genuina = safe. Texto generico 100% IA = risco. Editor Agent mitiga isso."
     },
     {
       "id": "Q011",
       "category": "riscos",
       "question": "O que pode dar errado que nao estamos vendo?",
-      "options": ["api_limits", "cost_overrun", "competition", "all_above"],
+      "options": [
+        "api_limits",
+        "cost_overrun",
+        "competition",
+        "all_above"
+      ],
       "gcp_response": "all_above",
       "gcp_note": "API limits sao o mais imediato. Cost overrun vem depois. Competicao e inevitavel.",
-      "pc1_response": null,
-      "pc2_response": null
+      "pc1_response": "all_above",
+      "pc2_response": null,
+      "pc1_note": "API limits sao o mais imediato (Decodo, Firecrawl). Cost overrun vem com escala. Competicao e inevitavel — por isso dados reais sao criticos."
     }
   ],
   "decisions": [
@@ -200,5 +265,6 @@
     "Reuniao de consolidacao (via git pull)",
     "Atualizar TASKS.json com decisoes",
     "Comecar implementacao"
-  ]
+  ],
+  "status": "respondido"
 }
