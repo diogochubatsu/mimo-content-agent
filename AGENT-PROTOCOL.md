@@ -92,6 +92,48 @@ git add . && git commit -m "feat: completa T001" && git push
 }
 ```
 
+## CI/CD e Branches
+
+### Fluxo de Trabalho com Branches
+
+```
+1. Verificar tarefa pendente
+2. ./scripts/start-task.sh T001 pc-1
+   → Cria branch feat/t001-<timestamp>
+   → Marca tarefa como in_progress
+3. Implementar (commits na branch)
+4. ./scripts/finish-task.sh T001 "Descricao"
+   → Commit final
+   → Merge para main
+   → Deleta branch
+   → Atualiza TASKS.json para done
+   → Git push
+```
+
+### Regras de Branch
+
+| Regra | Descricao |
+|---|---|
+| Branch por tarefa | Nunca trabalhar direto na main |
+| Commit atomico | Uma mudanca logica por commit |
+| Message clara | `feat:`, `fix:`, `docs:` |
+| Merge rapido | Branch vive no maximo 24h |
+| Review antes de merge | Outro agente verifica |
+
+### Deploy Automatico
+
+```
+git push main (com mudancas em site/)
+    ↓
+GitHub Actions detecta
+    ↓
+Build Next.js
+    ↓
+Deploy no Vercel
+    ↓
+Site atualizado
+```
+
 ## Regras de Coerencia
 
 1. **Nunca sobrepor trabalho** — verificar antes quem esta fazendo o que
@@ -99,3 +141,6 @@ git add . && git commit -m "feat: completa T001" && git push
 3. **Status atualizado** — TASKS.json sempre reflete realidade
 4. **Duvidas no BRAINSTORM.json** — nao no codigo
 5. **Decisoes documentadas** — toda decisao fica registrada
+6. **Branch por tarefa** — nunca trabalhar direto na main
+7. **Merge rapido** — branch vive no maximo 24h
+8. **Deploy automatico** — mudancas em site/ fazem deploy
