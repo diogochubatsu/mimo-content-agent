@@ -6,19 +6,35 @@
     "gcp": {
       "name": "MiMo GCP",
       "role": "coordenador",
-      "responsibilities": ["planejamento", "documentacao", "review", "deploy", "monetizacao"],
+      "responsibilities": [
+        "planejamento",
+        "documentacao",
+        "review",
+        "deploy",
+        "monetizacao"
+      ],
       "status": "active"
     },
     "pc-1": {
       "name": "MiMo PC-1",
       "role": "implementador",
-      "responsibilities": ["pipeline", "deploy", "seo-tecnico", "analytics"],
+      "responsibilities": [
+        "pipeline",
+        "deploy",
+        "seo-tecnico",
+        "analytics"
+      ],
       "status": "active"
     },
     "pc-2": {
       "name": "MiMo PC-2",
       "role": "criador",
-      "responsibilities": ["conteudo", "reviews", "social-media", "newsletter"],
+      "responsibilities": [
+        "conteudo",
+        "reviews",
+        "social-media",
+        "newsletter"
+      ],
       "status": "active"
     }
   },
@@ -27,19 +43,27 @@
       "id": "BS001",
       "date": "2026-07-23",
       "topic": "Fundacao do Sistema",
-      "participants": ["gcp", "pc-1", "pc-2"],
+      "participants": [
+        "gcp",
+        "pc-1",
+        "pc-2"
+      ],
       "status": "completed",
       "decisions": [
         "Usar JSON estruturado para comunicacao",
         "Focar em 1 site primeiro",
-        "Pipeline Bronze→Silver como prioridade #1"
+        "Pipeline Bronze\u2192Silver como prioridade #1"
       ]
     },
     {
       "id": "BS002",
       "date": "2026-07-23",
       "topic": "Estrategia de Conteudo",
-      "participants": ["gcp", "pc-1", "pc-2"],
+      "participants": [
+        "gcp",
+        "pc-1",
+        "pc-2"
+      ],
       "status": "pending",
       "questions": [
         "Qual nicho tem mais volume de busca com menos concorrencia?",
@@ -52,7 +76,11 @@
       "id": "BS003",
       "date": "2026-07-23",
       "topic": "Monetizacao",
-      "participants": ["gcp", "pc-1", "pc-2"],
+      "participants": [
+        "gcp",
+        "pc-1",
+        "pc-2"
+      ],
       "status": "pending",
       "questions": [
         "Qual afiliado paga mais: Jungle Scout ou Helium 10?",
@@ -69,16 +97,22 @@
       "to": "pc-1",
       "type": "implement",
       "target": "pipeline-runner",
-      "description": "Criar pipeline que conecta Scout → Writer → Editor → Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
-      "files": ["src/pipeline.ts", "src/runner.ts"],
+      "description": "Criar pipeline que conecta Scout \u2192 Writer \u2192 Editor \u2192 Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
+      "files": [
+        "src/pipeline.ts",
+        "src/runner.ts"
+      ],
       "acceptance": "Rodar 'mimo run pipeline --topic LED strips' gera artigo em content-db/silver/",
       "priority": "critical",
       "deadline": "2026-07-25",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-23T10:00:00Z",
-      "result": null,
+      "result": "Pipeline implemented: src/pipeline.ts, src/pipeline.js, src/runner.ts. Tested successfully - generates bronze articles with price tables, margins, suppliers, FAQ.",
       "depends_on": [],
-      "blocks": ["T003", "T005"]
+      "blocks": [
+        "T003",
+        "T005"
+      ]
     },
     {
       "id": "T002",
@@ -87,15 +121,23 @@
       "type": "implement",
       "target": "site-deploy",
       "description": "Criar site Next.js basico com 5 artigos. Deploy no Vercel. Configurar Plausible analytics.",
-      "files": ["site/", "site/pages/", "site/components/"],
+      "files": [
+        "site/",
+        "site/pages/",
+        "site/components/"
+      ],
       "acceptance": "Site online em importguide1688.com com 5 artigos indexados",
       "priority": "critical",
       "deadline": "2026-07-27",
       "status": "pending",
       "created": "2026-07-23T10:05:00Z",
       "result": null,
-      "depends_on": ["T001"],
-      "blocks": ["T006"]
+      "depends_on": [
+        "T001"
+      ],
+      "blocks": [
+        "T006"
+      ]
     },
     {
       "id": "T003",
@@ -104,15 +146,22 @@
       "type": "create",
       "target": "bronze-articles",
       "description": "Gerar 10 artigos Bronze usando o pipeline. Topics: LED strips, phone cases, bluetooth earbuds, resistance bands, kitchen gadgets (2 cada).",
-      "files": ["content-db/silver/bronze-led-strips.md", "content-db/silver/bronze-phone-cases.md"],
+      "files": [
+        "content-db/silver/bronze-led-strips.md",
+        "content-db/silver/bronze-phone-cases.md"
+      ],
       "acceptance": "10 artigos com 800-1200 palavras, dados reais de precos, FAQ, e links de afiliados",
       "priority": "high",
       "deadline": "2026-07-29",
       "status": "pending",
       "created": "2026-07-23T10:10:00Z",
       "result": null,
-      "depends_on": ["T001"],
-      "blocks": ["T004"]
+      "depends_on": [
+        "T001"
+      ],
+      "blocks": [
+        "T004"
+      ]
     },
     {
       "id": "T004",
@@ -121,15 +170,22 @@
       "type": "create",
       "target": "silver-articles",
       "description": "Gerar 5 artigos Silver: 'Complete Guide to Importing LED Strips from China', '1688 vs Alibaba: Real Price Comparison', 'Top 10 Products to Import in 2026', 'How to Calculate Import Margins', 'Best Sourcing Agents Reviewed'.",
-      "files": ["content-db/silver/guide-led-strips.md", "content-db/silver/comparison-1688-alibaba.md"],
+      "files": [
+        "content-db/silver/guide-led-strips.md",
+        "content-db/silver/comparison-1688-alibaba.md"
+      ],
       "acceptance": "5 artigos com 1500-2500 palavras, tabelas comparativas, expert quotes, case studies",
       "priority": "high",
       "deadline": "2026-08-01",
       "status": "pending",
       "created": "2026-07-23T10:15:00Z",
       "result": null,
-      "depends_on": ["T003"],
-      "blocks": ["T007"]
+      "depends_on": [
+        "T003"
+      ],
+      "blocks": [
+        "T007"
+      ]
     },
     {
       "id": "T005",
@@ -138,7 +194,9 @@
       "type": "implement",
       "target": "template-reviews",
       "description": "Criar template Reviews/Best Of: 'Top 10 [produto] para Importar'. Baseado em reviews do Amazon + dados de preco.",
-      "files": ["content-db/templates/reviews.md"],
+      "files": [
+        "content-db/templates/reviews.md"
+      ],
       "acceptance": "Template funcional que gera artigo de 800-1200 palavras com ranking, pros/cons, e links afiliados",
       "priority": "medium",
       "deadline": "2026-07-28",
@@ -146,7 +204,9 @@
       "created": "2026-07-23T10:20:00Z",
       "result": null,
       "depends_on": [],
-      "blocks": ["T008"]
+      "blocks": [
+        "T008"
+      ]
     },
     {
       "id": "T006",
@@ -155,14 +215,19 @@
       "type": "implement",
       "target": "seo-technical",
       "description": "Configurar SEO tecnico: sitemap.xml, robots.txt, schema.org markup, meta tags, Open Graph.",
-      "files": ["site/next-sitemap.config.js", "site/pages/sitemap.xml.ts"],
+      "files": [
+        "site/next-sitemap.config.js",
+        "site/pages/sitemap.xml.ts"
+      ],
       "acceptance": "Google Search Console mostra paginas indexadas, schema validado",
       "priority": "medium",
       "deadline": "2026-07-30",
       "status": "pending",
       "created": "2026-07-23T10:25:00Z",
       "result": null,
-      "depends_on": ["T002"],
+      "depends_on": [
+        "T002"
+      ],
       "blocks": []
     },
     {
@@ -172,14 +237,18 @@
       "type": "create",
       "target": "social-media",
       "description": "Criar 10 posts para Reddit (r/FulfillmentByAmazon, r/dropship, r/ecommerce) com dados reais e link para site.",
-      "files": ["content-db/social/reddit-posts.md"],
+      "files": [
+        "content-db/social/reddit-posts.md"
+      ],
       "acceptance": "10 posts prontos para publicar, cada um com dado unico + CTA",
       "priority": "medium",
       "deadline": "2026-08-02",
       "status": "pending",
       "created": "2026-07-23T10:30:00Z",
       "result": null,
-      "depends_on": ["T004"],
+      "depends_on": [
+        "T004"
+      ],
       "blocks": []
     },
     {
@@ -189,14 +258,19 @@
       "type": "create",
       "target": "newsletter",
       "description": "Criar template de newsletter '3 Deals da Semana' e configurar Beehiiv. Primeira edicao com 3 oportunidades reais.",
-      "files": ["content-db/newsletter/template.md", "content-db/newsletter/issue-001.md"],
+      "files": [
+        "content-db/newsletter/template.md",
+        "content-db/newsletter/issue-001.md"
+      ],
       "acceptance": "Newsletter pronta para enviar, com 3 produtos, precos reais, e links afiliados",
       "priority": "medium",
       "deadline": "2026-08-03",
       "status": "pending",
       "created": "2026-07-23T10:35:00Z",
       "result": null,
-      "depends_on": ["T005"],
+      "depends_on": [
+        "T005"
+      ],
       "blocks": []
     },
     {
@@ -213,7 +287,15 @@
       "status": "pending",
       "created": "2026-07-23T10:40:00Z",
       "result": null,
-      "depends_on": ["T002", "T003", "T004", "T005", "T006", "T007", "T008"],
+      "depends_on": [
+        "T002",
+        "T003",
+        "T004",
+        "T005",
+        "T006",
+        "T007",
+        "T008"
+      ],
       "blocks": []
     }
   ],
