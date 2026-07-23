@@ -1,0 +1,607 @@
+{
+  "bronze_sources": {
+    "blogs_english": [
+      {
+        "name": "Amazon Seller Blog",
+        "url": "https://sell.amazon.com/blog",
+        "type": "blog",
+        "language": "en",
+        "topics": ["product ideas", "FBA", "selling tips", "inventory"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Amazing.com Blog",
+        "url": "https://amazing.com/blog",
+        "type": "blog",
+        "language": "en",
+        "topics": ["Amazon FBA", "product research", "ecommerce"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      },
+      {
+        "name": "Jungle Scout Blog",
+        "url": "https://www.junglescout.com/blog/",
+        "type": "blog",
+        "language": "en",
+        "topics": ["Amazon selling", "product research", "supplier sourcing"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Helium 10 Blog",
+        "url": "https://www.helium10.com/blog/",
+        "type": "blog",
+        "language": "en",
+        "topics": ["Amazon SEO", "keyword research", "product launch"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Oberlo Blog",
+        "url": "https://www.oberlo.com/blog",
+        "type": "blog",
+        "language": "en",
+        "topics": ["dropshipping", "product sourcing", "ecommerce"],
+        "update_frequency": "daily",
+        "quality": "medium"
+      },
+      {
+        "name": "Shopify Blog",
+        "url": "https://www.shopify.com/blog",
+        "type": "blog",
+        "language": "en",
+        "topics": ["ecommerce", "marketing", "store building"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "BigCommerce Blog",
+        "url": "https://www.bigcommerce.com/blog/",
+        "type": "blog",
+        "language": "en",
+        "topics": ["ecommerce", "multi-channel selling"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      },
+      {
+        "name": "SellerApp Blog",
+        "url": "https://www.sellerapp.com/blog/",
+        "type": "blog",
+        "language": "en",
+        "topics": ["Amazon PPC", "product research", "listing optimization"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Viral Launch Blog",
+        "url": "https://viral-launch.com/blog/",
+        "type": "blog",
+        "language": "en",
+        "topics": ["Amazon product launch", "market intelligence"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      },
+      {
+        "name": "1688 Sourcing Guide",
+        "url": "https://www.alibaba.com/showroom/1688-source.html",
+        "type": "guide",
+        "language": "en",
+        "topics": ["1688 sourcing", "China import"],
+        "update_frequency": "monthly",
+        "quality": "medium"
+      }
+    ],
+    "blogs_spanish": [
+      {
+        "name": "Ecommerce Colombia",
+        "url": "https://ecommercecolombia.com/",
+        "type": "blog",
+        "language": "es",
+        "topics": ["ecommerce LATAM", "dropshipping"],
+        "update_frequency": "weekly",
+        "quality": "medium"
+      },
+      {
+        "name": "Coppel Blog (México)",
+        "url": "https://www.coppel.com/blog",
+        "type": "blog",
+        "language": "es",
+        "topics": ["retail Mexico", "products"],
+        "update_frequency": "weekly",
+        "quality": "medium"
+      }
+    ],
+    "blogs_portuguese": [
+      {
+        "name": "Ecommerce Brasil",
+        "url": "https://www.ecommercebrasil.com.br/",
+        "type": "blog",
+        "language": "pt",
+        "topics": ["ecommerce Brasil", "marketing digital"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Resultados Digitais",
+        "url": "https://resultadosdigitais.com.br/",
+        "type": "blog",
+        "language": "pt",
+        "topics": ["marketing digital", "ecommerce"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Hotmart Blog",
+        "url": "https://hotmart.com/pt-br/blog",
+        "type": "blog",
+        "language": "pt",
+        "topics": ["produtos digitais", "marketing"],
+        "update_frequency": "daily",
+        "quality": "high"
+      }
+    ],
+    "blogs_german": [
+      {
+        "name": "Ecommerce Germany",
+        "url": "https://www.ecommercegermany.com/",
+        "type": "blog",
+        "language": "de",
+        "topics": ["ecommerce Deutschland", "Amazon DE"],
+        "update_frequency": "weekly",
+        "quality": "medium"
+      },
+      {
+        "name": "Amazon DE Seller Blog",
+        "url": "https://sell.amazon.de/blog",
+        "type": "blog",
+        "language": "de",
+        "topics": ["Amazon DE", "Verkaufen"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      }
+    ],
+    "blogs_japanese": [
+      {
+        "name": "Amazon JP Seller Blog",
+        "url": "https://sell.amazon.co.jp/blog",
+        "type": "blog",
+        "language": "ja",
+        "topics": ["Amazon JP", "出品"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      },
+      {
+        "name": "Rakuten Merchant Blog",
+        "url": "https://www.rakuten.co.jp/",
+        "type": "blog",
+        "language": "ja",
+        "topics": ["楽天市場", "EC"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      }
+    ],
+    "blogs_korean": [
+      {
+        "name": "Coupang Seller Blog",
+        "url": "https://wing.coupang.com/",
+        "type": "blog",
+        "language": "ko",
+        "topics": ["쿠팡", "판매"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      }
+    ],
+    "blogs_polish": [
+      {
+        "name": "Allegro Blog",
+        "url": "https://allegro.pl/blog",
+        "type": "blog",
+        "language": "pl",
+        "topics": ["Allegro", "e-commerce Polska"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      },
+      {
+        "name": "Ceneo Blog",
+        "url": "https://www.ceneo.pl/",
+        "type": "blog",
+        "language": "pl",
+        "topics": ["porównywanie cen", "zakupy"],
+        "update_frequency": "weekly",
+        "quality": "medium"
+      }
+    ],
+    "blogs_chinese": [
+      {
+        "name": "1688 Wiki",
+        "url": "https://wiki.1688.com/",
+        "type": "wiki",
+        "language": "zh",
+        "topics": ["1688指南", "供应商"],
+        "update_frequency": "monthly",
+        "quality": "high"
+      },
+      {
+        "name": "Xiaohongshu (小红书)",
+        "url": "https://www.xiaohongshu.com/",
+        "type": "social",
+        "language": "zh",
+        "topics": ["产品评测", "购物攻略"],
+        "update_frequency": "real-time",
+        "quality": "high"
+      }
+    ],
+    "reddit": [
+      {
+        "name": "r/AmazonFBA",
+        "url": "https://www.reddit.com/r/AmazonFBA/",
+        "type": "forum",
+        "language": "en",
+        "topics": ["Amazon FBA", "product research", "seller tips"],
+        "members": 150000,
+        "quality": "high"
+      },
+      {
+        "name": "r/dropship",
+        "url": "https://www.reddit.com/r/dropship/",
+        "type": "forum",
+        "language": "en",
+        "topics": ["dropshipping", "product sourcing", "store building"],
+        "members": 180000,
+        "quality": "medium"
+      },
+      {
+        "name": "r/FulfillmentByAmazon",
+        "url": "https://www.reddit.com/r/FulfillmentByAmazon/",
+        "type": "forum",
+        "language": "en",
+        "topics": ["FBA", "logistics", "Amazon selling"],
+        "members": 100000,
+        "quality": "high"
+      },
+      {
+        "name": "r/ecommerce",
+        "url": "https://www.reddit.com/r/ecommerce/",
+        "type": "forum",
+        "language": "en",
+        "topics": ["ecommerce", "marketing", "store optimization"],
+        "members": 500000,
+        "quality": "high"
+      },
+      {
+        "name": "r/Alibaba",
+        "url": "https://www.reddit.com/r/Alibaba/",
+        "type": "forum",
+        "language": "en",
+        "topics": ["Alibaba sourcing", "China import"],
+        "members": 50000,
+        "quality": "medium"
+      },
+      {
+        "name": "r/Entrepreneur",
+        "url": "https://www.reddit.com/r/Entrepreneur/",
+        "type": "forum",
+        "language": "en",
+        "topics": ["business", "startup", "side hustle"],
+        "members": 2000000,
+        "quality": "medium"
+      }
+    ],
+    "youtube_english": [
+      {
+        "name": "Jungle Scout",
+        "url": "https://www.youtube.com/@JungleScout",
+        "type": "youtube",
+        "language": "en",
+        "topics": ["Amazon FBA", "product research"],
+        "subscribers": 500000,
+        "quality": "high"
+      },
+      {
+        "name": "Wholesale Ted",
+        "url": "https://www.youtube.com/@wholesaleted",
+        "type": "youtube",
+        "language": "en",
+        "topics": ["dropshipping", "Amazon FBA"],
+        "subscribers": 700000,
+        "quality": "high"
+      },
+      {
+        "name": "Kevin David",
+        "url": "https://www.youtube.com/@KevinDavid",
+        "type": "youtube",
+        "language": "en",
+        "topics": ["Amazon FBA", "dropshipping", "ecommerce"],
+        "subscribers": 1000000,
+        "quality": "medium"
+      },
+      {
+        "name": "MyWifeQuitHerJob",
+        "url": "https://www.youtube.com/@mywifequitherjob",
+        "type": "youtube",
+        "language": "en",
+        "topics": ["ecommerce", "Shopify", "product sourcing"],
+        "subscribers": 300000,
+        "quality": "high"
+      },
+      {
+        "name": "Sourcing Nova",
+        "url": "https://www.youtube.com/@SourcingNova",
+        "type": "youtube",
+        "language": "en",
+        "topics": ["1688 sourcing", "China import"],
+        "subscribers": 50000,
+        "quality": "high"
+      }
+    ],
+    "youtube_spanish": [
+      {
+        "name": "Yomi Denzel",
+        "url": "https://www.youtube.com/@YomiDenzel",
+        "type": "youtube",
+        "language": "es",
+        "topics": ["ecommerce", "dropshipping"],
+        "subscribers": 500000,
+        "quality": "high"
+      },
+      {
+        "name": "Alex Vargas",
+        "url": "https://www.youtube.com/@AlexVargas",
+        "type": "youtube",
+        "language": "es",
+        "topics": ["ecommerce", "negocios online"],
+        "subscribers": 300000,
+        "quality": "high"
+      }
+    ],
+    "youtube_portuguese": [
+      {
+        "name": "Sandro Ferreira",
+        "url": "https://www.youtube.com/@sandroferreira",
+        "type": "youtube",
+        "language": "pt",
+        "topics": ["dropshipping", "ecommerce"],
+        "subscribers": 200000,
+        "quality": "high"
+      },
+      {
+        "name": "Luccas e Gi",
+        "url": "https://www.youtube.com/@luccasegi",
+        "type": "youtube",
+        "language": "pt",
+        "topics": ["ecommerce", "negócios online"],
+        "subscribers": 5000000,
+        "quality": "medium"
+      },
+      {
+        "name": "Mateus Fontana",
+        "url": "https://www.youtube.com/@mateusfontana",
+        "type": "youtube",
+        "language": "pt",
+        "topics": ["ecommerce", "Amazon BR"],
+        "subscribers": 100000,
+        "quality": "high"
+      }
+    ],
+    "youtube_german": [
+      {
+        "name": "Ecommerce Germany",
+        "url": "https://www.youtube.com/@EcommerceGermany",
+        "type": "youtube",
+        "language": "de",
+        "topics": ["ecommerce Deutschland", "Amazon DE"],
+        "subscribers": 50000,
+        "quality": "medium"
+      }
+    ],
+    "youtube_japanese": [
+      {
+        "name": "Amazon JP Seller",
+        "url": "https://www.youtube.com/@AmazonJapan",
+        "type": "youtube",
+        "language": "ja",
+        "topics": ["Amazon JP", "出品方法"],
+        "subscribers": 100000,
+        "quality": "high"
+      }
+    ],
+    "youtube_korean": [
+      {
+        "name": "Coupang Seller",
+        "url": "https://www.youtube.com/@Coupang",
+        "type": "youtube",
+        "language": "ko",
+        "topics": ["쿠팡 판매", "이커머스"],
+        "subscribers": 50000,
+        "quality": "high"
+      }
+    ],
+    "youtube_chinese": [
+      {
+        "name": "1688 Tutorial",
+        "url": "https://www.youtube.com/results?search_query=1688+教程",
+        "type": "youtube",
+        "language": "zh",
+        "topics": ["1688使用教程", "批发采购"],
+        "subscribers": "varies",
+        "quality": "medium"
+      }
+    ],
+    "tiktok_hashtags": [
+      {
+        "name": "#productfinds",
+        "url": "https://www.tiktok.com/tag/productfinds",
+        "type": "tiktok",
+        "language": "en",
+        "topics": ["product discovery", "viral products"],
+        "views": "1B+",
+        "quality": "high"
+      },
+      {
+        "name": "#dropshipping",
+        "url": "https://www.tiktok.com/tag/dropshipping",
+        "type": "tiktok",
+        "language": "en",
+        "topics": ["dropshipping", "product sourcing"],
+        "views": "10B+",
+        "quality": "medium"
+      },
+      {
+        "name": "#1688",
+        "url": "https://www.tiktok.com/tag/1688",
+        "type": "tiktok",
+        "language": "multi",
+        "topics": ["1688 sourcing", "China products"],
+        "views": "500M+",
+        "quality": "high"
+      },
+      {
+        "name": "#amazonfba",
+        "url": "https://www.tiktok.com/tag/amazonfba",
+        "type": "tiktok",
+        "language": "en",
+        "topics": ["Amazon FBA", "seller tips"],
+        "views": "2B+",
+        "quality": "high"
+      },
+      {
+        "name": "#ecommercetips",
+        "url": "https://www.tiktok.com/tag/ecommercetips",
+        "type": "tiktok",
+        "language": "en",
+        "topics": ["ecommerce", "business tips"],
+        "views": "500M+",
+        "quality": "high"
+      }
+    ],
+    "twitter_accounts": [
+      {
+        "name": "@JungleScout",
+        "url": "https://twitter.com/JungleScout",
+        "type": "twitter",
+        "language": "en",
+        "topics": ["Amazon", "product research"],
+        "followers": 200000,
+        "quality": "high"
+      },
+      {
+        "name": "@helium10",
+        "url": "https://twitter.com/helium10",
+        "type": "twitter",
+        "language": "en",
+        "topics": ["Amazon SEO", "keywords"],
+        "followers": 150000,
+        "quality": "high"
+      },
+      {
+        "name": "@Shopify",
+        "url": "https://twitter.com/Shopify",
+        "type": "twitter",
+        "language": "en",
+        "topics": ["ecommerce", "store building"],
+        "followers": 500000,
+        "quality": "high"
+      }
+    ],
+    "news_sources": [
+      {
+        "name": "Trade.gov",
+        "url": "https://www.trade.gov/",
+        "type": "news",
+        "language": "en",
+        "topics": ["trade agreements", "tariffs", "import regulations"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "CBP.gov",
+        "url": "https://www.cbp.gov/",
+        "type": "news",
+        "language": "en",
+        "topics": ["customs", "import duties", "regulations"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Freightos",
+        "url": "https://www.freightos.com/",
+        "type": "news",
+        "language": "en",
+        "topics": ["shipping rates", "freight market"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "JOC.com",
+        "url": "https://www.joc.com/",
+        "type": "news",
+        "language": "en",
+        "topics": ["shipping", "logistics", "trade"],
+        "update_frequency": "daily",
+        "quality": "high"
+      }
+    ],
+    "trends": [
+      {
+        "name": "Google Trends",
+        "url": "https://trends.google.com/",
+        "type": "trends",
+        "language": "global",
+        "topics": ["search trends", "product demand"],
+        "update_frequency": "real-time",
+        "quality": "high"
+      },
+      {
+        "name": "Amazon Movers & Shakers",
+        "url": "https://www.amazon.com/gp/movers-and-shakers/",
+        "type": "trends",
+        "language": "en",
+        "topics": ["trending products", "best sellers"],
+        "update_frequency": "daily",
+        "quality": "high"
+      },
+      {
+        "name": "Exploding Topics",
+        "url": "https://explodingtopics.com/",
+        "type": "trends",
+        "language": "en",
+        "topics": ["emerging trends", "product trends"],
+        "update_frequency": "weekly",
+        "quality": "high"
+      }
+    ],
+    "comparison_tools": [
+      {
+        "name": "Keepa",
+        "url": "https://keepa.com/",
+        "type": "tool",
+        "language": "en",
+        "topics": ["Amazon price tracking", "history"],
+        "quality": "high"
+      },
+      {
+        "name": "CamelCamelCamel",
+        "url": "https://camelcamelcamel.com/",
+        "type": "tool",
+        "language": "en",
+        "topics": ["Amazon price history"],
+        "quality": "high"
+      },
+      {
+        "name": "Xe.com",
+        "url": "https://www.xe.com/",
+        "type": "tool",
+        "language": "en",
+        "topics": ["currency exchange rates"],
+        "quality": "high"
+      }
+    ]
+  },
+  "metadata": {
+    "total_sources": 75,
+    "languages": ["en", "es", "pt", "de", "ja", "ko", "pl", "zh"],
+    "last_updated": "2026-07-23",
+    "version": "1.0"
+  }
+}
