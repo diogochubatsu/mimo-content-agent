@@ -1,485 +1,246 @@
-<h1 align="center">MiMoCode</h1>
+# MiMo Content Agent
 
-<p align="center">
-  <img src="assets/readme/mimocode-banner.png" alt="MiMoCode" width="700">
-</p>
+Fork do [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) especializado em criação de conteúdo automatizado para nichos de importação/sourcing.
 
-<p align="center"><strong>MiMo Code: Where Models and Agents Co-Evolve</strong></p>
+## Visão Geral
 
-<p align="center">
-  <a href="README.zh.md">中文</a> | English
-</p>
+Sistema autônomo de produção de conteúdo que utiliza:
+- **MiMo v2.5** (tokens gratuitos limitados)
+- **Arquitetura Medallion** (Bronze → Silver → Gold)
+- **Anti-footprint** para evitar penalidades do Google
+- **Múltiplos agentes** especializados
 
-<p align="center">
-  <a href="https://mimo.xiaomi.com/coder">Website</a> | <a href="https://mimo.xiaomi.com/en/blog/mimo-code-long-horizon">Blog</a>
-</p>
+## Arquitetura
 
----
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    INTERNET GLOBAL                          │
+│         (ZH, EN, ES, PT - Multi-idioma)                    │
+└─────────────────────────────────────────────────────────────┘
+                            │
+                            ▼
+┌─────────────────────────────────────────────────────────────┐
+│  CAMADA BRONZE (Data Lake)                                  │
+│  - Scrapers de 1688, Alibaba, Reddit, TikTok               │
+│  - JSONs brutos multi-idioma                                │
+└─────────────────────────────────────────────────────────────┘
+                            │
+                            ▼
+┌─────────────────────────────────────────────────────────────┐
+│  CAMADA SILVER (Enxame de Agentes)                          │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐             │
+│  │  Scout   │───▶│  Writer  │───▶│  Editor  │             │
+│  │ (Busca)  │    │ (Escrita)│    │(Anti-    │             │
+│  │          │    │          │    │ Footprint)│             │
+│  └──────────┘    └──────────┘    └──────────┘             │
+└─────────────────────────────────────────────────────────────┘
+                            │
+                            ▼
+┌─────────────────────────────────────────────────────────────┐
+│  CAMADA GOLD (Conversão)                                    │
+│  - Relatórios premium                                      │
+│  - Funil para SaaS                                         │
+│  - Inteligência de mercado                                  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-MiMoCode is a terminal-native AI coding assistant. It can read and write code, run commands, manage Git, and use a persistent memory system to keep a deep understanding of your project across sessions while continuously improving itself.
+## Agentes
 
-MiMo Auto is built in as a free-for-limited-time channel, so you can start with zero configuration. MiMoCode also supports connecting to any mainstream LLM provider API.
+### Scout Agent
+- Monitora 1688, Alibaba, Reddit, TikTok
+- Encontra produtos trending
+- Coleta dados de preços e fornecedores
+- Retorna dados estruturados em JSON
 
----
+### Writer Agent
+- Gera artigos SEO-otimizados
+- Suporta 3 tiers: Bronze, Silver, Gold
+- Inclui tabelas de preço e análise de margem
+- Template padronizado
+
+### Editor Agent
+- Anti-footprint (evita detecção de IA)
+- Reescreve por perfil de site
+- Varia sintaxe e vocabulário
+- Mantém precisão dos dados
 
 ## Quick Start
 
 ```bash
-# One-line install (macOS / Linux)
-curl -fsSL https://mimo.xiaomi.com/install | bash
+# Clonar
+git clone https://github.com/diogochubatsu/mimo-content-agent.git
+cd mimo-content-agent
 
-# One-line install (Windows PowerShell)
-powershell -ep Bypass -c "irm https://mimo.xiaomi.com/install.ps1 | iex"
+# Instalar
+bun install
 
-# Or install via npm (all platforms)
-npm install -g @mimo-ai/cli
+# Rodar workflow diário
+mimo run daily-hunt
 
-# Run
-mimo
+# Ou rodar agentes individualmente
+mimo agent scout "Find trending LED products on 1688"
+mimo agent writer "Write bronze article about LED strips"
 ```
 
-The first launch guides you through configuration automatically. Supported options:
-- **MiMo Auto (free for a limited time)** — anonymous channel, zero configuration
-- **Xiaomi MiMo Platform** — OAuth login
-- **Codex (ChatGPT Pro/Plus)** — OpenAI OAuth login
-- **Import from Claude Code** — migrate existing authentication in one step
-- **Provider list** — connect catalog providers by API key, or OAuth where supported (e.g. xAI/Grok)
-- **Custom Provider** — add any OpenAI-compatible API in the TUI
+## Configuração
 
-<details>
-<summary><strong>WSL: clipboard issues</strong></summary>
+### Agentes
+Edite os arquivos em `.mimocode/agents/`:
+- `scout.md` - Comportamento do Scout
+- `writer.md` - Templates e regras de escrita
+- `editor.md` - Técnicas anti-footprint
 
-If you encounter garbled text when copying on WSL, install `xsel`:
-```bash
-sudo apt install xsel
-```
-</details>
-
-<details>
-<summary><strong>Windows: garbled CJK (Chinese/Japanese/Korean) output in the shell</strong></summary>
-
-On Windows with a non-UTF-8 system locale (e.g. zh-CN, whose active code page is 936/GBK),
-command output containing CJK characters may appear garbled (mojibake). MiMoCode forces
-UTF-8 output for spawned PowerShell/cmd subprocesses. If you still encounter garbled output
-in cases this does not yet cover, enable Windows' system-wide UTF-8 support:
-
-**Settings → Time & language → Language & region → Administrative language settings →
-Change system locale → check "Beta: Use Unicode UTF-8 for worldwide language support" →
-reboot.**
-
-This switches the active code page (ACP) to UTF-8 (65001) for all programs, so subprocesses
-no longer inherit the legacy code page. Note it is a system-wide Beta toggle and may cause
-some older non-Unicode programs to display incorrectly, so treat it as a workaround.
-</details>
-
----
-
-## MiMo Ecosystem
-
-Beyond MiMoCode, Xiaomi MiMo models also work in other agents and coding tools like Cursor, Cline, and Zed.
-
-**[awesome-mimo-agent](https://github.com/XiaomiMiMo/awesome-mimo-agent)** collects setup guides for using MiMo in those tools — worth a look if you want to try MiMo elsewhere. Contributions welcome: open a PR to add your own setup.
-
----
-
-## Core Features
-
-### Multiple Agents
-
-| Agent | Description |
-|--------|------|
-| **build** | Default. Full tool permissions for development |
-| **plan** | Read-only analysis mode for code exploration and solution design |
-| **compose** | Orchestration mode for specs-driven development and skill-driven workflows |
-
-Press `Tab` to switch between primary agents. Subagents are created by the system as needed. After the first message the mode locks: Build and Plan can still switch between each other, but Compose is isolated once entered — keeping the skill/tool set fixed from session start significantly improves tool-call reliability.
-
-For frontier models (Fable/Sol-class), the recommended way to run compose-style work is the **build** agent with the `/compose-next` skill — see [Compose Mode](#compose-mode).
-
-### Persistent Memory
-
-Cross-session memory powered by SQLite FTS5 full-text search:
-
-- **Project memory** (`MEMORY.md`) — persistent project knowledge, rules, and architecture decisions
-- **Session checkpoint** (`checkpoint.md`) — structured state snapshots maintained automatically by the checkpoint-writer subagent
-- **Scratch notes** (`notes.md`) — temporary note area for agents
-- **Task progress** (`tasks/<id>/progress.md`) — per-task logs
-
-Memory is injected automatically when a session resumes, so the agent does not need to relearn project context.
-
-### Intelligent Context Management
-
-- **Automatic checkpoints** — decides when to save session state based on the model context window
-- **Context reconstruction** — when context approaches the limit, rebuilds it from the latest checkpoint, project memory, task progress, and retained recent messages so the agent can continue the current task
-- **Budgeted injection** — uses a token budget to control how much checkpoint, memory, and notes content enters context, with importance ranking
-
-### Task Tracking
-
-A tree-shaped task system (`T1`, `T1.1`, `T1.2`, …) that integrates automatically with the checkpoint system, so task progress is preserved when sessions resume.
-
-### Subagent System
-
-The primary agent can create subagents on demand. Subagents share the current session context and can work in parallel, with lifecycle tracking, cancellation, and background execution.
-
-### Goal / Stop Condition
-
-The `/goal` command sets a stopping condition for a session. When the agent tries to stop, an independent judge model evaluates the conversation to decide whether the condition is truly satisfied — preventing premature "optimistic stops" during autonomous work.
-
-### Compose Mode
-
-Compose is MiMoCode's structured workflow for specs-driven development, orchestrating the full lifecycle from spec to shipped code.
-
-The recommended way to use it is the **`/compose-next`** skill on the **build** agent: a single self-contained contract covering grill → spec → workspace → implement → verify → review → finalize → finish, with feature documents at `docs/compose/spec/<feature>.md`. It is designed for frontier models (Fable/Sol-class), which internalize most of the workflow and work best from one compact contract.
-
-The legacy path is the dedicated **compose agent** (switch with `Tab`), which orchestrates fourteen built-in skills for planning, execution, code review, TDD, debugging, verification, and merging — a step-by-step curriculum that remains useful for weaker models.
+### Templates
+Edite os templates em `content-db/templates/`:
+- `bronze.md` - Template para artigos curtos (800-1200 palavras)
+- `silver.md` - Template para artigos médios (1500-2500 palavras)
+- `gold.md` - Template para artigos premium (3000+ palavras)
 
 ### Workflows
-
-Workflows are deterministic JavaScript scripts that orchestrate multiple agents in a sandboxed runtime. Unlike agent conversations, workflows encode fixed phase sequences with bounded retries and automatic parallelization — fire-and-forget execution with no user interaction required.
-
-MiMoCode ships with four built-in workflows:
-
-| Workflow | Phases | Description |
-|----------|--------|-------------|
-| `compose` | Brainstorm → Design → Implement → Verify → Review → Report → Merge | Full development pipeline. Auto-parallelizes independent tasks into isolated git worktrees, applies TDD per task, chains structured output between phases. Best for well-defined tasks that decompose into independent subtasks. |
-| `deep-research` | Brief → Plan → Research → Reflect → Write → Review | Multi-source deep research report generator. Plans independent research angles, runs parallel sub-agents to collect cited findings, reflects on gaps, writes a single coherent Markdown report, then cold-reviews citations. Convergent: resumable via file checkpoints. |
-| `fact-check` | Plan → Search → Extract → Group → Crosscheck → Report | Adversarial fact verification. Runs parallel web searches, extracts checkable facts, groups duplicates, then cross-checks each with a 3-juror adversarial vote. Best for precise claims ("Is X true?"). |
-| `research-experiment` | Baseline → Loop → Audit → Report | Autonomous optimization loop for a mechanically verifiable metric. Establishes a baseline, iterates through hypothesize → implement → evaluate → keep/revert, audits for metric gaming, and produces a reproducible result log. Requires a fixed-budget evaluation command and an explicit editable-file scope. |
-
-The compose workflow complements the interactive path: use the **workflow** when requirements are clear and tasks split cleanly (deterministic, parallel, non-interactive); use the **build** agent with `/compose-next` (or the legacy compose agent) when you need to redirect mid-flow or inject judgment between steps (conversational, interactive).
-
-**Custom workflows:** Place a `.js` file in `.mimocode/workflows/` or `.claude/workflows/` to define your own, or override a built-in by using the same name (e.g. `.mimocode/workflows/compose.js`).
-
-### Builtin Skills
-
-Skills are reusable instruction sets that teach agents how to handle specific tasks (e.g. generating PDFs, writing academic papers, searching arXiv). For a new task, MiMoCode searches available non-Compose skills by exact name, localized alias, and BM25 relevance. High-confidence matches are loaded automatically; uncertain matches are ranked for the agent to assess. In the TUI, type `/` to browse the autocomplete list or invoke a skill directly with `/<skill-name>` — mentioning two or more skills in a single message auto-loads them and injects a multi-skill orchestration plan.
-
-MiMoCode bundles the following builtin skills:
-
-| Skill | Description |
-|-------|-------------|
-| `arxiv` | Search, read, cite, and analyze arXiv papers |
-| `claude-code` | Delegate coding, testing, review, and Git tasks to the Claude Code CLI |
-| `codex` | Run and troubleshoot the Codex CLI in headless automation, CI, containers, and remote environments |
-| `compose-next` | Recommended spec→ship feature delivery workflow (grill → spec → implement → verify → review → finish); invoke explicitly with `/compose-next` |
-| `data-analytics` | Analyze product and business data through reusable workflows for data quality, KPIs, dashboards, reports, notebooks, and market sizing |
-| `deep-research` | Produce cited, multi-source research reports with parallel subagents and built-in web tools |
-| `design-blueprint` | Produce a design blueprint (DESIGN.md + Decision Trace) before mocking up visuals |
-| `docx-official` | Produce, read, and transform Word (.docx) files |
-| `drive-mimo` | Script, test, and automate another MiMoCode process in headless or interactive TUI mode |
-| `evolve` | Total self-modification — rewrite any layer of the agent: tools, behavior hooks, knowledge, workflows, even the UI |
-| `frontend-design` | Visual design guidance for UI work |
-| `html-to-video-pipeline` | HTML-to-MP4 rendering via headless browser + ffmpeg |
-| `learn-everything` | Turn documents, URLs, or topics into adaptive courses with exercises, feedback, and progress tracking |
-| `loop` | Schedule recurring prompts on a fixed cadence |
-| `mimocode-docs` | Self-documenting reference for MiMoCode features, commands, providers, and configuration |
-| `modern-python-toolchain` | Set up modern Python projects with uv, Ruff, and Pyright |
-| `pdf-official` | Produce, read, fill, and transform PDF files |
-| `pptx-official` | Author and manipulate PowerPoint (.pptx) decks |
-| `product-design` | Explore, audit, implement, and QA product and UX designs through focused workflows |
-| `research-paper-writing` | Write and polish academic papers (ML/CV/NLP style) |
-| `sales` | Support sales research, meeting preparation, account prioritization, deal strategy, forecasting, and CRM workflows |
-| `skill-creator` | Interactive guide for creating and improving agent skills |
-| `super-research` | Run long-horizon, auditable research, experiments, benchmarks, diagnostics, reproductions, and citation checks |
-| `xlsx-official` | Build, clean, and transform spreadsheets (.xlsx/.csv) |
-
-`claude-code` and `codex` are exposed only when the `claude` and `codex` executables, respectively, are installed. Other skills may still require task-specific tools described in their instructions.
-
-**Overriding a builtin skill:** Create a skill with the same `name` in your project (`.mimocode/skills/<name>/SKILL.md`) or personal skill directory (`~/.claude/skills/`, `~/.opencode/skills/`, etc.). User skills discovered later in the scan order override builtins with the same name.
-
-<details>
-<summary><strong>Disabling builtin skills via environment variables</strong></summary>
-
-| Variable | Effect |
-|----------|--------|
-| `MIMOCODE_DISABLE_BUILTIN_SKILLS=true` | Disable all builtin skills |
-| `MIMOCODE_DISABLE_OFFICIAL_SKILLS=true` | Disable only the office/media skills: `docx-official`, `pdf-official`, `pptx-official`, `xlsx-official`, `html-to-video-pipeline` |
-| `MIMOCODE_DISABLE_SLASH_SKILLS=true` | Hide skills from TUI `/` autocomplete without disabling them |
-
-The first two options remove the corresponding skills from the agent's available skill list entirely — they will not appear in context and cannot be invoked. `MIMOCODE_DISABLE_SLASH_SKILLS` affects only TUI autocomplete; the skills remain available to agents.
-
-</details>
-
-### Voice Input
-
-Real-time streaming voice input powered by TenVAD and MiMo ASR. Activate with `/voice`, then speak — audio is segmented by pauses and transcribed incrementally into the input. Available for MiMo logged-in users. Requires `sox` (`brew install sox` on macOS, other platforms similar).
-
-<details>
-<summary><strong>WSLg audio setup</strong></summary>
-
-```bash
-sudo apt install -y sox pulseaudio libasound2-plugins
-export PULSE_SERVER=unix:/mnt/wslg/PulseServer
-```
-</details>
-
-<details>
-<summary><strong>SSH remote audio (Mac → remote host)</strong></summary>
-
-```bash
-# Mac (local)
-brew install pulseaudio
-pulseaudio --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1" --exit-idle-time=-1 --daemonize
-# Add to ~/.ssh/config: RemoteForward 4713 127.0.0.1:4713
-
-# Remote host
-apt install -y pulseaudio pulseaudio-utils sox
-export PULSE_SERVER=tcp:127.0.0.1:4713
-# Verify: pactl info
-```
-</details>
-
-<details>
-<summary><strong>Non-MiMo voice providers (OpenRouter, internal API, etc.)</strong></summary>
-
-Voice input can route through other OpenAI-compatible providers via the `voice` config field. The ASR model (`mimo-v2.5-asr`) is only available on MiMo's platform; voice control mode (`mimo-v2.5`) is available on OpenRouter and compatible relay platforms.
-
-**OpenRouter (voice control only):**
-
-Use `/connect` to sign in to OpenRouter, then add to your config:
-```jsonc
-{
-  "voice": {
-    "control_model": "openrouter/xiaomi/mimo-v2.5"
-  }
-}
-```
-
-**Internal / self-hosted relay (both ASR and voice control):**
-```jsonc
-{
-  "provider": {
-    "internal": {
-      "options": {
-        "baseURL": "https://your-api-gateway.example.com/v1",
-        "apiKey": "sk-..."
-      },
-      "models": {
-        "xiaomi/mimo-v2.5-asr": { "name": "MiMo-V2.5-ASR" },
-        "xiaomi/mimo-v2.5": { "name": "MiMo-V2.5" }
-      }
-    }
-  },
-  "voice": {
-    "asr_model": "internal/xiaomi/mimo-v2.5-asr",
-    "control_model": "internal/xiaomi/mimo-v2.5"
-  }
-}
-```
-
-Custom providers must register at least one model in their `models` field to be recognized. The model names in `voice.*_model` are sent directly to the API — they don't need to match the registered model keys exactly.
-
-> **Note:** Models registered under a custom provider will appear in the model selection list. Don't use ASR-only models (e.g. `mimo-v2.5-asr`) as your primary coding model.
-
-</details>
-
-### Dream & Distill
-
-- **`/dream`** — scans recent session traces, extracts persistent knowledge into project memory, and removes outdated entries
-- **`/distill`** — discovers repeated manual workflows in recent work and packages high-confidence candidates into reusable skills, subagents, or commands
+Edite os workflows em `.mimocode/workflows/`:
+- `daily-hunt.js` - Pipeline diário de produção
 
 ---
 
-## Configuration
+## Roadmap de Adaptações
 
-MiMoCode uses JSON/JSONC config files with published JSON Schemas for autocompletion and validation.
+### Fase 1: Fundação (Atual)
+- [x] Estrutura de agentes (Scout, Writer, Editor)
+- [x] Templates Bronze/Silver/Gold
+- [x] Workflow diário (daily-hunt)
+- [x] Skill content-factory
 
-### File Locations
+### Fase 2: Integração com Scrapers
+- [ ] Integrar agentes de scraping existentes (1688, Alibaba, ML+Amazon)
+- [ ] Criar pipeline de dados Bronze → Silver
+- [ ] Implementar cache de dados para reduzir chamadas API
+- [ ] Adicionar monitoramento de preços em tempo real
 
-| File | Project-level | Global |
-|------|--------------|--------|
-| Main config | `.mimocode/mimocode.jsonc` (also `.json`) | `~/.config/mimocode/mimocode.jsonc` (also `.json`) |
-| TUI config | `.mimocode/tui.json` | `~/.config/mimocode/tui.json` |
-| Auth credentials | — | `~/.local/share/mimocode/auth.json` |
+### Fase 3: Publicação Automatizada
+- [ ] Integrar com WordPress/Next.js para publicação
+- [ ] Criar sistema de agendamento de publicações
+- [ ] Implementar A/B testing de títulos
+- [ ] Adicionar analytics e tracking de performance
 
-> On Windows, XDG paths fall under `%LOCALAPPDATA%\mimocode\`. You can override all paths with `MIMOCODE_HOME`.
+### Fase 4: Otimização Contínua
+- [ ] Criar agente de feedback (analisa performance)
+- [ ] Implementar learning loop (aprende com dados)
+- [ ] Adicionar suporte a múltiplos idiomas
+- [ ] Otimizar para Google Discover e News
 
-### JSON Schemas
+### Fase 5: Escala
+- [ ] Sistema de multiplicação de agentes
+- [ ] Infraestrutura de vetores para busca semântica
+- [ ] Dashboard de monitoramento
+- [ ] API para integração com outros sistemas
 
-MiMoCode auto-injects a `$schema` field when it first loads your config, so your editor gets completions and validation out of the box:
+---
 
-| Config | Schema URL |
-|--------|-----------|
-| `mimocode.jsonc` / `mimocode.json` | `https://mimo.xiaomi.com/mimocode/config.json` |
-| `tui.json` | `https://mimo.xiaomi.com/mimocode/tui.json` |
+## Como Outros Agentes Trabalham Neste Fork
 
-<details>
-<summary><strong>VS Code / Cursor: trust the schema domain</strong></summary>
+### Princípios
 
-Add to your `settings.json` so the editor can download schemas for autocompletion:
+1. **Agentes são independentes** - Cada agente tem seu escopo e não depende diretamente de outros
+2. **Comunicação via dados** - Agentes se comunicam através de JSON estruturado
+3. **Templates definem formato** - Todo conteúdo segue templates predefinidos
+4. **Anti-footprint é obrigatório** - Todo conteúdo passa pelo Editor antes de publicar
 
+### Fluxo de Trabalho
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│   SCOUT     │────▶│   WRITER    │────▶│   EDITOR    │
+│  (Busca)    │     │  (Escrita)  │     │  (Revisão)  │
+└─────────────┘     └─────────────┘     └─────────────┘
+       │                   │                   │
+       ▼                   ▼                   ▼
+  [Dados JSON]        [Artigo MD]        [Artigo Único]
+```
+
+### Integração com Agentes Existentes
+
+Os agentes de scraping existentes (1688, Alibaba, ML+Amazon) podem se integrar de duas formas:
+
+#### Opção 1: Via Scout Agent
+Os agentes de scraping alimentam o Scout com dados brutos:
+```
+Agente 1688 → Scout → Writer → Editor → Publicação
+```
+
+#### Opção 2: Via Pipeline Independente
+Os agentes de scraping publicam dados diretamente no content-db:
+```
+Agente 1688 → content-db/sources.json → Scout lê → Writer → Editor
+```
+
+### Adicionando Novos Agentes
+
+Para adicionar um novo agente:
+
+1. Crie o arquivo `.mimocode/agents/nome-agente.md`
+2. Defina seu escopo e formato de saída
+3. Integre ao workflow existente ou crie novo workflow
+4. Teste individualmente antes de integrar ao pipeline
+
+### Exemplo: Agente de Preços
+
+```markdown
+# Price Monitor Agent
+
+## Função
+Monitorar mudanças de preços em tempo real
+
+## Input
+- Lista de produtos para monitorar
+- Plataformas alvo
+
+## Output
 ```json
 {
-  "json.schemaDownload.trustedDomains": {
-    "https://mimo.xiaomi.com/": true
-  }
+  "product": "LED Strip",
+  "old_price": 12.50,
+  "new_price": 10.00,
+  "change_percent": -20,
+  "platform": "1688",
+  "detected_at": "2026-07-23T10:00:00Z"
 }
 ```
 
-</details>
-
-<details>
-<summary><strong>Data directories</strong></summary>
-
-Beyond config files, MiMoCode stores runtime data under XDG paths (or `$MIMOCODE_HOME`):
-
-| Directory | Default (Linux) | Contents |
-|-----------|----------------|----------|
-| data | `~/.local/share/mimocode/` | SQLite database, auth credentials (`auth.json`), memory, logs |
-| state | `~/.local/state/mimocode/` | TUI preferences (`kv.json`), recent models (`model.json`) |
-| cache | `~/.cache/mimocode/` | Language servers, cached model catalog, skills |
-
-To remove stored credentials, delete `auth.json` from the data directory. On macOS, XDG data defaults to `~/Library/Application Support/mimocode/`.
-
-</details>
-
-### Custom OpenAI-Compatible Endpoints
-
-If your provider is not in the built-in model catalog, configure it directly with its base URL, API key, and model ID:
-
-```jsonc
-{
-  "$schema": "https://mimo.xiaomi.com/mimocode/config.json",
-  "model": "custom/MODEL_NAME",
-  "provider": {
-    "custom": {
-      "name": "Custom",
-      "npm": "@ai-sdk/openai-compatible",
-      "only_configured_models": true,
-      "models": {
-        "MODEL_NAME": {
-          "name": "MODEL_NAME"
-        }
-      },
-      "options": {
-        "baseURL": "BASE_URL",
-        "apiKey": "API_KEY"
-      }
-    }
-  }
-}
-```
-
-- Use the exact keys `baseURL` and `apiKey`.
-- Preserve the base URL and model ID exactly as supplied. MiMoCode does not require a known provider and you should not add or remove `/v1` unless the endpoint requires it.
-- The key under `models` is the upstream model ID. Model IDs containing `/` are supported because only the first `/` in `model` separates the provider ID from the model ID.
-- Replace `custom` with another unused lowercase provider ID if needed, and use the same ID in the top-level `model` value.
-- `@ai-sdk/openai-compatible` is for OpenAI-compatible APIs. Services using a different wire protocol require their provider-specific adapter.
-
-Put user-wide settings in `~/.config/mimocode/mimocode.jsonc` (or `mimocode.json` in the same directory), or project-only settings in `.mimocode/mimocode.jsonc` (or `.json`), and merge them with any existing configuration. Because `apiKey` is stored as plaintext, keep the file readable only by your user and never commit it. Run `mimo models` or use the TUI model picker to verify the configured model.
-
-To declare which input modalities a custom model supports (image, audio, video, PDF), run `/modalities` in the TUI — a multi-select dialog that persists the setting to config without hand-editing.
-
-### Key Options
-
-- Provider and model selection
-- Agent permissions and custom agents
-- Checkpoint and memory behavior
-- MCP server connections
-- Keybindings and theme
-
-Max Mode (parallel best-of-N reasoning with judge selection) can be enabled via `experimental.maxMode` in the config.
-
-<details>
-<summary><strong>Allowing the system temp directory (<code>/tmp</code>)</strong></summary>
-
-By default, reading or writing files outside the project working directory triggers an
-`external_directory` permission prompt — including the system temp directory. This is
-intentional: MiMoCode does not silently widen permissions, so you stay in control of what
-the model can touch outside your project.
-
-The temp directory comes up often because most models reach for it as scratch space (e.g.
-a quick script, a throwaway data file). If you trust your environment and would rather not
-be prompted each time, you can opt in by allowing it in your config:
-
-```json title=".mimocode/mimocode.json"
-{
-  "$schema": "https://mimo.xiaomi.com/mimocode/config.json",
-  "permission": {
-    "external_directory": {
-      "/tmp/**": "allow"
-    }
-  }
-}
-```
-
-**This setting has known risks — use it at your own risk.** The temp directory is
-world-writable and shared with every other process and user on the machine. Auto-allowing
-it means the model can read and write there without confirmation, which widens your exposure
-to predictable temp-path / symlink tricks (e.g. another process pre-creating `/tmp/foo` as a
-symlink to a sensitive file). For that reason it is only recommended for single-user,
-controlled environments or inside a container. Keep the allowlist as narrow as possible.
-
-</details>
-
-<details>
-<summary><strong>Skipping permission prompts (<code>--dangerously-skip-permissions</code>)</strong></summary>
-
-For trusted, disposable environments (containers, sandboxes, CI) you can auto-approve
-everything the agent does instead of confirming each action:
-
-```bash
-# TUI — prompts once for an explicit confirmation on startup
-mimo --dangerously-skip-permissions
-
-# Headless
-mimo run --dangerously-skip-permissions "your prompt"
-
-# Or via environment variable (any surface)
-MIMOCODE_DANGEROUSLY_SKIP_PERMISSIONS=1 mimo
-```
-
-This injects an **allow-all base underneath your config**, so a tool with no rule
-auto-approves — but any explicit rule you wrote still wins (the last matching rule wins,
-and your rules sit after the injected `*`). A `deny` still blocks; note that a leftover
-`ask` rule also still prompts, and a top-level `"*": "ask"` makes the flag a no-op. In the
-TUI it shows a red warning and requires you to accept the risk before it takes effect (the
-prompt is skipped when there is no TTY, so in CI it activates with no confirmation).
-
-**This is dangerous.** With permissions bypassed, a malicious prompt, file, or plugin can
-run arbitrary shell commands and read, modify, or exfiltrate your data without any
-confirmation. Only use it where you fully trust the workspace.
-
-For a lighter-weight option, the `/skip-permissions` command toggles auto-allow at runtime
-inside the TUI: `deny` rules still block, and forced-ask operations (e.g. destructive bash)
-auto-reject after 60 seconds with feedback the model can act on instead of hanging.
-
-</details>
-
----
-
-## Development
-
-```bash
-bun ci                   # Install dependencies (= bun install --frozen-lockfile)
-bun run dev              # Run in development mode
-bun turbo typecheck      # Type check
+## Integração
+- Alimenta Writer com dados de preço atualizados
+- Dispara alertas quando mudança > 10%
 ```
 
 ---
 
-## Relationship to OpenCode
+## Estrutura de Diretórios
 
-MiMoCode is built as a fork of [OpenCode](https://github.com/anomalyco/opencode). It keeps all core OpenCode capabilities (multiple providers, TUI, LSP, MCP, plugins) and adds persistent memory, intelligent context management, subagent orchestration, goal-driven autonomous loops, compose workflows, and self-improvement via dream/distill.
+```
+mimo-content-agent/
+├── .mimocode/
+│   ├── agents/
+│   │   ├── scout.md
+│   │   ├── writer.md
+│   │   └── editor.md
+│   ├── workflows/
+│   │   └── daily-hunt.js
+│   └── skills/
+│       └── content-factory/
+│           └── SKILL.md
+├── content-db/
+│   ├── templates/
+│   │   ├── bronze.md
+│   │   ├── silver.md
+│   │   └── gold.md
+│   ├── articles/
+│   └── sources/
+├── packages/
+│   └── opencode/
+│       └── src/
+│           └── ...
+└── README.md
+```
 
----
+## Licença
 
-## Community
-
-Scan the QR code to join the community group chat:
-
-<p align="center">
-  <img src="assets/readme/community-qrcode-1.jpg" alt="Community group chat QR code 1" width="240">
-  &nbsp;&nbsp;
-  <img src="assets/readme/community-qrcode-2.jpg" alt="Community group chat QR code 2" width="240">
-</p>
-
----
-
-## License
-
-Source code is licensed under the [MIT License](./LICENSE).
-
-Use of MiMoCode is also subject to the [Use Restrictions](./USE_RESTRICTIONS.md).
-Use of Xiaomi MiMo-hosted services is subject to the [MiMo Terms of Service](https://platform.xiaomimimo.com/docs/terms/user-agreement).
-Use of the MiMo name, logo, and trademarks is subject to the MiMo Trademark Policy.
+Apache 2.0 (mesma licença do MiMo-Code original)
