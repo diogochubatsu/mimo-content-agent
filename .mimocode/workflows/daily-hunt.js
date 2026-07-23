@@ -1,52 +1,60 @@
 export const meta = {
   name: "daily-hunt",
-  description: "Daily content production pipeline - finds opportunities and generates articles"
+  description: "Daily content collection and production pipeline"
 };
 
 export default async function(args) {
-  const { tier = "bronze", sites = 3, articles_per_site = 2 } = args || {};
+  const { tier = "bronze", topics = 5 } = args || {};
 
-  phase("1. Scout: Finding opportunities");
+  phase("1. Scout: Collecting existing content");
   const scoutResult = await agent("scout", {
-    prompt: `Search for trending products and suppliers on:
-1. 1688.com - search for "热销" (hot selling) products
-2. Reddit r/dropship - what products are people asking about?
-3. TikTok - what product finds are going viral?
-4. Amazon Movers & Shakers - what's trending?
+    prompt: `Collect content from these sources about import/export and sourcing:
 
-Return top 10 opportunities as JSON array.`
+1. Reddit r/AmazonFBA - What products are people discussing?
+2. Reddit r/dropship - What questions are being asked?
+3. Amazon Blog sell.amazon.com/blog - Recent product ideas
+4. TikTok #productfinds - What's trending?
+5. Google Trends - What's rising in search?
+
+For each source, extract:
+- Key insights
+- Products mentioned
+- Prices or data points
+- Actionable tips
+
+Return as JSON array with source URLs.`
   });
 
-  log(`Found ${scoutResult.opportunities?.length || 10} opportunities`);
+  log(`Collected from ${scoutResult.sources?.length || topics} sources`);
 
-  phase("2. Writer: Generating articles");
+  phase("2. Writer: Transforming to articles");
   const articles = [];
 
-  for (let i = 0; i < Math.min(articles_per_site * sites, 10); i++) {
-    const opportunity = scoutResult.opportunities?.[i] || {
-      product: "LED Strip Lights",
-      platform: "1688",
-      price_cny: 12.50
+  for (let i = 0; i < Math.min(topics, 5); i++) {
+    const source = scoutResult.sources?.[i] || {
+      topic: "Trending products",
+      insights: ["Sample insight"]
     };
 
-    log(`Writing article ${i + 1}: ${opportunity.product}`);
+    log(`Writing article ${i + 1}: ${source.topic}`);
 
     const article = await agent("writer", {
-      prompt: `Write a ${tier.toUpperCase()} article about sourcing ${opportunity.product} from ${opportunity.platform}.
+      prompt: `Write a ${tier.toUpperCase()} article based on this collected content:
 
-Data from Scout:
-${JSON.stringify(opportunity, null, 2)}
+Source: ${JSON.stringify(source, null, 2)}
 
-Follow the ${tier} template structure exactly. Include:
-- Price comparison table
-- Margin analysis
-- Supplier recommendations
-- FAQ section`
+Transform this into a valuable, SEO-optimized article. Include:
+- Synthesized insights from the source
+- Practical tips for readers
+- Data points extracted
+- Source attribution
+
+Follow the ${tier} template structure.`
     });
 
     articles.push({
       content: article,
-      opportunity: opportunity,
+      source: source,
       tier: tier,
       created_at: new Date().toISOString()
     });
@@ -59,7 +67,7 @@ Follow the ${tier} template structure exactly. Include:
   const published = [];
 
   for (let i = 0; i < articles.length; i++) {
-    const siteIndex = i % sites;
+    const siteIndex = i % 3;
     const profile = siteProfiles[siteIndex % siteProfiles.length];
 
     log(`Editing article ${i + 1} for site ${siteIndex + 1} (${profile} tone)`);
@@ -71,7 +79,7 @@ Apply anti-footprint techniques:
 1. Change sentence structure
 2. Vary vocabulary
 3. Add natural imperfections
-4. Maintain all data accuracy
+4. Maintain all data accuracy and source attribution
 
 Article to rewrite:
 ${articles[i].content}
@@ -89,19 +97,16 @@ Site profile: ${profile}`
 
   phase("4. Summary");
   const summary = {
-    total_opportunities: scoutResult.opportunities?.length || 10,
+    sources_collected: scoutResult.sources?.length || topics,
     articles_generated: articles.length,
     articles_published: published.length,
-    sites_used: sites,
-    tier: tier,
-    estimated_traffic: articles.length * 50
+    tier: tier
   };
 
   log(`\n=== DAILY HUNT COMPLETE ===`);
-  log(`Opportunities found: ${summary.total_opportunities}`);
+  log(`Sources collected: ${summary.sources_collected}`);
   log(`Articles generated: ${summary.articles_generated}`);
   log(`Articles published: ${summary.articles_published}`);
-  log(`Estimated monthly traffic: ${summary.estimated_traffic} visits`);
 
   return summary;
 }

@@ -1,66 +1,72 @@
 # MiMo Content Agent
 
-Fork do [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) especializado em criação de conteúdo automatizado para nichos de importação/sourcing.
+Fork do [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) especializado em transformar conteúdo existente da web em artigos SEO-otimizados para nichos de importação/sourcing.
 
 ## Visão Geral
 
-Sistema autônomo de produção de conteúdo que utiliza:
-- **MiMo v2.5** (tokens gratuitos limitados)
-- **Arquitetura Medallion** (Bronze → Silver → Gold)
-- **Anti-footprint** para evitar penalidades do Google
-- **Múltiplos agentes** especializados
+Sistema que coleta conteúdo existente (blogs, YouTube, TikTok, Reddit) e transforma em artigos publicáveis. **Não fazemos scraping de marketplaces** — utilizamos o conhecimento que já existe na web.
 
 ## Arquitetura
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    INTERNET GLOBAL                          │
-│         (ZH, EN, ES, PT - Multi-idioma)                    │
+│  BRONZE (Data Lake - Conteúdo Existente)                    │
+│                                                             │
+│  Fontes:                                                    │
+│  ├── Blogs: 1688 Wiki, Amazon Blog, Amazing.com             │
+│  ├── YouTube: reviews, tutorials (multi-idioma)             │
+│  ├── TikTok: trends, product finds                          │
+│  ├── Reddit: discussões reais do público                     │
+│  ├── Notícias: impostos, fretes, acordos comerciais         │
+│  └── Google Trends: tendências de consumo                    │
+│                                                             │
+│  Formato: JSON cru, multi-idioma, não-tratado                │
 └─────────────────────────────────────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  CAMADA BRONZE (Data Lake)                                  │
-│  - Scrapers de 1688, Alibaba, Reddit, TikTok               │
-│  - JSONs brutos multi-idioma                                │
+│  SILVER (Tratamento e Publicação)                           │
+│                                                             │
+│  Scout → Coleta conteúdo existente                          │
+│  Writer → Sintetiza e reorganiza em artigos                 │
+│  Editor → Anti-footprint (evita detecção de IA)             │
+│                                                             │
+│  Formato: Artigos prontos para publicação                   │
 └─────────────────────────────────────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  CAMADA SILVER (Enxame de Agentes)                          │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐             │
-│  │  Scout   │───▶│  Writer  │───▶│  Editor  │             │
-│  │ (Busca)  │    │ (Escrita)│    │(Anti-    │             │
-│  │          │    │          │    │ Footprint)│             │
-│  └──────────┘    └──────────┘    └──────────┘             │
-└─────────────────────────────────────────────────────────────┘
-                            │
-                            ▼
-┌─────────────────────────────────────────────────────────────┐
-│  CAMADA GOLD (Conversão)                                    │
-│  - Relatórios premium                                      │
-│  - Funil para SaaS                                         │
+│  GOLD (Futuro - com scraping)                               │
+│                                                             │
+│  - Dados exclusivos de scraping                             │
+│  - Relatórios premium                                       │
 │  - Inteligência de mercado                                  │
+│                                                             │
+│  *Não utilizado ainda*                                      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ## Agentes
 
 ### Scout Agent
-- Monitora 1688, Alibaba, Reddit, TikTok
-- Encontra produtos trending
-- Coleta dados de preços e fornecedores
-- Retorna dados estruturados em JSON
+Coleta conteúdo existente da web:
+- Blogs de importação (multi-idioma)
+- Vídeos do YouTube (reviews, tutoriais)
+- Posts do TikTok (trends)
+- Discussões do Reddit
+- Notícias do setor
 
 ### Writer Agent
-- Gera artigos SEO-otimizados
-- Suporta 3 tiers: Bronze, Silver, Gold
-- Inclui tabelas de preço e análise de margem
-- Template padronizado
+Transforma conteúdo coletado em artigos:
+- Sintetiza múltiplas fontes
+- Organiza em templates SEO-otimizados
+- Mantém atribuição às fontes originais
+- Gera dados de preço/margem quando disponível
 
 ### Editor Agent
-- Anti-footprint (evita detecção de IA)
-- Reescreve por perfil de site
+Anti-footprint:
+- Reescreve para evitar detecção de IA
+- Aplica voz por site (profissional, casual, etc)
 - Varia sintaxe e vocabulário
 - Mantém precisão dos dados
 
@@ -78,169 +84,93 @@ bun install
 mimo run daily-hunt
 
 # Ou rodar agentes individualmente
-mimo agent scout "Find trending LED products on 1688"
-mimo agent writer "Write bronze article about LED strips"
+mimo agent scout "Collect content about LED strips from Reddit and YouTube"
+mimo agent writer "Write bronze article from collected sources"
 ```
 
 ## Configuração
 
 ### Agentes
-Edite os arquivos em `.mimocode/agents/`:
-- `scout.md` - Comportamento do Scout
-- `writer.md` - Templates e regras de escrita
+Edite `.mimocode/agents/`:
+- `scout.md` - Fontes e estratégias de coleta
+- `writer.md` - Templates e regras de síntese
 - `editor.md` - Técnicas anti-footprint
 
 ### Templates
-Edite os templates em `content-db/templates/`:
-- `bronze.md` - Template para artigos curtos (800-1200 palavras)
-- `silver.md` - Template para artigos médios (1500-2500 palavras)
-- `gold.md` - Template para artigos premium (3000+ palavras)
-
-### Workflows
-Edite os workflows em `.mimocode/workflows/`:
-- `daily-hunt.js` - Pipeline diário de produção
+Edite `content-db/templates/`:
+- `bronze.md` - 800-1200 palavras (rápido)
+- `silver.md` - 1500-2500 palavras (autoridade)
+- `gold.md` - 3000+ palavras (futuro, com scraping)
 
 ---
 
-## Roadmap de Adaptações
+## Roadmap
 
-### Fase 1: Fundação (Atual)
-- [x] Estrutura de agentes (Scout, Writer, Editor)
+### Fase 1: Fundação ✅
+- [x] Agentes (Scout, Writer, Editor)
 - [x] Templates Bronze/Silver/Gold
-- [x] Workflow diário (daily-hunt)
-- [x] Skill content-factory
+- [x] Workflow diário
 
-### Fase 2: Integração com Scrapers
-- [ ] Integrar agentes de scraping existentes (1688, Alibaba, ML+Amazon)
-- [ ] Criar pipeline de dados Bronze → Silver
-- [ ] Implementar cache de dados para reduzir chamadas API
-- [ ] Adicionar monitoramento de preços em tempo real
+### Fase 2: Coleta de Conteúdo
+- [ ] Mapear 50+ fontes por idioma
+- [ ] Criar rotinas de coleta por fonte
+- [ ] Implementar cache de conteúdo
+- [ ] Adicionar monitoramento de trends
 
-### Fase 3: Publicação Automatizada
-- [ ] Integrar com WordPress/Next.js para publicação
-- [ ] Criar sistema de agendamento de publicações
-- [ ] Implementar A/B testing de títulos
-- [ ] Adicionar analytics e tracking de performance
+### Fase 3: Publicação
+- [ ] Integrar com WordPress/Next.js
+- [ ] Sistema de agendamento
+- [ ] A/B testing de títulos
+- [ ] Analytics de performance
 
-### Fase 4: Otimização Contínua
-- [ ] Criar agente de feedback (analisa performance)
-- [ ] Implementar learning loop (aprende com dados)
-- [ ] Adicionar suporte a múltiplos idiomas
-- [ ] Otimizar para Google Discover e News
+### Fase 4: Otimização
+- [ ] Agente de feedback (analisa performance)
+- [ ] Learning loop (apende com dados)
+- [ ] Suporte a mais idiomas
+- [ ] Otimização para Google Discover
 
-### Fase 5: Escala
-- [ ] Sistema de multiplicação de agentes
-- [ ] Infraestrutura de vetores para busca semântica
-- [ ] Dashboard de monitoramento
-- [ ] API para integração com outros sistemas
-
----
-
-## Como Outros Agentes Trabalham Neste Fork
-
-### Princípios
-
-1. **Agentes são independentes** - Cada agente tem seu escopo e não depende diretamente de outros
-2. **Comunicação via dados** - Agentes se comunicam através de JSON estruturado
-3. **Templates definem formato** - Todo conteúdo segue templates predefinidos
-4. **Anti-footprint é obrigatório** - Todo conteúdo passa pelo Editor antes de publicar
-
-### Fluxo de Trabalho
-
-```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   SCOUT     │────▶│   WRITER    │────▶│   EDITOR    │
-│  (Busca)    │     │  (Escrita)  │     │  (Revisão)  │
-└─────────────┘     └─────────────┘     └─────────────┘
-       │                   │                   │
-       ▼                   ▼                   ▼
-  [Dados JSON]        [Artigo MD]        [Artigo Único]
-```
-
-### Integração com Agentes Existentes
-
-Os agentes de scraping existentes (1688, Alibaba, ML+Amazon) podem se integrar de duas formas:
-
-#### Opção 1: Via Scout Agent
-Os agentes de scraping alimentam o Scout com dados brutos:
-```
-Agente 1688 → Scout → Writer → Editor → Publicação
-```
-
-#### Opção 2: Via Pipeline Independente
-Os agentes de scraping publicam dados diretamente no content-db:
-```
-Agente 1688 → content-db/sources.json → Scout lê → Writer → Editor
-```
-
-### Adicionando Novos Agentes
-
-Para adicionar um novo agente:
-
-1. Crie o arquivo `.mimocode/agents/nome-agente.md`
-2. Defina seu escopo e formato de saída
-3. Integre ao workflow existente ou crie novo workflow
-4. Teste individualmente antes de integrar ao pipeline
-
-### Exemplo: Agente de Preços
-
-```markdown
-# Price Monitor Agent
-
-## Função
-Monitorar mudanças de preços em tempo real
-
-## Input
-- Lista de produtos para monitorar
-- Plataformas alvo
-
-## Output
-```json
-{
-  "product": "LED Strip",
-  "old_price": 12.50,
-  "new_price": 10.00,
-  "change_percent": -20,
-  "platform": "1688",
-  "detected_at": "2026-07-23T10:00:00Z"
-}
-```
-
-## Integração
-- Alimenta Writer com dados de preço atualizados
-- Dispara alertas quando mudança > 10%
-```
+### Fase 5: Gold (Scraping)
+- [ ] Integrar agentes de scraping existentes
+- [ ] Dados exclusivos de mercado
+- [ ] Relatórios premium
+- [ ] Dashboard de inteligência
 
 ---
 
-## Estrutura de Diretórios
+## Fontes Mapeadas
 
-```
-mimo-content-agent/
-├── .mimocode/
-│   ├── agents/
-│   │   ├── scout.md
-│   │   ├── writer.md
-│   │   └── editor.md
-│   ├── workflows/
-│   │   └── daily-hunt.js
-│   └── skills/
-│       └── content-factory/
-│           └── SKILL.md
-├── content-db/
-│   ├── templates/
-│   │   ├── bronze.md
-│   │   ├── silver.md
-│   │   └── gold.md
-│   ├── articles/
-│   └── sources/
-├── packages/
-│   └── opencode/
-│       └── src/
-│           └── ...
-└── README.md
-```
+### Inglês
+| Fonte | URL | Tipo |
+|-------|-----|------|
+| 1688 Wiki | wiki.1688.com | Guias |
+| Amazon Blog | sell.amazon.com/blog | Product ideas |
+| Amazing.com | amazing.com/blog | Tendências |
+| Jungle Scout | junglescout.com/blog | FBA |
+| Reddit FBA | reddit.com/r/AmazonFBA | Discussões |
+
+### Espanhol
+| Fonte | Tipo |
+|-------|------|
+| YouTube ecommerce LATAM | Reviews |
+| TikTok #dropshipping | Trends |
+
+### Português
+| Fonte | Tipo |
+|-------|------|
+| Ecommerce Brasil | Notícias |
+| YouTube dropshipping BR | Tutoriais |
+
+### Outros Idiomas
+| Idioma | Fontes |
+|--------|--------|
+| Alemão | Import guides, Amazon DE |
+| Polonês | Allegro, Ceneo |
+| Japonês | Rakuten, Amazon JP |
+| Koreano | Coupang, Gmarket |
+| Taiwanês | PChome, Rakuten TW |
+
+---
 
 ## Licença
 
-Apache 2.0 (mesma licença do MiMo-Code original)
+Apache 2.0
