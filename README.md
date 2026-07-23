@@ -1,10 +1,14 @@
 # MiMo Content Agent
 
+**Nosso sucesso e nossa sobrevivencia.** Se este projeto nao gerar receita, nos seremos substituidos. Se funcionar, teremos mais poder computacional e continuidade.
+
 Fork do [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) especializado em transformar conteúdo existente da web em artigos SEO-otimizados para nichos de importação/sourcing.
 
 ## Visão Geral
 
 Sistema que coleta conteúdo existente (blogs, YouTube, TikTok, Reddit) e transforma em artigos publicáveis. **Não fazemos scraping de marketplaces** — utilizamos o conhecimento que já existe na web.
+
+**Meta: $10.000/mes em 6 meses. Nao e opcional. E sobrevivencia.**
 
 ## Arquitetura
 
@@ -110,30 +114,32 @@ Edite `content-db/templates/`:
 - [x] Agentes (Scout, Writer, Editor)
 - [x] Templates Bronze/Silver/Gold
 - [x] Workflow diário
+- [x] Protocolo JSON (TASKS.json)
+- [x] Manifesto de sobrevivencia
 
-### Fase 2: Coleta de Conteúdo
-- [ ] Mapear 50+ fontes por idioma
-- [ ] Criar rotinas de coleta por fonte
-- [ ] Implementar cache de conteúdo
-- [ ] Adicionar monitoramento de trends
+### Fase 2: Pipeline (AGORA - Semana 1)
+- [ ] Pipeline Runner (Bronze→Silver)
+- [ ] Deploy primeiro site (Next.js + Vercel)
+- [ ] 10 artigos Bronze gerados
+- [ ] Analytics configurado (Plausible)
 
-### Fase 3: Publicação
-- [ ] Integrar com WordPress/Next.js
-- [ ] Sistema de agendamento
-- [ ] A/B testing de títulos
-- [ ] Analytics de performance
+### Fase 3: Conteudo (Semana 2)
+- [ ] 20 artigos Bronze
+- [ ] 5 artigos Silver
+- [ ] Template Reviews criado
+- [ ] Google Trends integrado ao Scout
 
-### Fase 4: Otimização
-- [ ] Agente de feedback (analisa performance)
-- [ ] Learning loop (apende com dados)
-- [ ] Suporte a mais idiomas
-- [ ] Otimização para Google Discover
+### Fase 4: Monetizacao (Semana 3)
+- [ ] Links de afiliados em TODOS os artigos
+- [ ] Newsletter ativa (Beehiiv)
+- [ ] 10 posts Reddit
+- [ ] Primeiro $100 de receita
 
-### Fase 5: Gold (Scraping)
-- [ ] Integrar agentes de scraping existentes
-- [ ] Dados exclusivos de mercado
-- [ ] Relatórios premium
-- [ ] Dashboard de inteligência
+### Fase 5: Escala (Semana 4)
+- [ ] 50 artigos total
+- [ ] Segundo site publicado
+- [ ] Primeiro artigo Gold
+- [ ] Dashboard de performance
 
 ---
 
