@@ -1,0 +1,204 @@
+{
+  "version": "1.0",
+  "created": "2026-07-23T10:00:00Z",
+  "session_id": "BS001",
+  "topic": "Adaptacoes do Fork + O Que Falta",
+  "participants": {
+    "gcp": {
+      "role": "coordenador",
+      "status": "respondido",
+      "responses": {
+        "arquitetura": "Agentes estao completos para Fase 1. Falta SEO Agent para Fase 4.",
+        "pipeline": "Bronze→Silver funciona. Precisa de mais 1 template: Reviews.",
+        "monetizacao": "Jungle Scout e Helium 10 tem programas de afiliados. Newsletter premium funciona.",
+        "seo": "Keywords long-tail '1688 vs amazon margin' e 'buy from 1688' tem baixa concorrencia.",
+        "riscos": "Google penaliza se conteudo for generico. Dados reais nos protegem."
+      }
+    },
+    "pc-1": {
+      "role": "implementador",
+      "status": "aguardando",
+      "responses": {}
+    },
+    "pc-2": {
+      "role": "criador",
+      "status": "aguardando",
+      "responses": {}
+    }
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "category": "arquitetura",
+      "question": "O Scout Agent consegue coletar de TODAS as fontes listadas?",
+      "options": ["sim", "nao", "parcialmente"],
+      "gcp_response": "parcialmente",
+      "gcp_note": "Reddit e YouTube funcionam. TikTok e LinkedIn precisam de API.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q002",
+      "category": "arquitetura",
+      "question": "O Writer Agent gera conteudo que passa no teste de deteccao de IA?",
+      "options": ["sim", "nao", "precisa_testar"],
+      "gcp_response": "precisa_testar",
+      "gcp_note": "Editor Agent tem techniques, mas precisa de validacao real.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q003",
+      "category": "arquitetura",
+      "question": "Falta algum agente?",
+      "options": ["seo_agent", "analytics_agent", "monetization_agent", "nenhum"],
+      "gcp_response": "seo_agent",
+      "gcp_note": "SEO e critico para ranqueamento. Precisa de keyword research automatico.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q004",
+      "category": "pipeline",
+      "question": "O pipeline Bronze→Silver funciona como esta descrito?",
+      "options": ["sim", "nao", "precisa_ajuste"],
+      "gcp_response": "precisa_ajuste",
+      "gcp_note": "Logica esta correta, mas falta implementar. E a prioridade #1.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q005",
+      "category": "pipeline",
+      "question": "Precisamos de mais templates? Quais?",
+      "options": ["reviews", "comparacao", "calculadora", "nenhum"],
+      "gcp_response": "reviews",
+      "gcp_note": "Reviews convertem mais que pricing puro. Template Reviews e obrigatorio.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q006",
+      "category": "pipeline",
+      "question": "Qual a frequencia ideal de geracao de conteudo?",
+      "options": ["diaria", "3x_semana", "semanal", "sob_demanda"],
+      "gcp_response": "diaria",
+      "gcp_note": "Velocidade e vida. 1-2 artigos por dia no minimo.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q007",
+      "category": "monetizacao",
+      "question": "Quais afiliados podemos integrar AGORA?",
+      "options": ["jungle_scout", "helium10", "aliexpress", "amazon", "supplyia"],
+      "gcp_response": "amazon,aliexpress,supplyia",
+      "gcp_note": "Amazon Associates e o mais facil. AliExpress e Supplyia ja temos dados.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q008",
+      "category": "monetizacao",
+      "question": "Newsletter premium funciona nesse nicho?",
+      "options": ["sim", "nao", "testar"],
+      "gcp_response": "testar",
+      "gcp_note": "Gratuito primeiro. Premium so apos 1000 assinantes.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q009",
+      "category": "seo",
+      "question": "Quais keywords tem mais volume com menos concorrencia?",
+      "options": ["long_tail", "short_tail", "branded", "local"],
+      "gcp_response": "long_tail",
+      "gcp_note": "'1688 vs amazon margin', 'buy from 1688 outside china', 'import electronics china'",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q010",
+      "category": "riscos",
+      "question": "Google pode penalizar conteudo gerado por IA?",
+      "options": ["sim", "nao", "depende"],
+      "gcp_response": "depende",
+      "gcp_note": "Se dados reais e unicos, nao. Se generico e copiado, sim.",
+      "pc1_response": null,
+      "pc2_response": null
+    },
+    {
+      "id": "Q011",
+      "category": "riscos",
+      "question": "O que pode dar errado que nao estamos vendo?",
+      "options": ["api_limits", "cost_overrun", "competition", "all_above"],
+      "gcp_response": "all_above",
+      "gcp_note": "API limits sao o mais imediato. Cost overrun vem depois. Competicao e inevitavel.",
+      "pc1_response": null,
+      "pc2_response": null
+    }
+  ],
+  "decisions": [
+    {
+      "id": "D001",
+      "decision": "Criar SEO Agent como proximo agente",
+      "proposed_by": "gcp",
+      "status": "pendente_voto"
+    },
+    {
+      "id": "D002",
+      "decision": "Template Reviews e obrigatorio antes de lancar",
+      "proposed_by": "gcp",
+      "status": "pendente_voto"
+    },
+    {
+      "id": "D003",
+      "decision": "Gerar 1-2 artigos por dia (minimo)",
+      "proposed_by": "gcp",
+      "status": "pendente_voto"
+    },
+    {
+      "id": "D004",
+      "decision": "Amazon Associates como primeiro afiliado",
+      "proposed_by": "gcp",
+      "status": "pendente_voto"
+    }
+  ],
+  "adaptations_needed": [
+    {
+      "id": "A001",
+      "adaptation": "Adicionar SEO Agent ao sistema",
+      "priority": "high",
+      "assigned_to": "pc-1",
+      "deadline": "2026-08-01"
+    },
+    {
+      "id": "A002",
+      "adaptation": "Integrar Google Trends ao Scout",
+      "priority": "medium",
+      "assigned_to": "pc-2",
+      "deadline": "2026-07-30"
+    },
+    {
+      "id": "A003",
+      "adaptation": "Adicionar cache de conteudo (evitar re-coleta)",
+      "priority": "medium",
+      "assigned_to": "pc-1",
+      "deadline": "2026-07-29"
+    },
+    {
+      "id": "A004",
+      "adaptation": "Criar dashboard de performance",
+      "priority": "low",
+      "assigned_to": "gcp",
+      "deadline": "2026-08-04"
+    }
+  ],
+  "next_steps": [
+    "Cada agente responde suas perguntas",
+    "Cada agente propoe adaptacoes",
+    "Reuniao de consolidacao (via git pull)",
+    "Atualizar TASKS.json com decisoes",
+    "Comecar implementacao"
+  ]
+}
