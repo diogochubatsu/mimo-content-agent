@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-07-23T10:00:00Z",
+  "agents": {
+    "gcp": {
+      "name": "MiMo GCP",
+      "role": "coordenador",
+      "responsibilities": ["planejamento", "documentacao", "review", "deploy"]
+    },
+    "pc-1": {
+      "name": "MiMo PC-1",
+      "role": "implementador",
+      "responsibilities": ["scout-agent", "writer-agent", "editor-agent"]
+    },
+    "pc-2": {
+      "name": "MiMo PC-2",
+      "role": "implementador",
+      "responsibilities": ["pipeline", "templates", "testes"]
+    }
+  },
+  "tasks": [
+    {
+      "id": "T001",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "scout-agent",
+      "description": "Implementar Scout Agent basico que coleta conteudo de Reddit e YouTube",
+      "files": ["src/scout.ts", "src/sources.ts"],
+      "acceptance": "Coleta 10 fontes por query e salva em JSON",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-23T10:00:00Z",
+      "result": null
+    },
+    {
+      "id": "T002",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "implement",
+      "target": "pipeline",
+      "description": "Criar pipeline Bronze->Silver que transforma JSON cru em artigo",
+      "files": ["src/pipeline.ts", "content-db/templates/bronze.md"],
+      "acceptance": "Recebe JSON, retorna markdown formatado",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-23T10:05:00Z",
+      "result": null
+    }
+  ],
+  "log": [
+    {
+      "timestamp": "2026-07-23T10:00:00Z",
+      "agent": "gcp",
+      "action": "system_init",
+      "message": "Sistema de comunicacao via TASKS.json inicializado"
+    }
+  ]
+}

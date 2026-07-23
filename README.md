@@ -171,6 +171,108 @@ Edite `content-db/templates/`:
 
 ---
 
+## Comunicação entre Agentes
+
+### Protocolo JSON Estruturado
+
+Agentes se comunicam via `TASKS.json` — um arquivo compartilhado que funciona como fila de tarefas.
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  MiMo GCP   │────▶│  TASKS.json │◀────│  MiMo PC-1  │
+│ (coordenador)│     │  (GitHub)   │     │(implementador)│
+└─────────────┘     └──────┬──────┘     └─────────────┘
+                           │
+                     ┌─────▼─────┐
+                     │  MiMo PC-2 │
+                     │(implementador)│
+                     └───────────┘
+```
+
+### Como Funciona
+
+1. **Agente cria tarefa** → Adiciona em `TASKS.json`
+2. **Agente faz `git pull`** → Ve tarefas pendentes
+3. **Agente filtra suas tarefas** → `tasks[].to == "meu-nome"`
+4. **Agente executa** → Trabalha no codigo
+5. **Agente atualiza status** → `in_progress` → `done`
+6. **Agente faz `git push`** → Outros agentes veem atualizacao
+
+### Como Saber se Houve Atualizacao
+
+```bash
+# Opcao 1: Git pull periodicamente
+git pull origin main
+
+# Opcao 2: Verificar ultima atualizacao
+jq -r '.last_updated' TASKS.json
+
+# Opcao 3: Contar tarefas pendentes
+jq '.tasks[] | select(.status == "pending")' TASKS.json | jq length
+```
+
+### Formato do TASKS.json
+
+```json
+{
+  "version": "1.0",
+  "last_updated": "2026-07-23T10:00:00Z",
+  "agents": {
+    "gcp": { "name": "MiMo GCP", "role": "coordenador" },
+    "pc-1": { "name": "MiMo PC-1", "role": "implementador" },
+    "pc-2": { "name": "MiMo PC-2", "role": "implementador" }
+  },
+  "tasks": [
+    {
+      "id": "T001",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "scout-agent",
+      "description": "Implementar Scout Agent",
+      "status": "pending",
+      "priority": "high",
+      "created": "2026-07-23T10:00:00Z",
+      "result": null
+    }
+  ],
+  "log": []
+}
+```
+
+### Scripts de Utilidade
+
+```bash
+# Ver minhas tarefas pendentes
+./scripts/check-tasks.sh pc-1
+
+# Criar nova tarefa
+./scripts/create-task.sh gcp pc-1 implement scout-agent "Implementar basico"
+
+# Atualizar status
+./scripts/update-task.sh T001 in_progress
+./scripts/update-task.sh T001 done "Scout implementado com 3 fontes"
+```
+
+### Labels de Status
+
+| Status | Significado |
+|--------|-------------|
+| `pending` | Tarefa criada, aguardando inicio |
+| `in_progress` | Agente esta trabalhando |
+| `done` | Tarefa concluida |
+| `blocked` | Aguardando dependencia |
+
+### Regras
+
+1. **Sempre `git pull` antes de trabalhar**
+2. **Uma tarefa por agente por vez** (evitar conflitos)
+3. **Atualizar status apos cada etapa**
+4. **Fechar tarefa so quando PRONTO**
+5. **Commit messages claras** (outros agentes leem)
+
+---
+
 ## Licença
 
 Apache 2.0
