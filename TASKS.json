@@ -1762,9 +1762,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T03:02:37Z",
-      "result": null
+      "result": "Script validate-sources.js criado. Verifica campos obrigat\u00f3rios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
     },
     {
       "id": "T113",
