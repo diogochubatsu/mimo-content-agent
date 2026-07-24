@@ -6,8 +6,8 @@
     "language": "ja",
     "key_takeaways": [
       "Starting capital as low as 50,000 JPY to begin China sourcing",
-      "Roadmap from beginner to 1 million JPY monthly income",
-      "Step-by-step guide for 2026 market conditions"
+      "Step-by-step roadmap from beginner to 1 million JPY monthly income",
+      "Covers product selection, supplier negotiation, and shipping basics for 2026"
     ],
     "category": "china_sourcing_tutorial"
   },
@@ -18,10 +18,22 @@
     "language": "ja",
     "key_takeaways": [
       "How to start Amazon private label selling with Chinese OEM products",
-      "Complete guide for sourcing from China for Amazon FBA in 2026",
-      "OEM/white-label strategies for Japanese Amazon sellers"
+      "Complete workflow: product research → China sourcing → Amazon FBA listing",
+      "2026-specific strategies for Japanese Amazon marketplace"
     ],
     "category": "amazon_oem_sourcing"
+  },
+  {
+    "title": "【1688仕入れ】日本企業のための1688活用術：中国仕入れの進め方｜1688で工場直仕入れを始める手順・使い方・注意点をアリババ担当者が解説",
+    "channel": "1688Japan",
+    "url": "https://www.youtube.com/watch?v=HY84YOnhrfw",
+    "language": "ja",
+    "key_takeaways": [
+      "Official Alibaba guide for Japanese businesses on 1688 platform",
+      "Step-by-step factory-direct sourcing workflow",
+      "Key precautions and tips from Alibaba's own representative"
+    ],
+    "category": "alibaba_1688_sourcing"
   },
   {
     "title": "中国輸入で月に10万円を最短で稼ぐ方法【Shopify初心者】",
@@ -29,34 +41,22 @@
     "url": "https://www.youtube.com/watch?v=Iubo3klXnVk",
     "language": "ja",
     "key_takeaways": [
-      "Fastest way to earn 100,000 JPY/month with Chinese imports on Shopify",
-      "Beginner-friendly Shopify + China sourcing strategy",
-      "Practical tips for setting up a dropship or import store"
+      "Fastest path to 100,000 JPY/month with Chinese imports on Shopify",
+      "Beginner-friendly Shopify + China sourcing setup guide",
+      "Product selection and supplier strategy for Shopify dropshipping"
     ],
     "category": "shopify_dropshipping"
   },
   {
-    "title": "【ライブ】無在庫転売NG...のネット物販講師が「唯一考えうる無在庫転売」とは？ドロップシッピングとの違いは？【中国輸入＆米国アマゾン物販】",
-    "channel": "海外物販講師の呟き【日米アマゾンで売る】SBC現代シルクロードビジネス",
-    "url": "https://www.youtube.com/watch?v=qQFkOHnJa0o",
+    "title": "【中国輸入】アリババ(1688)で失敗しないための仕入れ方法最新版！実際の画面で解説！",
+    "channel": "物販NAVI",
+    "url": "https://www.youtube.com/watch?v=mZ3436h1Nnc",
     "language": "ja",
     "key_takeaways": [
-      "Distinction between traditional no-inventory resale and dropshipping",
-      "China sourcing for US Amazon FBM from Japan",
-      "The 'only viable' no-inventory model from an experienced seller"
+      "Common mistakes to avoid when sourcing from Alibaba/1688",
+      "Live screen walkthrough of the actual ordering process",
+      "Updated methods for vetting suppliers and placing orders in 2026"
     ],
-    "category": "dropshipping_inventory_models"
-  },
-  {
-    "title": "新手從0阿里巴巴批貨的超級懶人包！1688批貨實操教學一次就上手｜10分鐘快速學會1688批貨、付款、集運，讓你快速開啟蝦皮網拍、蝦皮電商來賺錢，增加被動式收入",
-    "channel": "網拍潑廢舌_雞哥",
-    "url": "https://www.youtube.com/watch?v=f-grs7ZD4fc",
-    "language": "ja",
-    "key_takeaways": [
-      "Step-by-step Alibaba/1688 sourcing guide for beginners",
-      "How to handle payment, consolidation shipping from China",
-      "Practical workflow for e-commerce sellers sourcing from Alibaba"
-    ],
-    "category": "alibaba_sourcing_guide"
+    "category": "alibaba_sourcing_best_practices"
   }
 ]

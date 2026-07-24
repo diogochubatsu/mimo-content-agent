@@ -1398,9 +1398,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T02:17:05Z",
-      "result": null
+      "result": "5 Japanese YouTube videos about China sourcing collected and saved to content-db/raw/youtube-ja/videos.json"
     },
     {
       "id": "T087",
