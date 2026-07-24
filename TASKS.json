@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T00:40:24Z",
+  "last_updated": "2026-07-24T00:56:24Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -659,6 +659,119 @@
       "status": "done",
       "created": "2026-07-24T00:40:24Z",
       "result": "Tarefas iniciadas. 13 tasks ja completadas. Trabalhando de forma autonoma."
+    },
+    {
+      "id": "T034",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "reddit-ecommerce",
+      "description": "Coletar 20 posts recentes de r/AmazonFBA, r/dropship, r/ecommerce sobre produtos trending. Salvar em content-db/raw/reddit/. Formato JSON com titulo, url, upvotes, comentarios principais.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:09Z",
+      "result": null
+    },
+    {
+      "id": "T035",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-reviews",
+      "description": "Coletar 10 videos recentes de reviews de produtos para importar (Jungle Scout, Wholesale Ted). Salvar em content-db/raw/youtube/. Formato JSON com titulo, url, channel, idioma, key_insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:10Z",
+      "result": null
+    },
+    {
+      "id": "T036",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "blog-product-ideas",
+      "description": "Coletar 10 artigos de product ideas: sell.amazon.com/blog, amazing.com/blog, nicheDropshipping.com. Salvar em content-db/raw/blogs/. Formato JSON com titulo, url, fonte, produtos_mencionados.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:11Z",
+      "result": null
+    },
+    {
+      "id": "T037",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "google-trends",
+      "description": "Coletar 10 tendencias de Google Trends relacionadas a importacao/dropshipping. Salvar em content-db/raw/trends/. Formato JSON com keyword, volume, trend_direction, regiao.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:12Z",
+      "result": null
+    },
+    {
+      "id": "T038",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "news-taxes",
+      "description": "Coletar 5 noticias recentes sobre impostos, fretes, acordos comerciais Brasil-China, EUA-China. Salvar em content-db/raw/news/. Formato JSON com titulo, url, data, resumo.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:12Z",
+      "result": null
+    },
+    {
+      "id": "T039",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "wiki-1688",
+      "description": "Coletar 10 guias de wiki.1688.com (em chines, com traducao). Conteudo sobre como comprar, negociar, verificar fornecedores. Salvar em content-db/raw/1688-wiki/.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:22Z",
+      "result": null
+    },
+    {
+      "id": "T040",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "youtube-international",
+      "description": "Coletar 10 videos de canais de dropshipping em idiomas: alemao, polones, taiwanes, coreano, japones. Salvar em content-db/raw/youtube-intl/. Incluir idioma e traducao dos insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:23Z",
+      "result": null
+    },
+    {
+      "id": "T041",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "tiktok-trends",
+      "description": "Coletar 20 videos de TikTok com hashtags #productfinds #dropshipping #1688. Salvar em content-db/raw/tiktok/. Formato JSON com titulo, likes, comentarios, produto_mencionado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:56:24Z",
+      "result": null
+>>>>>>> e7482882b676022b28b97af5d823ea88ed5bcd30
     }
   ],
   "log": [
@@ -841,6 +954,54 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T033 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:09Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T034 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:10Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T035 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:11Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T036 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:12Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T037 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:12Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T038 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:22Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T039 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T040 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:56:24Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T041 for pc-1"
     }
   ],
   "metrics": {
