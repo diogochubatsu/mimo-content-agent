@@ -3038,9 +3038,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:09:07Z",
-      "result": null
+      "result": "Metadata corrigido: cat_fonte, canal, data_coleta adicionados."
     },
     {
       "id": "T204",
@@ -3052,9 +3052,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:09:07Z",
-      "result": null
+      "result": "Metadata corrigido: cat_fonte, canal, data_coleta adicionados."
     },
     {
       "id": "T205",
@@ -3066,9 +3066,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:09:08Z",
-      "result": null
+      "result": "Metadata corrigido: cat_fonte, canal, data_coleta adicionados."
     },
     {
       "id": "T206",
@@ -3080,9 +3080,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:09:09Z",
-      "result": null
+      "result": "Metadata corrigido: cat_fonte, canal, data_coleta adicionados."
     },
     {
       "id": "T207",
@@ -3094,9 +3094,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:09:09Z",
-      "result": null
+      "result": "Metadata corrigido: cat_fonte, canal, data_coleta adicionados."
     },
     {
       "id": "T208",
@@ -3108,9 +3108,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:09:10Z",
-      "result": null
+      "result": "Metadata corrigido: cat_fonte, canal, data_coleta adicionados."
     }
   ],
   "log": [

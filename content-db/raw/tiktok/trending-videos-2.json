@@ -277,6 +277,7 @@
     "@ecomcoach",
     "@dropshiphunter"
   ],
-  "data_coleta": "2026-07-24T21:05:00Z",
-  "cat_fonte": "trend"
+  "data_coleta": "2026-07-24T00:00:00Z",
+  "cat_fonte": "trend",
+  "canal": "tiktok"
 }

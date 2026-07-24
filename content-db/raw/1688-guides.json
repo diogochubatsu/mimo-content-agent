@@ -5,7 +5,7 @@
   "guides": [
     {
       "id": "guide-001",
-      "title": "1688新手指南：如何开始采购",
+      "title": "1688\u65b0\u624b\u6307\u5357\uff1a\u5982\u4f55\u5f00\u59cb\u91c7\u8d2d",
       "title_en": "1688 Beginner Guide: How to Start Sourcing",
       "url": "https://wiki.1688.com/ beginner-guide",
       "category": "getting-started",
@@ -19,12 +19,12 @@
     },
     {
       "id": "guide-002",
-      "title": "1688 vs Alibaba对比分析",
+      "title": "1688 vs Alibaba\u5bf9\u6bd4\u5206\u6790",
       "title_en": "1688 vs Alibaba Comparison Analysis",
       "url": "https://wiki.1688.com/ comparison",
       "category": "comparison",
       "key_points": [
-        "Diferenças de preço",
+        "Diferen\u00e7as de pre\u00e7o",
         "MOQ comparison",
         "Payment methods",
         "Buyer protection"
@@ -33,12 +33,12 @@
     },
     {
       "id": "guide-003",
-      "title": "如何找到可靠的供应商",
+      "title": "\u5982\u4f55\u627e\u5230\u53ef\u9760\u7684\u4f9b\u5e94\u5546",
       "title_en": "How to Find Reliable Suppliers",
       "url": "https://wiki.1688.com/ reliable-suppliers",
       "category": "suppliers",
       "key_points": [
-        "Verificação de fornecedor",
+        "Verifica\u00e7\u00e3o de fornecedor",
         "Red flags to avoid",
         "Trade assurance",
         "Communication tips"
@@ -47,7 +47,7 @@
     },
     {
       "id": "guide-004",
-      "title": "1688采购物流指南",
+      "title": "1688\u91c7\u8d2d\u7269\u6d41\u6307\u5357",
       "title_en": "1688 Sourcing Logistics Guide",
       "url": "https://wiki.1688.com/ logistics",
       "category": "shipping",
@@ -61,7 +61,7 @@
     },
     {
       "id": "guide-005",
-      "title": "电子产品采购技巧",
+      "title": "\u7535\u5b50\u4ea7\u54c1\u91c7\u8d2d\u6280\u5de7",
       "title_en": "Electronics Sourcing Tips",
       "url": "https://wiki.1688.com/ electronics",
       "category": "electronics",
@@ -75,7 +75,7 @@
     },
     {
       "id": "guide-006",
-      "title": "服装采购完全指南",
+      "title": "\u670d\u88c5\u91c7\u8d2d\u5b8c\u5168\u6307\u5357",
       "title_en": "Complete Clothing Sourcing Guide",
       "url": "https://wiki.1688.com/ clothing",
       "category": "fashion",
@@ -89,7 +89,7 @@
     },
     {
       "id": "guide-007",
-      "title": "家居用品采购攻略",
+      "title": "\u5bb6\u5c45\u7528\u54c1\u91c7\u8d2d\u653b\u7565",
       "title_en": "Home Goods Sourcing Strategy",
       "url": "https://wiki.1688.com/ home-goods",
       "category": "home",
@@ -103,7 +103,7 @@
     },
     {
       "id": "guide-008",
-      "title": "如何谈判1688价格",
+      "title": "\u5982\u4f55\u8c08\u52241688\u4ef7\u683c",
       "title_en": "How to Negotiate 1688 Prices",
       "url": "https://wiki.1688.com/ negotiation",
       "category": "negotiation",
@@ -117,7 +117,7 @@
     },
     {
       "id": "guide-009",
-      "title": "1688支付方式详解",
+      "title": "1688\u652f\u4ed8\u65b9\u5f0f\u8be6\u89e3",
       "title_en": "1688 Payment Methods Explained",
       "url": "https://wiki.1688.com/ payment",
       "category": "payment",
@@ -131,7 +131,7 @@
     },
     {
       "id": "guide-010",
-      "title": "避免1688采购陷阱",
+      "title": "\u907f\u514d1688\u91c7\u8d2d\u9677\u9631",
       "title_en": "Avoiding 1688 Sourcing Pitfalls",
       "url": "https://wiki.1688.com/ pitfalls",
       "category": "safety",
@@ -145,6 +145,6 @@
     }
   ],
   "translation_needed": true,
-  "canal": "unknown",
+  "canal": "1688_wiki",
   "cat_produto": "general"
 }

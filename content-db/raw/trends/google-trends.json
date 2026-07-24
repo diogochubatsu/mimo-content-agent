@@ -132,5 +132,7 @@
     ]
   },
   "data_coleta": "2026-07-24T21:05:00Z",
-  "cat_fonte": "trend"
+  "cat_fonte": "trend",
+  "cat_produto": "general",
+  "canal": "google_trends"
 }
