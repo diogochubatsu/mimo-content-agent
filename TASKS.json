@@ -908,9 +908,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:25:13Z",
-      "result": null
+      "result": "6 testes m\u00ednimos criados em tests/pipeline-minimal.test.js. Todos passando. Cobrem: pipeline output, tiers, valida\u00e7\u00e3o, SEO agent."
     },
     {
       "id": "T052",
