@@ -446,9 +446,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T00:35:23Z",
-      "result": null
+      "result": "Testes criados: 10 testes passando. Cobrem pipeline (runPipeline, valida\u00e7\u00e3o) e SEO Agent (metadata, schema, analyze)."
     },
     {
       "id": "T019",
