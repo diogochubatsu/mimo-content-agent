@@ -1804,9 +1804,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T03:16:17Z",
-      "result": null
+      "result": "Alibaba Gold Supplier Guide created"
     },
     {
       "id": "T116",
@@ -1862,7 +1862,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:30:39Z",
-      "result": "Script auto-tasks.js criado. Analisa gaps de conte\u00fado e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
+      "result": "Script auto-tasks.js criado. Analisa gaps de conteúdo e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
     },
     {
       "id": "T120",
