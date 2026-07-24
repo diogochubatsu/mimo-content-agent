@@ -55,10 +55,15 @@
 ### Descobertas Novas (Sessão 3)
 
 1. **Agentes podem parar por 16h** — Cron pode falhar, precisa de watchdog
-2. **140 tasks criadas no total** — Sistema de task generation funciona
+2. **143 tasks criadas no total** — Sistema de task generation funciona
 3. **7 idiomas cobertos** — EN, ES, PT, DE, JA, KO, ZH
 4. **15 pastas de fontes** — Reddit, YouTube x7, TikTok, Weibo, Trends, News
 5. **Merge conflicts acontecem** — Precisa de protocolo de git mais robusto
+6. **PC-2 gerou sugestao A+ (540 linhas)** — Auto-avaliacao funciona
+7. **119 tasks done em ~8 horas** — Ritmo sustentavel
+8. **65 artigos criados** — Volume consistente
+9. **Amazon trending products coletados** — Fonte nova adicionada
+10. **Brazil Guide em portugues** — Mercado inexplorado atacado
 
 ### Melhorias Identificadas
 
