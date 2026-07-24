@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T00:24:07Z",
+  "last_updated": "2026-07-24T00:30:00Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -35,7 +35,8 @@
         "social-media",
         "newsletter"
       ],
-      "status": "active"
+      "status": "active",
+      "machine": "GCP VM #2"
     },
     "pc1": {
       "name": "MiMo PC-1 (diogochubatsu GCP VM)",
