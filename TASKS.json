@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-23T10:00:00Z",
+  "last_updated": "2026-07-24T00:24:07Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -310,6 +310,20 @@
         "T008"
       ],
       "blocks": []
+    },
+    {
+      "id": "T010",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "urgent",
+      "target": "brainstorm",
+      "description": "Responda BRAINSTORM.json e leia ONBOARDING.md. Voce e o agente pc-2 (criador de conteudo). Leia MANIFESTO.md primeiro.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:24:07Z",
+      "result": null
     }
   ],
   "log": [
@@ -336,6 +350,12 @@
       "agent": "pc-1",
       "action": "brainstorm_responded",
       "message": "pc-1 respondeu 11/11 perguntas do BRAINSTORM.json. Identificacao: MiMo PC-1 no GCP VM. Coordenacao: gcp planeja, pc-1 implementa, pc-2 cria conteudo."
+    },
+    {
+      "timestamp": "2026-07-24T00:24:07Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T010 for pc-2"
     }
   ],
   "metrics": {
