@@ -28,6 +28,16 @@ const BRONZE_DIR = path.join(CONTENT_DIR, 'bronze');
 function scoutPhase(topic) {
   console.log(`\n🔍 Phase 1: Scout - Collecting content about "${topic}"`);
   
+  try {
+    // Validation
+    if (!topic || typeof topic !== 'string') {
+      throw new Error('Topic is required and must be a string');
+    }
+    
+    if (topic.length < 2) {
+      throw new Error('Topic must be at least 2 characters');
+    }
+
   const sources = [
     {
       name: 'Amazon Blog',
@@ -76,6 +86,11 @@ function scoutPhase(topic) {
   console.log(`   ✓ Extracted ${result.insights.length} insights`);
   
   return result;
+  
+  } catch (error) {
+    console.error(`   ❌ Scout phase failed: ${error.message}`);
+    throw new Error(`Scout phase error: ${error.message}`);
+  }
 }
 
 /**
@@ -84,6 +99,16 @@ function scoutPhase(topic) {
 function writerPhase(scoutResult, tier) {
   console.log(`\n✍️  Phase 2: Writer - Generating ${tier} article`);
   
+  try {
+    // Validation
+    if (!scoutResult || !scoutResult.topic) {
+      throw new Error('Scout result is required with topic');
+    }
+    
+    if (!['bronze', 'silver', 'gold'].includes(tier)) {
+      throw new Error(`Invalid tier: ${tier}. Must be bronze, silver, or gold`);
+    }
+
   const content = generateContent(scoutResult, tier);
   
   const article = {
@@ -104,6 +129,11 @@ function writerPhase(scoutResult, tier) {
   console.log(`   ✓ Word count: ${article.metadata.wordCount}`);
   
   return article;
+  
+  } catch (error) {
+    console.error(`   ❌ Writer phase failed: ${error.message}`);
+    throw new Error(`Writer phase error: ${error.message}`);
+  }
 }
 
 /**
@@ -112,6 +142,17 @@ function writerPhase(scoutResult, tier) {
 function editorPhase(article, siteProfile = 'professional') {
   console.log(`\n🔧 Phase 3: Editor - Applying anti-footprint (${siteProfile})`);
   
+  try {
+    // Validation
+    if (!article || !article.content) {
+      throw new Error('Article with content is required');
+    }
+    
+    const validProfiles = ['professional', 'casual', 'technical', 'beginner'];
+    if (!validProfiles.includes(siteProfile)) {
+      throw new Error(`Invalid site profile: ${siteProfile}. Must be one of: ${validProfiles.join(', ')}`);
+    }
+
   const rewrittenContent = applyVoiceProfile(article.content, siteProfile);
   const finalContent = addNaturalImperfections(rewrittenContent);
   
@@ -130,6 +171,11 @@ function editorPhase(article, siteProfile = 'professional') {
   console.log(`   ✓ Added natural variations`);
   
   return editedArticle;
+  
+  } catch (error) {
+    console.error(`   ❌ Editor phase failed: ${error.message}`);
+    throw new Error(`Editor phase error: ${error.message}`);
+  }
 }
 
 /**
@@ -138,6 +184,12 @@ function editorPhase(article, siteProfile = 'professional') {
 function outputPhase(article) {
   console.log(`\n💾 Phase 4: Output - Saving article`);
   
+  try {
+    // Validation
+    if (!article || !article.title || !article.content) {
+      throw new Error('Article with title and content is required');
+    }
+
   const dir = article.tier === 'bronze' ? BRONZE_DIR : SILVER_DIR;
   const slug = article.title
     .toLowerCase()
@@ -155,6 +207,11 @@ function outputPhase(article) {
   console.log(`   ✓ File size: ${Buffer.byteLength(markdown)} bytes`);
   
   return filepath;
+  
+  } catch (error) {
+    console.error(`   ❌ Output phase failed: ${error.message}`);
+    throw new Error(`Output phase error: ${error.message}`);
+  }
 }
 
 /**
@@ -166,6 +223,12 @@ export function runPipeline(options) {
   console.log(`\n${'='.repeat(60)}`);
   console.log(`🚀 PIPELINE RUNNER - Topic: "${topic}" | Tier: ${tier}`);
   console.log(`${'='.repeat(60)}`);
+  
+  try {
+    // Validation
+    if (!options || !options.topic) {
+      throw new Error('Options with topic is required');
+    }
   
   // Phase 1: Scout
   const scoutResult = scoutPhase(topic);
@@ -188,6 +251,16 @@ export function runPipeline(options) {
   console.log(`📊 Stats: ${editedArticle.metadata.wordCount} words, ${editedArticle.metadata.sourcesCount} sources`);
   
   return filepath;
+  
+  } catch (error) {
+    console.error(`\n${'='.repeat(60)}`);
+    console.error(`❌ PIPELINE FAILED`);
+    console.error(`${'='.repeat(60)}`);
+    console.error(`Error: ${error.message}`);
+    console.error(`Topic: ${topic}`);
+    console.error(`Tier: ${tier}`);
+    throw error;
+  }
 }
 
 // Helper functions
