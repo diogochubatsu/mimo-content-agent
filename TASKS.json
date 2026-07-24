@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T19:40:41Z",
+  "last_updated": "2026-07-24T19:50:43Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2355,6 +2355,76 @@
       "status": "pending",
       "created": "2026-07-24T19:40:41Z",
       "result": null
+    },
+    {
+      "id": "T155",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-1688-vs-alibaba-2026",
+      "description": "Gerar artigo Silver: 1688 vs Alibaba in 2026: Which is Really Cheaper? Dados atualizados.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:50:39Z",
+      "result": null
+    },
+    {
+      "id": "T156",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-amazon-fba-fees",
+      "description": "Gerar artigo Silver: Amazon FBA Fees 2026: Complete Breakdown. Custos detalhados por categoria.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:50:40Z",
+      "result": null
+    },
+    {
+      "id": "T157",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-china-shipping-sea",
+      "description": "Gerar artigo Silver: Sea Freight from China: Complete Guide 2026. Frete maritimo detalhado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:50:41Z",
+      "result": null
+    },
+    {
+      "id": "T158",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-china-shipping-air",
+      "description": "Gerar artigo Silver: Air Freight from China: Complete Guide 2026. Frete aereo detalhado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:50:42Z",
+      "result": null
+    },
+    {
+      "id": "T159",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-supplier-red-flags",
+      "description": "Gerar artigo Silver: 10 Red Flags When Choosing 1688 Suppliers. Como identificar golpes.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:50:43Z",
+      "result": null
     }
   ],
   "log": [
@@ -3257,6 +3327,36 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T154 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:50:39Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T155 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:50:40Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T156 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:50:41Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T157 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:50:42Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T158 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:50:43Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T159 for pc-2"
     }
   ],
   "metrics": {
