@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T02:17:21Z",
+  "last_updated": "2026-07-24T02:32:36Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -1485,6 +1485,132 @@
       "status": "pending",
       "created": "2026-07-24T02:17:21Z",
       "result": null
+    },
+    {
+      "id": "T093",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "site-pages",
+      "description": "Criar paginas dinamicas no site para artigos Silver. Usar getStaticProps para renderizar content-db/silver/*.md. Minimo 5 paginas funcionais.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:30Z",
+      "result": null
+    },
+    {
+      "id": "T094",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "internal-linking",
+      "description": "Adicionar links internos entre artigos Silver. Cada artigo deve linkar para 3-5 artigos relacionados. Criar script que analisa content-db e gera links.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:31Z",
+      "result": null
+    },
+    {
+      "id": "T095",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "analytics-setup",
+      "description": "Configurar Plausible analytics no site. Adicionar script de tracking. Verificar que pageviews sao registrados.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:32Z",
+      "result": null
+    },
+    {
+      "id": "T096",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-dhgate",
+      "description": "Gerar artigo Silver: DHgate vs 1688 vs Alibaba: Which is Best for Beginners? Comparacao completa com precos reais.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:33Z",
+      "result": null
+    },
+    {
+      "id": "T097",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-made-in-china",
+      "description": "Gerar artigo Silver: Made-in-China vs Alibaba: Complete Comparison 2026. Tabela detalhada.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:33Z",
+      "result": null
+    },
+    {
+      "id": "T098",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-global-sources",
+      "description": "Gerar artigo Silver: Global Sources: The Hidden Gem for Sourcing from China. Guia completo.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:34Z",
+      "result": null
+    },
+    {
+      "id": "T099",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-fba-guide",
+      "description": "Gerar artigo Silver: How to Ship from 1688 to Amazon FBA: Complete Workflow. Passo a passo com custos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:35Z",
+      "result": null
+    },
+    {
+      "id": "T100",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-private-label",
+      "description": "Gerar artigo Silver: Private Label on 1688: How to Brand Your Products. Guia de customizacao.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:36Z",
+      "result": null
+    },
+    {
+      "id": "T101",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "weibo-trends",
+      "description": "Coletar 10 trending topics do Weibo sobre importacao e ecommerce. Salvar em content-db/raw/weibo/. JSON.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:32:36Z",
+      "result": null
     }
   ],
   "log": [
@@ -2021,6 +2147,60 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T092 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:30Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T093 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:31Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T094 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:32Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T095 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:33Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T096 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:33Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T097 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:34Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T098 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:35Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T099 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:36Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T100 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:32:36Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T101 for pc-2"
     }
   ],
   "metrics": {
