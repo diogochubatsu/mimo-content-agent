@@ -69,6 +69,15 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="container featured-section">
+        <h2 style={{ marginBottom: '1.5rem', fontSize: '1.75rem', color: 'var(--secondary)' }}>
+          Featured Articles
+        </h2>
+        <p style={{ marginBottom: '2rem', color: '#666' }}>
+          Our most popular guides for importers
+        </p>
+      </section>
+
       <section className="container">
         <h2 style={{ marginBottom: '1.5rem', fontSize: '1.75rem', color: 'var(--secondary)' }}>
           Latest Articles
