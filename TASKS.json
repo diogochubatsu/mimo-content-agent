@@ -3472,9 +3472,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:08Z",
-      "result": null
+      "result": "Import China to USA article created"
     },
     {
       "id": "T235",
@@ -3486,9 +3486,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:09Z",
-      "result": null
+      "result": "Import China to Europe article created"
     },
     {
       "id": "T236",
