@@ -3683,7 +3683,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": "YouTube PL scripts created: content-db/social/youtube-scripts-pl.md - 5 complete scripts with hooks, main content, CTAs, descriptions, and timestamps"
+      "result": "YouTube PL scripts created: content-db/social/youtube-scripts-pl.md - 5 complete scripts with hooks, main content, CTAs, descriptions, and timestamps",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
