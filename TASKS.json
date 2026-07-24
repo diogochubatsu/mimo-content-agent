@@ -3248,9 +3248,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:15:32Z",
-      "result": null
+      "result": "Breadcrumbs component criado: site/components/Breadcrumbs.js. Navega\u00e7\u00e3o Home > Category > Article."
     },
     {
       "id": "T219",
