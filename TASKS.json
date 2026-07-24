@@ -78,7 +78,7 @@
       "decisions": [
         "Usar JSON estruturado para comunicacao",
         "Focar em 1 site primeiro",
-        "Pipeline Bronze\u2192Silver como prioridade #1"
+        "Pipeline Bronze→Silver como prioridade #1"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "pipeline-runner",
-      "description": "Criar pipeline que conecta Scout \u2192 Writer \u2192 Editor \u2192 Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
+      "description": "Criar pipeline que conecta Scout → Writer → Editor → Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
       "files": [
         "src/pipeline.ts",
         "src/runner.ts"
@@ -291,9 +291,9 @@
       "acceptance": "Newsletter pronta para enviar, com 3 produtos, precos reais, e links afiliados",
       "priority": "medium",
       "deadline": "2026-08-03",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-23T10:35:00Z",
-      "result": null,
+      "result": "Newsletter template + Issue #001 criados. Template inclui formato, checklist, metricas. Issue #001: 3 deals reais com margens 70%+.",
       "depends_on": [
         "T005"
       ],
@@ -350,7 +350,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:32:19Z",
-      "result": "Error handling adicionado em todas as fases: scoutPhase, writerPhase, editorPhase, outputPhase, runPipeline. Valida\u00e7\u00e3o de inputs, try/catch em cada fase, mensagens de erro claras."
+      "result": "Error handling adicionado em todas as fases: scoutPhase, writerPhase, editorPhase, outputPhase, runPipeline. Validação de inputs, try/catch em cada fase, mensagens de erro claras."
     },
     {
       "id": "T012",
