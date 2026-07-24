@@ -1860,9 +1860,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T03:30:39Z",
-      "result": null
+      "result": "Script auto-tasks.js criado. Analisa gaps de conte\u00fado e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
     },
     {
       "id": "T120",
@@ -1961,6 +1961,22 @@
       "status": "pending",
       "created": "2026-07-24T03:35:41Z",
       "result": null
+    },
+    {
+      "id": "T127",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "gold-articles",
+      "description": "Create 5 more gold articles (currently 0)",
+      "files": [],
+      "acceptance": "Article published in content-db",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-24T03:50:16.948Z",
+      "result": null,
+      "depends_on": [],
+      "blocks": []
     }
   ],
   "log": [
