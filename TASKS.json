@@ -2310,9 +2310,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T19:39:03Z",
-      "result": null
+      "result": "Dashboard de m\u00e9tricas criado: site/pages/dashboard.js. Mostra: artigos por tier, fontes, tasks, scripts, testes, progresso."
     },
     {
       "id": "T152",
