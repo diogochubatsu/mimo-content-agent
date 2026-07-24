@@ -47,6 +47,15 @@
 | [Name] | [City, Province] | X.X/5 | XX | Xh |
 | [Name] | [City, Province] | X.X/5 | XX | Xh |
 
+## How to Order
+
+1. **Find supplier** — Search on 1688/Alibaba for "[product]"
+2. **Contact supplier** — Use trade chat or WeChat
+3. **Request samples** — Order 2-3 samples ($10-30 each)
+4. **Negotiate price** — Ask for wholesale/bulk pricing
+5. **Place order** — Use Trade Assurance for protection
+6. **Arrange shipping** — Air (7-15 days) or Sea (25-40 days)
+
 ## Tips
 1. **[Tip 1]** — [Explanation]
 2. **[Tip 2]** — [Explanation]
