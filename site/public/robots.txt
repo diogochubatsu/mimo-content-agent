@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://importguide1688.com/sitemap.xml

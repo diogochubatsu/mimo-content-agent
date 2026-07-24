@@ -1,12 +1,18 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import { SEO } from './SEO'
 
-export default function Layout({ children, title, description }) {
+export default function Layout({ children, title, description, url, image, article }) {
   return (
     <>
+      <SEO 
+        title={title} 
+        description={description} 
+        url={url}
+        image={image}
+        article={article}
+      />
       <Head>
-        <title>{title ? `${title} | ImportGuide1688` : 'ImportGuide1688 - China Import Guides'}</title>
-        <meta name="description" content={description || 'Expert guides for importing products from China via 1688.com'} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         {/* Plausible Analytics */}
