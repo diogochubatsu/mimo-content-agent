@@ -14,6 +14,8 @@ tags:
   - business guide
   - 2026 guide
 schema: FAQPage
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/complete-guide-shopify-for-import-business-2026"
 ---
 
 # Complete Guide: Shopify for Import Business 2026

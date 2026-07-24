@@ -9,6 +9,7 @@ category: "payments"
 reading_time: "18 min"
 schema_type: "Article"
 faq_schema: true
+canonical: "https://importguide1688.com/articles/1688-payment-methods-complete-guide-how-to-pay-on-china-s-biggest-wholesale-plat"
 ---
 
 # 1688 Payment Methods Complete Guide: How to Pay on China's Biggest Wholesale Platform (2026)

@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Product Research for Import Business 2026"
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed"
+keywords: ["complete guide:", "import", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "complete-guide-product-research-for-import-business-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-product-research-for-import-business-2026"
+og:
+  title: "Complete Guide: Product Research for Import Business 2026"
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed"
+  type: "article"
+  image: "/og/complete-guide-product-research-for-import-business-2026.png"
+---
 # Complete Guide: Product Research for Import Business 2026
 
 **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed

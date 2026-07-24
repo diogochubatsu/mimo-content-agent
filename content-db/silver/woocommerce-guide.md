@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: WooCommerce for Import Business (2026)"
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "1688", "alibaba"]
+slug: "complete-guide-woocommerce-for-import-business-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-woocommerce-for-import-business-2026"
+og:
+  title: "Complete Guide: WooCommerce for Import Business (2026)"
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-woocommerce-for-import-business-2026.png"
+---
 # Complete Guide: WooCommerce for Import Business (2026)
 
 **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**

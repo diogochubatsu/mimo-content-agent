@@ -1,3 +1,15 @@
+---
+title: "Complete Import Guide 2026: How to Import Products from Chin"
+description: "complete import. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["complete import", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin"]
+slug: "complete-import-guide-2026-how-to-import-products-from-china"
+canonical: "https://importguide1688.com/articles/complete-import-guide-2026-how-to-import-products-from-china"
+og:
+  title: "Complete Import Guide 2026: How to Import Products from Chin"
+  description: "complete import. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-import-guide-2026-how-to-import-products-from-china.png"
+---
 # Complete Import Guide 2026: How to Import Products from China
 
 **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**

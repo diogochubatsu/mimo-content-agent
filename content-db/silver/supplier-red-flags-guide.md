@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Supplier Red Flags to Avoid When Importing ("
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 14 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+slug: "complete-guide-supplier-red-flags-to-avoid-when-importing-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-supplier-red-flags-to-avoid-when-importing-2026"
+og:
+  title: "Complete Guide: Supplier Red Flags to Avoid When Importing ("
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 14 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-supplier-red-flags-to-avoid-when-importing-2026.png"
+---
 # Complete Guide: Supplier Red Flags to Avoid When Importing (2026)
 
 **Updated:** July 2026 | **Reading time:** 14 min | **Expert reviewed**

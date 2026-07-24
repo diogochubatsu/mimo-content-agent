@@ -1,3 +1,15 @@
+---
+title: "Temu Sourcing Guide 2026: Everything You Need to Know"
+description: "temu sourcing. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
+keywords: ["temu sourcing", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin"]
+slug: "temu-sourcing-guide-2026-everything-you-need-to-know"
+canonical: "https://importguide1688.com/articles/temu-sourcing-guide-2026-everything-you-need-to-know"
+og:
+  title: "Temu Sourcing Guide 2026: Everything You Need to Know"
+  description: "temu sourcing. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/temu-sourcing-guide-2026-everything-you-need-to-know.png"
+---
 # Temu Sourcing Guide 2026: Everything You Need to Know
 
 **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**

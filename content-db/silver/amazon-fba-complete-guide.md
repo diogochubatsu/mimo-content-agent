@@ -11,6 +11,7 @@ reading_time: "15 min"
 expert_reviewed: true
 schema_type: "Article"
 faq_schema: true
+canonical: "https://importguide1688.com/articles/amazon-fba-complete-guide-2026"
 ---
 
 # Amazon FBA Complete Guide 2026

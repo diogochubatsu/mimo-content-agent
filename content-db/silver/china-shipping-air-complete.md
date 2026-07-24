@@ -1,3 +1,15 @@
+---
+title: "Shipping from China by Air: Complete Guide 2026"
+description: "shipping from. **Updated:** July 21, 2026 | **Reading time:** 22 min | **Expert reviewed**"
+keywords: ["shipping from", "import", "china", "supplier", "dropship", "1688", "amazon", "fba", "margin"]
+slug: "shipping-from-china-by-air-complete-guide-2026"
+canonical: "https://importguide1688.com/articles/shipping-from-china-by-air-complete-guide-2026"
+og:
+  title: "Shipping from China by Air: Complete Guide 2026"
+  description: "shipping from. **Updated:** July 21, 2026 | **Reading time:** 22 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/shipping-from-china-by-air-complete-guide-2026.png"
+---
 # Shipping from China by Air: Complete Guide 2026
 
 **Updated:** July 21, 2026 | **Reading time:** 22 min | **Expert reviewed**

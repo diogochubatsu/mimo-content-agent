@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: How to Pay on 1688 - Payment Methods for Int"
+description: "complete guide:. **Updated:** July 2024 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
+slug: "complete-guide-how-to-pay-on-1688-payment-methods-for-international-buyers-2024"
+canonical: "https://importguide1688.com/articles/complete-guide-how-to-pay-on-1688-payment-methods-for-international-buyers-2024"
+og:
+  title: "Complete Guide: How to Pay on 1688 - Payment Methods for Int"
+  description: "complete guide:. **Updated:** July 2024 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-how-to-pay-on-1688-payment-methods-for-international-buyers-2024.png"
+---
 # Complete Guide: How to Pay on 1688 - Payment Methods for International Buyers (2024)
 
 **Updated:** July 2024 | **Reading time:** 12 min | **Expert reviewed**

@@ -1,3 +1,15 @@
+---
+title: "amazon complete: Amazon FBA Complete Cost Breakdown 2026: Ev"
+description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["amazon complete", "import", "china", "supplier", "wholesale", "dropship", "1688", "amazon", "fba", "margin"]
+slug: "amazon-fba-complete-cost-breakdown-2026-every-fee-explained"
+canonical: "https://importguide1688.com/articles/amazon-fba-complete-cost-breakdown-2026-every-fee-explained"
+og:
+  title: "amazon complete: Amazon FBA Complete Cost Breakdown 2026: Ev"
+  description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/amazon-fba-complete-cost-breakdown-2026-every-fee-explained.png"
+---
 # Amazon FBA Complete Cost Breakdown 2026: Every Fee Explained
 
 **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**

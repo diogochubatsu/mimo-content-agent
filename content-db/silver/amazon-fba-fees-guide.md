@@ -11,6 +11,7 @@ reading_time: "18 min"
 expert_reviewed: true
 schema_type: "Article"
 faq_schema: true
+canonical: "https://importguide1688.com/articles/amazon-fba-fees-complete-guide-2026-every-cost-explained"
 ---
 
 # Amazon FBA Fees Complete Guide 2026: Every Cost Explained

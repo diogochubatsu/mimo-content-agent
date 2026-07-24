@@ -1,3 +1,15 @@
+---
+title: "amazon complete: Amazon FBA Complete Guide 2026"
+description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["amazon complete", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+slug: "amazon-fba-complete-guide-2026"
+canonical: "https://importguide1688.com/articles/amazon-fba-complete-guide-2026"
+og:
+  title: "amazon complete: Amazon FBA Complete Guide 2026"
+  description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/amazon-fba-complete-guide-2026.png"
+---
 # Amazon FBA Complete Guide 2026
 
 **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**

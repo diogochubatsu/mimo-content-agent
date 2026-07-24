@@ -4,6 +4,8 @@ tier: "bronze"
 site: "importguide1688.com"
 created: "2026-07-24T03:40:47.416Z"
 keywords: ["led", "strip", "lights", "import", "china", "supplier", "wholesale", "dropship"]
+description: "strip lights:. **Updated:** 7/24/2026 | **Reading time:** 4 min"
+canonical: "https://importguide1688.com/articles/led-strip-lights-price-moq-supplier-guide-2026"
 ---
 
 # LED Strip Lights: Price, MOQ & Supplier Guide (2026)

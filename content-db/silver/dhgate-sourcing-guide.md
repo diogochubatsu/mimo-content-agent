@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: DHgate Sourcing for Dropshipping and Wholesa"
+description: "complete guide:. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
+slug: "complete-guide-dhgate-sourcing-for-dropshipping-and-wholesale-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-dhgate-sourcing-for-dropshipping-and-wholesale-2026"
+og:
+  title: "Complete Guide: DHgate Sourcing for Dropshipping and Wholesa"
+  description: "complete guide:. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-dhgate-sourcing-for-dropshipping-and-wholesale-2026.png"
+---
 # Complete Guide: DHgate Sourcing for Dropshipping and Wholesale (2026)
 
 **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**

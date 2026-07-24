@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Amazon Product Research Guide 2026"
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 20 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "complete-guide-amazon-product-research-guide-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-amazon-product-research-guide-2026"
+og:
+  title: "Complete Guide: Amazon Product Research Guide 2026"
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 20 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-amazon-product-research-guide-2026.png"
+---
 # Complete Guide: Amazon Product Research Guide 2026
 
 **Updated:** July 2026 | **Reading time:** 20 min | **Expert reviewed**

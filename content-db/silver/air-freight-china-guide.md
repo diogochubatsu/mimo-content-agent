@@ -1,3 +1,15 @@
+---
+title: "Air Freight from China: Complete Guide 2026"
+description: "freight from. **Updated:** July 21, 2026 | **Reading time:** 24 min | **Expert reviewed**"
+keywords: ["freight from", "import", "china", "supplier", "dropship", "1688", "amazon", "fba", "profit"]
+slug: "air-freight-from-china-complete-guide-2026"
+canonical: "https://importguide1688.com/articles/air-freight-from-china-complete-guide-2026"
+og:
+  title: "Air Freight from China: Complete Guide 2026"
+  description: "freight from. **Updated:** July 21, 2026 | **Reading time:** 24 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/air-freight-from-china-complete-guide-2026.png"
+---
 # Air Freight from China: Complete Guide 2026
 
 **Updated:** July 21, 2026 | **Reading time:** 24 min | **Expert reviewed**

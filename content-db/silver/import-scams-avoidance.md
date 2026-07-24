@@ -4,6 +4,8 @@ tier: "silver"
 site: "importguide1688.com"
 created: "2026-07-24T21:00:00Z"
 keywords: ["import scams", "avoid scams", "supplier fraud", "1688 scam", "alibaba scam", "import protection", "buyer safety", "counterfeit goods", "bait and switch", "wire transfer scam"]
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 16 min | **Expert reviewed**"
+canonical: "https://importguide1688.com/articles/complete-guide-import-scams-and-how-to-avoid-them-2026"
 ---
 
 # Complete Guide: Import Scams and How to Avoid Them (2026)

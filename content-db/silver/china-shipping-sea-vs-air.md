@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: China Shipping Sea vs Air Comparison 2026"
+description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]
+slug: "complete-guide-china-shipping-sea-vs-air-comparison-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-china-shipping-sea-vs-air-comparison-2026"
+og:
+  title: "Complete Guide: China Shipping Sea vs Air Comparison 2026"
+  description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-china-shipping-sea-vs-air-comparison-2026.png"
+---
 # Complete Guide: China Shipping Sea vs Air Comparison 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**
