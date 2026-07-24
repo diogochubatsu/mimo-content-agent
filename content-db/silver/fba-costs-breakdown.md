@@ -638,3 +638,38 @@ A: Common hidden costs include: returns processing fees (especially for apparel 
 
 - [1688.com Masterclass: The Complete Guide to Sourci](/articles/gold-1688-masterclass)
 - [AliExpress vs 1688: Which is Better for Dropshippi](/articles/aliexpress-comparison)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Amazon FBA Complete Cost Breakdown 2026: Every Fee Explained",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T20:49:03.477Z",
+  "dateModified": "2026-07-24T20:49:03.477Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/fba-costs-breakdown"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>
