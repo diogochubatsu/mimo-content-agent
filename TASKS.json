@@ -3150,9 +3150,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:15:27Z",
-      "result": null
+      "result": "ReadingTime component criado: calcula tempo de leitura baseado em 200 palavras/minuto."
     },
     {
       "id": "T212",
@@ -3208,7 +3208,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:30Z",
-      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece após scroll de 300px, smooth scroll para topo."
+      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece ap\u00f3s scroll de 300px, smooth scroll para topo."
     },
     {
       "id": "T216",
