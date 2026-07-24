@@ -35,9 +35,38 @@ export default function Layout({ children, title, description, url, image, artic
 
       <footer className="footer">
         <div className="container">
-          <div className="footer-content">
+          <div className="footer-grid">
+            <div className="footer-section">
+              <h4>Import Guide 1688</h4>
+              <p>Your trusted source for China import guides, product sourcing, and supplier reviews.</p>
+            </div>
+            
+            <div className="footer-section">
+              <h4>Quick Links</h4>
+              <Link href="/">Home</Link>
+              <Link href="/blog">Blog</Link>
+              <Link href="/search">Search</Link>
+              <Link href="/status">Status</Link>
+            </div>
+            
+            <div className="footer-section">
+              <h4>Categories</h4>
+              <Link href="/blog?filter=bronze">Bronze Guides</Link>
+              <Link href="/blog?filter=silver">Silver Guides</Link>
+              <Link href="/category/electronics">Electronics</Link>
+              <Link href="/category/fashion">Fashion</Link>
+            </div>
+            
+            <div className="footer-section">
+              <h4>Company</h4>
+              <Link href="/about">About Us</Link>
+              <Link href="/contact">Contact</Link>
+              <a href="/feed.xml">RSS Feed</a>
+            </div>
+          </div>
+          
+          <div className="footer-bottom">
             <p>&copy; {new Date().getFullYear()} ImportGuide1688. All rights reserved.</p>
-            <p>Your trusted source for China import guides</p>
           </div>
         </div>
       </footer>
