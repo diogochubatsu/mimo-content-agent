@@ -3136,9 +3136,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:15:26Z",
-      "result": null
+      "result": "Componente Rating criado: site/components/Rating.js. Estrelas 1-5 com hover e clique."
     },
     {
       "id": "T211",
