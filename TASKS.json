@@ -1076,9 +1076,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:47:28Z",
-      "result": null
+      "result": "15 YouTube videos collected in 5 languages"
     },
     {
       "id": "T064",
