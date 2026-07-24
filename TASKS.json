@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T19:27:16Z",
+  "last_updated": "2026-07-24T19:31:46Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2201,6 +2201,90 @@
       "status": "pending",
       "created": "2026-07-24T19:27:16Z",
       "result": null
+    },
+    {
+      "id": "T144",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-temu-guide",
+      "description": "Gerar artigo Silver: Temu vs 1688 vs AliExpress: Which is Best? Comparacao completa.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:31:43Z",
+      "result": null
+    },
+    {
+      "id": "T145",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-dropshipping-2026",
+      "description": "Gerar artigo Silver: Dropshipping from China in 2026: Complete Guide. Guia atualizado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:31:44Z",
+      "result": null
+    },
+    {
+      "id": "T146",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-fba-costs",
+      "description": "Gerar artigo Silver: Amazon FBA Fees Explained: Complete Cost Breakdown. Custos detalhados.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:31:44Z",
+      "result": null
+    },
+    {
+      "id": "T147",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-product-validation",
+      "description": "Gerar artigo Silver: How to Validate Products Before Importing. Metodologia de validacao.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:31:45Z",
+      "result": null
+    },
+    {
+      "id": "T148",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "pinterest-trends",
+      "description": "Coletar 15 trending pins sobre importacao no Pinterest. Salvar em content-db/raw/pinterest/. JSON com metadata.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:31:46Z",
+      "result": null
+    },
+    {
+      "id": "T149",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-ecommerce-platforms",
+      "description": "Gerar artigo Silver: Shopify vs WooCommerce vs Amazon: Complete Comparison 2026.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:31:46Z",
+      "result": null
     }
   ],
   "log": [
@@ -3037,6 +3121,42 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T143 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:43Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T144 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:44Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T145 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:44Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T146 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:45Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T147 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:46Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T148 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:46Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T149 for pc-2"
     }
   ],
   "metrics": {
