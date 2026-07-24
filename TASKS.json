@@ -2772,9 +2772,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:36:22Z",
-      "result": null
+      "result": "Script optimize-images.js criado. Gera 89 placeholders SVG para artigos."
     },
     {
       "id": "T185",
