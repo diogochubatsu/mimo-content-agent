@@ -60,3 +60,38 @@ A: 1688 offers the lowest prices, but requires Chinese language or agent.
 - [alternatives-to-alibaba](/articles/alternatives-to-alibaba)
 - [sourcing-agent-review-update](/articles/sourcing-agent-review-update)
 - [supplier-comparison-guide](/articles/supplier-comparison-guide)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide to Test Silver (2026)",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.159Z",
+  "dateModified": "2026-07-24T04:05:22.159Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/complete-guide-to-test-silver-2026"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

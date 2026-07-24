@@ -501,3 +501,38 @@ A: The major trends include: sustainability (73% of consumers under 40 prioritiz
 - [alternatives-to-alibaba](/articles/alternatives-to-alibaba)
 - [car-accessories-china](/articles/car-accessories-china)
 - [comparison-1688-alibaba](/articles/comparison-1688-alibaba)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: Home Decor Wholesale Guide 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.179Z",
+  "dateModified": "2026-07-24T04:05:22.179Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/home-decor-wholesale"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

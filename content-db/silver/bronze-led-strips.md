@@ -109,3 +109,38 @@ A: Quality suppliers show 2-5% return rates. Main issues are: defective LEDs (te
 - [alternatives-to-alibaba](/articles/alternatives-to-alibaba)
 - [bronze-earbuds](/articles/bronze-earbuds)
 - [bronze-kitchen](/articles/bronze-kitchen)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LED Strip Lights: Price, MOQ, Suppliers Guide 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.142Z",
+  "dateModified": "2026-07-24T04:05:22.142Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/bronze-led-strips"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

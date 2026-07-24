@@ -1958,9 +1958,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T03:35:41Z",
-      "result": null
+      "result": "Script add-schema.js criado. Adiciona schema.org Article markup em todos os artigos bronze e silver."
     },
     {
       "id": "T127",

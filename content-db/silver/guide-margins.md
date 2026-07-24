@@ -399,3 +399,38 @@ A: Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (
 - [guide-importing-china](/articles/guide-importing-china)
 - [import-taxes-guide](/articles/import-taxes-guide)
 - [shipping-from-china-guide](/articles/shipping-from-china-guide)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Calculate Import Margins 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.174Z",
+  "dateModified": "2026-07-24T04:05:22.174Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/guide-margins"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

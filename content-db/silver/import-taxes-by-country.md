@@ -565,3 +565,38 @@ A: Yes, many countries offer free trade zones (FTZs) or bonded warehouses where 
 - [alternatives-to-alibaba](/articles/alternatives-to-alibaba)
 - [car-accessories-china](/articles/car-accessories-china)
 - [comparison-1688-alibaba](/articles/comparison-1688-alibaba)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: Import Taxes by Country (US, EU, Brazil, Japan) (2026)",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.181Z",
+  "dateModified": "2026-07-24T04:05:22.181Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/import-taxes-by-country"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

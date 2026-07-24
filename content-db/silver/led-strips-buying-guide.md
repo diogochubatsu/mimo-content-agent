@@ -340,3 +340,38 @@ A: Calculate total wattage (watts per meter × total meters) and add 20% for saf
 - [comparison-1688-alibaba](/articles/comparison-1688-alibaba)
 - [complete-import-guide-2026](/articles/complete-import-guide-2026)
 - [dhgate-sourcing-guide](/articles/dhgate-sourcing-guide)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: LED Strips Buying Guide 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.189Z",
+  "dateModified": "2026-07-24T04:05:22.189Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/led-strips-buying-guide"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

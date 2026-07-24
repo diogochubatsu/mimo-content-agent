@@ -646,3 +646,38 @@ A: Import duties and taxes vary by country and product type. Research your count
 - [trending-products-q3-2026](/articles/trending-products-q3-2026)
 - [complete-import-guide-2026](/articles/complete-import-guide-2026)
 - [trending-products-2026](/articles/trending-products-2026)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: DHgate Sourcing for Dropshipping and Wholesale (2026)",
+  "description": "**Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.162Z",
+  "dateModified": "2026-07-24T04:05:22.162Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/dhgate-sourcing-guide"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

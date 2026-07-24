@@ -110,3 +110,38 @@ A: Yes, but branded cases sell better. Create a simple brand name and logo (use 
 - [alternatives-to-alibaba](/articles/alternatives-to-alibaba)
 - [car-accessories-china](/articles/car-accessories-china)
 - [comparison-master-guide](/articles/comparison-master-guide)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Phone Cases: 1688 vs Alibaba vs Amazon Price Comparison 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.143Z",
+  "dateModified": "2026-07-24T04:05:22.143Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/bronze-phone-cases"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

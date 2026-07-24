@@ -441,3 +441,38 @@ A: The top mistakes from community reports: (1) Not calculating true landed cost
 - [trending-products-2026](/articles/trending-products-2026)
 - [complete-import-guide-2026](/articles/complete-import-guide-2026)
 - [dhgate-sourcing-guide](/articles/dhgate-sourcing-guide)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Trending Products to Import from China Q3 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.206Z",
+  "dateModified": "2026-07-24T04:05:22.206Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/trending-products-q3-2026"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

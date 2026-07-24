@@ -582,3 +582,39 @@ A: Contact your freight forwarder immediately. For sea freight, claims are typic
   ]
 }
 ```
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: China Shipping Sea vs Air Comparison 2026",
+  "description": "**Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.148Z",
+  "dateModified": "2026-07-24T04:05:22.148Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/china-shipping-sea-vs-air"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

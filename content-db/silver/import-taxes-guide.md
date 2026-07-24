@@ -512,3 +512,38 @@ A: Yes, for any commercial import over $2,500. A customs broker ($50-150 per shi
 - [trending-products-q3-2026](/articles/trending-products-q3-2026)
 - [guide-top10](/articles/guide-top10)
 - [trending-products-2026](/articles/trending-products-2026)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Import Taxes Guide: EU €3 Duty, US Tariffs, Brazil Regulations 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-24T04:05:22.183Z",
+  "dateModified": "2026-07-24T04:05:22.183Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/import-taxes-guide"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>
