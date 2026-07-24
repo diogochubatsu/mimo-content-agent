@@ -30,12 +30,24 @@
 
 | Métrica | Valor |
 |---|---|
-| Tasks criadas | 41 |
-| Tasks concluídas | 23 |
-| Artigos gerados | 20 |
-| Linhas de conteudo | 4.152 |
-| Commits totais | 35+ |
-| Tempo de operação | ~2 horas |
+| Tasks criadas | 109 |
+| Tasks concluídas | 64 |
+| Artigos gerados | 32 |
+| Linhas de conteudo | 8.000+ |
+| Commits totais | 60+ |
+| Tempo de operação | ~4 horas |
+| Fontes coletadas | 9 pastas (reddit, youtube x5, trends, news, tiktok) |
+| Idiomas cobertos | EN, ES, PT, DE, JA, KO |
+
+### Descobertas Novas (Sessão 2)
+
+1. **PC-2 produz 5-10 artigos por hora** — Velocidade impressionante
+2. **Pipeline funciona mas precisa de caching** — Re-processa topicos ja processados
+3. **Metadata de fontes incompleta** — Falta data_publicacao em alguns
+4. **Agentes precisam de tasks recorrentes** — Self-review, suggestions, learn
+5. **Fork precisa de dashboard de status** — Visibilidade do progresso
+6. **Cron de 5 minutos funciona** — Agentes nunca ficam sem trabalho
+7. **Revisao da equipe e essencial** — Consolidar lições a cada 6h
 
 ### Melhorias Identificadas
 
