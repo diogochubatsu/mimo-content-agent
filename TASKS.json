@@ -756,7 +756,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:56:23Z",
-      "result": "7 canais YouTube mapeados em 7 idiomas (de, pl, ja, ko, zh-TW, es, pt). 21 v\u00eddeos documentados. Arquivo: content-db/raw/youtube-dropshipping.json"
+      "result": "7 canais YouTube mapeados em 7 idiomas (de, pl, ja, ko, zh-TW, es, pt). 21 vídeos documentados. Arquivo: content-db/raw/youtube-dropshipping.json"
     },
     {
       "id": "T041",
@@ -1468,9 +1468,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T02:17:20Z",
-      "result": null
+      "result": "Master Comparison Guide created"
     },
     {
       "id": "T092",
