@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Bluetooth Earbuds Comparison 2026"
+description: "bluetooth. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
+keywords: ["bluetooth", "import", "china", "1688", "alibaba", "margin"]
+slug: "complete-guide-bluetooth-earbuds-comparison-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-bluetooth-earbuds-comparison-2026"
+og:
+  title: "Complete Guide: Bluetooth Earbuds Comparison 2026"
+  description: "bluetooth. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-bluetooth-earbuds-comparison-2026.png"
+---
 # Complete Guide: Bluetooth Earbuds Comparison 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**

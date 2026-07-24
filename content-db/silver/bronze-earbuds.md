@@ -1,3 +1,15 @@
+---
+title: "Bluetooth Earbuds: Complete Sourcing Guide from China 2026"
+description: "bluetooth. **Updated:** July 24, 2026 | **Reading time:** 9 min"
+keywords: ["bluetooth", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "bluetooth-earbuds-complete-sourcing-guide-from-china-2026"
+canonical: "https://importguide1688.com/articles/bluetooth-earbuds-complete-sourcing-guide-from-china-2026"
+og:
+  title: "Bluetooth Earbuds: Complete Sourcing Guide from China 2026"
+  description: "bluetooth. **Updated:** July 24, 2026 | **Reading time:** 9 min"
+  type: "article"
+  image: "/og/bluetooth-earbuds-complete-sourcing-guide-from-china-2026.png"
+---
 # Bluetooth Earbuds: Complete Sourcing Guide from China 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 9 min

@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Shipping from China — Cost Guide 2026"
+description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "complete-guide-shipping-from-china-cost-guide-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-shipping-from-china-cost-guide-2026"
+og:
+  title: "Complete Guide: Shipping from China — Cost Guide 2026"
+  description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-shipping-from-china-cost-guide-2026.png"
+---
 # Complete Guide: Shipping from China — Cost Guide 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**

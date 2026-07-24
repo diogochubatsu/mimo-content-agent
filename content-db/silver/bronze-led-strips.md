@@ -1,3 +1,15 @@
+---
+title: "LED Strip Lights: Price, MOQ, Suppliers Guide 2026"
+description: "strip lights:. **Updated:** July 24, 2026 | **Reading time:** 8 min"
+keywords: ["strip lights:", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "led-strip-lights-price-moq-suppliers-guide-2026"
+canonical: "https://importguide1688.com/articles/led-strip-lights-price-moq-suppliers-guide-2026"
+og:
+  title: "LED Strip Lights: Price, MOQ, Suppliers Guide 2026"
+  description: "strip lights:. **Updated:** July 24, 2026 | **Reading time:** 8 min"
+  type: "article"
+  image: "/og/led-strip-lights-price-moq-suppliers-guide-2026.png"
+---
 # LED Strip Lights: Price, MOQ, Suppliers Guide 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 8 min

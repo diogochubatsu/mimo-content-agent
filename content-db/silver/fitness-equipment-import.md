@@ -1,3 +1,15 @@
+---
+title: "Fitness Equipment Import Guide 2026"
+description: "fitness equipment. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["fitness equipment", "import", "china", "supplier", "wholesale", "alibaba", "amazon", "margin", "profit"]
+slug: "fitness-equipment-import-guide-2026"
+canonical: "https://importguide1688.com/articles/fitness-equipment-import-guide-2026"
+og:
+  title: "Fitness Equipment Import Guide 2026"
+  description: "fitness equipment. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/fitness-equipment-import-guide-2026.png"
+---
 # Fitness Equipment Import Guide 2026
 
 **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**

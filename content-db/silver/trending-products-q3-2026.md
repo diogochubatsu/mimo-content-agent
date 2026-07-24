@@ -1,3 +1,15 @@
+---
+title: "Trending Products to Import from China Q3 2026"
+description: "trending products. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["trending products", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+slug: "trending-products-to-import-from-china-q3-2026"
+canonical: "https://importguide1688.com/articles/trending-products-to-import-from-china-q3-2026"
+og:
+  title: "Trending Products to Import from China Q3 2026"
+  description: "trending products. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/trending-products-to-import-from-china-q3-2026.png"
+---
 # Trending Products to Import from China Q3 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**

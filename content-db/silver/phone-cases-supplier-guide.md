@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Phone Cases Supplier Guide 2026"
+description: "phone cases. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["phone cases", "import", "china", "supplier", "wholesale", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "complete-guide-phone-cases-supplier-guide-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-phone-cases-supplier-guide-2026"
+og:
+  title: "Complete Guide: Phone Cases Supplier Guide 2026"
+  description: "phone cases. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-phone-cases-supplier-guide-2026.png"
+---
 # Complete Guide: Phone Cases Supplier Guide 2026
 
 **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**

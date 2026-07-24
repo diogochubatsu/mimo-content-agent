@@ -1,3 +1,15 @@
+---
+title: "Top 10 LED Strip Lights to Import from China (2026)"
+description: "strip lights. **Updated:** July 24, 2026 | **Reading time:** 10 min | **Based on 50+ reviews**"
+keywords: ["strip lights", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "top-10-led-strip-lights-to-import-from-china-2026"
+canonical: "https://importguide1688.com/articles/top-10-led-strip-lights-to-import-from-china-2026"
+og:
+  title: "Top 10 LED Strip Lights to Import from China (2026)"
+  description: "strip lights. **Updated:** July 24, 2026 | **Reading time:** 10 min | **Based on 50+ reviews**"
+  type: "article"
+  image: "/og/top-10-led-strip-lights-to-import-from-china-2026.png"
+---
 # Top 10 LED Strip Lights to Import from China (2026)
 
 **Updated:** July 24, 2026 | **Reading time:** 10 min | **Based on 50+ reviews**

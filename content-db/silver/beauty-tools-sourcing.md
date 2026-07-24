@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Beauty Tools Sourcing 2026"
+description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "alibaba", "margin"]
+slug: "complete-guide-beauty-tools-sourcing-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-beauty-tools-sourcing-2026"
+og:
+  title: "Complete Guide: Beauty Tools Sourcing 2026"
+  description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-beauty-tools-sourcing-2026.png"
+---
 # Complete Guide: Beauty Tools Sourcing 2026
 
 **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**

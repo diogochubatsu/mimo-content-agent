@@ -4,6 +4,8 @@ tier: "bronze"
 site: "importguide1688.com"
 created: "2026-07-24T01:28:39.638Z"
 keywords: ["bluetooth", "earbuds", "import", "china", "supplier", "wholesale", "dropship"]
+description: "bluetooth. **Updated:** 7/23/2026 | **Reading time:** 4 min"
+canonical: "https://importguide1688.com/articles/bluetooth-earbuds-price-moq-supplier-guide-2026"
 ---
 
 # Bluetooth Earbuds: Price, MOQ & Supplier Guide (2026)

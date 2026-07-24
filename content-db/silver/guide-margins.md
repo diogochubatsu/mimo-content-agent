@@ -1,3 +1,15 @@
+---
+title: "How to Calculate Import Margins 2026"
+description: "calculate import. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["calculate import", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "how-to-calculate-import-margins-2026"
+canonical: "https://importguide1688.com/articles/how-to-calculate-import-margins-2026"
+og:
+  title: "How to Calculate Import Margins 2026"
+  description: "calculate import. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/how-to-calculate-import-margins-2026.png"
+---
 # How to Calculate Import Margins 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**

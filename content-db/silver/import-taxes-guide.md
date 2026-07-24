@@ -1,3 +1,15 @@
+---
+title: "Import Taxes Guide: EU €3 Duty, US Tariffs, Brazil Regulatio"
+description: "import taxes. **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**"
+keywords: ["import taxes", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+slug: "import-taxes-guide-eu-3-duty-us-tariffs-brazil-regulations-2026"
+canonical: "https://importguide1688.com/articles/import-taxes-guide-eu-3-duty-us-tariffs-brazil-regulations-2026"
+og:
+  title: "Import Taxes Guide: EU €3 Duty, US Tariffs, Brazil Regulatio"
+  description: "import taxes. **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/import-taxes-guide-eu-3-duty-us-tariffs-brazil-regulations-2026.png"
+---
 # Import Taxes Guide: EU €3 Duty, US Tariffs, Brazil Regulations 2026
 
 **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**

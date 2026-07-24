@@ -4,6 +4,8 @@ tier: "bronze"
 site: "importguide1688.com"
 created: "2026-07-24T01:54:51.538Z"
 keywords: ["test", "product", "import", "china", "supplier", "wholesale", "dropship"]
+description: "test product:. **Updated:** 7/23/2026 | **Reading time:** 4 min"
+canonical: "https://importguide1688.com/articles/test-product-price-moq-supplier-guide-2026"
 ---
 
 # Test Product: Price, MOQ & Supplier Guide (2026)

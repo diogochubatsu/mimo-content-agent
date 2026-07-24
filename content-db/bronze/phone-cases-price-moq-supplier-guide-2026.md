@@ -4,6 +4,8 @@ tier: "bronze"
 site: "importguide1688.com"
 created: "2026-07-24T01:01:54.124Z"
 keywords: ["phone", "cases", "import", "china", "supplier", "wholesale", "dropship"]
+description: "phone cases. **Updated:** 7/23/2026 | **Reading time:** 4 min"
+canonical: "https://importguide1688.com/articles/phone-cases-price-moq-supplier-guide-2026"
 ---
 
 # Phone Cases: Price, MOQ & Supplier Guide (2026)

@@ -894,9 +894,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:25:12Z",
-      "result": null
+      "result": "Script add-seo-meta.js criado e executado. Meta descriptions, keywords, e canonical tags adicionados a todos os artigos."
     },
     {
       "id": "T051",

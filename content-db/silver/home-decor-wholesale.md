@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Home Decor Wholesale Guide 2026"
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "supplier", "wholesale", "margin", "profit"]
+slug: "complete-guide-home-decor-wholesale-guide-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-home-decor-wholesale-guide-2026"
+og:
+  title: "Complete Guide: Home Decor Wholesale Guide 2026"
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-home-decor-wholesale-guide-2026.png"
+---
 # Complete Guide: Home Decor Wholesale Guide 2026
 
 **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**
