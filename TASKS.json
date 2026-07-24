@@ -3683,7 +3683,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": "YouTube PL scripts created: content-db/social/youtube-scripts-pl.md - 5 complete scripts with hooks, main content, CTAs, descriptions, and timestamps"
+      "result": "YouTube PL scripts created: content-db/social/youtube-scripts-pl.md - 5 complete scripts with hooks, main content, CTAs, descriptions, and timestamps",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -3729,9 +3729,9 @@
       "acceptance": "30+ posts reddit com datas recentes",
       "id": "T252",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": null,
+      "result": "Reddit scale posts created",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
