@@ -468,3 +468,68 @@ A: Reputable agents have dispute resolution processes. Document issues with phot
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do sourcing agents charge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically 5-10% of order value. Some charge fixed fees ($50-200) for small orders. Always get quotes from multiple agents before deciding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are sourcing agents worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for most importers. Agents save 20-30% on product costs, handle quality control, and manage communication. The fee is usually offset by savings and risk reduction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find a reliable agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Read reviews on Reddit/Discord, 2) Check agent websites, 3) Test with small order, 4) Ask for references, 5) Start with established agents (Superbuy, Wegobuy)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use an agent for 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, agents are especially useful for 1688 since it's in Chinese. Agents handle communication, payment, and shipping coordination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between agents and freight forwarders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Agents source products, negotiate prices, and handle QC. Freight forwarders only handle shipping. You may need both for complete service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I communicate with my agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most agents use WeChat, WhatsApp, or email. English is usually sufficient for established agents. For local agents, you may need translation tools."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my agent makes a mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reputable agents have dispute resolution processes. Document issues with photos, communicate clearly, and request compensation. Good agents will make it right."
+      }
+    }
+  ]
+}
+</script>

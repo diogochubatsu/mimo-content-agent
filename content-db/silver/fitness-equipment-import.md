@@ -509,3 +509,76 @@ A: Fitness equipment typically falls under HTS codes 9506 (sports equipment) or 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the minimum order quantities (MOQs) for fitness equipment imports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by product category and supplier. Resistance bands typically have MOQs of 1,000-5,000 units, dumbbells 500-1,000 units per weight size, exercise mats 500-1,000 units, and fitness machines 10-30 units. However, many suppliers offer reduced MOQs for first-time buyers or standard products at slightly higher per-unit prices. It's common to negotiate MOQ reductions as relationships develop and order volumes increase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate total landed cost for fitness equipment imports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total landed cost includes: FOB price + freight charges + insurance + customs duties + customs broker fees + port handling fees + inland transportation + warehousing costs + inspection fees + financing costs + currency exchange fees. Typically, add 15-30% to the FOB price to estimate total landed cost for ocean freight from Asia to North America, depending on product weight and shipping distance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment terms should I negotiate with fitness equipment manufacturers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard terms for new relationships are 30% deposit via T/T with 70% balance before shipment. As relationships develop, negotiate for 30% deposit with 70% via Letter of Credit at sight, or extended terms like 30 days after B/L date. Avoid Western Union or PayPal for larger transactions due to high fees and limited buyer protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle product defects and returns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Establish clear quality expectations in your purchase agreement, including defect rate limits (typically 1-3% depending on product category). Implement pre-shipment inspection using AQL standards. For defective products, negotiate replacement, credit, or repair terms upfront. Maintain detailed inspection records to support claims. Consider product liability insurance for high-value items."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications are required for selling fitness equipment in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While not always legally required, ASTM F2276-10 certification is the industry standard for fitness equipment safety and is often required by major retailers. CPSC compliance is mandatory, including proper labeling and incident reporting. California Prop 65 warnings are required if products contain listed chemicals. UL certification is increasingly expected for electrically-powered equipment like treadmills."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I protect my brand when importing fitness equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several strategies can protect your brand: Register trademarks in all markets where you sell. Use unique product designs and packaging. Include branding elements that are difficult to replicate. Monitor marketplaces for counterfeit products. Register on Amazon Brand Registry if selling through Amazon. Consider utility patents for unique product features. Include quality control provisions in manufacturing contracts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best shipping methods for heavy fitness equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ocean FCL (Full Container Load) is the most cost-effective method for volumes exceeding 5,000 kg. For smaller volumes, ocean LCL (Less than Container Load) offers flexibility but at higher per-kg costs. Air freight is suitable for urgent orders or high-value, low-weight items. Rail freight is an option for European markets, offering faster transit than ocean with lower costs than air. Always compare multiple freight quotes and consider total transit time plus customs clearance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage customs duties and import taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fitness equipment typically falls under HTS codes 9506 (sports equipment) or 8428 (lifting/handling equipment). Import duties range from 0-6.5% depending on product classification and country of origin. Additional duties like anti-dumping duties may apply to certain Chinese products. Work with a customs broker to determine exact duty rates and explore duty reduction strategies like first-sale valuation or foreign trade zones."
+      }
+    }
+  ]
+}
+</script>

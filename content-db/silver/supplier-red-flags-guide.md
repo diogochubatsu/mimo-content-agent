@@ -516,3 +516,85 @@ A: IP protection requires proactive steps before manufacturing begins: (1) Regis
 6. U.S. Small Business Administration. "Importing: A Guide for Small Businesses." (Accessed July 2026)
 7. SGS Group. "Factory Audit Methodology and Standards." (Accessed July 2026)
 8. China National Intellectual Property Administration (CNIPA). "IP Protection for Foreign Businesses in China." (Accessed July 2026)
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I verify a Chinese supplier's business license?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the National Enterprise Credit Information Publicity System (gsxt.gov.cn) — it is free and official. Enter the company's unified social credit code (18 digits) or company name. Verify that the legal representative, registered capital, business scope, and registration status all match what the supplier claims. For a more detailed report, platforms like Tianyancha offer English-language business intelligence for approximately $20-50 per report."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to pay 100% upfront via wire transfer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Paying 100% upfront via wire transfer is the highest-risk payment method for importers. Standard practice is 30% deposit via T/T, with the remaining 70% paid after inspection but before shipment. For added protection, use Alibaba Trade Assurance or a Letter of Credit for orders above $10,000. If a supplier insists on 100% upfront payment, this itself is a major red flag."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does a factory audit cost and is it worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Factory audits through third-party firms like SGS, Bureau Veritas, or Intertek cost $300-$800 depending on location and scope. For orders above $5,000, the investment is almost always worthwhile. A factory audit verifies manufacturing capability, quality systems, and business legitimacy — three things you cannot confirm remotely. Many importers who skip audits end up spending 10-20x the audit cost resolving supplier problems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I suspect my supplier is fraudulent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediate steps: (1) Stop all further payments, (2) Document all communications and payment receipts, (3) File a complaint with the platform if applicable, (4) Contact your bank to attempt a wire recall (success rate is low but worth trying), (5) Hire a local sourcing agent or lawyer in China to investigate, (6) Report the supplier to local authorities and trade associations. For losses above $10,000, consider hiring a Chinese lawyer who specializes in trade disputes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I trust suppliers with \"Gold Supplier\" or \"Verified\" badges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Badges are helpful indicators but not guarantees. A Gold Supplier badge on Alibaba costs approximately $1,200/year and requires some verification, but it does not guarantee product quality or ethical behavior. Verified badges indicate the platform has checked some information, but scammers have obtained these badges by submitting legitimate-looking but ultimately fraudulent documentation. Always supplement platform badges with independent verification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many samples should I order before committing to a bulk order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Order a minimum of two samples from the same supplier, spaced 2-3 weeks apart, to test consistency. If your order value exceeds $10,000, consider ordering a third \"pre-production\" sample that mimics actual bulk conditions. Document all samples with measurements, photos, and quality assessments. If samples differ significantly between orders, do not proceed with the supplier — inconsistency at the sample stage guarantees inconsistency at scale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most common red flag importers overlook?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most overlooked red flag is a supplier who is too agreeable. Suppliers who immediately say \"yes\" to every specification, timeline, and price without questions or pushback are either not being honest about their capabilities or do not intend to deliver what they promise. Good suppliers ask clarifying questions, push back on unrealistic timelines, and negotiate terms — these are signs of a professional operation that takes the relationship seriously."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a sourcing agent to find suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sourcing agents add value in three ways: (1) they can physically verify factories you cannot visit, (2) they have existing networks of vetted suppliers, and (3) they can manage quality control throughout production. However, sourcing agents themselves can be fraudulent. Vet agents the same way you vet suppliers: check their business registration, ask for references from previous clients, and verify their physical office location. Reputable agents charge 5-10% commission on orders, which is a worthwhile investment for orders above $5,000."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I protect my intellectual property when manufacturing in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IP protection requires proactive steps before manufacturing begins: (1) Register your trademark in China through the China National Intellectual Property Administration (CNIPA), (2) File design patents for unique product features, (3) Use comprehensive NDA agreements that specify penalties for IP theft, (4) Split manufacturing across multiple suppliers so no single supplier has the complete product design, (5) Consider using a contract manufacturer with a proven track record of IP protection. Without registered IP in China, you have limited legal recourse if a supplier steals your designs."
+      }
+    }
+  ]
+}
+</script>

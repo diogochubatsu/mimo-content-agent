@@ -145,3 +145,52 @@ A: Yes. Earbuds with Bluetooth must comply with FCC (US), CE (EU), and local reg
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between TWS and regular Bluetooth earbuds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TWS (True Wireless Stereo) means no wires between earpieces. Regular Bluetooth earbuds have a wire connecting them. TWS is more popular and commands higher prices. Always source TWS for better margins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure quality from Chinese suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Order samples first. 2) Request certifications (FCC, CE). 3) Use Alibaba Trade Assurance. 4) Start with small orders (50-100 pcs). 5) Consider hiring a QC inspector for large orders ($100-200)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the minimum order for custom branding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most suppliers offer custom branding (logo, packaging) for 100+ units. Some accept 50 units for logo printing. Full custom packaging usually requires 500+ units."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle warranty claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget 3-5% for warranty claims. Most Chinese suppliers offer 6-12 month warranty. Keep spare units for replacements. For Amazon, FBA handles returns automatically."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any legal restrictions on importing earbuds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Earbuds with Bluetooth must comply with FCC (US), CE (EU), and local regulations. Some countries require specific Bluetooth version certifications. Check import regulations before ordering."
+      }
+    }
+  ]
+}
+</script>

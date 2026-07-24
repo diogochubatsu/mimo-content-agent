@@ -598,3 +598,84 @@ A: Yes, and it's actually recommended. Use AliExpress for sampling, 1688 for bul
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it safe to source from platforms other than Alibaba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but safety varies by platform. Made-in-China.com and Global Sources have rigorous verification systems. DHgate and AliExpress offer escrow protection. 1688 and Taobao require a sourcing agent for international buyers, but reputable agents like Superbuy and Wegobuy have strong track records. Always use the platform's payment system and buyer protection features."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I pay on 1688.com from outside China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You cannot pay directly — 1688 uses Alipay, which requires a Chinese bank account. The solution is to use a sourcing agent. They receive your payment (via PayPal, credit card, or bank transfer) and pay the supplier through Alipay. Most agents charge 4-6% service fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the minimum order quantity on each platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AliExpress has no MOQ (1 unit). DHgate allows orders of 1-10 units. 1688 typically requires 10-100 units. Alibaba ranges from 50-500 units depending on the supplier. Direct factories usually require 100-1,000 units but offer the best prices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are sourcing agents legitimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reputable agents like Superbuy, Wegobuy, and CSSBuy are legitimate businesses used by thousands of importers. They've been operating for 5+ years and have transparent fee structures. However, always research the agent, read reviews, and start with a small test order."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get the same products on 1688 as on Alibaba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — 1688 and Alibaba often have the same products from the same manufacturers. The difference is pricing: 1688 shows domestic wholesale prices (30-50% lower) while Alibaba shows export prices with middleman markups."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a supplier is a real factory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request a video tour of their production floor, check their business license (天眼查 or 企查查), verify their Alibaba/1688 profile for factory photos, and consider a third-party audit from SGS or Bureau Veritas before placing large orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Canton Fair worth attending for small importers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Even if you're ordering small quantities, the Canton Fair lets you see products in person, meet multiple suppliers, compare quality, and build relationships. Many exhibitors offer samples and accept smaller orders for first-time buyers. Budget $2,000-5,000 for the trip (flights, hotel, interpreter)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose between Superbuy and Wegobuy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both are excellent, but Superbuy is slightly more beginner-friendly with better English support and a simpler interface. Wegobuy offers slightly lower service fees (4% vs 5%). For your first order, Superbuy is recommended. For repeat orders, compare both on your specific product category."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use multiple platforms simultaneously?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and it's actually recommended. Use AliExpress for sampling, 1688 for bulk ordering via agent, and maintain a relationship with one Alibaba supplier as a backup. This diversification reduces risk and gives you negotiating leverage."
+      }
+    }
+  ]
+}
+</script>

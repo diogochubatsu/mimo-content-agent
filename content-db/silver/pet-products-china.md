@@ -505,3 +505,76 @@ A: Start with verified platforms like Alibaba (look for Gold Suppliers with Trad
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the minimum order quantities (MOQs) for pet products from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by product type and supplier. Simple plush toys may have MOQs of 500-1,000 pieces, while custom-molded items might require 3,000-5,000 units. Consumables typically require 1,000-5,000 kg minimum orders. Many factories are willing to negotiate lower MOQs for first-time buyers at slightly higher per-unit costs. Build volume over time to access better pricing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure pet products are safe and non-toxic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request material safety data sheets (MSDS) from suppliers, verify compliance with relevant standards (ASTM F963 for US toys, EN 71 for EU), and conduct third-party testing through accredited labs like SGS, Intertek, or Bureau Veritas. For pet food and treats, FDA requires specific testing for contaminants. Always test products before large orders, especially for items that pets will chew or ingest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the typical lead time for pet product orders from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard lead times are 30-45 days for production plus 2-4 weeks for ocean shipping to the US or Europe. Rush production may be available at 15-20 days for 15-25% premium. Always factor in 1-2 weeks for quality control inspections and documentation preparation. Build buffer time for your first orders until you've established reliable production schedules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle quality issues with Chinese suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prevention is key—invest in pre-shipment inspections and clear specifications. If issues arise, document everything with photos and communicate promptly. Reputable suppliers will offer replacements or refunds for defective goods. Consider using trade assurance programs on Alibaba or escrow services for new supplier relationships. Build quality requirements into your purchase contracts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications do I need to sell pet products in the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pet food and treats require FDA facility registration and compliance with Federal Food, Drug, and Cosmetic Act. Pet toys must meet CPSIA requirements if marketed for children under 12 (many pet toys share characteristics). Electronics require FCC certification. All products need proper country-of-origin labeling. Consider product liability insurance regardless of product type."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I create my own brand of pet products from Chinese manufacturers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, private labeling is very common. Most Chinese manufacturers offer OEM (Original Equipment Manufacturing) services where they produce products with your branding. You'll need to provide packaging designs, specifications, and sometimes tooling costs for custom molds. MOQs for private label are typically higher than generic products. Work with manufacturers experienced in private label to ensure smooth production."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the hidden costs of importing pet products from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beyond the FOB price, budget for: international shipping ($1,000-$3,000 per container), customs duties (typically 0-8% for pet products), customs broker fees ($200-$500), FDA or other compliance testing ($500-$2,000 per product), product liability insurance, warehousing, and domestic distribution. Total landed cost is typically 30-50% above the FOB price."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find reliable pet product manufacturers in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with verified platforms like Alibaba (look for Gold Suppliers with Trade Assurance), attend trade shows like the Canton Fair, or work with established sourcing agents. Request references from existing customers, verify business licenses, and conduct factory audits. Build relationships gradually—start with small test orders before committing to large volumes. The best manufacturers often come through referrals from other importers."
+      }
+    }
+  ]
+}
+</script>

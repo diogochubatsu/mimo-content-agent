@@ -145,3 +145,52 @@ A: Yes, but be specific. Use keywords like "resistance bands for exercise," "wor
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between latex and fabric resistance bands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Latex bands are cheaper ($0.30-0.80) but can snap and cause injuries. Fabric bands ($1.50-3.50) are non-slip, more durable, and safer. For premium markets, always choose fabric."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What resistance levels should I include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard 5-band sets include: X-Light (5-10 lbs), Light (10-20 lbs), Medium (20-30 lbs), Heavy (30-40 lbs), X-Heavy (40-50 lbs). This covers all fitness levels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I test quality before bulk ordering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Order 2-3 sample sets. Test: stretch recovery (should return to original shape), snap resistance (stretch 3x length), and color fastness (wash 5 times). Poor quality bands lose elasticity quickly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications are needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resistance bands don't require specific certifications for most markets. However, for EU, ensure compliance with REACH regulations (no harmful chemicals). For US, general product safety standards apply."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I sell these as \"fitness equipment\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but be specific. Use keywords like \"resistance bands for exercise,\" \"workout bands,\" \"physical therapy bands.\" Different audiences: fitness enthusiasts, physical therapy patients, home gym owners."
+      }
+    }
+  ]
+}
+</script>

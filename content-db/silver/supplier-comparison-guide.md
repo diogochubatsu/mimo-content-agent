@@ -529,3 +529,76 @@ A: Absolutely. A common strategy: 1) Use AliExpress to test products (small orde
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use 1688 without speaking Chinese?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you'll need a sourcing agent. Agents charge 5-10% of order value and handle all communication, payment, and quality inspection. For orders over $2,000, the 30-50% price savings far exceed the agent cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the minimum order on Alibaba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary by supplier, but typically range from 50-500 units. Many suppliers negotiate lower MOQs for first orders. Always ask — the listed MOQ is often just a starting point."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is AliExpress reliable for business orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AliExpress is reliable for small orders and product testing. However, per-unit costs are 50-100% higher than Alibaba, making it unsuitable for most business orders. Use AliExpress to test products, then move to Alibaba for bulk orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid scams on 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Use a sourcing agent, 2) Order samples first, 3) Pay via Alipay (not direct transfer), 4) Verify business licenses, 5) Check transaction history, 6) Start with small orders. The biggest risk is paying directly to bank accounts without escrow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods does each platform accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688: Alipay only (requires Chinese bank account or agent). Alibaba: PayPal, credit cards, T/T (telegraphic transfer). AliExpress: PayPal, credit cards, debit cards. For international buyers, Alibaba and AliExpress are easiest; 1688 requires an agent for payment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle quality issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prevention is better than cure: 1) Order samples first, 2) Use quality inspection services, 3) Get photos before shipping. For Alibaba: File dispute via Trade Assurance. For 1688: Work with agent to negotiate resolution. For AliExpress: Use buyer protection within 60-90 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform is best for private labeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alibaba is best for private label beginners — Trade Assurance protects your investment, English support makes communication easy, and Gold Suppliers often offer customization. 1688 is better for experienced private labelers who want maximum margins and can manage the complexity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. A common strategy: 1) Use AliExpress to test products (small orders), 2) Move to Alibaba for initial bulk orders (buyer protection), 3) Graduate to 1688 for repeat orders (maximum margin). This progression minimizes risk while maximizing savings over time."
+      }
+    }
+  ]
+}
+</script>

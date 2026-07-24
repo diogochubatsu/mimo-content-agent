@@ -145,3 +145,52 @@ A: Yes! Private labeling is common. Most suppliers offer custom branding for 100
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kitchen gadgets sell best on Amazon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Top sellers include: vegetable choppers, silicone spatula sets, magnetic spice jars, automatic soap dispensers, and egg cookers. Check Amazon Best Sellers in \"Kitchen Gadgets\" for current trends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure food safety compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request FDA (US) or LFGB (EU) certification from suppliers. For silicone products, ensure they're BPA-free and heat-resistant up to 450°F. Most quality suppliers provide these certificates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the best way to photograph kitchen gadgets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use lifestyle shots (product in use) rather than white background only. Show the problem it solves. Include size reference (hand, common kitchen items). Video demonstrations convert 3x better."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle product recalls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Keep records of all certifications and supplier agreements. For Amazon, enroll in Product Liability Insurance ($500-1000/year). This protects you if products are recalled."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I create my own brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Private labeling is common. Most suppliers offer custom branding for 100+ units. Create a brand name, logo, and custom packaging. This allows 2-3x price increase over generic products."
+      }
+    }
+  ]
+}
+</script>

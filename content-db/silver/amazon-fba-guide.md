@@ -520,3 +520,76 @@ A: FBA can be worth it for small sellers if they choose the right products and m
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to start selling on Amazon FBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic costs include a Professional seller account at $39.99/month, product costs, shipping to Amazon fulfillment centers, and FBA fees (fulfillment + storage). Initial investment typically ranges from $1,500 to $5,000 depending on your product category and inventory volume. There are no upfront fees to join FBA itself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What products sell best on Amazon FBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Products that sell best on FBA are typically lightweight, compact, have consistent demand, and are not easily damaged. Popular categories include electronics accessories, home and kitchen items, health and personal care products, and books. Products priced between $15 and $50 tend to perform well with FBA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take for products to become available after shipping to Amazon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Products typically become available for purchase within 3-5 business days after arriving at Amazon's fulfillment center. However, during peak seasons, this can take up to 7-10 days. It's recommended to ship inventory well in advance of anticipated demand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use FBA for products sold outside of Amazon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Amazon's Multi-Channel Fulfillment (MCF) allows you to use FBA inventory to fulfill orders from other sales channels, including your own website, eBay, and other marketplaces. MCF charges apply in addition to standard FBA fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my FBA inventory gets damaged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon covers the cost of any inventory that is damaged or lost while in their fulfillment centers, with the exception of inventory that was improperly packaged or labeled. You'll need to file a reimbursement claim through Seller Central to recover the value of damaged or lost items."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid long-term storage fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To avoid long-term storage fees, monitor your inventory levels regularly and remove slow-moving products before they exceed 181 days in Amazon's warehouses. Use Amazon's removal order feature to return or dispose of excess inventory. Implement demand forecasting to better predict inventory needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I check my FBA fees before sending products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Amazon provides a Revenue Calculator in Seller Central that allows you to estimate FBA fees before sending products. You can also use the FBA Fee Estimator tool to calculate total fees including fulfillment, storage, and referral fees based on your product's dimensions and weight."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is FBA worth it for small sellers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FBA can be worth it for small sellers if they choose the right products and manage fees carefully. The Prime badge and Buy Box advantage can significantly increase sales velocity. However, small sellers should start with a limited product selection and carefully track profitability to ensure FBA fees don't erode margins."
+      }
+    }
+  ]
+}
+</script>

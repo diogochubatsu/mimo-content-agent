@@ -681,3 +681,76 @@ A: Import duties and taxes vary by country and product type. Research your count
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is DHgate safe for buying from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, DHgate is generally safe when you follow proper precautions. The platform's escrow payment system holds your funds until you confirm receipt of satisfactory products. Always verify supplier ratings (95%+ positive feedback), use the platform's messaging system for communications, and avoid paying outside the DHgate system. The platform has served over 26 million buyers globally with robust buyer protection policies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the typical shipping times from DHgate to the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shipping times vary by method: ePacket typically takes 7-15 days, DHL/FedEx/UPS take 3-7 days, and China Post takes 15-30 days. For dropshipping, ePacket is the most popular choice, offering a good balance of cost and speed. During peak seasons (November-January), expect additional delays of 3-7 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a refund if the product is not as described?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, DHgate's buyer protection covers products that significantly differ from the listing description. If you receive a product that doesn't match the listing, you can open a dispute within 15 days of receipt. Provide photographic evidence and detailed descriptions of the discrepancies. DHgate will mediate the dispute and typically issues refunds for verified claims within 3-7 business days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum order quantity on DHgate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many DHgate suppliers offer \"1 piece MOQ\" for sample orders or dropshipping. However, the best pricing is typically available at higher quantities (10-50+ units). MOQ varies by supplier and product category, so always check the specific listing details. Customization orders often require higher MOQs (50-100+ units)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid scams on DHgate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect yourself by: checking supplier ratings (95%+ positive feedback), reading recent buyer reviews, avoiding prices that seem too good to be true, communicating through the platform's messaging system, using DHgate's escrow payment system, and starting with small test orders. Never pay outside the platform or share personal financial information with suppliers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods does DHgate accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DHgate accepts multiple payment methods including Visa, MasterCard, American Express, PayPal, bank transfers, and the DHgate Wallet. PayPal is recommended for buyer protection. Bank transfers may offer better rates for large orders but provide less buyer protection. Always use the platform's payment system to ensure escrow protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I customize products on DHgate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many DHgate suppliers offer product customization including logo printing, color variations, packaging changes, and design modifications. Customization typically requires higher MOQs (50-500+ units depending on the product and supplier). Discuss customization options directly with suppliers before ordering, as lead times for custom products are usually longer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle customs and import duties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Import duties and taxes vary by country and product type. Research your country's import regulations and duty rates before ordering. DHgate provides commercial invoices with accurate product descriptions. For large shipments, consider using a customs broker. Many countries have duty-free thresholds (e.g., $800 in the US) that can help reduce costs for smaller orders."
+      }
+    }
+  ]
+}
+</script>

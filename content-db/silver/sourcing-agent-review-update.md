@@ -491,3 +491,76 @@ A: Build volume over time. Agents typically offer lower rates for larger orders:
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do sourcing agents typically charge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most agents charge 5-10% of order value. Some charge flat fees for specific services (QC inspection: $50-150, factory visit: $100-300). For orders over $10,000, you can negotiate lower rates (3-5%)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I trust sourcing agents with my money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you choose a reputable agent. Use escrow services, start with small orders, and verify their track record. Most established agents have thousands of successful transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a sourcing agent and a trading company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sourcing agent works on commission (5-10%) and acts as your representative. A trading company marks up products (20-50%) and sells to you directly. Agents are generally cheaper and more transparent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need an agent for Alibaba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. Alibaba's Trade Assurance provides buyer protection. However, an agent can help with: negotiation, quality inspection, logistics, and complex orders. For simple orders, direct sourcing on Alibaba is fine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify an agent is legitimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Check online reviews, 2) Verify physical address, 3) Ask for references, 4) Test with small order, 5) Use traceable payment methods, 6) Start with low-value orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my agent makes a mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good agents have insurance and will rectify mistakes. Document everything, communicate clearly, and establish clear expectations upfront. Most issues can be resolved through communication."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I visit factories through my agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most agents offer factory visit services ($100-300). This is highly recommended for large orders or private label products. The agent will arrange transportation, translation, and meetings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I negotiate lower commission rates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Build volume over time. Agents typically offer lower rates for larger orders: $5K-20K/month = 4-6%, $20K-100K/month = 3-5%, $100K+/month = 2-4%. Also, paying via bank transfer (not PayPal) can save 2-3%."
+      }
+    }
+  ]
+}
+</script>

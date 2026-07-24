@@ -536,3 +536,76 @@ A: The major trends include: sustainability (73% of consumers under 40 prioritiz
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum order quantity (MOQ) for most home decor wholesalers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by supplier type. Direct manufacturers typically require 100+ units per SKU, while wholesale distributors may accept orders as low as 25-50 units. Online wholesale marketplaces like Faire often have no minimum order requirements, though pricing is higher. For new retailers, starting with distributors or marketplaces allows you to test products before committing to larger manufacturer orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much should I allocate to initial wholesale inventory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most financial advisors recommend allocating $10,000-$25,000 for initial wholesale inventory in a new home decor retail venture. This provides enough variety to offer a compelling selection without overextending financially. Plan to invest 40% in wall art and textiles (highest volume), 30% in candles and fragrance (highest margin), and 30% in vases and decorative objects (versatile appeal)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I protect fragile items during shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use double-wall corrugated boxes for items over 10 lbs, apply minimum 3/16\" bubble wrap, and ensure 2\" cushioning on all sides within the box. For vases and ceramics, fill interior cavities with packing paper and use corner protectors for angular pieces. Implement the quality control checkpoints outlined in Section 4.3 and track damage rates to continuously improve your packaging approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most profitable home decor categories in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Candles and luxury fragrance offer the highest average margins (55-85% gross margin), followed by premium wall art (50-80%) and designer textiles (50-80%). However, wall art generates the highest total revenue due to higher average transaction values. The optimal strategy is to balance high-margin categories with high-volume categories to maximize overall profitability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I order seasonal inventory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Order seasonal inventory 8-12 weeks before the target selling season to ensure adequate stock and avoid rush shipping costs. For Q4 holiday inventory, place orders by August-September. For Q2 spring collections, order in February-March. Build in buffer time for international shipments, which may require 12-16 weeks due to customs and transit times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I work with multiple suppliers or consolidate with fewer partners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both approaches have merit, but consolidation typically offers advantages for established retailers. Working with 3-5 trusted suppliers improves pricing leverage, simplifies logistics, and strengthens relationships. However, maintaining 1-2 backup suppliers for critical products provides risk mitigation against supply chain disruptions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I test new products without committing to large wholesale orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use online wholesale marketplaces like Faire or wholesale directories that offer low or no minimum orders for initial purchases. Attend trade shows to request sample orders. Negotiate trial orders with established suppliers, offering to pay sample pricing for small quantities. Test products in-store for 30-60 days, tracking sales velocity and customer feedback before committing to larger orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key trends shaping home decor wholesale in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The major trends include: sustainability (73% of consumers under 40 prioritize eco-friendly products), personalization (custom and made-to-order options), wellness integration (aromatherapy and mood-enhancing products), maximalism revival (bold colors and patterns), and digital integration (AR try-before-you-buy experiences). Wholesalers who align their product offerings with these trends will capture the most growth."
+      }
+    }
+  ]
+}
+</script>

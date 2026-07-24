@@ -600,3 +600,84 @@ A: Yes, many countries offer free trade zones (FTZs) or bonded warehouses where 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most cost-effective country to import from in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most cost-effective country depends on your product category and target market. For US imports, Vietnam and Mexico offer significant duty advantages under USMCA and bilateral agreements. For EU imports, Turkey and Morocco benefit from customs unions and FTAs. Japan's low duty rates make it attractive for re-exporting to other Asian markets. The key is to calculate total landed cost including duties, shipping, and compliance costs, not just the FOB price."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate the total cost of importing goods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total landed cost includes: (1) Product cost (FOB price), (2) International shipping (ocean freight or air freight), (3) Insurance, (4) Customs duties (based on HS code and country of origin), (5) VAT/GST/Consumption tax (where applicable), (6) Port handling and terminal charges, (7) Customs clearance fees, (8) Inland transportation, and (9) Any additional regulatory fees or taxes. Use a landed cost calculator or work with your customs broker to get accurate estimates before placing orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I under-declare the value of my imports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under-declaring import values is a serious offense in all countries. In the US, penalties can reach 4 times the unpaid duties. In the EU, you may face criminal prosecution and permanent ban from importing. Brazil imposes fines of up to 300% of the undeclared value, plus potential criminal charges. Japan can impose penalties of up to the amount of unpaid duties plus interest. Always declare accurate values and retain supporting documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I avoid import duties by shipping goods in small packages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While some countries have de minimis thresholds that allow duty-free import of low-value goods, deliberately splitting shipments to stay under these thresholds is considered circumvention and is illegal. In the US, this practice is called \"import splitting\" and can result in penalties. The EU's new €3 customs charge on small parcels is specifically designed to prevent this practice. Always declare the full value of your imports."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does customs clearance typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customs clearance times vary significantly by country: US (1-2 days for standard shipments), EU (1-2 days with electronic declaration), Japan (1-2 days with NACCS), Brazil (7-30 days due to complex documentation requirements). Delays can occur due to missing documentation, random inspections, or goods being flagged for additional review. Maintain accurate records and submit complete documentation to minimize clearance times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the penalties for incorrect HS code classification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Penalties for incorrect HS classification vary by country but can be substantial. In the US, you may owe additional duties plus penalties of up to 4 times the unpaid amount. In the EU, penalties can include duty differential, interest, and fines up to the value of the goods. Brazil imposes fines of 10-300% of the unpaid duties depending on intent. Japan can impose penalties equal to the unpaid duties plus interest. Consider obtaining a Binding Tariff Information (BTI) in the EU or an Advance Ruling in the US for classification certainty."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle import taxes for e-commerce sales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "E-commerce imports face unique challenges. For B2C shipments, you may need to collect and remit VAT/GST at the point of sale in some countries (OSS in the EU, for example). For B2B imports, you can typically reclaim VAT/GST. The EU's new €3 customs charge affects low-value e-commerce parcels specifically. Consider using a customs broker experienced in e-commerce and explore options for customs duty paid by the seller (DDP) vs. buyer (DDU)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation do I need for importing goods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard documentation includes: (1) Commercial invoice with accurate description, value, and origin, (2) Packing list with weights and dimensions, (3) Bill of lading or airway bill, (4) Certificate of origin (especially for FTA benefits), (5) Product compliance certificates (CE, FCC, etc.), (6) Insurance certificate, and (7) Any product-specific permits or licenses. Some countries require additional documentation—Brazil, for example, requires a Nota Fiscal de Importação and RADAR registration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any duty-free zones I can use to reduce import taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many countries offer free trade zones (FTZs) or bonded warehouses where goods can be stored, assembled, or processed without paying duties until they enter the domestic market. The US has over 250 Foreign-Trade Zones, the EU has various types of customs-approved warehouses, Japan has Free Trade Zones, and Brazil has Zonas Francas. Using an FTZ can help with cash flow and may allow duty reduction if goods are re-exported without entering the domestic market."
+      }
+    }
+  ]
+}
+</script>

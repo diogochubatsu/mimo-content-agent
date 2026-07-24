@@ -434,3 +434,68 @@ A: Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's a good import margin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Target 40%+ after all costs. This provides buffer for unexpected expenses and profitable growth. Below 30% is risky; above 60% is excellent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate customs duties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Find HS code for your product, 2) Check duty rate for your country, 3) Calculate customs value (product + shipping), 4) Multiply by duty rate. Use online calculators for accuracy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most underestimated costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Platform fees (30-40%), returns (5-8%), PPC advertising (10-20%), and defects (2-3%). Most new importers only consider product and shipping costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I improve my margins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Negotiate better prices, 2) Optimize shipping (sea vs air), 3) Reduce returns (better photos/descriptions), 4) Bundle products, 5) Build brand premium."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I include my time in margin calculations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially if you're paying yourself a salary. Include hourly rate × time spent on the product. This gives true profitability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I recalculate margins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly at minimum. Costs change: shipping rates, platform fees, currency fluctuations. Review and adjust pricing accordingly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between gross and net margin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (platform fees, marketing, overhead). Always use net margin for profitability analysis."
+      }
+    }
+  ]
+}
+</script>

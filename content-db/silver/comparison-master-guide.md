@@ -644,3 +644,92 @@ A: Varies by platform and method:
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which platform is safest for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**AliExpress** is safest for beginners due to no minimum order quantity, included shipping, and automated buyer protection. You can test products with minimal risk. Once comfortable, graduate to DHgate or Alibaba for better prices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use 1688 if I don't speak Chinese?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you'll need a sourcing agent. Services like Superbuy, Wegobuy, or local agents in China charge 5-10% of order value to handle communication, payment, and shipping. This is worth it for the 30-50% price savings on large orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between Alibaba and AliExpress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Alibaba** is B2B (business-to-business) with minimum orders (50-500 units), negotiated prices, and Trade Assurance. **AliExpress** is B2C (business-to-consumer) with no minimum orders, fixed prices, and included shipping. Think wholesale vs retail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform has the best buyer protection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**Alibaba** has the best protection with Trade Assurance covering up to $100,000 per transaction. It includes payment protection, quality guarantees, and on-time shipment compensation. AliExpress is second with automated purchase protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DHgate reliable for large orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DHgate is reliable for small to medium orders (1-100 units). For larger orders (100+), consider Alibaba for better prices and Trade Assurance. DHgate's escrow protection is good but not as comprehensive as Alibaba's Trade Assurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid scams on these platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow these rules:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform is best for dropshipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**AliExpress** is best for dropshipping due to no minimum orders, direct shipping to customers, and easy integration with Shopify/WooCommerce. DHgate is a good alternative with slightly better prices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I negotiate prices on all platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**1688 and Alibaba** allow negotiation (especially for bulk orders). **AliExpress** has fixed prices (occasional coupons). **DHgate** allows some negotiation but less than B2B platforms. Always try to negotiate on B2B platforms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods are accepted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "**1688:** Alipay only. **Alibaba:** PayPal, credit cards, T/T, Alibaba Pay. **AliExpress:** Credit cards, PayPal, WebMoney. **DHgate:** Credit cards, PayPal, bank transfer. Always use platform payment systems for protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does shipping take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Varies by platform and method:"
+      }
+    }
+  ]
+}
+</script>

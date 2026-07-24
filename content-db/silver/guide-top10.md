@@ -458,3 +458,68 @@ A: Most products can be imported globally, but check local regulations. Some cou
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which product has the highest margin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phone cases have the highest margin at 97%. With costs as low as $0.35 on 1688 and retail prices of $12.99 on Amazon, the profit potential is enormous."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which product is easiest for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED strip lights or resistance bands. Both have low MOQs, consistent demand, and manageable quality control requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much should I invest in my first product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with $1,000-2,000 total. This covers samples ($100), first order ($500-1,000), shipping ($200-500), and marketing ($200-500)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I focus on one product or multiple?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with one product. Master it, then expand. Spreading too thin early on leads to poor quality control and customer service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle seasonal demand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus on evergreen products that sell year-round. If seasonal, order inventory 2-3 months before peak season."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about product liability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential for all products. Budget $500-2,000/year for product liability insurance. This protects you if products cause injury or damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I import these products to any country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most products can be imported globally, but check local regulations. Some countries have specific requirements for electronics, cosmetics, or fitness equipment."
+      }
+    }
+  ]
+}
+</script>

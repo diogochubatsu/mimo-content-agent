@@ -313,3 +313,77 @@ A: Cargo insurance typically covers 110% of CIF (Cost, Insurance, Freight) value
 5. European Commission. "Customs Tariff Database TARIC." ec.europa.eu (accessed July 21, 2026)
 6. China Customs. "Statistics on China's Foreign Trade - June 2026." customs.gov.cn (accessed July 21, 2026)
 7. International Chamber of Commerce. "Incoterms 2020 Rules." iccwbo.org (accessed July 21, 2026)
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does sea freight from China to the US take in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sea freight transit from major Chinese ports (Shanghai, Shenzhen, Ningbo) to US West Coast ports (Los Angeles, Long Beach, Seattle) typically takes 14-20 days. East Coast destinations (New York, Savannah) add 8-12 additional days, totaling 22-32 days. Transit times can vary based on carrier schedules, port congestion, and weather conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to ship from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sea freight LCL (Less than Container Load) offers the lowest cost for shipments under 15 CBM, typically $60-$120 per CBM. For larger shipments, FCL (Full Container Load) provides the best per-unit economics. Express courier services are the most expensive option per kilogram but offer the fastest delivery and simplest process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a freight forwarder to ship from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While not legally required, using a freight forwarder is strongly recommended. Forwarders handle carrier negotiations, documentation, customs clearance coordination, and cargo insurance. They typically charge 10-15% of freight cost but save time and prevent costly errors, especially for first-time importers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the customs duties for importing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Duty rates depend on your product's HS code and destination country. US MFN rates for Chinese goods typically range from 0-25%, with many electronics at 0-4%. EU rates vary by product category, commonly 0-14%. Anti-dumping duties may apply to specific product categories like steel, solar panels, or certain electronics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I ship lithium batteries from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but lithium batteries have strict IATA and IMO regulations. Batteries must be shipped via UN38.3-tested packaging, with proper labeling and documentation. Sea freight is generally preferred for large quantities since air freight restrictions on lithium batteries are more severe. Many freight forwarders specialize in battery shipments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my shipment is held at customs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customs holds occur due to documentation errors, suspected undervaluation, missing certifications, or random inspection. Resolution typically takes 2-7 days. Provide requested documents promptly, and consider hiring a licensed customs broker to expedite clearance. Prevention through accurate documentation is always faster than resolution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate volumetric weight for air freight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Volumetric weight equals (Length × Width × Height in cm) ÷ 6000. Airlines charge the greater of actual weight or volumetric weight. For example, a box measuring 50×40×30 cm has a volumetric weight of 10 kg. If the actual weight is 7 kg, you're charged for 10 kg."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What insurance do I need for shipping from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cargo insurance typically covers 110% of CIF (Cost, Insurance, Freight) value at rates of 0.3-0.5% of declared value. Marine cargo insurance covers sea freight; air cargo insurance covers air shipments. Express couriers include basic coverage (usually $100-$200) but recommend additional insurance for high-value goods."
+      }
+    }
+  ]
+}
+</script>

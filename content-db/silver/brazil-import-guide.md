@@ -753,3 +753,77 @@ A: Misclassification can result in penalties of 2-4x the unpaid duty amount, plu
   ]
 }
 </script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the total import tax rate for importing from China to Brazil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total tax burden typically ranges from 60-100% depending on the product. This includes Import Duty (0-35%), IPI (0-300%), ICMS (17-25%), and PIS/COFINS (9.25%). Electronics with low IPI rates typically see 40-50% total tax, while clothing with high import duties can see 70-80% total tax."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a CNPJ to import products from China to Brazil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a CNPJ (Brazilian business registration number) is required for all commercial imports. Personal imports are limited to 3 shipments per month, each under $50, with a 20% tax rate. For regular commercial importing, you must establish a Brazilian legal entity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to ship from China to Brazil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sea freight takes 35-45 days (FCL) or 40-50 days (LCL). Air freight takes 7-12 days. Express courier takes 5-10 days. Sea freight is recommended for cost efficiency; air freight for urgent shipments or high-value products."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications do electronics need for import to Brazil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electronics require ANATEL certification for wireless devices (smartphones, Wi-Fi, Bluetooth). This certification takes 4-8 weeks and costs $500-2,000 per model. Start the certification process at least 3 months before your first shipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use a Free Trade Zone to reduce import taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Free Trade Zones (Zonas Francas) like Manaus offer tax incentives, especially for manufacturing and assembly operations. However, the logistics of shipping to the Amazon region add complexity. ZPEs (Special Areas) on the coast offer duty deferral benefits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents do I need for customs clearance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential documents include: Commercial Invoice (in Portuguese), Packing List, Bill of Lading, Certificate of Origin, Import License (LI) for regulated products, and the DI (Declaração de Importação). All documents must be accurate and consistent with CIF value calculations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate the ICMS tax for my imports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ICMS is calculated on top of CIF + II + IPI. The formula is: ICMS = Rate / (1 - Rate) × (CIF + II + IPI). For example, in São Paulo: 18% / (1 - 18%) × $16,141 = $3,501. This creates a \"tax on tax\" effect that significantly increases the total burden."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I misclassify my products under the wrong HS code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Misclassification can result in penalties of 2-4x the unpaid duty amount, plus interest and fines. Brazilian customs may also seize goods. Always work with a customs broker to ensure proper classification and maintain documentation for audit protection."
+      }
+    }
+  ]
+}
+</script>

@@ -688,3 +688,84 @@ Remember that the lowest price isn't always the best value. Consider quality, re
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum order quantity (MOQ) on Global Sources?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary by supplier and product, but typically range from 300-500 units for most categories. Some suppliers accept lower MOQs for first-time orders or sample orders. Complex or customized products often have higher MOQs (500-1,000 units) to justify setup costs. Compare this to Alibaba where MOQs often start at 100 units or less."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Global Sources' buyer protection work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Global Sources offers Trade Assurance, which protects payments made through the platform. If products don't meet agreed specifications or delivery timelines, buyers can file claims for refunds. The platform's verification process reduces the likelihood of issues, but protection exists for genuine disputes. Coverage limits depend on membership level and transaction history."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use Global Sources for small quantities (under 100 units)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Global Sources is primarily designed for bulk purchases with MOQs of 300+ units. For smaller quantities, consider Alibaba, 1688 (domestic Chinese platform), or DHgate. Some Global Sources suppliers may accept smaller orders at premium prices, but this isn't the platform's strength. If small quantities are your primary need, Global Sources may not be the most cost-effective choice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a supplier's claims about their factory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use multiple verification methods:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the payment terms typically offered on Global Sources?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard payment terms are 30% deposit via T/T (telegraphic transfer), with the remaining 70% due before shipment. For established relationships, some suppliers offer:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Global Sources compare to attending trade shows directly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Global Sources complements rather than replaces trade shows. The platform's key advantages over shows:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications should I look for on Global Sources suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential certifications vary by product category:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does shipping from Global Sources suppliers typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shipping times depend on origin, destination, and method:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I negotiate prices on Global Sources?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prices are negotiable, especially for larger orders. Strategies include:"
+      }
+    }
+  ]
+}
+</script>

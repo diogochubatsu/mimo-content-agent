@@ -401,3 +401,68 @@ A: Minimum stack: Jungle Scout ($49/mo) for product research, Helium 10 ($39/mo)
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best product to import with $1,000?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With $1,000, focus on phone accessories or small pet products. Phone cases ($0.50-2 each) or pet toys ($2-4 each) allow you to order 200-500 units with room for shipping and PPC. These categories have proven demand and manageable competition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find trending products before they saturate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monitor Reddit communities (r/AmazonFBA, r/dropship), YouTube channels (Jungle Scout, Wholesale Ted), and Google Trends. Look for products with growing search volume but low competition scores (<500 reviews on Amazon). The window from \"trending\" to \"saturated\" is typically 3-6 months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I focus on one product or launch multiple?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with ONE product. Master the process — sourcing, listing optimization, PPC — before expanding. Sellers who launch 3-5 products simultaneously typically fail at all of them. The exception: if you're doing dropship, where each product requires less investment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the biggest mistakes new importers make?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Not ordering samples before bulk orders, 2) Underestimating total costs (tariffs, shipping, PPC, fees), 3) Choosing products based on margin alone without checking competition, 4) Not automating PPC early enough, 5) Giving up before month 3 (products often take 60-90 days to gain traction)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is dropshipping still viable in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but with changes. The EU's new €3 parcel tax and similar regulations in other countries are squeezing margins. Dropshipping works best for: testing products before committing to inventory, selling high-ticket items ($50+), and markets with low import duties. For most sellers, holding inventory provides better margins and control."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is product differentiation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical. In saturated categories, the only way to win is differentiation. Options include: custom packaging, bundled accessories, unique branding, improved quality, and better instructions/branding. A generic product with professional branding outsells a better product with generic packaging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tools do I need to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum stack: Jungle Scout ($49/mo) for product research, Helium 10 ($39/mo) for keyword research, and Canva (free) for listing images. Total: ~$90/month. Advanced sellers add: Perpetua ($250/mo) for PPC automation, FeedbackWhiz ($20/mo) for review management, and Keepa ($19/mo) for price tracking."
+      }
+    }
+  ]
+}
+</script>

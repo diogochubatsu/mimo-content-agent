@@ -639,3 +639,92 @@ A: Absolutely. Cargo insurance typically costs 0.3–0.8% of declared value — 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to ship from China in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sea freight (FCL) is the cheapest per-kg option at $0.30–$2/kg, but requires a full container (approximately 20,000 kg). For smaller orders, LCL sea freight ($1–$4/CBM) or consolidated air freight ($4–$8/kg) offer the best value. Express courier ($15–$25/kg) is the most expensive but includes door-to-door delivery and customs brokerage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate volumetric weight for air freight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the formula: Volumetric Weight = (Length × Width × Height in cm) / 6000. Carriers charge for whichever is greater: actual weight or volumetric weight. For example, a box measuring 100×60×60 cm has a volumetric weight of 60 kg. If your actual weight is only 30 kg, you'll be charged for 60 kg."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does sea freight from China take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Transit time depends on the destination. From Shanghai: 14–18 days to US West Coast, 28–35 days to US East Coast, 28–35 days to EU ports, and 35–45 days to Brazil. Add 3–5 days for customs clearance and 2–5 days for inland delivery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a customs broker to import from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For commercial shipments over $2,500, yes — a customs broker is strongly recommended. They cost $150–$300 per shipment but prevent costly delays, misclassification penalties, and compliance issues. For small personal imports under $800 (US de minimis), no broker is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between FCL and LCL?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FCL (Full Container Load) means you rent an entire container (20ft or 40ft). It's cheaper per kg for large shipments (1,000+ kg). LCL (Less than Container Load) means your cargo shares a container with other shipments. It's more expensive per kg but only requires a minimum of 1 CBM or 100 kg."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I track my shipment from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all major shipping methods offer tracking. Express courier (DHL, FedEx, UPS) provides real-time door-to-door tracking. Air freight offers airway bill tracking. Sea freight provides Bill of Lading tracking with port-by-port updates. Rail freight offers tracking through the rail operator's system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my goods are damaged during shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First, document the damage with photos immediately upon delivery. Then file a claim with your insurance provider within 48 hours. If you purchased cargo insurance (0.3–0.8% of value), you'll be reimbursed for the damaged goods. Without insurance, you may have limited recourse depending on the carrier's liability terms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I reduce shipping costs from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key strategies: 1) Consolidate orders (ship more, less frequently), 2) Optimize packaging to reduce DIM weight, 3) Negotiate volume discounts with freight forwarders, 4) Use sea freight instead of air for non-urgent orders, 5) Avoid peak season (Oct–Jan) surcharges, 6) Consider China-Europe rail for EU destinations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are peak season surcharges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From October to January (Golden Week through Christmas), shipping rates increase 20–40% due to high demand. Air freight is most affected. To avoid surcharges: order by August for holiday inventory, or accept higher costs and plan for them in your pricing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is shipping insurance worth the cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Cargo insurance typically costs 0.3–0.8% of declared value — for a $10,000 shipment, that's $30–$80. A single lost or damaged container can cost thousands. Most experienced importers consider insurance non-negotiable, especially for sea freight where damage risk is higher."
+      }
+    }
+  ]
+}
+</script>

@@ -250,3 +250,68 @@ A: No. UL (US), CE (EU), PSE (Japan) certifications are required. Budget $200-50
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best LED strip for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SMD 5050 RGB — highest margin, most popular, easy to source. Start with this product."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much do I need to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum $500-1000 for samples + first bulk order (100-200 units)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform is best for buying?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 for lowest prices (30-50% cheaper), Alibaba for easier English interface and Trade Assurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does shipping take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Air: 7-15 days. Sea: 25-40 days. Express (DHL/FedEx): 3-5 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a sourcing agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recommended for first-time buyers. Cost: 5-10% of order value. Worth it for communication and QC."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the return rate for LED strips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-5% for quality suppliers. Main issues: defective LEDs, poor adhesive, wrong color temperature."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I sell LED strips without certifications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. UL (US), CE (EU), PSE (Japan) certifications are required. Budget $200-500 for certifications."
+      }
+    }
+  ]
+}
+</script>

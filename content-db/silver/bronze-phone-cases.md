@@ -145,3 +145,52 @@ A: Yes, but branded cases sell better. Create a simple brand name and logo (use 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best material for phone cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your target market. TPU ($0.30-0.50) is cheapest but feels cheap. Silicone ($0.80-1.20) offers better grip. Leather ($2-4) commands premium prices. For maximum profit, focus on silicone or leather cases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get custom designs printed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most 1688 suppliers offer custom printing for 100+ pieces. Upload your design, choose placement (back, sides, or full wrap), and pay $0.20-0.50 extra per unit for printing. Use Canva or hire a designer on Fiverr for $5-20."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What phone models should I target?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus on the latest iPhone models (iPhone 15/16 series) — they have 3x higher case demand than Android. Samsung Galaxy is second. Always check Amazon Best Sellers for current top models."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle returns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phone case returns average 5-8%. Main reasons: wrong size, poor fit, color mismatch. Always order samples first, verify exact dimensions, and use accurate product photos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I sell cases without a brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but branded cases sell better. Create a simple brand name and logo (use Canva), add it to packaging. This allows you to build customer loyalty and charge premium prices."
+      }
+    }
+  ]
+}
+</script>

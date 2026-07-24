@@ -144,3 +144,52 @@ A: Quality suppliers show 2-5% return rates. Main issues are: defective LEDs (te
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between SMD 5050 and SMD 2835?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SMD 5050 chips are larger (5x5mm) and brighter, ideal for RGB and accent lighting. SMD 2835 chips (2.8x3.5mm) are more energy-efficient and cheaper, perfect for general照明. SMD 5050 costs 30-40% more but offers better margins in premium markets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the minimum order quantity on 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most 1688 suppliers require 50-200 rolls minimum. However, you can negotiate MOQ by ordering mixed colors/styles. Some suppliers accept 10-20 rolls for first-time buyers if you mention long-term cooperation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate shipping costs from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sea freight costs $0.50-1.00/kg for LED strips (typically 0.3-0.5kg per roll). Air freight is $3-5/kg but 5-7x faster. For 100+ rolls, sea freight is more economical. Use freight calculators on 1688 or contact suppliers for accurate quotes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are LED strips safe to import?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but ensure compliance with destination country regulations. US requires UL certification, EU requires CE marking. Most quality 1688 suppliers can provide these certificates for an additional $50-100 per batch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the return rate for LED strips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quality suppliers show 2-5% return rates. Main issues are: defective LEDs (test before shipping), poor adhesive (use 3M backing), and wrong color temperature (specify clearly in orders)."
+      }
+    }
+  ]
+}
+</script>

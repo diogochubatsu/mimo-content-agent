@@ -519,3 +519,92 @@ A: Resistance bands typically classify under HS Code 9506.91 (articles for gener
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum order quantity (MOQ) for importing resistance bands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by supplier and product type. For tube band sets, expect MOQs of 500-1,000 sets. Loop bands typically have MOQs of 1,000-5,000 individual units. Fabric band sets can sometimes be ordered in quantities as low as 300 sets. Custom colors and packaging usually increase MOQ requirements by 50-100%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I determine the right resistance levels for my product line?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Analyze your target market and use case. A general fitness line typically needs 3-5 resistance levels ranging from 10-50 lbs. Rehabilitation-focused products should start at 2-5 lbs and progress to 20-30 lbs. For strength training audiences, include heavy options up to 80+ lbs. Survey your customer base or study competitors' best-selling resistance configurations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications are required to import resistance bands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For general fitness use, resistance bands typically don't require specific certifications in most markets. However, having ISO 9001 certification from your manufacturer demonstrates quality management standards. If making any medical or therapeutic claims, FDA registration (for US market) may be required. CE marking is recommended for European distribution. Always verify current requirements with your local customs authority."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should resistance bands be stored and what shelf life can I expect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Store resistance bands in a cool, dry environment away from direct sunlight and extreme temperatures (below 120°F/49°C). Avoid storing in vehicles or near heat sources. Natural latex bands typically maintain their resistance for 2-3 years with regular use and up to 5 years in storage. TPE and fabric bands have similar lifespans. Packaging should include care instructions for customers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the shipping options and typical costs for importing resistance bands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resistance bands are lightweight and compact, making them economical to ship. For orders under 1,000 lbs, air freight typically costs $4-$7 per kg. Sea freight is significantly cheaper at $0.50-$2.00 per kg but requires 30-45 days transit time. Express courier services (DHL, FedEx, UPS) cost $8-$15 per kg but deliver in 3-7 days. Choose based on your inventory timeline and budget constraints."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure quality control when ordering from overseas suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implement a multi-stage quality control process: (1) Request and test samples before ordering, (2) Approve final specifications and production samples, (3) Conduct mid-production inspection at 30-50% completion, (4) Perform final pre-shipment inspection using AQL sampling or 100% inspection. Consider third-party inspection services like SGS, Bureau Veritas, or Asia Inspection. Define clear acceptable quality levels in your purchase contract."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most common quality issues with resistance bands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most frequent quality problems include: inconsistent resistance levels between bands of the same specification, premature snapping or tearing (especially at connection points), handle detachment from tubes, color bleeding or fading, unpleasant chemical odor from low-quality materials, and defective packaging that arrives damaged. Thorough sample testing and quality control protocols prevent most of these issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I private label resistance bands with my own branding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, private labeling is standard practice in the resistance band industry. Most manufacturers offer custom branding through silk screen printing, heat transfer, or sublimation printing on both bands and packaging. Costs typically add $0.10-$0.50 per unit for band printing and $0.50-$2.00 for custom packaging. Minimum quantities for custom branding may be higher than standard products, usually 500+ units."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What packaging options work best for retail versus e-commerce?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For retail stores, invest in eye-catching printed boxes with window displays or hanging card packaging that showcases the product. For e-commerce, prioritize protective packaging (zipper pouches or boxes) that ships well and creates a positive unboxing experience. Consider adding carrying pouches or mesh bags as value-adds that increase perceived value and customer satisfaction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle customs and import duties for resistance bands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resistance bands typically classify under HS Code 9506.91 (articles for general physical exercise). Import duty rates vary by country—in the US, the rate is approximately 4.5-6.5%. Work with a customs broker to ensure proper classification and documentation. Required documents typically include commercial invoice, packing list, bill of lading, and certificate of origin. Consider DDP (Delivered Duty Paid) shipping terms from your supplier for simplified customs handling."
+      }
+    }
+  ]
+}
+</script>

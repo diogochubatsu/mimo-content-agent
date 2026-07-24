@@ -611,3 +611,84 @@ A: Yes, payment terms are negotiable, especially for established relationships. 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I pay 1688 suppliers directly with my US credit card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, 1688 does not accept international credit cards directly. You must use Alipay (which accepts linked international cards), a sourcing agent who accepts cards, or wire transfer. Attempting to use card-based payment services that claim to work with 1688 often results in failed transactions or fraud."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum order amount for 1688 purchases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 technically has no minimum order, but most suppliers set minimums between 1-50 units depending on the product. For payment purposes, the practical minimum is around 50-100 CNY ($7-14 USD), though most serious buyers start with orders of 500-1,000 CNY ($70-140 USD) to justify payment fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get a refund on 1688 if I'm an international buyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refunds for international buyers follow the standard 1688 dispute process: (1) Open dispute within 15 days of order, (2) Provide evidence of issue (photos, videos), (3) Negotiate with supplier, (4) Escalate to 1688 customer service if needed, (5) Refund processed to original payment method. International refunds typically take 7-15 business days longer than domestic refunds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any 1688 payment methods that don't charge fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No payment method is truly free. The lowest-cost options are: (1) Alipay for amounts under 200 CNY (0% fee for Tour Pass), (2) Domestic Chinese bank transfers (under 1 CNY), (3) Wire transfers for very large orders where the flat fee becomes negligible as a percentage. Always calculate total cost including FX spreads and hidden fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use cryptocurrency to pay 1688 suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct cryptocurrency payment to 1688 is not supported. Some sourcing agents accept cryptocurrency as payment to them, then pay suppliers in CNY. However, this introduces additional conversion risk and is generally not recommended for amounts over $5,000 due to price volatility during settlement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do 1688 payments take to reach suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Processing times vary by method: Alipay (instant), PayPal to agent (instant to agent, 1-2 days to supplier), wire transfer (2-5 business days), agent-mediated payment (1-3 business days). The supplier generally requires payment confirmation before beginning production or shipping."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a 1688 supplier disappears after I pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you paid through Alipay's escrow, you can file a dispute for refund. If you paid through a sourcing agent, contact the agent's support immediately. If you paid via wire transfer without any intermediary, your options are limited: file a police report in China (difficult remotely), work with your bank on wire recall (usually unsuccessful after 72 hours), or engage a Chinese recovery service (expensive, low success rate). This risk underscores the importance of using buyer-protected payment methods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a Chinese bank account to buy from 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, a Chinese bank account is not required. International buyers can use: Alipay with international card linking, sourcing agents, wire transfers to supplier accounts, or third-party escrow services. A Chinese bank account does provide advantages (lower fees, domestic transfers), but it's optional for most buyers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I negotiate payment terms with 1688 suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, payment terms are negotiable, especially for established relationships. Common negotiated terms include: 30/70 split (30% deposit, 70% before shipping), net 30 (full payment 30 days after delivery), or letter of credit for very large orders. New buyers should expect to pay 100% upfront until trust is established."
+      }
+    }
+  ]
+}
+</script>

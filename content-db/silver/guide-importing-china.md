@@ -428,3 +428,68 @@ A: Yes, but customs duties still apply. Most countries allow personal imports up
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money do I need to start importing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum $1,000-2,000 for a viable first order. This covers: samples ($100), first bulk order ($500-1,000), shipping ($200-500), and marketing ($200-500). Start small and reinvest profits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a business license to import?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For personal use, no. For business resale, yes — you'll need an LLC or corporation. This also helps with customs, taxes, and liability protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid getting scammed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Use Trade Assurance on Alibaba, 2) Order samples first, 3) Verify business licenses, 4) Never pay via Western Union, 5) Start with small orders, 6) Use escrow services for large orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What products should I avoid importing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avoid: 1) Products requiring complex certifications (medical devices), 2) Fragile items (high shipping damage), 3) Heavy items (high shipping costs), 4) Trademarked products (legal issues), 5) Perishable goods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take from order to delivery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically 4-6 weeks: 1-2 weeks production + 2-4 weeks shipping. Air freight is faster (1-2 weeks total) but 3-5x more expensive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about product liability insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential for selling in US/EU. Costs $500-2,000/year depending on product type and sales volume. Protects you if products cause injury or damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I import for personal use only?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but customs duties still apply. Most countries allow personal imports up to $800 duty-free (US). Above that, you'll pay import duties."
+      }
+    }
+  ]
+}
+</script>

@@ -381,3 +381,68 @@ A: Both offer private labeling. 1688 is cheaper (30-50% lower costs) but require
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use 1688 if I don't speak Chinese?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you'll need a sourcing agent. Services like Superbuy, Wegobuy, or local agents in China charge 5-10% of order value to handle communication, payment, and shipping. This is worth it for the 30-50% price savings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 1688 safe for international buyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 has limited buyer protection for international buyers. The safest approach is: 1) Use a sourcing agent, 2) Pay via Alipay (not direct transfer), 3) Order samples first, 4) Use escrow services for large orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the minimum order on 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most 1688 suppliers require 10-100 units minimum. However, MOQs are negotiable, especially for first orders. Many suppliers accept smaller orders if you mention long-term cooperation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I pay on 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 uses Alipay, which requires a Chinese bank account or verified international account. Most international buyers use sourcing agents who accept PayPal/credit cards and handle Alipay payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get samples from 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most 1688 suppliers offer samples for $5-20 (including shipping). This is essential for quality verification before bulk ordering. Always order 2-3 samples from different suppliers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What about customs and import duties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Import duties vary by country and product type. Generally: US (0-25%), EU (0-20%), UK (0-20%). Use Harmonized System (HS) codes to calculate exact duties. Both 1688 and Alibaba products are subject to the same import duties."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform is better for private labeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both offer private labeling. 1688 is cheaper (30-50% lower costs) but requires more coordination. Alibaba is easier but more expensive. For beginners: Alibaba. For experienced importers: 1688 with agent."
+      }
+    }
+  ]
+}
+</script>

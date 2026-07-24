@@ -367,3 +367,76 @@ A: Made-in-China partners with major international logistics providers offering 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main differences between Made-in-China.com and Alibaba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Made-in-China.com focuses more heavily on factory-direct manufacturers with rigorous on-site verification processes, while Alibaba features a mix of manufacturers and trading companies with varying verification levels. Made-in-China often provides better pricing for industrial products and machinery, while Alibaba may offer advantages in consumer goods and fashion categories. Both platforms provide Trade Assurance buyer protection, but Made-in-China's verification process generally provides higher supplier credibility confidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a supplier's credibility on Made-in-China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by checking the supplier's verification tier—Gold Supplier status indicates the highest level of verification with annual re-certification requirements. Review the supplier's transaction history, customer feedback scores, and response rates. Request references from previous international buyers and conduct independent due diligence including business license verification. Consider engaging third-party verification services for significant transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods does Made-in-China accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Made-in-China supports Letters of Credit, Telegraphic Transfers (T/T), and platform-integrated payment processing. For first-time transactions with new suppliers, platform payment processing or Letters of Credit provide additional buyer protection. Direct wire transfers carry higher risk and should only be used with established, verified suppliers after building a track record of successful transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the typical minimum order quantity (MOQ) on Made-in-China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by product category and supplier. Industrial machinery and equipment often have lower MOQs or single-unit pricing, while consumer products may require minimum orders of 100-1,000 units. Many verified suppliers are willing to negotiate MOQs for initial trial orders, especially for buyers demonstrating potential for ongoing business relationships."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Made-in-China's Trade Assurance work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trade Assurance provides payment protection for transactions conducted through the platform's payment system. Coverage includes protection against quality issues, delivery delays, and supplier non-performance for transactions up to $50,000. Claims can be submitted through the platform's dispute resolution system with supporting documentation, typically resulting in resolution within 15-30 business days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get product samples before placing bulk orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most verified suppliers offer sample programs. Sample costs and shipping fees typically apply, though some suppliers may credit sample costs against subsequent bulk orders. Request production samples rather than handcrafted prototypes to evaluate actual manufacturing quality. Sample evaluation is strongly recommended before committing to significant orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle quality issues with products received?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document quality issues with photographs and detailed descriptions immediately upon discovery. Communicate issues to your supplier through the platform's messaging system, providing supporting documentation. If direct resolution fails, submit a claim through the Trade Assurance dispute resolution system. Maintain organized records of all communications and quality documentation throughout the resolution process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the shipping options available through Made-in-China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Made-in-China partners with major international logistics providers offering sea freight, air freight, and express courier options. For large volume orders, sea freight provides the most cost-effective option with typical transit times of 15-35 days depending on destination. Air freight offers faster delivery (5-10 days) at higher cost, while express courier services provide fastest delivery for smaller shipments."
+      }
+    }
+  ]
+}
+</script>

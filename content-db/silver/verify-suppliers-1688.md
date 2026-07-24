@@ -743,3 +743,92 @@ A: 1688's buyer protection for international users is limited compared to Alibab
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the full verification process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The complete 10-step process takes 3-4 hours per supplier. However, steps 1-3 (basic screening) only take 25 minutes and eliminate 50% of risky suppliers. For your first few suppliers, budget 1-2 days to complete verification for 3-5 candidates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 1688 safe for international buyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 is designed for domestic Chinese buyers, so international buyers have limited protection. However, by using the verification process outlined in this guide and always paying through Alipay escrow, you can reduce risk to comparable levels with Alibaba. The key difference is you must do your own due diligence rather than relying on platform protections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I verify suppliers without speaking Chinese?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but it's more challenging. Use Google Chrome's built-in translation for 1688 pages. For Tianyancha, use the Google Translate extension. For video calls, prepare questions in advance using translation apps. Many 1688 suppliers have basic English ability through trading companies. Consider hiring a bilingual sourcing agent for your first few verifications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if a supplier refuses a video call?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A refusal to do a video call is a significant red flag. Legitimate factories welcome verification as it builds trust. If they refuse, they are likely a middleman, trading company, or worse. Move on to another supplier. The only exception is if they offer to send a pre-recorded factory tour video AND can answer specific questions about their production process in detail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if the product photos are real?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use reverse image search tools like TinEye or Google Images to check if photos appear elsewhere. Look for: watermarks from other sites, inconsistent backgrounds, professional stock-style photography, and photos that appear on multiple 1688 listings. Real factory photos often have: simple backgrounds, slight imperfections, workers visible in the background, and consistent lighting across listings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the minimum order I should place after verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For first-time orders, we recommend 50-100 units. This is enough to test quality without significant financial risk. Even after thorough verification, there's always a small risk of quality variation between samples and bulk production. The trial order step (Step 10) is your final quality gate before committing to larger orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a sourcing agent instead of verifying myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sourcing agent can handle verification for you, but you should still understand the process. Costs range from 5-10% of order value or $200-$500 flat fee. Agents are valuable for: language barriers, factory visits, quality inspections, and ongoing supplier management. However, even with an agent, you should independently verify key data points like Tianyancha records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I re-verify existing suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Re-verify annually or if you notice: quality changes, communication delays, price increases without explanation, or if the supplier's 1688 profile shows significant changes. For ongoing relationships, maintain quarterly check-ins and annual full verification. Set calendar reminders for re-verification dates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment method is safest on 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always use Alipay through the 1688 order system. This provides escrow protection where your payment is held until you confirm delivery. Never: wire money directly to bank accounts, use Western Union, pay through unofficial channels, or pay 100% upfront for large orders. For orders over $5,000, negotiate milestone payments (30% upfront, 70% before shipping)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a refund if the supplier scams me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688's buyer protection for international users is limited compared to Alibaba's Trade Assurance. However, if you paid through Alipay escrow, you can file a dispute within 15 days of the shipping deadline. Success rate depends on evidence quality. Always: save all chat records, photograph everything, keep samples, and document all communications. For losses over $5,000, consider legal action through Chinese courts, though this is expensive and time-consuming."
+      }
+    }
+  ]
+}
+</script>

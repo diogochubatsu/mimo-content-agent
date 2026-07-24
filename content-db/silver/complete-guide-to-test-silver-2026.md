@@ -95,3 +95,20 @@ A: 1688 offers the lowest prices, but requires Chinese language or agent.
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the best platform to buy Test Silver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 offers the lowest prices, but requires Chinese language or agent."
+      }
+    }
+  ]
+}
+</script>

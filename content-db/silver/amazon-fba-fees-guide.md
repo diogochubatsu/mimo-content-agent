@@ -541,3 +541,85 @@ A: Individual sellers cannot negotiate standard FBA fees, but high-volume seller
 5. Amazon Seller Forums - Fee Discussion Threads 2026 (accessed July 24, 2026)
 6. ImportGuide1688 - 1688 to FBA Cost Calculator (accessed July 24, 2026)
 7. Amazon Performance Dashboard - IPI Score Requirements (accessed July 24, 2026)
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main FBA fees I need to know about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The seven main FBA fee categories are: (1) Fulfillment fees ($3.22-$137.25 per unit based on size/weight), (2) Monthly storage fees ($0.87-$2.40 per cubic foot), (3) Long-term storage fees ($3.80-$6.90 per unit after 181 days), (4) Referral fees (8-20% depending on category), (5) Prep fees ($0.30-$1.00 per unit), (6) Return processing fees ($0.20-$2.00 per unit), and (7) Miscellaneous fees (labeling, removal, etc.)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate the exact FBA fee for my product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use Amazon's FBA Revenue Calculator in Seller Central. Enter your product dimensions and weight, and it will show the complete fee breakdown. You can also calculate manually by: (1) determining your size tier, (2) finding the base fulfillment fee for your weight, (3) calculating storage based on cubic footage, (4) adding category-specific referral fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is dimensional weight and how does it affect fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dimensional weight is a pricing technique used by carriers to account for lightweight but bulky packages. Amazon calculates it as (Length × Width × Height) / 166. If dimensional weight exceeds actual weight, Amazon charges based on dimensional weight. This is especially important for products with lots of air space in packaging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I reduce my FBA fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Top strategies include: (1) optimizing packaging to fit smaller size tiers, (2) maintaining fast inventory turnover to avoid long-term storage fees, (3) pre-packing products to avoid prep fees, (4) ensuring correct category placement for optimal referral fees, (5) improving your IPI score to avoid storage limits, and (6) regular fee audits to identify unexpected charges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Inventory Performance Index (IPI) and why does it matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IPI is Amazon's score (0-1000) measuring how efficiently you manage inventory. It considers: sell-through rate, excess inventory percentage, stranded inventory, and stockout rate. A score of 450+ avoids storage limits. Below 350, you face severe restrictions. Maintaining high IPI is crucial for scaling your FBA business."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there ways to avoid long-term storage fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Strategies include: (1) maintaining accurate demand forecasting, (2) creating removal orders before the 181-day threshold, (3) liquidating slow-moving inventory, (4) using Amazon Outlet for clearance, (5) running promotions to boost sell-through, and (6) monitoring inventory age reports weekly. The key is proactive management—don't let inventory age past 180 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do referral fees differ from FBA fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Referral fees are category-dependent percentages charged on each sale (8-20%) and apply to both FBA and FBM sellers. FBA fees are specifically for Amazon's fulfillment services (picking, packing, shipping). Both apply simultaneously—you pay referral fees regardless of fulfillment method, plus FBA fees if using Fulfillment by Amazon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my IPI score drops below 450?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your IPI drops below 450, Amazon imposes storage limits on your account. Below 350, limits become more severe and you may face removal orders for excess inventory. To improve your IPI: increase sell-through rate, reduce excess inventory, fix stranded listings, and avoid stockouts on best-selling products."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I negotiate FBA fees with Amazon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individual sellers cannot negotiate standard FBA fees, but high-volume sellers (typically $1M+ annual revenue) may qualify for volume discounts through Amazon's Account Manager program. Additionally, the FBA New Selection program offers fee reductions for newly launched products."
+      }
+    }
+  ]
+}
+</script>

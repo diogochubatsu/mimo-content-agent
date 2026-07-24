@@ -615,3 +615,92 @@ A: Absolutely. Gold Suppliers expect negotiation and often have built-in flexibi
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between Gold Supplier and Verified Pro on Alibaba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gold Supplier is Alibaba's standard verification tier, requiring business license validation and a factory audit. Verified Pro is the highest tier, with enhanced on-site audits, product testing, and priority placement. Gold Suppliers pay $1,999–$3,999 annually, while Verified Pro costs $4,999–$5,999. Trade Assurance limits are also higher for Verified Pro suppliers ($50,000 vs. $10,000–$25,000 for Gold Suppliers)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a Gold Supplier scam me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Gold Supplier status significantly reduces fraud risk, it does not eliminate it. Some verified suppliers have been involved in disputes or delivered substandard products. Always use Trade Assurance, order samples, and conduct your own due diligence. The verification confirms identity and basic business legitimacy — not product quality or delivery reliability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does Gold Supplier membership cost suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gold Supplier membership costs suppliers $1,999–$5,999 annually, depending on their region and tier level. This cost is typically passed to buyers through slightly higher per-unit pricing (5–15% premium over free members). However, the tradeoff is reduced risk, better dispute resolution, and higher service standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth paying more for Gold Supplier products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For orders over $5,000 or when working with new suppliers, the Gold Supplier premium is generally justified. The verification reduces fraud risk, provides Trade Assurance coverage, and indicates a supplier's commitment to quality. For small orders ($500–$1,000) or commodity products, the premium may not be necessary — but always verify the supplier regardless."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a Gold Supplier's business license?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Request a copy of the supplier's Chinese business license (营业执照) and verify the unified social credit code (统一社会信用代码) at the National Enterprise Credit Information Publicity System (gsxt.gov.cn). Cross-reference the company name, registered address, and business scope with the information on the Alibaba profile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a Gold Supplier fails to deliver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you placed your order through Trade Assurance, you can file a dispute with Alibaba. Alibaba will mediate the dispute and may issue a refund if the supplier fails to fulfill their obligations. The process typically takes 15–30 days. Without Trade Assurance, you have limited recourse through the platform."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a Gold Supplier status be revoked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Alibaba can revoke Gold Supplier status if a supplier:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I verify my Gold Supplier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For ongoing relationships, re-verify annually when the supplier renews their membership. For new orders, conduct fresh due diligence each time — even with established suppliers. Check their recent transaction history, reviews, and certification status before each significant order."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Gold Suppliers only based in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While the majority of Gold Suppliers are based in China (approximately 85%), Alibaba also has verified suppliers in India, Vietnam, Thailand, Turkey, and other countries. The verification process is the same regardless of location — business license validation, factory audit, and trade history review."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I negotiate with Gold Suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Gold Suppliers expect negotiation and often have built-in flexibility in their pricing. Common negotiation points include:"
+      }
+    }
+  ]
+}
+</script>

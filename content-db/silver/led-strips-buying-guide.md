@@ -375,3 +375,100 @@ A: Calculate total wattage (watts per meter × total meters) and add 20% for saf
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SMD 5050 and SMD 2835?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SMD 5050 is larger and brighter, typically used for RGB applications and accent lighting. SMD 2835 is more energy-efficient and has better heat dissipation, making it ideal for linear, white lighting applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can LED strips be cut to custom lengths?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most LED strips can be cut at designated points (marked with scissors icons). However, ensure you cut at the correct intervals (usually every 3 LEDs for 12V strips) to maintain functionality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What IP rating do I need for outdoor LED strips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For outdoor use, a minimum IP65 is recommended to protect against dust and water jets. For submerged applications (like pools), choose IP67 or IP68."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are smart LED strips compatible with all voice assistants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most smart LED strips work with major platforms like Alexa and Google Home. However, always check compatibility before purchasing, especially if you use Apple HomeKit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do LED strips last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-quality LED strips typically last between 50,000 to 60,000 hours, which translates to about 15-20 years of typical use. Lifespan can vary based on usage and environmental conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I install LED strips myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most LED strips are designed for DIY installation. They come with adhesive backing and solderless connectors. However, for complex setups or high-voltage installations, consider hiring a professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do LED strips generate heat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED strips are much cooler than traditional lighting, but they do generate some heat. Proper installation with adequate ventilation or heat sinks can prevent overheating and extend lifespan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is CRI and why does it matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CRI (Color Rendering Index) measures how accurately a light source reveals colors compared to natural light. Higher CRI (90+) is important for applications where color accuracy is critical, like retail displays or art galleries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use LED strips in bathrooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but use strips with appropriate IP ratings. IP65 or higher is recommended for bathroom areas due to humidity and potential water exposure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I connect multiple LED strip segments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use solderless connectors for easy, secure connections. For permanent installations, soldering provides a more reliable connection. Always ensure proper polarity when connecting segments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What power supply size do I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Calculate total wattage (watts per meter × total meters) and add 20% for safety margin. Choose a power supply matching your strip voltage (12V or 24V) with sufficient amperage."
+      }
+    }
+  ]
+}
+</script>

@@ -493,3 +493,76 @@ A: Private label is more scalable long-term. You control the product, pricing, a
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which model has higher profit margins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Private label typically has 50-80% margins, while wholesale has 20-40% margins. However, wholesale requires less upfront investment and offers faster startup. The best choice depends on your budget and risk tolerance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much money do I need to start private label?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum $2,000-3,000 for a small test order. Recommended $5,000-10,000 for a proper launch with PPC budget. The biggest cost is inventory (200-500 units at $2-10 each)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I start wholesale with no experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, wholesale is more beginner-friendly. You're selling existing products with proven demand. The learning curve is gentler, and you can start generating cash flow within 2-4 weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find wholesale distributors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Contact brands directly and ask for authorized distributor lists, 2) Attend trade shows (virtual or in-person), 3) Join wholesale directories (Wholesale Central, DOBA), 4) Search Google for \"authorized distributor + [brand name].\""
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the biggest risk in private label?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inventory risk. You're investing $2K-10K in inventory before you know if it will sell. Mitigate this by: 1) Starting with small test orders, 2) Validating demand before ordering, 3) Getting samples first, 4) Building brand loyalty quickly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I protect my private label brand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Register with Amazon Brand Registry, 2) Get trademark protection, 3) Use unique packaging, 4) Monitor for copycats, 5) Build brand loyalty through excellent products and service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I do both models simultaneously?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely, and most successful sellers do. Wholesale provides immediate cash flow while private label builds long-term equity. The hybrid approach diversifies risk and maximizes returns."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which model is more scalable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Private label is more scalable long-term. You control the product, pricing, and brand. Wholesale is limited by distributor relationships and price competition. However, wholesale can scale faster initially with less capital."
+      }
+    }
+  ]
+}
+</script>

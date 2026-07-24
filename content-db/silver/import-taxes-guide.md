@@ -547,3 +547,76 @@ A: Yes, for any commercial import over $2,500. A customs broker ($50-150 per shi
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I calculate import duties for my product?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Find your product's HS code (use customs broker or online tools), 2) Check the tariff rate for that HS code in your destination country, 3) Calculate: Product cost × tariff rate. For example, a $10 product with 8% tariff = $0.80 duty."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the EU €3 duty and who pays it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The EU €3 duty is a flat fee on all low-value imports (under €150) that took effect June 2026. It's collected by the platform at checkout (AliExpress, Temu, SHEIN) and passed to customs. For sellers using Shopify/Amazon, you may need to collect it yourself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I avoid US tariffs legally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, several strategies: 1) Use Section 321 de minimis exemption for shipments under $800 (direct-to-consumer only), 2) Optimize HS classification for lower rates, 3) Use free trade zones to defer tariffs, 4) Source from non-Chinese suppliers when possible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are Brazil import taxes so high?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brazil has multiple overlapping taxes: Import Duty (0-35%), IPI (0-300%), ICMS (17-25%), and PIS/COFINS (9.25%). These stack on top of each other, creating effective rates of 60-100%+. Brazil uses high tariffs to protect local manufacturers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to register for VAT/GST?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your business structure and sales volume. Generally: 1) If selling on Amazon/eBay, they collect VAT/GST for you, 2) If selling on Shopify, you may need to register and collect, 3) Thresholds vary by country (€35,000-€100,000 in EU)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I misclassify my HS code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Misclassification can result in: 1) Paying too much duty (overpayment), 2) Paying too little duty (underpayment + penalties), 3) Customs delays, 4) Seizure of goods. Penalties can be 2-4x the unpaid duty amount."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle returns and refunds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For returned goods: 1) File for duty drawback (refund of tariffs), 2) Document the return with customs, 3) Process refund within the required timeframe. Some countries allow duty refunds on returned goods; others do not."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a customs broker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for any commercial import over $2,500. A customs broker ($50-150 per shipment) can: 1) Classify products correctly, 2) Calculate duties accurately, 3) Handle documentation, 4) Avoid penalties. The cost is worth it for compliance and savings."
+      }
+    }
+  ]
+}
+</script>
