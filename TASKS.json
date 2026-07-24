@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T01:27:38Z",
+  "last_updated": "2026-07-24T01:47:30Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -1023,6 +1023,118 @@
       "status": "pending",
       "created": "2026-07-24T01:27:38Z",
       "result": null
+    },
+    {
+      "id": "T060",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-trending",
+      "description": "Gerar artigo Silver: Trending Products to Import from China Q3 2026. Baseado em Google Trends + Reddit. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:27Z",
+      "result": null
+    },
+    {
+      "id": "T061",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-suppliers",
+      "description": "Gerar artigo Silver: How to Verify Chinese Suppliers on 1688. Guia passo a passo com screenshots.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:27Z",
+      "result": null
+    },
+    {
+      "id": "T062",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-taxes",
+      "description": "Gerar artigo Silver: Import Taxes by Country (US, EU, Brazil, Japan). Tabela completa com tarifas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:27Z",
+      "result": null
+    },
+    {
+      "id": "T063",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-multi",
+      "description": "Coletar 15 videos YouTube em 5 idiomas (EN, ES, PT, DE, JA). Salvar em content-db/raw/youtube-intl/.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:28Z",
+      "result": null
+    },
+    {
+      "id": "T064",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "tiktok-collect",
+      "description": "Coletar 20 videos TikTok trending sobre dropshipping e importacao. Salvar em content-db/raw/tiktok/.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:29Z",
+      "result": null
+    },
+    {
+      "id": "T065",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "more-reddit",
+      "description": "Criar 10 posts Reddit ADICIONAIS para subreddits diferentes (r/sourcing, r/China, r/wholesale). Formato viral.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:29Z",
+      "result": null
+    },
+    {
+      "id": "T066",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-shipping",
+      "description": "Gerar artigo Silver: Shipping from China: Complete Cost Guide 2026. Air, sea, express. Comparacao de metodos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:30Z",
+      "result": null
+    },
+    {
+      "id": "T067",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-alternatives",
+      "description": "Gerar artigo Silver: 10 Alternatives to Alibaba for Sourcing from China. Made-in-China, Global Sources, DHgate, etc.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:47:30Z",
+      "result": null
     }
   ],
   "log": [
@@ -1361,6 +1473,54 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T059 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:27Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T060 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:27Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T061 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:27Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T062 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:28Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T063 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:29Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T064 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:29Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T065 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:30Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T066 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:47:30Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T067 for pc-2"
     }
   ],
   "metrics": {
