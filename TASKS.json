@@ -3180,7 +3180,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:29Z",
-      "result": "Conclu\u00eddo via scripts add-internal-links.js e add-contextual-links.js. Artigos relacionados adicionados."
+      "result": "Concluído via scripts add-internal-links.js e add-contextual-links.js. Artigos relacionados adicionados."
     },
     {
       "id": "T214",
@@ -3208,7 +3208,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:30Z",
-      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece ap\u00f3s scroll de 300px, smooth scroll para topo."
+      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece após scroll de 300px, smooth scroll para topo."
     },
     {
       "id": "T216",
@@ -3402,9 +3402,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:05Z",
-      "result": null
+      "result": "Sourcing China Beginners article created: 300+ lines, executive summary, 7 main sections on platforms/first steps/vetting/orders/shipping/mistakes, comparison tables, expert insights, case study with quantified results, 10 FAQs, 8 sources, FAQPage schema"
     },
     {
       "id": "T230",
