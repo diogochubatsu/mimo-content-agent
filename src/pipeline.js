@@ -8,6 +8,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import logger from './logger.js';
+import { isTopicProcessed, markTopicProcessed } from './cache.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -266,6 +267,13 @@ export function runPipeline(options) {
     if (!options || !options.topic) {
       throw new Error('Options with topic is required');
     }
+    
+    // Check cache
+    if (isTopicProcessed(topic, tier)) {
+      console.log(`\n⚠️  Topic "${topic}" already processed for tier "${tier}"`);
+      console.log(`   Skipping... Use --force to reprocess`);
+      return null;
+    }
   
   // Phase 1: Scout
   const scoutResult = scoutPhase(topic);
@@ -286,6 +294,9 @@ export function runPipeline(options) {
   console.log(`📄 Article: ${editedArticle.title}`);
   console.log(`📁 File: ${filepath}`);
   console.log(`📊 Stats: ${editedArticle.metadata.wordCount} words, ${editedArticle.metadata.sourcesCount} sources`);
+  
+  // Mark as processed in cache
+  markTopicProcessed(topic, tier, filepath);
   
   return filepath;
   
