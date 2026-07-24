@@ -1764,7 +1764,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:02:37Z",
-      "result": "Script validate-sources.js criado. Verifica campos obrigat\u00f3rios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
+      "result": "Script validate-sources.js criado. Verifica campos obrigatórios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
     },
     {
       "id": "T113",
@@ -1818,9 +1818,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T03:16:17Z",
-      "result": null
+      "result": "1688 Payment Methods Guide created"
     },
     {
       "id": "T117",
