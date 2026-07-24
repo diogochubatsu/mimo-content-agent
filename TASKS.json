@@ -3416,9 +3416,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:05Z",
-      "result": null
+      "result": "Calculate Import Margins article created: 704 lines, 4 margin formulas, platform-specific calculators, sensitivity analysis, case study with 356% ROI, 9 FAQs, 8 sources, FAQPage schema"
     },
     {
       "id": "T231",
