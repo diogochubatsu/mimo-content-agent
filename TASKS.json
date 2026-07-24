@@ -2912,9 +2912,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:55:32Z",
-      "result": null
+      "result": "Newsletter component criado: site/components/Newsletter.js. Formul\u00e1rio de captura de emails com estado de sucesso/loading."
     }
   ],
   "log": [
