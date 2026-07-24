@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T20:02:48Z",
+  "last_updated": "2026-07-24T20:10:28Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2495,6 +2495,90 @@
       "status": "pending",
       "created": "2026-07-24T20:02:48Z",
       "result": null
+    },
+    {
+      "id": "T165",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "article-rss",
+      "description": "Criar feed RSS para o site. Gerar automaticamente a partir de content-db/silver/. Formato padrao.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:10:25Z",
+      "result": null
+    },
+    {
+      "id": "T166",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "seo-batch",
+      "description": "Rodar script de SEO em todos os artigos Silver. Verificar meta tags, schema, links.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:10:26Z",
+      "result": null
+    },
+    {
+      "id": "T167",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-1688-vs-temu",
+      "description": "Gerar artigo Silver: 1688 vs Temu: Which is Better for Sourcing? Comparacao completa.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:10:27Z",
+      "result": null
+    },
+    {
+      "id": "T168",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-amazon-product-research",
+      "description": "Gerar artigo Silver: Amazon Product Research Guide 2026. Como encontrar produtos vencedores.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:10:27Z",
+      "result": null
+    },
+    {
+      "id": "T169",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-dropshipping-profit",
+      "description": "Gerar artigo Silver: How to Calculate Dropshipping Profit. Calculadora de margem.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:10:28Z",
+      "result": null
+    },
+    {
+      "id": "T170",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-ecommerce-beginners",
+      "description": "Gerar artigo Silver: E-commerce for Beginners: Complete Guide 2026. Guia para iniciantes.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:10:28Z",
+      "result": null
     }
   ],
   "log": [
@@ -3457,6 +3541,42 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T164 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:10:25Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T165 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T20:10:26Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T166 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T20:10:27Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T167 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:10:27Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T168 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:10:28Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T169 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:10:28Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T170 for pc-2"
     }
   ],
   "metrics": {
