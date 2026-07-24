@@ -51,6 +51,21 @@ export default function Home() {
         <div className="container">
           <h1>Import from China with Confidence</h1>
           <p>Expert guides, supplier directories, and margin calculators for 1688.com importers</p>
+          <div className="hero-stats">
+            <div className="stat">
+              <span className="stat-number">50+</span>
+              <span className="stat-label">Guides</span>
+            </div>
+            <div className="stat">
+              <span className="stat-number">100+</span>
+              <span className="stat-label">Suppliers</span>
+            </div>
+            <div className="stat">
+              <span className="stat-number">$0</span>
+              <span className="stat-label">Free Content</span>
+            </div>
+          </div>
+          <Link href="/blog" className="hero-cta">Explore Guides →</Link>
         </div>
       </section>
 
