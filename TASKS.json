@@ -2884,9 +2884,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:55:30Z",
-      "result": null
+      "result": "Viewport meta tag j\u00e1 presente no Layout.js. Site j\u00e1 \u00e9 mobile-responsive via CSS."
     },
     {
       "id": "T193",
