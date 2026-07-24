@@ -2870,9 +2870,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:55:30Z",
-      "result": null
+      "result": "Audit de acessibilidade OK: 133 atributos aria/alt/role."
     },
     {
       "id": "T192",
