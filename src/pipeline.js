@@ -11,12 +11,48 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const CONTENT_DIR = path.join(__dirname, '..', 'content-db');
-const SILVER_DIR = path.join(CONTENT_DIR, 'silver');
-const BRONZE_DIR = path.join(CONTENT_DIR, 'bronze');
+// Load configuration
+function loadConfig() {
+  const configPath = path.join(__dirname, '..', 'pipeline.config.json');
+  try {
+    if (fs.existsSync(configPath)) {
+      return JSON.parse(fs.readFileSync(configPath, 'utf8'));
+    }
+  } catch (error) {
+    console.warn('Warning: Could not load config, using defaults');
+  }
+  return getDefaultConfig();
+}
+
+function getDefaultConfig() {
+  return {
+    paths: {
+      contentDir: './content-db',
+      bronzeDir: './content-db/bronze',
+      silverDir: './content-db/silver',
+      goldDir: './content-db/gold',
+      templatesDir: './content-db/templates'
+    },
+    defaults: {
+      tier: 'bronze',
+      site: 'importguide1688.com',
+      language: 'en',
+      siteProfile: 'professional'
+    },
+    sites: {
+      'importguide1688.com': { profile: 'professional', language: 'en' }
+    }
+  };
+}
+
+const config = loadConfig();
+const CONTENT_DIR = path.resolve(config.paths.contentDir);
+const SILVER_DIR = path.resolve(config.paths.silverDir);
+const BRONZE_DIR = path.resolve(config.paths.bronzeDir);
+const TEMPLATES_DIR = path.resolve(config.paths.templatesDir);
 
 // Ensure directories exist
-[SILVER_DIR, BRONZE_DIR].forEach(dir => {
+[SILVER_DIR, BRONZE_DIR, TEMPLATES_DIR].forEach(dir => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
@@ -401,13 +437,13 @@ function addNaturalImperfections(content) {
 }
 
 function getSiteProfile(site) {
-  const profiles = {
-    'importguide1688.com': 'professional',
-    'dropshipdeals.com': 'casual',
-    'datadrivenimport.com': 'technical',
-    'beginnerimport.com': 'beginner'
-  };
-  return profiles[site] || 'professional';
+  // Use config if available
+  if (config.sites && config.sites[site]) {
+    return config.sites[site].profile || config.defaults.siteProfile;
+  }
+  
+  // Fallback to defaults
+  return config.defaults.siteProfile || 'professional';
 }
 
 function extractKeywords(topic) {

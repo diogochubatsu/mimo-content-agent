@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "paths": {
+    "contentDir": "./content-db",
+    "bronzeDir": "./content-db/bronze",
+    "silverDir": "./content-db/silver",
+    "goldDir": "./content-db/gold",
+    "templatesDir": "./content-db/templates",
+    "rawDir": "./content-db/raw",
+    "articlesDir": "./content-db/articles"
+  },
+  "defaults": {
+    "tier": "bronze",
+    "site": "importguide1688.com",
+    "language": "en",
+    "siteProfile": "professional"
+  },
+  "sites": {
+    "importguide1688.com": {
+      "profile": "professional",
+      "language": "en"
+    },
+    "dropshipdeals.com": {
+      "profile": "casual",
+      "language": "en"
+    },
+    "guiaimportacao.com.br": {
+      "profile": "beginner",
+      "language": "pt"
+    },
+    "guiaimportacion.com": {
+      "profile": "beginner",
+      "language": "es"
+    }
+  },
+  "pipeline": {
+    "maxRetries": 3,
+    "timeoutMs": 30000,
+    "logLevel": "info"
+  }
+}
