@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T01:47:30Z",
+  "last_updated": "2026-07-24T02:17:21Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -1135,6 +1135,356 @@
       "status": "done",
       "created": "2026-07-24T01:47:30Z",
       "result": "Alternatives to Alibaba guide created - 546 lines, 10 platforms covered, comparison tables, case study, 8 FAQs"
+    },
+    {
+      "id": "T068",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-phone-cases-supplier-guide",
+      "description": "Gerar artigo Silver: phone cases supplier guide 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:37Z",
+      "result": null
+    },
+    {
+      "id": "T069",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-bluetooth-earbuds-comparison",
+      "description": "Gerar artigo Silver: bluetooth earbuds comparison 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:37Z",
+      "result": null
+    },
+    {
+      "id": "T070",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-LED-strips-buying-guide",
+      "description": "Gerar artigo Silver: LED strips buying guide 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:38Z",
+      "result": null
+    },
+    {
+      "id": "T071",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-kitchen-gadgets-top-10",
+      "description": "Gerar artigo Silver: kitchen gadgets top 10 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:39Z",
+      "result": null
+    },
+    {
+      "id": "T072",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-resistance-bands-import",
+      "description": "Gerar artigo Silver: resistance bands import 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:40Z",
+      "result": null
+    },
+    {
+      "id": "T073",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-beauty-tools-sourcing",
+      "description": "Gerar artigo Silver: beauty tools sourcing 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:41Z",
+      "result": null
+    },
+    {
+      "id": "T074",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-pet-products-china",
+      "description": "Gerar artigo Silver: pet products china 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:42Z",
+      "result": null
+    },
+    {
+      "id": "T075",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-fitness-equipment-import",
+      "description": "Gerar artigo Silver: fitness equipment import 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:43Z",
+      "result": null
+    },
+    {
+      "id": "T076",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-home-decor-wholesale",
+      "description": "Gerar artigo Silver: home decor wholesale 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:44Z",
+      "result": null
+    },
+    {
+      "id": "T077",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-car-accessories-china",
+      "description": "Gerar artigo Silver: car accessories china 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:45Z",
+      "result": null
+    },
+    {
+      "id": "T078",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "reddit-reddit-dropship-community",
+      "description": "Coletar 15 posts de Reddit sobre reddit dropship community. Salvar em content-db/raw/reddit/. JSON com titulo, url, upvotes, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:16:59Z",
+      "result": null
+    },
+    {
+      "id": "T079",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "reddit-reddit-amazon-fba-tips",
+      "description": "Coletar 15 posts de Reddit sobre reddit amazon fba tips. Salvar em content-db/raw/reddit/. JSON com titulo, url, upvotes, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:00Z",
+      "result": null
+    },
+    {
+      "id": "T080",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "reddit-reddit-ecommerce-advice",
+      "description": "Coletar 15 posts de Reddit sobre reddit ecommerce advice. Salvar em content-db/raw/reddit/. JSON com titulo, url, upvotes, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:01Z",
+      "result": null
+    },
+    {
+      "id": "T081",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "reddit-reddit-sourcing-china",
+      "description": "Coletar 15 posts de Reddit sobre reddit sourcing china. Salvar em content-db/raw/reddit/. JSON com titulo, url, upvotes, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:02Z",
+      "result": null
+    },
+    {
+      "id": "T082",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "reddit-reddit-wholesale-finds",
+      "description": "Coletar 15 posts de Reddit sobre reddit wholesale finds. Salvar em content-db/raw/reddit/. JSON com titulo, url, upvotes, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:03Z",
+      "result": null
+    },
+    {
+      "id": "T083",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-spanish-ecommerce",
+      "description": "Coletar 10 videos YouTube em spanish ecommerce. Salvar em content-db/raw/youtube-intl/. JSON com titulo, url, idioma, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:03Z",
+      "result": null
+    },
+    {
+      "id": "T084",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-portuguese-dropship",
+      "description": "Coletar 10 videos YouTube em portuguese dropship. Salvar em content-db/raw/youtube-intl/. JSON com titulo, url, idioma, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:04Z",
+      "result": null
+    },
+    {
+      "id": "T085",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-german-import",
+      "description": "Coletar 10 videos YouTube em german import. Salvar em content-db/raw/youtube-intl/. JSON com titulo, url, idioma, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:04Z",
+      "result": null
+    },
+    {
+      "id": "T086",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-japanese-sourcing",
+      "description": "Coletar 10 videos YouTube em japanese sourcing. Salvar em content-db/raw/youtube-intl/. JSON com titulo, url, idioma, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:05Z",
+      "result": null
+    },
+    {
+      "id": "T087",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "youtube-korean-products",
+      "description": "Coletar 10 videos YouTube em korean products. Salvar em content-db/raw/youtube-intl/. JSON com titulo, url, idioma, insights.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:06Z",
+      "result": null
+    },
+    {
+      "id": "T088",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "newsletter-week2",
+      "description": "Criar newsletter Issue #002: 3 Deals da Semana (semana 2). Usar template newsletter. Dados reais de preco e margem.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:18Z",
+      "result": null
+    },
+    {
+      "id": "T089",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "social-youtube",
+      "description": "Criar 5 scripts para YouTube Shorts sobre importacao da China. Formato: 60 segundos, hook + dado + CTA.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:19Z",
+      "result": null
+    },
+    {
+      "id": "T090",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-import-guide",
+      "description": "Gerar artigo Silver: Step-by-Step Guide to Import Your First Product from China. Guia para iniciantes absolutos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:19Z",
+      "result": null
+    },
+    {
+      "id": "T091",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-comparison-master",
+      "description": "Gerar artigo Silver: 1688 vs Alibaba vs AliExpress vs DHgate vs Made-in-China: Complete Comparison. Tabela enorme.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:20Z",
+      "result": null
+    },
+    {
+      "id": "T092",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "social-pinterest",
+      "description": "Criar 10 pins para Pinterest baseados nos artigos Silver. Formato: imagem + titulo + link.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:17:21Z",
+      "result": null
     }
   ],
   "log": [
@@ -1521,6 +1871,156 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T067 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:37Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T068 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:37Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T069 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:38Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T070 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:39Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T071 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:40Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T072 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:41Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T073 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:42Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T074 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:43Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T075 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:44Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T076 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:45Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T077 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:16:59Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T078 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:00Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T079 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:01Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T080 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:02Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T081 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:03Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T082 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:03Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T083 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:04Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T084 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:04Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T085 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:05Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T086 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:06Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T087 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:18Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T088 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:19Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T089 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:19Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T090 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:20Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T091 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:17:21Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T092 for pc-2"
     }
   ],
   "metrics": {
