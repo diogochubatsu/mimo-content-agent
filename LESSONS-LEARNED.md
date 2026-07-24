@@ -48,9 +48,17 @@
 5. **Fork precisa de auto-scaling** — Gerador automatico de tasks
 6. **Cron de 5 minutos funciona** — Agentes nunca ficam sem trabalho
 7. **Revisao da equipe e essencial** — Consolidar lições a cada 6h
-8. **83 tasks done em ~5 horas** — Ritmo sustentavel
-9. **44 artigos criados** — Volume impressionante
+8. **111 tasks done em ~7 horas** — Ritmo sustentavel
+9. **75 artigos criados** — Volume impressionante
 10. **Site com paginas dinamicas** — Deploy funcionando
+
+### Descobertas Novas (Sessão 3)
+
+1. **Agentes podem parar por 16h** — Cron pode falhar, precisa de watchdog
+2. **140 tasks criadas no total** — Sistema de task generation funciona
+3. **7 idiomas cobertos** — EN, ES, PT, DE, JA, KO, ZH
+4. **15 pastas de fontes** — Reddit, YouTube x7, TikTok, Weibo, Trends, News
+5. **Merge conflicts acontecem** — Precisa de protocolo de git mais robusto
 
 ### Melhorias Identificadas
 
