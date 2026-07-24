@@ -155,9 +155,9 @@
       "acceptance": "Site online em importguide1688.com com 5 artigos indexados",
       "priority": "critical",
       "deadline": "2026-07-27",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-23T10:05:00Z",
-      "result": null,
+      "result": "Site Next.js criado com homepage, article pages, styling, Plausible analytics. Pronto para deploy no Vercel.",
       "depends_on": [
         "T001"
       ],
