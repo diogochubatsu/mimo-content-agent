@@ -8,6 +8,10 @@
 - [Section 2: GST and Duties](#section-2-gst-and-duties)
 - [Section 3: Required Documentation](#section-3-required-documentation)
 - [Section 4: Shipping and Logistics](#section-4-shipping-and-logistics)
+- [Section 5: Common Mistakes to Avoid](#section-5-common-mistakes-to-avoid)
+- [Section 6: Biosecurity Requirements](#section-6-biosecurity-requirements)
+- [Section 7: Cost Optimization Strategies](#section-7-cost-optimization-strategies)
+- [Section 8: Payment Methods and Risk Management](#section-8-payment-methods-and-risk-management)
 - [Comparison Tables](#comparison-tables)
 - [Expert Insights](#expert-insights)
 - [Step-by-Step Guide](#step-by-step-guide)
@@ -104,20 +108,32 @@ Food products require permits from the Department of Agriculture, Fisheries and 
 ### Subsection 6.3 Animal Products
 Animal products including leather, wool, and feathers must comply with strict biosecurity requirements. These products may require treatment, certification, and inspection. Some animal products are prohibited from certain countries due to disease risks.
 
-## Section 6: Cost Optimization Strategies
+## Section 7: Cost Optimization Strategies
 Maximize your import margins with these proven strategies.
 
-### Subsection 6.1 Negotiating Better Terms
+### Subsection 7.1 Negotiating Better Terms
 Build long-term relationships with suppliers to unlock better pricing. Order larger quantities for volume discounts. Negotiate payment terms that balance cost savings with risk management. Consider alternative payment methods like letters of credit for larger transactions.
 
-### Subsection 6.2 Optimizing Shipping Costs
+### Subsection 7.2 Optimizing Shipping Costs
 Consolidate shipments to reduce per-unit shipping costs. Choose appropriate shipping methods based on product value and urgency. Optimize packaging to minimize dimensional weight charges. Consider using a freight forwarder for better rates.
 
-### Subsection 6.3 Leveraging Free Trade Agreements
+### Subsection 7.3 Leveraging Free Trade Agreements
 The Australia-China Free Trade Agreement (ChAFTA) provides significant duty reductions for qualifying goods. Ensure products meet rules of origin requirements and obtain proper Certificates of Origin to benefit from preferential rates.
 
-### Subsection 6.4 Managing Currency Fluctuations
+### Subsection 7.4 Managing Currency Fluctuations
 The AUD/CNY exchange rate impacts your costs. Consider currency hedging strategies for large orders. Time purchases strategically when exchange rates are favorable. Maintain relationships with multiple suppliers to avoid over-dependence on single sources.
+
+## Section 8: Payment Methods and Risk Management
+Choosing the right payment method balances cost, security, and supplier relationships.
+
+### Subsection 8.1 Common Payment Methods
+Telegraphic Transfer (T/T) is the most common method, offering speed and simplicity. Letters of Credit (L/C) provide security for both parties but involve bank fees. PayPal and escrow services offer buyer protection but may not be accepted by all suppliers.
+
+### Subsection 8.2 Risk Mitigation Strategies
+Start with small orders to test supplier reliability. Use third-party inspection services before shipment. Consider trade assurance programs offered by platforms like Alibaba. Maintain clear contracts with quality specifications and dispute resolution clauses.
+
+### Subsection 8.3 Currency and Payment Timing
+Negotiate prices in AUD when possible to avoid exchange rate risks. If paying in CNY, consider timing payments when exchange rates are favorable. Use forward contracts for large orders to lock in exchange rates.
 
 ## Comparison Tables
 
@@ -139,6 +155,14 @@ The AUD/CNY exchange rate impacts your costs. Consider currency hedging strategi
 | Customs broker fee | AUD 150-300 | AUD 150-300 | Per shipment |
 | Port charges | AUD 300-600 | AUD 100-200 | Terminal handling |
 | Insurance | 0.5-2% of value | 0.5-2% of value | Recommended |
+
+### Table 3: Incoterms Comparison for China-Australia Trade
+| Incoterm | Risk Transfer | Cost Responsibility | Best For |
+|----------|---------------|---------------------|----------|
+| FOB (Free on Board) | At port of shipment | Seller pays to port, buyer pays onward | Experienced importers with own logistics |
+| CIF (Cost, Insurance, Freight) | At port of shipment | Seller pays to destination port | Importers wanting cost certainty |
+| DDP (Delivered Duty Paid) | At destination | Seller pays all costs including duties | New importers, simplified process |
+| EXW (Ex Works) | At factory | Buyer pays all costs from factory | Large importers with own logistics |
 
 ## Expert Insights
 
@@ -184,6 +208,9 @@ The customs broker will calculate and advise on applicable duties and taxes. Pay
 
 ### Step 9: Arrange Final Delivery
 Once goods are cleared, arrange transportation from the port or airport to your warehouse or final destination. Consider using the same freight forwarder for seamless coordination.
+
+### Step 10: Monitor and Evaluate Performance
+Track key metrics including delivery times, compliance rates, and total landed costs. Conduct regular reviews with suppliers and logistics partners. Use performance data to optimize future shipments and negotiate better terms. Document lessons learned for continuous improvement.
 
 ## Case Study
 
@@ -241,6 +268,15 @@ A: Penalties vary depending on the violation. Minor documentation errors may res
 **Q: How can I find a reliable customs broker in Australia?**
 A: Look for licensed customs brokers through the Customs Brokers and Forwarders Council of Australia (CBFCA). Check their licensing status with the Department of Home Affairs. Ask for references from other importers, verify their experience with your product category, and compare fees from multiple brokers before deciding.
 
+**Q: What are the biosecurity requirements for importing from China?**
+A: Australia has strict biosecurity regulations. Wood packaging must comply with ISPM 15 standards. Food and agricultural products require permits and may need treatment. Animal products including leather and wool must meet specific requirements. Always check DAFF guidelines for your product category.
+
+**Q: How long does shipping from China to Australia typically take?**
+A: Sea freight takes 14-35 days depending on the route and port. Air freight takes 3-7 days. Express courier services like DHL, FedEx, and UPS take 2-5 days door-to-door. Transit times vary based on shipping method, route, and seasonal factors.
+
+**Q: What are the most common product categories imported from China to Australia?**
+A: The most common categories include electronics and electrical equipment, clothing and textiles, furniture and home goods, machinery and industrial equipment, toys and sporting goods, and automotive parts. Each category has specific import requirements and duty rates.
+
 ## Related Guides
 - [Complete Import Guide 2026](/articles/complete-import-guide-2026)
 - [China Import Tax Guide](/articles/china-import-tax-guide)
@@ -261,3 +297,5 @@ A: Look for licensed customs brokers through the Customs Brokers and Forwarders 
 
 ---
 *This article is part of our comprehensive import guide series. For more information on specific aspects of importing, explore our related guides above.*
+
+*Last updated: July 21, 2026*
