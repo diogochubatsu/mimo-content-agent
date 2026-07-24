@@ -2508,7 +2508,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:10:25Z",
-      "result": "Concluído via T125 - RSS feed generator criado."
+      "result": "Conclu\u00eddo via T125 - RSS feed generator criado."
     },
     {
       "id": "T166",
@@ -2604,9 +2604,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:15:34Z",
-      "result": null
+      "result": "Conclu\u00eddo via T143 - Script add-faq-schema.js criado e executado."
     },
     {
       "id": "T173",
