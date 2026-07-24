@@ -3206,9 +3206,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:15:30Z",
-      "result": null
+      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece ap\u00f3s scroll de 300px, smooth scroll para topo."
     },
     {
       "id": "T216",

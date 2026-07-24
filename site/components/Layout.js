@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { SEO } from './SEO'
+import BackToTop from './BackToTop'
 
 export default function Layout({ children, title, description, url, image, article }) {
   return (
@@ -70,6 +71,8 @@ export default function Layout({ children, title, description, url, image, artic
           </div>
         </div>
       </footer>
+      
+      <BackToTop />
     </>
   )
 }
