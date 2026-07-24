@@ -2814,9 +2814,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:40:33Z",
-      "result": null
+      "result": "Script lighthouse-audit.js criado. An\u00e1lise est\u00e1tica do site: 0 issues, 5 recomenda\u00e7\u00f5es."
     },
     {
       "id": "T188",
