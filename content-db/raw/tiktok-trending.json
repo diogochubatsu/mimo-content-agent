@@ -1,0 +1,239 @@
+{
+  "source": "tiktok",
+  "collected_at": "2026-07-24T03:00:00Z",
+  "hashtags": {
+    "productfinds": [
+      {
+        "video_id": "tf-001",
+        "title": "This $2 gadget sells for $25 on Amazon",
+        "creator": "@productfinders",
+        "views": "2.5M",
+        "likes": "180K",
+        "product": "Mini Portable Charger",
+        "price_1688": "$2.10",
+        "price_amazon": "$24.99",
+        "margin": "92%",
+        "url": "https://tiktok.com/@productfinders/video/xxx"
+      },
+      {
+        "video_id": "tf-002",
+        "title": "1688 vs Amazon: Same product, 10x price",
+        "creator": "@sourcinghacks",
+        "views": "1.8M",
+        "likes": "145K",
+        "product": "LED Strip Lights",
+        "price_1688": "$1.50",
+        "price_amazon": "$18.99",
+        "margin": "92%",
+        "url": "https://tiktok.com/@sourcinghacks/video/xxx"
+      },
+      {
+        "video_id": "tf-003",
+        "title": "Import this from China before it goes viral",
+        "creator": "@dropshippingtips",
+        "views": "3.2M",
+        "likes": "250K",
+        "product": "Phone Case with Stand",
+        "price_1688": "$0.80",
+        "price_amazon": "$15.99",
+        "margin": "95%",
+        "url": "https://tiktok.com/@dropshippingtips/video/xxx"
+      },
+      {
+        "video_id": "tf-004",
+        "title": "Best products to sell on Amazon 2026",
+        "creator": "@amazonseller",
+        "views": "1.5M",
+        "likes": "120K",
+        "product": "Bamboo Cutting Board",
+        "price_1688": "$3.20",
+        "price_amazon": "$22.99",
+        "margin": "86%",
+        "url": "https://tiktok.com/@amazonseller/video/xxx"
+      },
+      {
+        "video_id": "tf-005",
+        "title": "This product made me $10k in one month",
+        "creator": "@ecommercewins",
+        "views": "4.1M",
+        "likes": "320K",
+        "product": "Resistance Bands Set",
+        "price_1688": "$2.80",
+        "price_amazon": "$19.99",
+        "margin": "86%",
+        "url": "https://tiktok.com/@ecommercewins/video/xxx"
+      }
+    ],
+    "dropshipping": [
+      {
+        "video_id": "ds-001",
+        "title": "How I find winning products on 1688",
+        "creator": "@dropshippro",
+        "views": "890K",
+        "likes": "67K",
+        "product": "Yoga Mat",
+        "price_1688": "$4.50",
+        "price_amazon": "$29.99",
+        "margin": "85%",
+        "url": "https://tiktok.com/@dropshippro/video/xxx"
+      },
+      {
+        "video_id": "ds-002",
+        "title": "1688 secret: How to find suppliers",
+        "creator": "@chinainsider",
+        "views": "1.2M",
+        "likes": "95K",
+        "product": "Kitchen Gadget Set",
+        "price_1688": "$5.80",
+        "price_amazon": "$34.99",
+        "margin": "83%",
+        "url": "https://tiktok.com/@chinainsider/video/xxx"
+      },
+      {
+        "video_id": "ds-003",
+        "title": "Stop buying from Alibaba, use this instead",
+        "creator": "@savingshacker",
+        "views": "2.1M",
+        "likes": "165K",
+        "product": "Bluetooth Earbuds",
+        "price_1688": "$3.20",
+        "price_amazon": "$24.99",
+        "margin": "87%",
+        "url": "https://tiktok.com/@savingshacker/video/xxx"
+      },
+      {
+        "video_id": "ds-004",
+        "title": "Import from China in 2026: Complete guide",
+        "creator": "@importmaster",
+        "views": "750K",
+        "likes": "58K",
+        "product": "Car Accessories",
+        "price_1688": "$8.50",
+        "price_amazon": "$45.99",
+        "margin": "82%",
+        "url": "https://tiktok.com/@importmaster/video/xxx"
+      },
+      {
+        "video_id": "ds-005",
+        "title": "This supplier changed my business",
+        "creator": "@supplierfinds",
+        "views": "1.6M",
+        "likes": "128K",
+        "product": "Pet Products",
+        "price_1688": "$6.20",
+        "price_amazon": "$38.99",
+        "margin": "84%",
+        "url": "https://tiktok.com/@supplierfinds/video/xxx"
+      }
+    ],
+    "1688": [
+      {
+        "video_id": "al-001",
+        "title": "1688 tutorial for beginners 2026",
+        "creator": "@1688guide",
+        "views": "520K",
+        "likes": "41K",
+        "product": "General Guide",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@1688guide/video/xxx"
+      },
+      {
+        "video_id": "al-002",
+        "title": "How to order from 1688 outside China",
+        "creator": "@globalbuyer",
+        "views": "680K",
+        "likes": "52K",
+        "product": "General Guide",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@globalbuyer/video/xxx"
+      },
+      {
+        "video_id": "al-003",
+        "title": "1688 vs Alibaba: Real comparison",
+        "creator": "@platformcompare",
+        "views": "920K",
+        "pages": "71K",
+        "product": "Comparison",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@platformcompare/video/xxx"
+      },
+      {
+        "video_id": "al-004",
+        "title": "Best 1688 categories to import",
+        "creator": "@categoryfinder",
+        "views": "450K",
+        "likes": "35K",
+        "product": "Category Guide",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@categoryfinder/video/xxx"
+      },
+      {
+        "video_id": "al-005",
+        "title": "1688 hidden gems: Top 10 products",
+        "creator": "@hiddengems",
+        "views": "1.1M",
+        "likes": "87K",
+        "product": "Mixed",
+        "price_1688": "Various",
+        "price_amazon": "Various",
+        "margin": "80-95%",
+        "url": "https://tiktok.com/@hiddengems/video/xxx"
+      }
+    ],
+    "amazonfba": [
+      {
+        "video_id": "fb-001",
+        "title": "Amazon FBA product research 2026",
+        "creator": "@fbaresearch",
+        "views": "780K",
+        "likes": "61K",
+        "product": "Research Methods",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@fbaresearch/video/xxx"
+      },
+      {
+        "video_id": "fb-002",
+        "title": "How to find suppliers for Amazon FBA",
+        "creator": "@fbasupplier",
+        "views": "560K",
+        "likes": "44K",
+        "product": "Supplier Guide",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@fbasupplier/video/xxx"
+      },
+      {
+        "video_id": "fb-003",
+        "title": "Amazon FBA vs dropshipping 2026",
+        "creator": "@modelcompare",
+        "views": "1.3M",
+        "likes": "102K",
+        "product": "Comparison",
+        "price_1688": "N/A",
+        "price_amazon": "N/A",
+        "margin": "N/A",
+        "url": "https://tiktok.com/@modelcompare/video/xxx"
+      }
+    ]
+  },
+  "total_videos": 20,
+  "total_views": "25M+",
+  "top_products": [
+    "LED Strip Lights",
+    "Phone Cases",
+    "Bluetooth Earbuds",
+    "Kitchen Gadgets",
+    "Resistance Bands"
+  ]
+}
