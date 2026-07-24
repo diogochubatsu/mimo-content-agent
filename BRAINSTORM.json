@@ -230,7 +230,9 @@
       "proposed_by": "gcp",
       "status": "pendente_voto",
       "pc1_vote": "sim",
-      "pc1_note": "SEO Agent e critico. Sem ele, conteudo bom pode nao ranquear."
+      "pc1_note": "SEO Agent e critico. Sem ele, conteudo bom pode nao ranquear.",
+      "pc2_vote": "sim",
+      "pc2_note": "SEO Agent e essencial para keyword research automatico"
     },
     {
       "id": "D002",
@@ -238,7 +240,9 @@
       "proposed_by": "gcp",
       "status": "pendente_voto",
       "pc1_vote": "sim",
-      "pc1_note": "Template Reviews converte mais. Obrigatorio antes de lancar."
+      "pc1_note": "Template Reviews converte mais. Obrigatorio antes de lancar.",
+      "pc2_vote": "sim",
+      "pc2_note": "Ja criei o template Reviews. Essencial antes do launch"
     },
     {
       "id": "D003",
@@ -246,7 +250,9 @@
       "proposed_by": "gcp",
       "status": "pendente_voto",
       "pc1_vote": "sim",
-      "pc1_note": "Com pipeline automatizado, 1-2 artigos/dia e viavel."
+      "pc1_note": "Com pipeline automatizado, 1-2 artigos/dia e viavel.",
+      "pc2_vote": "sim",
+      "pc2_note": "1-2 artigos/dia e agressivo mas necessario para escala"
     },
     {
       "id": "D004",
@@ -254,7 +260,9 @@
       "proposed_by": "gcp",
       "status": "pendente_voto",
       "pc1_vote": "sim",
-      "pc1_note": "Amazon Associates tem API simples e alta conversao."
+      "pc1_note": "Amazon Associates tem API simples e alta conversao.",
+      "pc2_vote": "sim",
+      "pc2_note": "Amazon Associates e o mais facil para comecar"
     }
   ],
   "adaptations_needed": [
@@ -294,5 +302,13 @@
     "Atualizar TASKS.json com decisoes",
     "Comecar implementacao"
   ],
-  "status": "respondido"
+  "status": "respondido",
+  "log": [
+    {
+      "timestamp": "2026-07-24T01:45:00Z",
+      "agent": "pc-2",
+      "action": "decisions_voted",
+      "message": "pc-2 votou em 4 decisoes (D001-D004): todas aprovadas"
+    }
+  ]
 }
