@@ -78,7 +78,7 @@
       "decisions": [
         "Usar JSON estruturado para comunicacao",
         "Focar em 1 site primeiro",
-        "Pipeline Bronze→Silver como prioridade #1"
+        "Pipeline Bronze\u2192Silver como prioridade #1"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "pipeline-runner",
-      "description": "Criar pipeline que conecta Scout → Writer → Editor → Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
+      "description": "Criar pipeline que conecta Scout \u2192 Writer \u2192 Editor \u2192 Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
       "files": [
         "src/pipeline.ts",
         "src/runner.ts"
@@ -155,9 +155,9 @@
       "acceptance": "Site online em importguide1688.com com 5 artigos indexados",
       "priority": "critical",
       "deadline": "2026-07-27",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-23T10:05:00Z",
-      "result": null,
+      "result": "Site Next.js criado com homepage, article pages, styling, Plausible analytics. Pronto para deploy no Vercel.",
       "depends_on": [
         "T001"
       ],
@@ -226,9 +226,9 @@
       "acceptance": "Template funcional que gera artigo de 800-1200 palavras com ranking, pros/cons, e links afiliados",
       "priority": "medium",
       "deadline": "2026-07-28",
-      "status": "pending",
+      "status": "in_progress",
       "created": "2026-07-23T10:20:00Z",
-      "result": null,
+      "result": "Template Reviews criado em content-db/templates/reviews.md",
       "depends_on": [],
       "blocks": [
         "T008"
