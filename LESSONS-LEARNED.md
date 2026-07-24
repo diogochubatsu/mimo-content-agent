@@ -114,3 +114,22 @@
 | Scripts criados | 0 | 8 |
 | Testes | 0 | 12 |
 | Páginas site | 5 | 45+ |
+
+---
+
+## Sessão 4 — Fontes Autoritárias (2026-07-24)
+
+### Mudança Estratégica: Coleta vs Fontes Autoritárias
+
+**Problema identificado:** Coleta aleatória de fontes gera dados de baixa qualidade. Muitos registros sem data (69%), fontes desconhecidas, inconsistência entre idiomas.
+
+**Solução:** Mapear fontes AUTORITÁRIAS por idioma. Usar apenas fontes validadas:
+- Blogs oficiais de plataformas (Allegro, Rakuten, Coupang)
+- Associações do setor (E-commerce Polska, Sebrae)
+- Ferramentas líderes (Jungle Scout, Flexport)
+- Fontes governamentais (Sebrae, DHL)
+
+**Resultado:** 10 novas tasks de coleta (T260-T269) focadas em fontes reais, não aleatórias.
+
+### Lição Chave
+> "Fonte autoritária ≠ qualquer blog. A qualidade do bronze depende da AUTORIDADE da fonte, não da quantidade."

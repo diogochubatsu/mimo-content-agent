@@ -58,6 +58,30 @@ Toda fonte coletada DEVE conter esta metadata completa.
 | discussion | Discussoe comunitaria | Reddit thread |
 | guide | Guia completo | "Complete sourcing guide" |
 
+## Fontes Autoritarias (OBRIGATORIO usar estas)
+
+**NÃO coletar de fontes aleatórias.** Usar apenas fontes mapeadas em `content-db/raw/authoritative-sources.md`.
+
+### Regras de Coleta
+1. **Verificar se a fonte esta no mapa autoritario** antes de coletar
+2. **Priorizar fontes com alta autoridade** (blogs oficiais, associações, ferramentas líderes)
+3. **Filtrar por últimos 12 meses** — dados antigos são inúteis
+4. **Marcar idioma corretamente** — PT, EN, ES, DE, PL, ZH, KO, JA
+5. **Nunca coletar de fontes desconhecidas** sem validação humana
+
+### Prioridades por Idioma
+
+| Idioma | Fonte Principal | Prioridade |
+|--------|----------------|------------|
+| PT | Sebrae, Ecommerce Brasil, Nuvemshop | Crítica |
+| EN | Jungle Scout, Flexport, ImportGenius | Alta |
+| ES | Yomi Denzel, Dropi, Sellia | Crítica |
+| DE | Importlizenz.de, Amazon.de Seller | Alta |
+| PL | Allegro Blog, E-commerce Polska | **Crítica** |
+| ZH | 1688 Wiki, China Daily | Alta |
+| KO | Coupang Seller, Gmarket | Média |
+| JA | Rakuten Seller, Amazon JP Seller | Média |
+
 ## Exemplo de Fonte Completa
 
 ```json
