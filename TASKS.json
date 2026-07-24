@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T03:35:41Z",
+  "last_updated": "2026-07-24T19:04:24Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -1977,6 +1977,76 @@
       "result": null,
       "depends_on": [],
       "blocks": []
+    },
+    {
+      "id": "T128",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-1688-payment",
+      "description": "Gerar artigo Silver: How to Pay on 1688: Complete Payment Guide. Metodos de pagamento.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:04:20Z",
+      "result": null
+    },
+    {
+      "id": "T129",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-shipping-guide",
+      "description": "Gerar artigo Silver: Shipping from China: Complete Guide 2026. Frete maritimo, aereo, express.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:04:21Z",
+      "result": null
+    },
+    {
+      "id": "T130",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-product-sourcing",
+      "description": "Gerar artigo Silver: How to Source Products from 1688: Step by Step. Guia completo.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:04:22Z",
+      "result": null
+    },
+    {
+      "id": "T131",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "article-batch",
+      "description": "Criar script para gerar artigos em batch. Input: lista de topics. Output: artigos Silver automaticos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:04:23Z",
+      "result": null
+    },
+    {
+      "id": "T132",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "seo-batch",
+      "description": "Criar script para adicionar SEO em todos os artigos. Meta tags, schema, internal links.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:04:24Z",
+      "result": null
     }
   ],
   "log": [
@@ -2717,6 +2787,36 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T126 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:04:20Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T128 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:04:21Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T129 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:04:22Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T130 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:04:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T131 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:04:24Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T132 for pc-1"
     }
   ],
   "metrics": {
