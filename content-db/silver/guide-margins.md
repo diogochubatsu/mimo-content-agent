@@ -392,3 +392,10 @@ A: Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (
 ---
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links.*
+
+
+## Related Articles
+
+- [guide-importing-china](/articles/guide-importing-china)
+- [import-taxes-guide](/articles/import-taxes-guide)
+- [shipping-from-china-guide](/articles/shipping-from-china-guide)
