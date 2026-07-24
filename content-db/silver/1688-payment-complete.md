@@ -591,3 +591,10 @@ A: Payment timing depends on the method: Alipay balance payments are instant. Cr
 ---
 
 *This article is part of our [Complete 1688 Import Guide series](/1688-masterclass). For personalized help with 1688 payments, [contact our team](/contact).*
+
+
+## Related Articles
+
+- [Advanced Product Sourcing Techniques for 1688 and ](/articles/advanced-product-sourcing)
+- [1688 vs Temu: Which is Better for Sourcing? Comple](/articles/1688-vs-temu)
+- [How to Source Products from 1688: The Complete Ste](/articles/1688-product-sourcing)

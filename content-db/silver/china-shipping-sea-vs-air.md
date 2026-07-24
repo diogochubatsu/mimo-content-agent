@@ -618,3 +618,8 @@ A: Contact your freight forwarder immediately. For sea freight, claims are typic
   ]
 }
 </script>
+
+## Related Articles
+
+- [1688.com Masterclass: The Complete Guide to Sourci](/articles/gold-1688-masterclass)
+- [AliExpress vs 1688: Which is Better for Dropshippi](/articles/aliexpress-comparison)

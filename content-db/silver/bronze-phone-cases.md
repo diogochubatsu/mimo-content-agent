@@ -107,6 +107,9 @@ A: Yes, but branded cases sell better. Create a simple brand name and logo (use 
 
 ## Related Articles
 
+- [1688 vs Temu: Which is Better for Sourcing? Comple](/articles/1688-vs-temu)
+- [How to Source Products from 1688: The Complete Ste](/articles/1688-product-sourcing)
+- [1688 Payment Methods Complete Guide: How to Pay on](/articles/1688-payment-complete)
 - [alternatives-to-alibaba](/articles/alternatives-to-alibaba)
 - [car-accessories-china](/articles/car-accessories-china)
 - [comparison-master-guide](/articles/comparison-master-guide)
