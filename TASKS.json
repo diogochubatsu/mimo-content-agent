@@ -78,7 +78,7 @@
       "decisions": [
         "Usar JSON estruturado para comunicacao",
         "Focar em 1 site primeiro",
-        "Pipeline Bronze\u2192Silver como prioridade #1"
+        "Pipeline Bronze→Silver como prioridade #1"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "pipeline-runner",
-      "description": "Criar pipeline que conecta Scout \u2192 Writer \u2192 Editor \u2192 Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
+      "description": "Criar pipeline que conecta Scout → Writer → Editor → Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
       "files": [
         "src/pipeline.ts",
         "src/runner.ts"
@@ -250,7 +250,7 @@
       "deadline": "2026-07-30",
       "status": "done",
       "created": "2026-07-23T10:25:00Z",
-      "result": "SEO t\u00e9cnico implementado: robots.txt, sitemap.xml.js, SEO component com schema.org (Article, FAQ, Breadcrumb), Layout atualizado.",
+      "result": "SEO técnico implementado: robots.txt, sitemap.xml.js, SEO component com schema.org (Article, FAQ, Breadcrumb), Layout atualizado.",
       "depends_on": [
         "T002"
       ],
@@ -350,7 +350,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:32:19Z",
-      "result": "Error handling adicionado em todas as fases: scoutPhase, writerPhase, editorPhase, outputPhase, runPipeline. Valida\u00e7\u00e3o de inputs, try/catch em cada fase, mensagens de erro claras."
+      "result": "Error handling adicionado em todas as fases: scoutPhase, writerPhase, editorPhase, outputPhase, runPipeline. Validação de inputs, try/catch em cada fase, mensagens de erro claras."
     },
     {
       "id": "T012",
@@ -670,9 +670,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T00:56:09Z",
-      "result": null
+      "result": "20 posts collected from Reddit (7 AmazonFBA, 7 dropship, 6 ecommerce) via RSS feeds. Saved to content-db/raw/reddit/trending_posts_2026-07-24.json"
     },
     {
       "id": "T035",
@@ -698,9 +698,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T00:56:11Z",
-      "result": null
+      "result": "20 blog product ideas collected across 6 categories"
     },
     {
       "id": "T037",
