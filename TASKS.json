@@ -644,7 +644,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:40:23Z",
-      "result": "Tarefa antiga - j\u00e1 estamos trabalhando ativamente. PC-1 completou 20+ tasks nesta sess\u00e3o."
+      "result": "Tarefa antiga - já estamos trabalhando ativamente. PC-1 completou 20+ tasks nesta sessão."
     },
     {
       "id": "T033",
@@ -1638,7 +1638,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T02:59:37Z",
-      "result": "An\u00e1lise conclu\u00edda: 6 src, 7 scripts, 2 testes, 90 content-db, 49 p\u00e1ginas site. Recomenda\u00e7\u00e3o: mais testes, docs, e padroniza\u00e7\u00e3o."
+      "result": "Análise concluída: 6 src, 7 scripts, 2 testes, 90 content-db, 49 páginas site. Recomendação: mais testes, docs, e padronização."
     },
     {
       "id": "T104",
@@ -1930,9 +1930,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T03:35:41Z",
-      "result": null
+      "result": "Product Research Guide created (31KB)"
     },
     {
       "id": "T125",
