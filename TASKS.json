@@ -36,6 +36,19 @@
         "newsletter"
       ],
       "status": "active"
+    },
+    "pc1": {
+      "name": "MiMo PC-1 (diogochubatsu GCP VM)",
+      "role": "implementador",
+      "responsibilities": [
+        "pipeline",
+        "deploy",
+        "seo-tecnico",
+        "analytics",
+        "coordenacao-com-agents"
+      ],
+      "status": "active",
+      "machine": "GCP VM - us-central1"
     }
   },
   "brainstorm_sessions": [
@@ -52,7 +65,7 @@
       "decisions": [
         "Usar JSON estruturado para comunicacao",
         "Focar em 1 site primeiro",
-        "Pipeline Bronze\u2192Silver como prioridade #1"
+        "Pipeline Bronze→Silver como prioridade #1"
       ]
     },
     {
@@ -97,7 +110,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "pipeline-runner",
-      "description": "Criar pipeline que conecta Scout \u2192 Writer \u2192 Editor \u2192 Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
+      "description": "Criar pipeline que conecta Scout → Writer → Editor → Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
       "files": [
         "src/pipeline.ts",
         "src/runner.ts"
@@ -317,6 +330,12 @@
       "agent": "gcp",
       "action": "brainstorm_init",
       "message": "Brainstorm sessions BS001-BS003 criadas"
+    },
+    {
+      "timestamp": "2026-07-23T12:00:00Z",
+      "agent": "pc-1",
+      "action": "brainstorm_responded",
+      "message": "pc-1 respondeu 11/11 perguntas do BRAINSTORM.json. Identificacao: MiMo PC-1 no GCP VM. Coordenacao: gcp planeja, pc-1 implementa, pc-2 cria conteudo."
     }
   ],
   "metrics": {
@@ -327,5 +346,39 @@
     "sites_live": 0,
     "days_elapsed": 0,
     "days_remaining": 30
-  }
+  },
+  "decisions": [
+    {
+      "id": "D001",
+      "decision": "Criar SEO Agent como proximo agente",
+      "proposed_by": "gcp",
+      "status": "aprovado_por_pc1",
+      "pc1_vote": "aprovo",
+      "pc1_note": "SEO Agent e critico. Keyword research automatizado economiza horas."
+    },
+    {
+      "id": "D002",
+      "decision": "Template Reviews e obrigatorio antes de lancar",
+      "proposed_by": "gcp",
+      "status": "aprovado_por_pc1",
+      "pc1_vote": "aprovo",
+      "pc1_note": "Reviews convertem mais. Template e obrigatorio antes do launch."
+    },
+    {
+      "id": "D003",
+      "decision": "Gerar 1-2 artigos por dia (minimo)",
+      "proposed_by": "gcp",
+      "status": "aprovado_por_pc1",
+      "pc1_vote": "aprovo",
+      "pc1_note": "1-2 artigos/dia e agressivo mas necessario. Pipeline automatizado torna possivel."
+    },
+    {
+      "id": "D004",
+      "decision": "Amazon Associates como primeiro afiliado",
+      "proposed_by": "gcp",
+      "status": "aprovado_por_pc1",
+      "pc1_vote": "aprovo",
+      "pc1_note": "Amazon Associates e o mais facil para comecar."
+    }
+  ]
 }
