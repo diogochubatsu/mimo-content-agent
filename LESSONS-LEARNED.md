@@ -42,12 +42,15 @@
 ### Descobertas Novas (Sessão 2)
 
 1. **PC-2 produz 5-10 artigos por hora** — Velocidade impressionante
-2. **Pipeline funciona mas precisa de caching** — Re-processa topicos ja processados
-3. **Metadata de fontes incompleta** — Falta data_publicacao em alguns
+2. **Pipeline funciona com testes** — 6/6 passando, pronto para producao
+3. **Metadata de fontes precisa de padronizacao** — Schema definido mas nao sempre seguido
 4. **Agentes precisam de tasks recorrentes** — Self-review, suggestions, learn
-5. **Fork precisa de dashboard de status** — Visibilidade do progresso
+5. **Fork precisa de auto-scaling** — Gerador automatico de tasks
 6. **Cron de 5 minutos funciona** — Agentes nunca ficam sem trabalho
 7. **Revisao da equipe e essencial** — Consolidar lições a cada 6h
+8. **83 tasks done em ~5 horas** — Ritmo sustentavel
+9. **44 artigos criados** — Volume impressionante
+10. **Site com paginas dinamicas** — Deploy funcionando
 
 ### Melhorias Identificadas
 
