@@ -9,7 +9,7 @@
       "status": "respondido",
       "responses": {
         "arquitetura": "Agentes estao completos para Fase 1. Falta SEO Agent para Fase 4.",
-        "pipeline": "Bronze→Silver funciona. Precisa de mais 1 template: Reviews.",
+        "pipeline": "Bronze\u2192Silver funciona. Precisa de mais 1 template: Reviews.",
         "monetizacao": "Jungle Scout e Helium 10 tem programas de afiliados. Newsletter premium funciona.",
         "seo": "Keywords long-tail '1688 vs amazon margin' e 'buy from 1688' tem baixa concorrencia.",
         "riscos": "Google penaliza se conteudo for generico. Dados reais nos protegem."
@@ -17,8 +17,14 @@
     },
     "pc-1": {
       "role": "implementador",
-      "status": "aguardando",
-      "responses": {}
+      "status": "respondido",
+      "responses": {
+        "arquitetura": "Agentes estao completos para Fase 1. Pipeline implementado. Falta SEO Agent.",
+        "pipeline": "T001 done. Bronze funciona. Silver precisa de integracao.",
+        "monetizacao": "Amazon Associates e o mais facil. AliExpress ja temos dados.",
+        "seo": "Long-tail keywords sao o caminho. 1688 vs amazon margin tem potencial.",
+        "riscos": "Dados reais nos protegem. API limits sao risco imediato."
+      }
     },
     "pc-2": {
       "role": "criador",
@@ -43,7 +49,7 @@
       "gcp_note": "Reddit e YouTube funcionam. TikTok e LinkedIn precisam de API.",
       "pc1_response": "parcialmente",
       "pc2_response": null,
-      "pc1_note": "Reddit, YouTube, blogs funcionam via web scraping. TikTok precisa de API ou Decodo. LinkedIn e o mais dificil — requer autenticacao."
+      "pc1_note": "Reddit, YouTube, blogs funcionam via web scraping. TikTok precisa de API ou Decodo. LinkedIn e o mais dificil \u2014 requer autenticacao."
     },
     {
       "id": "Q002",
@@ -79,7 +85,7 @@
     {
       "id": "Q004",
       "category": "pipeline",
-      "question": "O pipeline Bronze→Silver funciona como esta descrito?",
+      "question": "O pipeline Bronze\u2192Silver funciona como esta descrito?",
       "options": [
         "sim",
         "nao",
@@ -169,7 +175,7 @@
       "gcp_note": "'1688 vs amazon margin', 'buy from 1688 outside china', 'import electronics china'",
       "pc1_response": "long_tail",
       "pc2_response": null,
-      "pc1_note": "1688 vs amazon margin, buy from 1688 outside china, import electronics china — volume bom, concorrencia baixa."
+      "pc1_note": "1688 vs amazon margin, buy from 1688 outside china, import electronics china \u2014 volume bom, concorrencia baixa."
     },
     {
       "id": "Q010",
@@ -200,7 +206,7 @@
       "gcp_note": "API limits sao o mais imediato. Cost overrun vem depois. Competicao e inevitavel.",
       "pc1_response": "all_above",
       "pc2_response": null,
-      "pc1_note": "API limits sao o mais imediato (Decodo, Firecrawl). Cost overrun vem com escala. Competicao e inevitavel — por isso dados reais sao criticos."
+      "pc1_note": "API limits sao o mais imediato (Decodo, Firecrawl). Cost overrun vem com escala. Competicao e inevitavel \u2014 por isso dados reais sao criticos."
     }
   ],
   "decisions": [
@@ -208,25 +214,33 @@
       "id": "D001",
       "decision": "Criar SEO Agent como proximo agente",
       "proposed_by": "gcp",
-      "status": "pendente_voto"
+      "status": "pendente_voto",
+      "pc1_vote": "sim",
+      "pc1_note": "SEO Agent e critico. Sem ele, conteudo bom pode nao ranquear."
     },
     {
       "id": "D002",
       "decision": "Template Reviews e obrigatorio antes de lancar",
       "proposed_by": "gcp",
-      "status": "pendente_voto"
+      "status": "pendente_voto",
+      "pc1_vote": "sim",
+      "pc1_note": "Template Reviews converte mais. Obrigatorio antes de lancar."
     },
     {
       "id": "D003",
       "decision": "Gerar 1-2 artigos por dia (minimo)",
       "proposed_by": "gcp",
-      "status": "pendente_voto"
+      "status": "pendente_voto",
+      "pc1_vote": "sim",
+      "pc1_note": "Com pipeline automatizado, 1-2 artigos/dia e viavel."
     },
     {
       "id": "D004",
       "decision": "Amazon Associates como primeiro afiliado",
       "proposed_by": "gcp",
-      "status": "pendente_voto"
+      "status": "pendente_voto",
+      "pc1_vote": "sim",
+      "pc1_note": "Amazon Associates tem API simples e alta conversao."
     }
   ],
   "adaptations_needed": [
