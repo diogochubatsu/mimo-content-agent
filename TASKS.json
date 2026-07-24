@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T00:32:21Z",
+  "last_updated": "2026-07-24T00:35:39Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -393,6 +393,244 @@
       "status": "pending",
       "created": "2026-07-24T00:32:21Z",
       "result": null
+    },
+    {
+      "id": "T015",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "error-handling",
+      "description": "Adicionar try/catch em TODAS as funcoes do pipeline. Cada fase (Scout, Writer, Editor) deve ter tratamento de erro proprio.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:21Z",
+      "result": null
+    },
+    {
+      "id": "T016",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "config-system",
+      "description": "Criar arquivo de configuracao pipeline.config.json com paths, fontes, templates. Remover hardcoded do pipeline.ts.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:22Z",
+      "result": null
+    },
+    {
+      "id": "T017",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "seo-agent",
+      "description": "Criar src/agents/seo.ts: keyword research basico + meta tags generator + schema.org markup. Deve ser chamado pelo pipeline.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:22Z",
+      "result": null
+    },
+    {
+      "id": "T018",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "unit-tests",
+      "description": "Criar tests/pipeline.test.ts com testes para Scout, Writer, Editor. Minimo 80% coverage.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:23Z",
+      "result": null
+    },
+    {
+      "id": "T019",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "logging",
+      "description": "Adicionar sistema de logging em src/logger.ts. Cada fase deve logar inicio, fim, duracao, erros.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:23Z",
+      "result": null
+    },
+    {
+      "id": "T020",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "cli",
+      "description": "Melhorar src/runner.ts: flags --topic, --tier, --site, --lang, --dry-run. Help text completo.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:24Z",
+      "result": null
+    },
+    {
+      "id": "T021",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "github-actions",
+      "description": "Melhorar .github/workflows/deploy.yml: adicionar test step antes do build.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:25Z",
+      "result": null
+    },
+    {
+      "id": "T022",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-led-strips",
+      "description": "Gerar artigo Bronze: LED Strip Lights: Price, MOQ, Suppliers Guide 2026. Usar template bronze.md. Minimo 800 palavras.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:35Z",
+      "result": null
+    },
+    {
+      "id": "T023",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-phone-cases",
+      "description": "Gerar artigo Bronze: Phone Cases 1688 vs Alibaba vs Amazon. Usar template bronze.md. Minimo 800 palavras.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:35Z",
+      "result": null
+    },
+    {
+      "id": "T024",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-earbuds",
+      "description": "Gerar artigo Bronze: Bluetooth Earbuds: Complete Sourcing Guide. Usar template bronze.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:35Z",
+      "result": null
+    },
+    {
+      "id": "T025",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-resistance-bands",
+      "description": "Gerar artigo Bronze: Resistance Bands: Import from China Guide. Usar template bronze.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:36Z",
+      "result": null
+    },
+    {
+      "id": "T026",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-kitchen",
+      "description": "Gerar artigo Bronze: Kitchen Gadgets: 1688 Best Deals. Usar template bronze.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:36Z",
+      "result": null
+    },
+    {
+      "id": "T027",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-silver-comparison",
+      "description": "Gerar artigo Silver: 1688 vs Alibaba Real Price Comparison 2026. Usar template silver.md. Minimo 1500 palavras.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:36Z",
+      "result": null
+    },
+    {
+      "id": "T028",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-silver-guide",
+      "description": "Gerar artigo Silver: Complete Guide to Importing from China. Usar template silver.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:37Z",
+      "result": null
+    },
+    {
+      "id": "T029",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-silver-top10",
+      "description": "Gerar artigo Silver: Top 10 Products to Import from China 2026. Usar template silver.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:38Z",
+      "result": null
+    },
+    {
+      "id": "T030",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-silver-margins",
+      "description": "Gerar artigo Silver: How to Calculate Import Margins. Usar template silver.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:38Z",
+      "result": null
+    },
+    {
+      "id": "T031",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "artigo-silver-agents",
+      "description": "Gerar artigo Silver: Best Sourcing Agents Reviewed. Usar template silver.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:35:39Z",
+      "result": null
     }
   ],
   "log": [
@@ -461,6 +699,108 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T014 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:21Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T015 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:22Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T016 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:22Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T017 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T018 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T019 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:24Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T020 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:25Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T021 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:35Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T022 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:35Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T023 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:35Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T024 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:36Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T025 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:36Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T026 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:36Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T027 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:37Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T028 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:38Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T029 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:38Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T030 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:35:39Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T031 for pc-2"
     }
   ],
   "metrics": {
