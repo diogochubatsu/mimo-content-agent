@@ -1,0 +1,148 @@
+{
+  "source": "wiki.1688.com",
+  "language": "zh",
+  "collected_at": "2026-07-24T02:45:00Z",
+  "guides": [
+    {
+      "id": "guide-001",
+      "title": "1688新手指南：如何开始采购",
+      "title_en": "1688 Beginner Guide: How to Start Sourcing",
+      "url": "https://wiki.1688.com/ beginner-guide",
+      "category": "getting-started",
+      "key_points": [
+        "Como criar conta no 1688",
+        "Como buscar produtos",
+        "Como verificar fornecedores",
+        "Como fazer pagamentos"
+      ],
+      "relevance": "high"
+    },
+    {
+      "id": "guide-002",
+      "title": "1688 vs Alibaba对比分析",
+      "title_en": "1688 vs Alibaba Comparison Analysis",
+      "url": "https://wiki.1688.com/ comparison",
+      "category": "comparison",
+      "key_points": [
+        "Diferenças de preço",
+        "MOQ comparison",
+        "Payment methods",
+        "Buyer protection"
+      ],
+      "relevance": "high"
+    },
+    {
+      "id": "guide-003",
+      "title": "如何找到可靠的供应商",
+      "title_en": "How to Find Reliable Suppliers",
+      "url": "https://wiki.1688.com/ reliable-suppliers",
+      "category": "suppliers",
+      "key_points": [
+        "Verificação de fornecedor",
+        "Red flags to avoid",
+        "Trade assurance",
+        "Communication tips"
+      ],
+      "relevance": "high"
+    },
+    {
+      "id": "guide-004",
+      "title": "1688采购物流指南",
+      "title_en": "1688 Sourcing Logistics Guide",
+      "url": "https://wiki.1688.com/ logistics",
+      "category": "shipping",
+      "key_points": [
+        "Shipping options",
+        "Customs and duties",
+        "Freight forwarders",
+        "Tracking orders"
+      ],
+      "relevance": "medium"
+    },
+    {
+      "id": "guide-005",
+      "title": "电子产品采购技巧",
+      "title_en": "Electronics Sourcing Tips",
+      "url": "https://wiki.1688.com/ electronics",
+      "category": "electronics",
+      "key_points": [
+        "Certification requirements",
+        "Quality testing",
+        "Sample orders",
+        "Negotiation tactics"
+      ],
+      "relevance": "high"
+    },
+    {
+      "id": "guide-006",
+      "title": "服装采购完全指南",
+      "title_en": "Complete Clothing Sourcing Guide",
+      "url": "https://wiki.1688.com/ clothing",
+      "category": "fashion",
+      "key_points": [
+        "Fabric selection",
+        "MOQ for clothing",
+        "Custom manufacturing",
+        "Quality control"
+      ],
+      "relevance": "medium"
+    },
+    {
+      "id": "guide-007",
+      "title": "家居用品采购攻略",
+      "title_en": "Home Goods Sourcing Strategy",
+      "url": "https://wiki.1688.com/ home-goods",
+      "category": "home",
+      "key_points": [
+        "Trending products",
+        "Seasonal items",
+        "Bulk pricing",
+        "Packaging options"
+      ],
+      "relevance": "medium"
+    },
+    {
+      "id": "guide-008",
+      "title": "如何谈判1688价格",
+      "title_en": "How to Negotiate 1688 Prices",
+      "url": "https://wiki.1688.com/ negotiation",
+      "category": "negotiation",
+      "key_points": [
+        "Price negotiation tactics",
+        "Bulk discount strategies",
+        "Sample order leverage",
+        "Long-term relationship building"
+      ],
+      "relevance": "high"
+    },
+    {
+      "id": "guide-009",
+      "title": "1688支付方式详解",
+      "title_en": "1688 Payment Methods Explained",
+      "url": "https://wiki.1688.com/ payment",
+      "category": "payment",
+      "key_points": [
+        "Alipay setup",
+        "International payments",
+        "Escrow protection",
+        "Currency conversion"
+      ],
+      "relevance": "medium"
+    },
+    {
+      "id": "guide-010",
+      "title": "避免1688采购陷阱",
+      "title_en": "Avoiding 1688 Sourcing Pitfalls",
+      "url": "https://wiki.1688.com/ pitfalls",
+      "category": "safety",
+      "key_points": [
+        "Common scams",
+        "Quality verification",
+        "Contract basics",
+        "Dispute resolution"
+      ],
+      "relevance": "high"
+    }
+  ],
+  "translation_needed": true
+}
