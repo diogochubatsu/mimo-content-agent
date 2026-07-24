@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T20:33:50Z",
+  "last_updated": "2026-07-24T20:36:22Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2508,7 +2508,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:10:25Z",
-      "result": "Conclu\u00eddo via T125 - RSS feed generator criado."
+      "result": "Concluído via T125 - RSS feed generator criado."
     },
     {
       "id": "T166",
@@ -2606,7 +2606,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:15:34Z",
-      "result": "Conclu\u00eddo via T143 - Script add-faq-schema.js criado e executado."
+      "result": "Concluído via T143 - Script add-faq-schema.js criado e executado."
     },
     {
       "id": "T173",
@@ -2746,6 +2746,34 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-24T20:33:50Z",
+      "result": null
+    },
+    {
+      "id": "T183",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "og-tags",
+      "description": "Adicionar Open Graph tags a todos os artigos Silver. title, description, image, url. Script automatizado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:36:22Z",
+      "result": null
+    },
+    {
+      "id": "T184",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "image-optimizer",
+      "description": "Criar script para otimizar imagens do site. Converter para WebP, redimensionar, lazy loading.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:36:22Z",
       "result": null
     }
   ],
@@ -3817,6 +3845,18 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T182 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:36:22Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T183 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T20:36:22Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T184 for pc-1"
     }
   ],
   "metrics": {
