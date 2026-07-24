@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T20:15:35Z",
+  "last_updated": "2026-07-24T20:20:54Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2621,6 +2621,76 @@
       "status": "pending",
       "created": "2026-07-24T20:15:35Z",
       "result": null
+    },
+    {
+      "id": "T174",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-amazon-research-tools",
+      "description": "Gerar artigo Silver: Best Amazon Product Research Tools 2026. Ferramentas comparadas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:20:51Z",
+      "result": null
+    },
+    {
+      "id": "T175",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-dropshipping-niches",
+      "description": "Gerar artigo Silver: Top Dropshipping Niches 2026. Nichos com maior margem.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:20:52Z",
+      "result": null
+    },
+    {
+      "id": "T176",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-china-quality-control",
+      "description": "Gerar artigo Silver: Quality Control when Importing from China. Checklist completo.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:20:53Z",
+      "result": null
+    },
+    {
+      "id": "T177",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-ecommerce-marketing",
+      "description": "Gerar artigo Silver: E-commerce Marketing Guide 2026. Estrategias de marketing.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:20:53Z",
+      "result": null
+    },
+    {
+      "id": "T178",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-amazon-listing",
+      "description": "Gerar artigo Silver: How to Create Amazon Listings That Sell. Otimizacao de listagens.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:20:54Z",
+      "result": null
     }
   ],
   "log": [
@@ -3637,6 +3707,36 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T173 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T20:20:51Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T174 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:20:52Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T175 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:20:53Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T176 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:20:53Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T177 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:20:54Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T178 for pc-2"
     }
   ],
   "metrics": {
