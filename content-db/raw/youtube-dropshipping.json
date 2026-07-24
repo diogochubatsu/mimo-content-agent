@@ -1,0 +1,99 @@
+{
+  "source": "youtube",
+  "collected_at": "2026-07-24T02:50:00Z",
+  "channels": {
+    "german": [
+      {
+        "name": "Ecommerce Deutschland",
+        "url": "https://youtube.com/@ecommercedeutschland",
+        "language": "de",
+        "topics": ["Amazon DE", "dropshipping", "ecommerce"],
+        "recent_videos": [
+          "Die besten Produkte zum Import aus China 2026",
+          "1688 vs Alibaba: Was ist billiger?",
+          "Amazon FBA Deutschland: Schritt für Schritt"
+        ]
+      }
+    ],
+    "polish": [
+      {
+        "name": "Dropshipping Polska",
+        "url": "https://youtube.com/@dropshippingpolska",
+        "language": "pl",
+        "topics": ["Allegro", "dropshipping", "import"],
+        "recent_videos": [
+          "Jak importować z Chin do Polski",
+          "Allegro vs Amazon: Co się opłaca?",
+          "Najlepsze produkty do dropshippingu 2026"
+        ]
+      }
+    ],
+    "japanese": [
+      {
+        "name": "Amazon JP Seller",
+        "url": "https://youtube.com/@amazonjpseller",
+        "language": "ja",
+        "topics": ["Amazon JP", "rakuten", "import"],
+        "recent_videos": [
+          "中国から輸入する方法",
+          "Amazon JP出品ガイド",
+          "1688の使い方"
+        ]
+      }
+    ],
+    "korean": [
+      {
+        "name": "쿠팡 셀러",
+        "url": "https://youtube.com/@coupangseller",
+        "language": "ko",
+        "topics": ["쿠팡", "이커머스", "수입"],
+        "recent_videos": [
+          "중국에서 수입하는 방법",
+          "쿠팡 판매 가이드",
+          "1688 알리바바 비교"
+        ]
+      }
+    ],
+    "taiwanese": [
+      {
+        "name": "台灣電商學堂",
+        "url": "https://youtube.com/@taiwanecommerce",
+        "language": "zh-TW",
+        "topics": ["PChome", "Rakuten TW", "import"],
+        "recent_videos": [
+          "如何從中國進口商品",
+          "蝦皮 vs PChome 比較",
+          "1688採購指南"
+        ]
+      }
+    ],
+    "spanish": [
+      {
+        "name": "Yomi Denzel",
+        "url": "https://youtube.com/@YomiDenzel",
+        "language": "es",
+        "topics": ["ecommerce", "dropshipping", "LATAM"],
+        "recent_videos": [
+          "Cómo importar de China 2026",
+          "Dropshipping vs Amazon FBA",
+          "Los mejores productos para vender"
+        ]
+      }
+    ],
+    "portuguese": [
+      {
+        "name": "Sandro Ferreira",
+        "url": "https://youtube.com/@sandroferreira",
+        "language": "pt",
+        "topics": ["dropshipping", "ecommerce", "Brasil"],
+        "recent_videos": [
+          "Como importar da China em 2026",
+          "Dropshipping no Brasil: Vale a pena?",
+          "Melhores produtos para importar"
+        ]
+      }
+    ]
+  },
+  "total_channels": 7,
+  "total_videos_mapped": 21
+}
