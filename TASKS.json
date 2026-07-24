@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T19:31:46Z",
+  "last_updated": "2026-07-24T19:39:03Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2285,6 +2285,34 @@
       "status": "pending",
       "created": "2026-07-24T19:31:46Z",
       "result": null
+    },
+    {
+      "id": "T150",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "test-coverage",
+      "description": "Aumentar cobertura de testes de 30% para 80%. Adicionar testes para cache.js, logger.js, seo.js, pipeline.js. Meta: todos os arquivos src/ com testes.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:39:03Z",
+      "result": null
+    },
+    {
+      "id": "T151",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "monitoring-dashboard",
+      "description": "Criar dashboard de metricas em /dashboard. Mostrar: artigos publicados, fontes coletadas, tasks concluidas, uptime. Atualizar a cada 5 min.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:39:03Z",
+      "result": null
     }
   ],
   "log": [
@@ -3157,6 +3185,18 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T149 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:39:03Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T150 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:39:03Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T151 for pc-1"
     }
   ],
   "metrics": {
