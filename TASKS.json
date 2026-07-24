@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T03:16:18Z",
+  "last_updated": "2026-07-24T03:30:40Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -910,7 +910,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T01:25:13Z",
-      "result": "6 testes m\u00ednimos criados em tests/pipeline-minimal.test.js. Todos passando. Cobrem: pipeline output, tiers, valida\u00e7\u00e3o, SEO agent."
+      "result": "6 testes mínimos criados em tests/pipeline-minimal.test.js. Todos passando. Cobrem: pipeline output, tiers, validação, SEO agent."
     },
     {
       "id": "T052",
@@ -1849,6 +1849,34 @@
       "status": "pending",
       "created": "2026-07-24T03:16:18Z",
       "result": null
+    },
+    {
+      "id": "T119",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "auto-task-generator",
+      "description": "Criar script que automaticamente gera tasks baseado em: 1) artigos faltantes por categoria 2) fontes com metadata incompleta 3) gaps de SEO. Rodar a cada 2h.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:30:39Z",
+      "result": null
+    },
+    {
+      "id": "T120",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-calendar",
+      "description": "Criar content-calendar.json com agenda de conteudo para proximas 2 semanas. Baseado em trends e keywords.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:30:40Z",
+      "result": null
     }
   ],
   "log": [
@@ -2541,6 +2569,18 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T118 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T03:30:39Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T119 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T03:30:40Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T120 for pc-1"
     }
   ],
   "metrics": {
