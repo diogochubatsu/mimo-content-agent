@@ -1,0 +1,84 @@
+@media print {
+  /* Hide non-essential elements */
+  .header,
+  .footer,
+  .back-to-top,
+  .share-buttons,
+  .newsletter,
+  .dark-mode-toggle,
+  nav,
+  .hero-cta-group {
+    display: none !important;
+  }
+  
+  /* Reset colors for print */
+  body {
+    background: white;
+    color: black;
+    font-size: 12pt;
+    line-height: 1.5;
+  }
+  
+  /* Layout adjustments */
+  .container {
+    max-width: 100%;
+    padding: 0;
+  }
+  
+  /* Article styling */
+  article {
+    box-shadow: none;
+    border: none;
+    padding: 0;
+  }
+  
+  /* Links */
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+  
+  a[href]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+  
+  /* Headings */
+  h1, h2, h3 {
+    color: black;
+    page-break-after: avoid;
+  }
+  
+  /* Tables */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  th {
+    background: #f0f0f0;
+  }
+  
+  /* Images */
+  img {
+    max-width: 100%;
+    page-break-inside: avoid;
+  }
+  
+  /* Page breaks */
+  h2, h3 {
+    page-break-before: auto;
+  }
+  
+  /* Hide backgrounds */
+  * {
+    background: transparent !important;
+    color: black !important;
+  }
+}
