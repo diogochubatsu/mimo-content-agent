@@ -1370,9 +1370,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T02:17:04Z",
-      "result": null
+      "result": "5 Portuguese YouTube videos collected in content-db/raw/youtube-pt/videos.json"
     },
     {
       "id": "T085",
