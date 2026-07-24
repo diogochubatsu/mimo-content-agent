@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T19:39:03Z",
+  "last_updated": "2026-07-24T19:40:41Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2313,6 +2313,48 @@
       "status": "pending",
       "created": "2026-07-24T19:39:03Z",
       "result": null
+    },
+    {
+      "id": "T152",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-china-import-tax",
+      "description": "Gerar artigo Silver: China Import Tax Guide 2026: Complete Breakdown by Country. Impostos detalhados.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:40:40Z",
+      "result": null
+    },
+    {
+      "id": "T153",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-ecommerce-automation",
+      "description": "Gerar artigo Silver: E-commerce Automation Tools for Importers. Ferramentas de automacao.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:40:40Z",
+      "result": null
+    },
+    {
+      "id": "T154",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-cross-border-payment",
+      "description": "Gerar artigo Silver: Cross-Border Payment Solutions for 1688. Metodos de pagamento internacional.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:40:41Z",
+      "result": null
     }
   ],
   "log": [
@@ -3197,6 +3239,24 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T151 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:40:40Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T152 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:40:40Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T153 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:40:41Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T154 for pc-2"
     }
   ],
   "metrics": {
