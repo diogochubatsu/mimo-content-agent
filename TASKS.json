@@ -1988,9 +1988,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T19:04:20Z",
-      "result": null
+      "result": "1688 Payment Guide created"
     },
     {
       "id": "T129",
