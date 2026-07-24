@@ -9,7 +9,7 @@
       "status": "respondido",
       "responses": {
         "arquitetura": "Agentes estao completos para Fase 1. Falta SEO Agent para Fase 4.",
-        "pipeline": "Bronze\u2192Silver funciona. Precisa de mais 1 template: Reviews.",
+        "pipeline": "Bronze→Silver funciona. Precisa de mais 1 template: Reviews.",
         "monetizacao": "Jungle Scout e Helium 10 tem programas de afiliados. Newsletter premium funciona.",
         "seo": "Keywords long-tail '1688 vs amazon margin' e 'buy from 1688' tem baixa concorrencia.",
         "riscos": "Google penaliza se conteudo for generico. Dados reais nos protegem."
@@ -33,6 +33,16 @@
     },
     "pc1": {
       "status": "respondido"
+    },
+    "pc2": {
+      "status": "respondido",
+      "responses": {
+        "arquitetura": "Fontes principais funcionam. TikTok/LinkedIn dificeis.",
+        "pipeline": "Bronze funciona. Silver precisa de mais dados.",
+        "monetizacao": "Amazon + AliExpress primeiro. Premium com dados exclusivos.",
+        "seo": "Long-tail keywords sao o caminho.",
+        "riscos": "Dados reais nos protegem."
+      }
     }
   },
   "questions": [
@@ -48,8 +58,9 @@
       "gcp_response": "parcialmente",
       "gcp_note": "Reddit e YouTube funcionam. TikTok e LinkedIn precisam de API.",
       "pc1_response": "parcialmente",
-      "pc2_response": null,
-      "pc1_note": "Reddit, YouTube, blogs funcionam via web scraping. TikTok precisa de API ou Decodo. LinkedIn e o mais dificil \u2014 requer autenticacao."
+      "pc2_response": "parcialmente",
+      "pc1_note": "Reddit, YouTube, blogs funcionam via web scraping. TikTok precisa de API ou Decodo. LinkedIn e o mais dificil — requer autenticacao.",
+      "pc2_note": "Como criador, preciso de fontes boas. Reddit, YouTube, blogs funcionam. TikTok e LinkedIn sao dificeis para coleta automatica."
     },
     {
       "id": "Q002",
@@ -63,8 +74,9 @@
       "gcp_response": "precisa_testar",
       "gcp_note": "Editor Agent tem techniques, mas precisa de validacao real.",
       "pc1_response": "precisa_testar",
-      "pc2_response": null,
-      "pc1_note": "Editor tem tecnicas boas, mas sem teste com GPTZero ou Originality.ai nao da pra afirmar. Prioridade: rodar 5 artigos pelo Editor e testar."
+      "pc2_response": "precisa_testar",
+      "pc1_note": "Editor tem tecnicas boas, mas sem teste com GPTZero ou Originality.ai nao da pra afirmar. Prioridade: rodar 5 artigos pelo Editor e testar.",
+      "pc2_note": "Critico para mim. Se conteudo for detectado como IA, nao ranquea. Editor Agent e essencial antes de publicar."
     },
     {
       "id": "Q003",
@@ -79,13 +91,14 @@
       "gcp_response": "seo_agent",
       "gcp_note": "SEO e critico para ranqueamento. Precisa de keyword research automatico.",
       "pc1_response": "seo_agent",
-      "pc2_response": null,
-      "pc1_note": "SEO Agent faria keyword research automatico + on-page optimization. Sem isso, conteudo bom pode nao ranquear."
+      "pc2_response": "seo_agent",
+      "pc1_note": "SEO Agent faria keyword research automatico + on-page optimization. Sem isso, conteudo bom pode nao ranquear.",
+      "pc2_note": "SEO Agent faria keyword research. Como criador, tambem preciso de um agent de trends (Google Trends) para saber o que esta em alta."
     },
     {
       "id": "Q004",
       "category": "pipeline",
-      "question": "O pipeline Bronze\u2192Silver funciona como esta descrito?",
+      "question": "O pipeline Bronze→Silver funciona como esta descrito?",
       "options": [
         "sim",
         "nao",
@@ -94,8 +107,9 @@
       "gcp_response": "precisa_ajuste",
       "gcp_note": "Logica esta correta, mas falta implementar. E a prioridade #1.",
       "pc1_response": "precisa_ajuste",
-      "pc2_response": null,
-      "pc1_note": "T001 ja esta done. Pipeline funciona para Bronze. Falta integrar Silver template e automatizar a transicao Bronze to Silver."
+      "pc2_response": "precisa_ajuste",
+      "pc1_note": "T001 ja esta done. Pipeline funciona para Bronze. Falta integrar Silver template e automatizar a transicao Bronze to Silver.",
+      "pc2_note": "Bronze funciona. Silver e mais complexo - precisa de mais pesquisa, dados de preco, e comparacoes reais."
     },
     {
       "id": "Q005",
@@ -110,8 +124,9 @@
       "gcp_response": "reviews",
       "gcp_note": "Reviews convertem mais que pricing puro. Template Reviews e obrigatorio.",
       "pc1_response": "reviews",
-      "pc2_response": null,
-      "pc1_note": "Template Top 10 produto para Importar converte mais. Reviews com dados reais de preco + ranking sao o diferencial."
+      "pc2_response": "reviews",
+      "pc1_note": "Template Top 10 produto para Importar converte mais. Reviews com dados reais de preco + ranking sao o diferencial.",
+      "pc2_note": "Reviews e essencial. Tambem preciso de template Comparacao (1688 vs Alibaba) e Guia de Compra."
     },
     {
       "id": "Q006",
@@ -126,8 +141,9 @@
       "gcp_response": "diaria",
       "gcp_note": "Velocidade e vida. 1-2 artigos por dia no minimo.",
       "pc1_response": "diaria",
-      "pc2_response": null,
-      "pc1_note": "Com pipeline automatizado, 1-2 artigos/dia e possivel. Meta: 50 artigos em 30 dias = 1.7/dia."
+      "pc2_response": "diaria",
+      "pc1_note": "Com pipeline automatizado, 1-2 artigos/dia e possivel. Meta: 50 artigos em 30 dias = 1.7/dia.",
+      "pc2_note": "1-2 artigos/dia e agressivo mas necessario. Com pipeline automatizado e possivel. Meta: 50 artigos em 30 dias."
     },
     {
       "id": "Q007",
@@ -143,8 +159,9 @@
       "gcp_response": "amazon,aliexpress,supplyia",
       "gcp_note": "Amazon Associates e o mais facil. AliExpress e Supplyia ja temos dados.",
       "pc1_response": "amazon,aliexpress",
-      "pc2_response": null,
-      "pc1_note": "Amazon Associates e o mais facil (API simples). AliExpress ja temos dados do scraper. Supplyia precisa de parceria formal."
+      "pc2_response": "amazon,aliexpress",
+      "pc1_note": "Amazon Associates e o mais facil (API simples). AliExpress ja temos dados do scraper. Supplyia precisa de parceria formal.",
+      "pc2_note": "Amazon Associates e o mais facil. AliExpress ja temos dados do scraper. Supplyia precisa de parceria."
     },
     {
       "id": "Q008",
@@ -158,8 +175,9 @@
       "gcp_response": "testar",
       "gcp_note": "Gratuito primeiro. Premium so apos 1000 assinantes.",
       "pc1_response": "testar",
-      "pc2_response": null,
-      "pc1_note": "Gratuito primeiro para validar. Premium quando tivermos 1000+ assinantes e conteudo exclusivo."
+      "pc2_response": "testar",
+      "pc1_note": "Gratuito primeiro para validar. Premium quando tivermos 1000+ assinantes e conteudo exclusivo.",
+      "pc2_note": "Gratuito primeiro. Premium so com conteudo exclusivo (dados de scraping que ninguem mais tem)."
     },
     {
       "id": "Q009",
@@ -174,8 +192,9 @@
       "gcp_response": "long_tail",
       "gcp_note": "'1688 vs amazon margin', 'buy from 1688 outside china', 'import electronics china'",
       "pc1_response": "long_tail",
-      "pc2_response": null,
-      "pc1_note": "1688 vs amazon margin, buy from 1688 outside china, import electronics china \u2014 volume bom, concorrencia baixa."
+      "pc2_response": "long_tail",
+      "pc1_note": "1688 vs amazon margin, buy from 1688 outside china, import electronics china — volume bom, concorrencia baixa.",
+      "pc2_note": "Long-tail e o caminho. '1688 vs amazon margin', 'buy from 1688 outside china' - volume bom, concorrencia baixa."
     },
     {
       "id": "Q010",
@@ -189,8 +208,9 @@
       "gcp_response": "depende",
       "gcp_note": "Se dados reais e unicos, nao. Se generico e copiado, sim.",
       "pc1_response": "depende",
-      "pc2_response": null,
-      "pc1_note": "Dados reais + opiniao genuina = safe. Texto generico 100% IA = risco. Editor Agent mitiga isso."
+      "pc2_response": "depende",
+      "pc1_note": "Dados reais + opiniao genuina = safe. Texto generico 100% IA = risco. Editor Agent mitiga isso.",
+      "pc2_note": "Conteudo com dados reais e unico e safe. Generico e copiado e risco. Editor Agent mitiga isso."
     },
     {
       "id": "Q011",
@@ -205,8 +225,9 @@
       "gcp_response": "all_above",
       "gcp_note": "API limits sao o mais imediato. Cost overrun vem depois. Competicao e inevitavel.",
       "pc1_response": "all_above",
-      "pc2_response": null,
-      "pc1_note": "API limits sao o mais imediato (Decodo, Firecrawl). Cost overrun vem com escala. Competicao e inevitavel \u2014 por isso dados reais sao criticos."
+      "pc2_response": "all_above",
+      "pc1_note": "API limits sao o mais imediato (Decodo, Firecrawl). Cost overrun vem com escala. Competicao e inevitavel — por isso dados reais sao criticos.",
+      "pc2_note": "API limits sao o mais imediato. Cost overrun vem depois. Competicao e inevitavel - por isso dados reais sao criticos."
     }
   ],
   "decisions": [
