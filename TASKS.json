@@ -880,9 +880,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:25:12Z",
-      "result": null
+      "result": "Site Next.js funcional com 5 artigos definidos. Pronto para deploy."
     },
     {
       "id": "T050",
