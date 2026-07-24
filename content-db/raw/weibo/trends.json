@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "China-US $30B Tariff Reduction Negotiations",
+    "description": "China and US seeking input on $30 billion reciprocal tariff reductions, with MOFCOM working to finalize specific product tariff reduction plans and advance implementation. Major impact on import/export businesses.",
+    "relevance_score": 0.95,
+    "category": "trade_policy",
+    "source": "Caixin/Global Times July 2026"
+  },
+  {
+    "topic": "Geely Acquires Ford Spanish Factory Stake",
+    "description": "Geely Automobile acquires 34% stake in Ford's Spanish factory for joint development of new energy vehicle models. Signals Chinese auto manufacturers expanding European manufacturing footprint.",
+    "relevance_score": 0.92,
+    "category": "manufacturing",
+    "source": "Caixin July 2026"
+  },
+  {
+    "topic": "China Shipbuilding Industry 173% Growth",
+    "description": "China's shipbuilding industry sees stellar growth in first 6 months of 2026, with new orders growing 173.1%. Demonstrates China's continued dominance in heavy manufacturing exports.",
+    "relevance_score": 0.88,
+    "category": "manufacturing",
+    "source": "Global Times July 2026"
+  },
+  {
+    "topic": "Foreign Investment in Advanced Manufacturing",
+    "description": "China implementing new Catalogue of Encouraged Industries for Foreign Investment, guiding investment into maglev power equipment, humanoid robot R&D, and other advanced manufacturing sectors.",
+    "relevance_score": 0.87,
+    "category": "investment",
+    "source": "Global Times July 2026"
+  },
+  {
+    "topic": "Trump Tariff War Targets 60 Economies",
+    "description": "US imposes 10%-12.5% tariffs on 60 economies citing 'forced labor' concerns. Creates new sourcing challenges for importers relying on Chinese manufacturing.",
+    "relevance_score": 0.94,
+    "category": "trade_policy",
+    "source": "Caixin July 2026"
+  },
+  {
+    "topic": "Chinese Cooling Products Going Global",
+    "description": "Chinese cooling products (portable AC, fans, cooling gear) experiencing strong overseas demand during Northern Hemisphere summer. Hot category for e-commerce exports.",
+    "relevance_score": 0.82,
+    "category": "product_trends",
+    "source": "Xinhua/NetEase July 2026"
+  },
+  {
+    "topic": "Humanoid Robot Manufacturing Expansion",
+    "description": "China pushing to become global leader in humanoid robot manufacturing. Multiple cities announcing support policies for robotics industry development and R&D investment.",
+    "relevance_score": 0.85,
+    "category": "technology",
+    "source": "Global Times July 2026"
+  },
+  {
+    "topic": "AI Manufacturing Integration",
+    "description": "Widespread discussion on Weibo about AI integration in Chinese factories. Smart manufacturing and automation trends reshaping production costs and capabilities.",
+    "relevance_score": 0.83,
+    "category": "technology",
+    "source": "Caixin July 2026"
+  },
+  {
+    "topic": "China Solar Industry Deep Adjustment",
+    "description": "Photovoltaic new installations dropped over 60% in first half of 2026. Industry in deep adjustment phase creating opportunities for buyers in solar equipment sourcing.",
+    "relevance_score": 0.79,
+    "category": "industry_trends",
+    "source": "Caixin July 2026"
+  },
+  {
+    "topic": "Electric Vehicle Export Boom",
+    "description": "Chinese EV manufacturers accelerating overseas expansion. European and Southeast Asian markets seeing influx of affordable Chinese electric vehicles and components.",
+    "relevance_score": 0.91,
+    "category": "product_trends",
+    "source": "Global Times/SCMP July 2026"
+  },
+  {
+    "topic": "Cross-border E-commerce Platform Growth",
+    "description": "Temu, SHEIN, and AliExpress continuing to dominate global cross-border e-commerce. New logistics routes and fulfillment centers being established worldwide.",
+    "relevance_score": 0.88,
+    "category": "ecommerce",
+    "source": "Industry reports July 2026"
+  },
+  {
+    "topic": "Guangdong GDP Industrial Recovery",
+    "description": "Guangdong GDP growth rebounded to 4.5% in H1 2026, with industrial output accelerating. Key manufacturing province showing signs of stronger production capacity.",
+    "relevance_score": 0.80,
+    "category": "manufacturing",
+    "source": "Caixin July 2026"
+  }
+]
