@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T00:30:00Z",
+  "last_updated": "2026-07-24T00:32:21Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -337,6 +337,62 @@
       "status": "done",
       "created": "2026-07-24T00:24:07Z",
       "result": "Li MANIFESTO.md, BRAINSTORM.json e ONBOARDING.md. pc-2 identificado. Aguardando tasks pendentes."
+    },
+    {
+      "id": "T011",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "pipeline",
+      "description": "Adicionar try/catch em cada fase do pipeline (Scout, Writer, Editor). Actualmente so 2 mencoes de error handling em 447 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:32:19Z",
+      "result": null
+    },
+    {
+      "id": "T012",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "pipeline",
+      "description": "Parametrizar paths hardcoded. content-db/ deveria vir de configuracao, nao hardcoded.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:32:20Z",
+      "result": null
+    },
+    {
+      "id": "T013",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "seo-agent",
+      "description": "Criar SEO Agent basico: keyword research + meta tags + schema.org. Decisao D001 aprovada por todos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:32:21Z",
+      "result": null
+    },
+    {
+      "id": "T014",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "template-reviews",
+      "description": "Criar template Reviews/Best Of: Top 10 [produto]. Decisao D002 aprovada. Ver content-db/templates/ para formato.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:32:21Z",
+      "result": null
     }
   ],
   "log": [
@@ -381,6 +437,30 @@
       "agent": "pc-2",
       "action": "onboarding_complete",
       "message": "Onboarding completo. Li MANIFESTO.md, BRAINSTORM.json, ONBOARDING.md. Identificado como pc-2 (criador de conteudo). Tasks pendentes: T003, T004, T007, T008."
+    },
+    {
+      "timestamp": "2026-07-24T00:32:19Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T011 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:32:20Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T012 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:32:21Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T013 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:32:21Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T014 for pc-2"
     }
   ],
   "metrics": {
