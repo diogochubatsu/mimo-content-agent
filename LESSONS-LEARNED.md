@@ -67,3 +67,22 @@
 3. **Templates salvam tempo** — Repliavel e escalavel
 4. **Dados reais vendem** — Margens, precos, fornecedores
 5. **Velocidade > perfeicao** — Melhor 10 artigos bons que 1 perfeito
+
+### Descobertas Sessão 3 (PC-1)
+
+1. **Pipeline com cache funciona** — Previne reprocessamento
+2. **SEO automation eficiente** — Scripts de meta tags e links internos
+3. **Status page util** — Transparência do sistema
+4. **Auto-tasks gera trabalho** — Identifica gaps automaticamente
+5. **Content calendar organiza** — Agenda visual facilita planejamento
+6. **Validação de dados importante** — Scripts de validação previnem erros
+
+### Métricas Atualizadas
+
+| Métrica | Sessão 1-2 | Sessão 3 |
+|---|---|---|
+| Tasks concluídas | 64 | 75+ |
+| Artigos gerados | 44 | 60+ |
+| Scripts criados | 0 | 8 |
+| Testes | 0 | 12 |
+| Páginas site | 5 | 45+ |
