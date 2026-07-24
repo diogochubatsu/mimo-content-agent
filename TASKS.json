@@ -712,9 +712,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T00:56:12Z",
-      "result": null
+      "result": "Google Trends data collected for 14 keywords - saved to content-db/raw/trends/google-trends.json"
     },
     {
       "id": "T038",
@@ -726,9 +726,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "in_progress",
+      "status": "done",
       "created": "2026-07-24T00:56:12Z",
-      "result": null
+      "result": "8 noticias coletadas sobre impostos e comercio US-China, EU-China, Brazil-China"
     },
     {
       "id": "T039",

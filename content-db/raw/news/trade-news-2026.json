@@ -1,0 +1,82 @@
+[
+  {
+    "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+    "url": "https://www.theguardian.com/business/2026/jun/29/eu-introduces-3-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
+    "date": "2026-06-29",
+    "source": "The Guardian",
+    "summary": "EU implemented €3 duty fee on low-value imports from platforms like SHEIN, Temu, and AliExpress to protect local businesses from cheap Chinese goods.",
+    "category": "taxes",
+    "region": "EU",
+    "impact": "high"
+  },
+  {
+    "title": "Trump tariff tracker - July 2026",
+    "url": "https://www.bakerbotts.com/en/insights/alerts/2026/07/trump-tariff-tracker-july-2026",
+    "date": "2026-07-21",
+    "source": "Baker Botts",
+    "summary": "Comprehensive tracking of US tariffs on Chinese goods, including new double-digit tariffs on dozens of countries.",
+    "category": "taxes",
+    "region": "US",
+    "impact": "high"
+  },
+  {
+    "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
+    "url": "https://www.theguardian.com/business/2026/jul/14/us-refunds-81bn-in-trump-tariffs-after-supreme-court-ruled-them-illegal",
+    "date": "2026-07-14",
+    "source": "The Guardian",
+    "summary": "US government ordered to refund $81 billion in tariffs after Supreme Court ruled emergency tariffs were illegal.",
+    "category": "taxes",
+    "region": "US",
+    "impact": "high"
+  },
+  {
+    "title": "UK accelerates plan to end low-value parcel tariff loophole",
+    "url": "https://www.reuters.com/world/uk/uk-accelerates-plan-end-low-value-parcel-tariff-loophole-2026-06-23/",
+    "date": "2026-06-23",
+    "source": "Reuters",
+    "summary": "UK following EU's lead to close tax loophole on cheap imports from China, affecting dropshipping business model.",
+    "category": "taxes",
+    "region": "UK",
+    "impact": "medium"
+  },
+  {
+    "title": "China's monthly car exports top 1m for first time as overall trade soars",
+    "url": "https://www.theguardian.com/business/2026/jul/14/chinas-monthly-car-exports-top-1m-for-first-time-as-overall-trade-soars",
+    "date": "2026-07-14",
+    "source": "The Guardian",
+    "summary": "China's exports continue to grow despite trade tensions, with car exports reaching record levels.",
+    "category": "trade",
+    "region": "China",
+    "impact": "medium"
+  },
+  {
+    "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports",
+    "url": "https://www.reuters.com/world/us/trump-xi-weigh-tariff-cuts-30-billion-imports-managed-trade-push-2026-05-13/",
+    "date": "2026-05-13",
+    "source": "Reuters",
+    "summary": "US and China negotiating potential tariff reductions on $30 billion worth of goods.",
+    "category": "trade",
+    "region": "US-China",
+    "impact": "high"
+  },
+  {
+    "title": "EU slaps €3 duty fee on SHEIN, Temu and AliExpress imports",
+    "url": "https://www.euronews.com/business/2026/06/30/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports",
+    "date": "2026-06-30",
+    "source": "Euronews",
+    "summary": "EU implementing new customs charges specifically targeting Chinese e-commerce platforms.",
+    "category": "taxes",
+    "region": "EU",
+    "impact": "high"
+  },
+  {
+    "title": "Brazil-China trade relations 2026",
+    "url": "https://www.china-briefing.com/news/china-brazil-trade-relations-2026/",
+    "date": "2026-06-01",
+    "source": "China Briefing",
+    "summary": "Analysis of Brazil-China trade dynamics, including agricultural exports and manufacturing imports.",
+    "category": "trade",
+    "region": "Brazil-China",
+    "impact": "medium"
+  }
+]
