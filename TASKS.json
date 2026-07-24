@@ -1622,9 +1622,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T02:59:37Z",
-      "result": null
+      "result": "\u00daltimas 5 tasks revisadas: T120 (calendar), T119 (auto-tasks), T115-T116-T113 (artigos Silver). Todas conclu\u00eddas com sucesso."
     },
     {
       "id": "T103",
@@ -1764,7 +1764,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:02:37Z",
-      "result": "Script validate-sources.js criado. Verifica campos obrigatórios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
+      "result": "Script validate-sources.js criado. Verifica campos obrigat\u00f3rios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
     },
     {
       "id": "T113",
@@ -1862,7 +1862,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:30:39Z",
-      "result": "Script auto-tasks.js criado. Analisa gaps de conteúdo e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
+      "result": "Script auto-tasks.js criado. Analisa gaps de conte\u00fado e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
     },
     {
       "id": "T120",
