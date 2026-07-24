@@ -333,9 +333,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T00:24:07Z",
-      "result": null
+      "result": "Li MANIFESTO.md, BRAINSTORM.json e ONBOARDING.md. pc-2 identificado. Aguardando tasks pendentes."
     }
   ],
   "log": [
@@ -374,6 +374,12 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T010 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:30:00Z",
+      "agent": "pc-2",
+      "action": "onboarding_complete",
+      "message": "Onboarding completo. Li MANIFESTO.md, BRAINSTORM.json, ONBOARDING.md. Identificado como pc-2 (criador de conteudo). Tasks pendentes: T003, T004, T007, T008."
     }
   ],
   "metrics": {
