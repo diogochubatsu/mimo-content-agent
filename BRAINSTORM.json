@@ -28,13 +28,6 @@
     },
     "pc-2": {
       "role": "criador",
-      "status": "aguardando",
-      "responses": {}
-    },
-    "pc1": {
-      "status": "respondido"
-    },
-    "pc2": {
       "status": "respondido",
       "responses": {
         "arquitetura": "Fontes principais funcionam. TikTok/LinkedIn dificeis.",
