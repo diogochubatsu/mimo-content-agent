@@ -144,5 +144,7 @@
       "relevance": "high"
     }
   ],
-  "translation_needed": true
+  "translation_needed": true,
+  "canal": "unknown",
+  "cat_produto": "general"
 }

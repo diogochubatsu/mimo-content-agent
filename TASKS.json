@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T21:05:22Z",
+  "last_updated": "2026-07-24T21:09:10Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -3027,6 +3027,90 @@
       "status": "pending",
       "created": "2026-07-24T21:05:22Z",
       "result": null
+    },
+    {
+      "id": "T203",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "metadata-fix-tiktok",
+      "description": "Corrigir metadata de 3 arquivos TikTok. Adicionar cat_fonte='trend'. Atualizar em content-db/raw/tiktok/.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T21:09:07Z",
+      "result": null
+    },
+    {
+      "id": "T204",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "metadata-fix-trends",
+      "description": "Corrigir metadata de google-trends.json. Adicionar cat_produto. Atualizar em content-db/raw/trends/.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T21:09:07Z",
+      "result": null
+    },
+    {
+      "id": "T205",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "metadata-fix-pinterest",
+      "description": "Corrigir metadata de pinterest/trends-2026.json. Adicionar canal. Atualizar.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T21:09:08Z",
+      "result": null
+    },
+    {
+      "id": "T206",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "metadata-fix-1688",
+      "description": "Corrigir metadata de 1688-guides.json. Adicionar canal. Atualizar.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T21:09:09Z",
+      "result": null
+    },
+    {
+      "id": "T207",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "metadata-fix-reddit",
+      "description": "Corrigir metadata de reddit/trending_posts. Adicionar canal. Atualizar.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T21:09:09Z",
+      "result": null
+    },
+    {
+      "id": "T208",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "metadata-fix-youtube-drop",
+      "description": "Corrigir metadata de youtube-dropshipping.json. Adicionar data_coleta. Atualizar.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T21:09:10Z",
+      "result": null
     }
   ],
   "log": [
@@ -4217,6 +4301,42 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T202 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:07Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T203 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:07Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T204 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:08Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T205 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:09Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T206 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:09Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T207 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:10Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T208 for pc-1"
     }
   ],
   "metrics": {
