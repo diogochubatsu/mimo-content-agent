@@ -1,0 +1,242 @@
+[
+  {
+    "product": "Apple AirPods Pro 3 Wireless Earbuds",
+    "category": "Electronics",
+    "trend_score": 98,
+    "price_range": "$199-$249",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Electronics"
+  },
+  {
+    "product": "Apple AirPods 4 Wireless Earbuds",
+    "category": "Electronics",
+    "trend_score": 96,
+    "price_range": "$99-$179",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Electronics"
+  },
+  {
+    "product": "Apple AirTag 2nd Generation Tracker",
+    "category": "Electronics",
+    "trend_score": 94,
+    "price_range": "$27-$35",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Electronics"
+  },
+  {
+    "product": "Amazon Fire TV Stick 4K Select",
+    "category": "Electronics",
+    "trend_score": 92,
+    "price_range": "$21-$59",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Electronics"
+  },
+  {
+    "product": "Owala FreeSip Insulated Water Bottle",
+    "category": "Kitchen & Dining",
+    "trend_score": 95,
+    "price_range": "$25-$35",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Kitchen & Dining"
+  },
+  {
+    "product": "Stanley Quencher H2.0 Tumbler 30oz",
+    "category": "Kitchen & Dining",
+    "trend_score": 94,
+    "price_range": "$25-$45",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Kitchen & Dining"
+  },
+  {
+    "product": "HydroJug Traveler 40oz Insulated Tumbler",
+    "category": "Kitchen & Dining",
+    "trend_score": 88,
+    "price_range": "$30-$40",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Kitchen & Dining"
+  },
+  {
+    "product": "Etekcity Digital Food Kitchen Scale",
+    "category": "Kitchen & Dining",
+    "trend_score": 85,
+    "price_range": "$10-$18",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Kitchen & Dining"
+  },
+  {
+    "product": "Alpha Grillers Instant Read Meat Thermometer",
+    "category": "Kitchen & Dining",
+    "trend_score": 82,
+    "price_range": "$10-$15",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Kitchen & Dining"
+  },
+  {
+    "product": "Queen Size 4 Piece Sheet Set (Hotel Luxury)",
+    "category": "Home & Kitchen",
+    "trend_score": 91,
+    "price_range": "$20-$35",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "Beckham Hotel Collection Bed Pillows",
+    "category": "Home & Kitchen",
+    "trend_score": 89,
+    "price_range": "$35-$50",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "DREO Tower Fan for Bedroom",
+    "category": "Home & Kitchen",
+    "trend_score": 87,
+    "price_range": "$55-$80",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "Zulay Kitchen Milk Frother Handheld",
+    "category": "Home & Kitchen",
+    "trend_score": 84,
+    "price_range": "$8-$15",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "Terro Ant Killer Bait Stations",
+    "category": "Home & Kitchen",
+    "trend_score": 80,
+    "price_range": "$8-$15",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "Zevo Flying Insect Trap + Refills",
+    "category": "Home & Kitchen",
+    "trend_score": 86,
+    "price_range": "$15-$37",
+    "competition_level": "low",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "LMNT Zero Sugar Electrolytes Drink Mix",
+    "category": "Health & Household",
+    "trend_score": 90,
+    "price_range": "$40-$55",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "Liquid I.V. Hydration Electrolytes",
+    "category": "Health & Household",
+    "trend_score": 88,
+    "price_range": "$20-$35",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "Pure Encapsulations Magnesium Glycinate",
+    "category": "Health & Household",
+    "trend_score": 83,
+    "price_range": "$25-$35",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "Nutricost Creatine Monohydrate 500G",
+    "category": "Health & Household",
+    "trend_score": 81,
+    "price_range": "$18-$25",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "Boka Toothpaste Nano Hydroxyapatite",
+    "category": "Health & Household",
+    "trend_score": 79,
+    "price_range": "$10-$15",
+    "competition_level": "low",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "Hanes Mens Boxer Briefs Cool & Breathable",
+    "category": "Clothing, Shoes & Jewelry",
+    "trend_score": 82,
+    "price_range": "$20-$30",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Clothing"
+  },
+  {
+    "product": "COOFANDY Mens Linen Shirts Short Sleeve",
+    "category": "Clothing, Shoes & Jewelry",
+    "trend_score": 78,
+    "price_range": "$20-$30",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Clothing"
+  },
+  {
+    "product": "ATHMILE Water Shoes Quick-Dry Aqua Socks",
+    "category": "Clothing, Shoes & Jewelry",
+    "trend_score": 80,
+    "price_range": "$5-$15",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Clothing"
+  },
+  {
+    "product": "SkaterTrainer Wheels for Skateboard",
+    "category": "Toys & Games",
+    "trend_score": 76,
+    "price_range": "$25-$35",
+    "competition_level": "low",
+    "source": "Amazon Best Sellers - Unique Finds"
+  },
+  {
+    "product": "Joking Hazard Party Card Game",
+    "category": "Toys & Games",
+    "trend_score": 74,
+    "price_range": "$20-$30",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Unique Finds"
+  },
+  {
+    "product": "Dawn Ultra Dish Soap Refill Jug",
+    "category": "Health & Household",
+    "trend_score": 77,
+    "price_range": "$6-$10",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "Affresh Washing Machine Cleaner",
+    "category": "Home & Kitchen",
+    "trend_score": 75,
+    "price_range": "$10-$15",
+    "competition_level": "low",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "Optimum Nutrition Gold Standard Whey Protein",
+    "category": "Health & Household",
+    "trend_score": 86,
+    "price_range": "$40-$60",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Health & Household"
+  },
+  {
+    "product": "PlayHot Portable Handheld Turbo Fan",
+    "category": "Home & Kitchen",
+    "trend_score": 73,
+    "price_range": "$15-$20",
+    "competition_level": "medium",
+    "source": "Amazon Best Sellers - Home & Kitchen"
+  },
+  {
+    "product": "DUDE Wipes Flushable Wet Wipes",
+    "category": "Health & Household",
+    "trend_score": 84,
+    "price_range": "$18-$25",
+    "competition_level": "high",
+    "source": "Amazon Best Sellers - Health & Household"
+  }
+]
