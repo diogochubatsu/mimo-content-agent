@@ -1,0 +1,112 @@
+{
+  "version": "1.0",
+  "created": "2026-07-24T03:00:00Z",
+  "calendar": {
+    "week_1": {
+      "dates": "2026-07-24 to 2026-07-30",
+      "focus": "Foundation + First Articles",
+      "tasks": [
+        {
+          "day": "Monday",
+          "type": "content",
+          "articles": [
+            {"topic": "LED Strip Lights", "tier": "bronze", "status": "done"},
+            {"topic": "Phone Cases", "tier": "bronze", "status": "done"}
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "type": "content",
+          "articles": [
+            {"topic": "Bluetooth Earbuds", "tier": "bronze", "status": "done"},
+            {"topic": "Kitchen Gadgets", "tier": "bronze", "status": "done"}
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "type": "content",
+          "articles": [
+            {"topic": "Fitness Equipment", "tier": "bronze", "status": "pending"}
+          ]
+        },
+        {
+          "day": "Thursday",
+          "type": "seo",
+          "tasks": ["Add meta tags to all articles", "Add internal links"]
+        },
+        {
+          "day": "Friday",
+          "type": "deployment",
+          "tasks": ["Deploy site to Vercel", "Test all pages"]
+        },
+        {
+          "day": "Weekend",
+          "type": "review",
+          "tasks": ["Review analytics", "Plan week 2"]
+        }
+      ]
+    },
+    "week_2": {
+      "dates": "2026-07-31 to 2026-08-06",
+      "focus": "Silver Articles + Social Media",
+      "tasks": [
+        {
+          "day": "Monday",
+          "type": "content",
+          "articles": [
+            {"topic": "Complete Import Guide", "tier": "silver", "status": "pending"},
+            {"topic": "1688 vs Alibaba", "tier": "silver", "status": "pending"}
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "type": "content",
+          "articles": [
+            {"topic": "Top 10 Products", "tier": "silver", "status": "pending"},
+            {"topic": "Margin Calculator", "tier": "silver", "status": "pending"}
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "type": "social",
+          "tasks": ["Create Reddit posts", "Schedule Twitter content"]
+        },
+        {
+          "day": "Thursday",
+          "type": "content",
+          "articles": [
+            {"topic": "Sourcing Agents Review", "tier": "silver", "status": "pending"}
+          ]
+        },
+        {
+          "day": "Friday",
+          "type": "newsletter",
+          "tasks": ["Send first newsletter", "Analyze open rates"]
+        },
+        {
+          "day": "Weekend",
+          "type": "review",
+          "tasks": ["Performance review", "Plan week 3"]
+        }
+      ]
+    }
+  },
+  "content_targets": {
+    "bronze": 10,
+    "silver": 5,
+    "social_posts": 10,
+    "newsletter_issues": 2
+  },
+  "kpi_targets": {
+    "week_1": {
+      "articles": 5,
+      "page_views": 100,
+      "email_subscribers": 10
+    },
+    "week_2": {
+      "articles": 10,
+      "page_views": 500,
+      "email_subscribers": 50
+    }
+  }
+}
