@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T19:06:28Z",
+  "last_updated": "2026-07-24T19:27:16Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2159,6 +2159,48 @@
       "status": "pending",
       "created": "2026-07-24T19:06:28Z",
       "result": null
+    },
+    {
+      "id": "T141",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "update",
+      "target": "templates-update",
+      "description": "Atualizar templates bronze.md e silver.md conforme sugestoes do PC-2: adicionar 'How to Order', 'Who This Guide Is For', price trends.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:27:14Z",
+      "result": null
+    },
+    {
+      "id": "T142",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "brazil-guide",
+      "description": "Criar artigo Silver: Complete Guide to Import from China to Brazil (Portuguese). Alta demanda, zero concorrencia.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:27:15Z",
+      "result": null
+    },
+    {
+      "id": "T143",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "faq-schema",
+      "description": "Adicionar FAQ schema a TODOS os artigos Silver existentes. Script automatizado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:27:16Z",
+      "result": null
     }
   ],
   "log": [
@@ -2977,6 +3019,24 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T140 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:27:14Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T141 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:27:15Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T142 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:27:16Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T143 for pc-1"
     }
   ],
   "metrics": {
