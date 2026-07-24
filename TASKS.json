@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T03:02:37Z",
+  "last_updated": "2026-07-24T03:16:18Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -1765,6 +1765,90 @@
       "status": "pending",
       "created": "2026-07-24T03:02:37Z",
       "result": null
+    },
+    {
+      "id": "T113",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-wholesale-electronics-guide",
+      "description": "Gerar artigo Silver: wholesale electronics guide. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:16:16Z",
+      "result": null
+    },
+    {
+      "id": "T114",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-dropshipping-mistakes-2026",
+      "description": "Gerar artigo Silver: dropshipping mistakes 2026. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:16:16Z",
+      "result": null
+    },
+    {
+      "id": "T115",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-alibaba-gold-supplier-explained",
+      "description": "Gerar artigo Silver: alibaba gold supplier explained. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:16:17Z",
+      "result": null
+    },
+    {
+      "id": "T116",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-1688-payment-methods",
+      "description": "Gerar artigo Silver: 1688 payment methods. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:16:17Z",
+      "result": null
+    },
+    {
+      "id": "T117",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-china-shipping-sea-vs-air",
+      "description": "Gerar artigo Silver: china shipping sea vs air. Template silver.md. Minimo 300 linhas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:16:17Z",
+      "result": null
+    },
+    {
+      "id": "T118",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "tiktok-collect-2",
+      "description": "Coletar 15 videos TikTok trending sobre importacao. Salvar em content-db/raw/tiktok-2/. JSON com metadata completa.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T03:16:18Z",
+      "result": null
     }
   ],
   "log": [
@@ -2421,6 +2505,42 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T112 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T03:16:16Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T113 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T03:16:16Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T114 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T03:16:17Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T115 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T03:16:17Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T116 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T03:16:17Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T117 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T03:16:18Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T118 for pc-2"
     }
   ],
   "metrics": {
