@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T02:32:36Z",
+  "last_updated": "2026-07-24T02:59:41Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -1611,6 +1611,118 @@
       "status": "pending",
       "created": "2026-07-24T02:32:36Z",
       "result": null
+    },
+    {
+      "id": "T102",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "recurring",
+      "target": "self-review",
+      "description": "RECORRENTE (a cada 2h): Revisar ultimas 5 tasks concluidas. Dar notas A/B/C. Identificar o que funcionou e o que nao. Escrever feedback em docs/self-review-pc1.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:37Z",
+      "result": null
+    },
+    {
+      "id": "T103",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "recurring",
+      "target": "suggest-improvements",
+      "description": "RECORRENTE (a cada 4h): Analisar estrutura do projeto. Sugerir mudancas no pipeline, templates, ou workflow. Documentar em docs/suggestions-pc1.md. Comunicar ao GCP via git push.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:37Z",
+      "result": null
+    },
+    {
+      "id": "T104",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "recurring",
+      "target": "learn-and-adapt",
+      "description": "RECORRENTE (a cada sessao): Identificar 3 lições aprendidas. Atualizar LESSONS-LEARNED.md. Sugerir ajustes para proximas tasks. Propor melhorias ao fork.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:38Z",
+      "result": null
+    },
+    {
+      "id": "T105",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "recurring",
+      "target": "self-review",
+      "description": "RECORRENTE (a cada 2h): Revisar ultimos 5 artigos/colecoes concluidos. Dar notas A/B/C. Verificar qualidade, completude, metadata. Escrever em docs/self-review-pc2.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:38Z",
+      "result": null
+    },
+    {
+      "id": "T106",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "recurring",
+      "target": "source-quality",
+      "description": "RECORRENTE (a cada hora): Avaliar fontes coletadas em content-db/raw/. Classificar por qualidade. Identificar fontes fracas. Criar tasks para expandir. Garantir metadata completa.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:38Z",
+      "result": null
+    },
+    {
+      "id": "T107",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "recurring",
+      "target": "suggest-improvements",
+      "description": "RECORRENTE (a cada 4h): Analisar templates de conteudo. Sugerir melhorias em bronze.md, silver.md, reviews.md. Documentar em docs/suggestions-pc2.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:39Z",
+      "result": null
+    },
+    {
+      "id": "T108",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "recurring",
+      "target": "team-review",
+      "description": "RECORRENTE (a cada 6h): REVISAO DA EQUIPE: 1) Ler self-reviews de pc-1 e pc-2 2) Consolidar lições aprendidas 3) Identificar gargalos 4) Ajustar distribuicao de tasks 5) Propor mudancas na estrutura 6) Atualizar TEAM-REVIEW.md 7) Comunicar resultados",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:40Z",
+      "result": null
+    },
+    {
+      "id": "T109",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "recurring",
+      "target": "fork-evolution",
+      "description": "RECORRENTE (a cada 8h): EVOLUCAO DO FORK: 1) Analisar o que aprendemos 2) Identificar features para adicionar 3) Criar tasks de desenvolvimento 4) Priorizar por impacto 5) Documentar em docs/fork-evolution.md",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T02:59:41Z",
+      "result": null
     }
   ],
   "log": [
@@ -2201,6 +2313,54 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T101 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:37Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T102 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:37Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T103 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:38Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T104 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:38Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T105 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:38Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T106 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:39Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T107 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:40Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T108 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T02:59:41Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T109 for gcp"
     }
   ],
   "metrics": {
