@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Amazon FBA Fees Complete Guide 2026: Every Cost Explained"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/amazon-fba-fees-guide"
+  image: "https://importguide1688.com/og/amazon-fba-fees-guide.png"
+  site_name: "Import Guide 1688"
 title: "Amazon FBA Fees Complete Guide 2026: Every Cost Explained"
 slug: "amazon-fba-fees-guide"
 meta_description: "Master Amazon FBA fees in 2026: complete fee breakdown by size tier, category-specific costs, hidden charges, calculation examples, and proven optimization strategies to maximize profits."

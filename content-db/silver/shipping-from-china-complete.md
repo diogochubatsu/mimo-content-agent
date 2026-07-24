@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Shipping from China: Complete Guide 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/shipping-from-china-complete"
+  image: "https://importguide1688.com/og/shipping-from-china-complete.png"
+  site_name: "Import Guide 1688"
 title: "Shipping from China: Complete Guide 2026"
 slug: "shipping-from-china-complete"
 meta_description: "Master shipping from China with our 2026 guide: sea freight, air freight, express couriers, costs, customs clearance, and expert tips for importers."

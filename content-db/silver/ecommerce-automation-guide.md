@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Ecommerce Automation Guide 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/ecommerce-automation-guide"
+  image: "https://importguide1688.com/og/ecommerce-automation-guide.png"
+  site_name: "Import Guide 1688"
 title: "Ecommerce Automation Guide 2026"
 slug: ecommerce-automation-guide
 meta_description: "Complete ecommerce automation guide for 2026. Learn about AI tools, workflow automation, inventory management, and case studies to scale your online business."

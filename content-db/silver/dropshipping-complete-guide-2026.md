@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Dropshipping in 2026: Complete Guide to Building a Profitable Business"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/dropshipping-complete-guide-2026"
+  image: "https://importguide1688.com/og/dropshipping-complete-guide-2026.png"
+  site_name: "Import Guide 1688"
 title: "Dropshipping in 2026: Complete Guide to Building a Profitable Business"
 slug: "dropshipping-complete-guide-2026"
 meta_description: "Master dropshipping in 2026: business models, platform comparison (Shopify, WooCommerce, TikTok Shop), supplier sourcing from 1688, marketing strategies, and real case studies with profit breakdowns."

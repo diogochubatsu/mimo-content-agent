@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Complete Guide: Import Scams and How to Avoid Them (2026)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-scams-avoidance"
+  image: "https://importguide1688.com/og/import-scams-avoidance.png"
+  site_name: "Import Guide 1688"
 title: "Import Scams and How to Avoid Them: A Complete Protection Guide (2026)"
 tier: "silver"
 site: "importguide1688.com"

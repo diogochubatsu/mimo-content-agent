@@ -2758,9 +2758,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:36:22Z",
-      "result": null
+      "result": "Script add-og-tags.js criado. Adiciona Open Graph tags (title, description, type, url, image) a todos os artigos."
     },
     {
       "id": "T184",

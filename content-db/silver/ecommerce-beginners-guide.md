@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Ecommerce for Beginners Complete Guide (2026)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/ecommerce-beginners-guide"
+  image: "https://importguide1688.com/og/ecommerce-beginners-guide.png"
+  site_name: "Import Guide 1688"
 title: "Ecommerce for Beginners Complete Guide (2026)"
 tier: "silver"
 site: "importguide1688.com"

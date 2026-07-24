@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Amazon FBA Complete Guide 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/amazon-fba-complete-guide"
+  image: "https://importguide1688.com/og/amazon-fba-complete-guide.png"
+  site_name: "Import Guide 1688"
 title: "Amazon FBA Complete Guide 2026: Fees, Shipping, and Optimization"
 slug: "amazon-fba-complete-guide"
 meta_description: "Master Amazon FBA in 2026: complete fee breakdown, FBA vs FBM comparison, shipping workflows from 1688, inventory management, and proven strategies to maximize profits."

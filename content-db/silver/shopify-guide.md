@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Complete Guide: Shopify for Import Business 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/shopify-guide"
+  image: "https://importguide1688.com/og/shopify-guide.png"
+  site_name: "Import Guide 1688"
 title: "Shopify for Import Business Guide 2026"
 slug: shopify-guide
 meta_description: "Complete Shopify guide for import businesses in 2026. Compare plans, setup steps, app recommendations, dropshipping integration, and cost analysis for importers."

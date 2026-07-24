@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Product Validation Before Ordering Guide (2026)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/product-validation-guide"
+  image: "https://importguide1688.com/og/product-validation-guide.png"
+  site_name: "Import Guide 1688"
 title: "Product Validation Before Ordering Guide (2026)"
 tier: "silver"
 site: "importguide1688.com"

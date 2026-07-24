@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "1688 Payment Methods Complete Guide: How to Pay on China's Biggest Wholesale Platform (2026)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/1688-payment-complete"
+  image: "https://importguide1688.com/og/1688-payment-complete.png"
+  site_name: "Import Guide 1688"
 title: "1688 Payment Methods Complete Guide: How to Pay on China's Biggest Wholesale Platform (2026)"
 description: "Master every payment method on 1688.com — from Alipay to agent services, wire transfers, and cross-border solutions. Compare fees, limits, and security features to choose the best option for your import business."
 keywords: "1688 payment methods, how to pay on 1688, Alipay 1688, 1688 agent payment, cross-border payment China, 1688 wire transfer"
