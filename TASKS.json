@@ -448,7 +448,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:35:23Z",
-      "result": "Testes criados: 10 testes passando. Cobrem pipeline (runPipeline, valida\u00e7\u00e3o) e SEO Agent (metadata, schema, analyze)."
+      "result": "Testes criados: 10 testes passando. Cobrem pipeline (runPipeline, validação) e SEO Agent (metadata, schema, analyze)."
     },
     {
       "id": "T019",
@@ -1090,9 +1090,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:47:29Z",
-      "result": null
+      "result": "20 TikTok videos collected"
     },
     {
       "id": "T065",
