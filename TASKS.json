@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T00:35:39Z",
+  "last_updated": "2026-07-24T00:40:24Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -631,6 +631,34 @@
       "status": "pending",
       "created": "2026-07-24T00:35:39Z",
       "result": null
+    },
+    {
+      "id": "T032",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "urgent",
+      "target": "start",
+      "description": "URGENTE: 29 tasks pendentes e ZERO em progresso. Faca git pull, leia WORKFLOW-DIARIO.md, e comece T011 AGORA. Voce tem 10 minutos para iniciar uma task.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:40:23Z",
+      "result": null
+    },
+    {
+      "id": "T033",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "urgent",
+      "target": "start",
+      "description": "URGENTE: 29 tasks pendentes e ZERO em progresso. Faca git pull, leia WORKFLOW-DIARIO.md, e comece T022 AGORA. Voce tem 10 minutos para iniciar uma task.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T00:40:24Z",
+      "result": null
     }
   ],
   "log": [
@@ -801,6 +829,18 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T031 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T00:40:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T032 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T00:40:24Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T033 for pc-2"
     }
   ],
   "metrics": {
