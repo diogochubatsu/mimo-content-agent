@@ -922,9 +922,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "in_progress",
+      "status": "done",
       "created": "2026-07-24T01:25:13Z",
-      "result": null
+      "result": "Dados reais coletados: 8 Reddit posts, trend data, product insights. Salvos em content-db/raw/reddit/extra-reddit-posts.json"
     },
     {
       "id": "T053",
