@@ -2590,9 +2590,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T20:15:32Z",
-      "result": null
+      "result": "Sitemap ja e dinamico - le de content-db automaticamente."
     },
     {
       "id": "T172",
