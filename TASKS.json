@@ -269,9 +269,9 @@
       "acceptance": "10 posts prontos para publicar, cada um com dado unico + CTA",
       "priority": "medium",
       "deadline": "2026-08-02",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-23T10:30:00Z",
-      "result": null,
+      "result": "10 Reddit posts criados para r/AmazonFBA, r/dropship, r/ecommerce. Posts incluem dados reais, tabelas, e CTAs.",
       "depends_on": [
         "T004"
       ],
