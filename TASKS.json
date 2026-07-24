@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T00:56:24Z",
+  "last_updated": "2026-07-24T01:25:15Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -771,6 +771,188 @@
       "status": "pending",
       "created": "2026-07-24T00:56:24Z",
       "result": null
+    },
+    {
+      "id": "T042",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "review",
+      "target": "quality-audit",
+      "description": "Auditoria completa de QUALIDADE: Ler TODOS os 20 artigos, dar nota A/B/C para cada um, identificar problemas, criar lista de correcoes.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:54Z",
+      "result": null
+    },
+    {
+      "id": "T043",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "research",
+      "target": "seo-strategy",
+      "description": "Pesquisar: melhores keywords para nicho de importacao. Usar Google Trends, Ahrefs data, Reddit discussions. Criar relatorio em docs/seo-keywords.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:55Z",
+      "result": null
+    },
+    {
+      "id": "T044",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "research",
+      "target": "affiliate-programs",
+      "description": "Pesquisar: quais programas de afiliados pagam mais para nicho de importacao. Jungle Scout, Helium 10, AliExpress, Amazon. Criar relatorio em docs/affiliate-programs.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:56Z",
+      "result": null
+    },
+    {
+      "id": "T045",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "review",
+      "target": "fork-improvements",
+      "description": "Analisar o fork mimo-content-agent: o que funciona, o que falta, como melhorar. Criar relatorio em docs/fork-review.md com sugestoes concretas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:56Z",
+      "result": null
+    },
+    {
+      "id": "T046",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "update",
+      "target": "documentation-update",
+      "description": "Atualizar README.md com status atual do projeto. Atualizar roadmap. Adicionar metricas reais. Garantir que documentacao reflete realidade.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:57Z",
+      "result": null
+    },
+    {
+      "id": "T047",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "improve",
+      "target": "agent-performance",
+      "description": "Analisar performance de cada agente: commits por hora, qualidade, tasks concluidas. Criar relatorio em docs/agent-performance.md.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:58Z",
+      "result": null
+    },
+    {
+      "id": "T048",
+      "from": "gcp",
+      "to": "gcp",
+      "type": "update",
+      "target": "lessons-learned",
+      "description": "Atualizar LESSONS-LEARNED.md com descobertas desta sessao. Adicionar metricas, melhorias, lições para futuras sessoes.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:24:58Z",
+      "result": null
+    },
+    {
+      "id": "T049",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "site-deploy",
+      "description": "Completar T002: Site Next.js funcional com 5 artigos. Deploy no Vercel. Configurar Plausible. Garantir que build passa.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:25:12Z",
+      "result": null
+    },
+    {
+      "id": "T050",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "seo-meta",
+      "description": "Adicionar meta descriptions, Open Graph tags, e schema.org markup em TODOS os artigos existentes (20 artigos).",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:25:12Z",
+      "result": null
+    },
+    {
+      "id": "T051",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-tests",
+      "description": "Criar testes minimos para o pipeline. Verificar que Scout, Writer, Editor funcionam com inputs validos e invalidos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:25:13Z",
+      "result": null
+    },
+    {
+      "id": "T052",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "bronze-collection-real",
+      "description": "COLETAR dados reais: 10 posts Reddit, 5 videos YouTube, 3 artigos blogs. Salvar em content-db/raw/. ESTA E PRIORIDADE MAXIMA.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:25:13Z",
+      "result": null
+    },
+    {
+      "id": "T053",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "more-silver",
+      "description": "Gerar 5 artigos Silver ADICIONAIS baseados nos dados coletados. Topics: trending products, supplier comparison, import taxes guide.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:25:14Z",
+      "result": null
+    },
+    {
+      "id": "T054",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "social-expansion",
+      "description": "Criar posts para Twitter/X e LinkedIn baseados nos dados do Bronze. 5 posts cada plataforma.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T01:25:15Z",
+      "result": null
     }
   ],
   "log": [
@@ -1001,6 +1183,84 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T041 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:54Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T042 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:55Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T043 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:56Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T044 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:56Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T045 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:57Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T046 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:58Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T047 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:24:58Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T048 for gcp"
+    },
+    {
+      "timestamp": "2026-07-24T01:25:12Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T049 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T01:25:12Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T050 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T01:25:13Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T051 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T01:25:13Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T052 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:25:14Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T053 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T01:25:15Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T054 for pc-2"
     }
   ],
   "metrics": {
