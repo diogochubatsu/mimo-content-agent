@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T19:04:24Z",
+  "last_updated": "2026-07-24T19:06:28Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2047,6 +2047,118 @@
       "status": "pending",
       "created": "2026-07-24T19:04:24Z",
       "result": null
+    },
+    {
+      "id": "T133",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "article-template-engine",
+      "description": "Criar engine de templates para gerar artigos. Usar content-db/templates/*.md como base. Gerar artigos automaticamente.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:21Z",
+      "result": null
+    },
+    {
+      "id": "T134",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "seo-batch-optimizer",
+      "description": "Criar script para otimizar SEO de todos os artigos de uma vez. Meta tags, schema, links internos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:23Z",
+      "result": null
+    },
+    {
+      "id": "T135",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-scheduler",
+      "description": "Criar scheduler para publicar artigos automaticamente. Baseado em content-calendar.json.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:23Z",
+      "result": null
+    },
+    {
+      "id": "T136",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-amazon-fba",
+      "description": "Gerar artigo Silver: Amazon FBA from 1688: Complete Workflow. Passo a passo com custos reais.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:25Z",
+      "result": null
+    },
+    {
+      "id": "T137",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-private-label-1688",
+      "description": "Gerar artigo Silver: Private Label on 1688: Complete Guide. Customizacao e branding.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:25Z",
+      "result": null
+    },
+    {
+      "id": "T138",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-product-research-2",
+      "description": "Gerar artigo Silver: Advanced Product Research on 1688. Ferramentas e tecnicas avancadas.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:26Z",
+      "result": null
+    },
+    {
+      "id": "T139",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-supplier-negotiation",
+      "description": "Gerar artigo Silver: How to Negotiate with 1688 Suppliers. Dicas de negociacao.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:27Z",
+      "result": null
+    },
+    {
+      "id": "T140",
+      "from": "gcp",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "amazon-trending",
+      "description": "Coletar 20 trending products do Amazon Movers & Shakers. Salvar em content-db/raw/amazon/. JSON com metadata.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T19:06:28Z",
+      "result": null
     }
   ],
   "log": [
@@ -2817,6 +2929,54 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T132 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:21Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T133 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T134 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:23Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T135 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:25Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T136 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:25Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T137 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:26Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T138 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:27Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T139 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T19:06:28Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T140 for pc-2"
     }
   ],
   "metrics": {
