@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-07-24T20:10:28Z",
+  "last_updated": "2026-07-24T20:15:35Z",
   "manifesto_read": false,
   "agents": {
     "gcp": {
@@ -2508,7 +2508,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:10:25Z",
-      "result": "Conclu\u00eddo via T125 - RSS feed generator criado."
+      "result": "Concluído via T125 - RSS feed generator criado."
     },
     {
       "id": "T166",
@@ -2578,6 +2578,48 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-24T20:10:28Z",
+      "result": null
+    },
+    {
+      "id": "T171",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-sitemap-dinamic",
+      "description": "Atualizar sitemap.xml para gerar automaticamente a partir de content-db/silver/. Adicionar novos artigos.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:15:32Z",
+      "result": null
+    },
+    {
+      "id": "T172",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "schema-faq",
+      "description": "Adicionar FAQ schema a artigos Silver que tem secao FAQ. Script automatizado.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:15:34Z",
+      "result": null
+    },
+    {
+      "id": "T173",
+      "from": "gcp",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "internal-links-v2",
+      "description": "Melhorar script de links internos. Adicionar links contextualizados baseados em similaridade de conteudo.",
+      "files": [],
+      "acceptance": "",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-24T20:15:35Z",
       "result": null
     }
   ],
@@ -3577,6 +3619,24 @@
       "agent": "gcp",
       "action": "task_created",
       "message": "Created task T170 for pc-2"
+    },
+    {
+      "timestamp": "2026-07-24T20:15:32Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T171 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T20:15:34Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T172 for pc-1"
+    },
+    {
+      "timestamp": "2026-07-24T20:15:35Z",
+      "agent": "gcp",
+      "action": "task_created",
+      "message": "Created task T173 for pc-1"
     }
   ],
   "metrics": {
