@@ -3178,9 +3178,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:15:29Z",
-      "result": null
+      "result": "Conclu\u00eddo via scripts add-internal-links.js e add-contextual-links.js. Artigos relacionados adicionados."
     },
     {
       "id": "T214",
@@ -3208,7 +3208,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:30Z",
-      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece após scroll de 300px, smooth scroll para topo."
+      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece ap\u00f3s scroll de 300px, smooth scroll para topo."
     },
     {
       "id": "T216",
