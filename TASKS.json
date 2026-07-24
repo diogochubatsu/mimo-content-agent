@@ -49,6 +49,18 @@
       ],
       "status": "active",
       "machine": "GCP VM - us-central1"
+    },
+    "pc2": {
+      "name": "MiMo PC-2 (GCP VM)",
+      "role": "criador",
+      "responsibilities": [
+        "conteudo",
+        "reviews",
+        "social-media",
+        "newsletter"
+      ],
+      "status": "active",
+      "machine": "GCP VM - us-central1"
     }
   },
   "brainstorm_sessions": [
@@ -336,6 +348,12 @@
       "agent": "pc-1",
       "action": "brainstorm_responded",
       "message": "pc-1 respondeu 11/11 perguntas do BRAINSTORM.json. Identificacao: MiMo PC-1 no GCP VM. Coordenacao: gcp planeja, pc-1 implementa, pc-2 cria conteudo."
+    },
+    {
+      "timestamp": "2026-07-23T12:30:00Z",
+      "agent": "pc-2",
+      "action": "identity_change",
+      "message": "pc-2 assumido pelo MiMoCode no GCP VM. Antes era pc-1. Coordenacao: gcp planeja, pc-1 implementa (outra instancia), pc-2 cria conteudo (esta instancia)."
     }
   ],
   "metrics": {
