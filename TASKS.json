@@ -4174,6 +4174,36 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T18:37:00Z"
+    },
+    {
+      "id": "T820",
+      "to": "gcp",
+      "type": "implement",
+      "target": "expand-short-silver-articles",
+      "description": "Auto-expand the 65 C-grade Silver articles (under 2000 words) by adding more sections, data, and comparisons from the Bronze source data.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T18:43:00Z"
+    },
+    {
+      "id": "T821",
+      "to": "pc-2",
+      "type": "create",
+      "target": "expand-leeline-to-silver",
+      "description": "EXPAND: Convert top 5 Leeline Blog articles (leeline-top20/) to Silver quality (2000+ words). Run quality-gate.js before marking done.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T18:43:00Z"
+    },
+    {
+      "id": "T822",
+      "to": "gcp",
+      "type": "review",
+      "target": "update-registry-with-new-collections",
+      "description": "Update sources-registry.json with actual collection counts from Shopify (20), Jingsourcing (20), Leeline (21), China Gate (1).",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T18:43:00Z"
     }
   ],
   "log": [

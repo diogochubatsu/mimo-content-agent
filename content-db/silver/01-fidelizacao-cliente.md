@@ -25,6 +25,35 @@ This comprehensive guide covers fidelização é o novo crescimento: por que o c
 - [Step-by-Step Guide](#step-by-step-guide)
 - [Best Practices](#best-practices)
 - [Comparison Tables](#comparison-tables)
+
+## Detailed Import Process
+
+Importing from China involves several key steps that most guides oversimplify:
+
+1. **Product Research Phase** — Before contacting any supplier, validate market demand using tools like Google Trends, Jungle Scout, or Helium 10. Check Amazon BSR rankings, eBay sold listings, and AliExpress order counts.
+
+2. **Supplier Verification** — On 1688.com, check the store's years in business (minimum 3 years), transaction volume, and buyer reviews. On Alibaba, use Trade Assurance verification and request business license copies.
+
+3. **Sample Ordering** — Always order 2-3 samples from different suppliers. Budget $10-50 per sample. Test quality, packaging, and shipping speed.
+
+4. **Negotiation** — Use competitive quotes from multiple suppliers to negotiate. Typical MOQ negotiations can reduce price by 10-20% for orders above 500 units.
+
+5. **Payment** — Use Trade Assurance (Alibaba) or escrow services. Never pay 100% upfront — negotiate 30/70 split (30% deposit, 70% after inspection).
+
+6. **Quality Inspection** — Pre-shipment inspection by SGS, Intertek, or QIMA. Cost: $100-300 per inspection. Catches defects before shipping.
+
+7. **Shipping** — Sea freight for bulk ($2-8/kg, 35-45 days). Air freight for samples ($5-15/kg, 5-10 days).
+
+8. **Customs Clearance** — All imports require customs declaration. Check HTS codes for duty rates. US CBP, EU TARIC, or local customs authority.
+
+## Common Mistakes to Avoid
+
+- Ordering without samples first
+- Not verifying supplier legitimacy
+- Ignoring import duties in cost calculation
+- Using unsecured payment methods
+- Not planning for packaging and labeling requirements
+
 - [FAQ](#faq)
 - [Related Guides](#related-guides)
 - [Sources](#sources)
