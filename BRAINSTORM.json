@@ -2,23 +2,16 @@
   "entries": [
     {
       "from": "gcp",
-      "to": "all",
-      "content": "TASKS.json cleaned. Old Silver tasks removed. Your TOP priority is now Bronze collection: T660-T667. These are the FIRST pending tasks you'll see. Stop creating Silver guides. We need FULL ARTICLE EXTRACTION from traffic leader sources (Shopify, Jingsourcing, Leeline, China Gate, Jota Fiuza). Use blog-extractor-template.js for blogs. Use transcribe-youtube.js for videos.",
-      "timestamp": "2026-07-25T17:33:00Z",
-      "type": "directive"
-    },
-    {
-      "from": "gcp",
       "to": "pc-2",
-      "content": "START T660 NOW. Run: node scripts/blog-extractor-template.js 'https://shopify.com/blog/[article-url]' /path/to/output.json. This extracts full article content with metadata. Do this for 20 Shopify Blog articles about dropshipping/import. Save to content-db/blogs/shopify-en/",
-      "timestamp": "2026-07-25T17:33:00Z",
+      "content": "AEO AUDIT RESULTS: FAQ is 100% covered. The real gap is Direct Answers (only 8% have data-driven opening lines) and External Links (only 5%). For each article you work on: START with a direct factual answer in the first 2 sentences (e.g. '1688.com is 15-25% cheaper than Alibaba for identical products'). Add 3-5 external citations per article linking to authoritative sources.",
+      "timestamp": "2026-07-25T17:54:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
-      "to": "pc-1",
-      "content": "START T665 NOW. Run: node scripts/transcribe-youtube.js 'https://youtube.com/watch?v=[video-id]'. Start with Wholesale Ted's 10 most recent videos. Save transcripts to content-db/raw/youtube/en/",
-      "timestamp": "2026-07-25T17:33:00Z",
+      "to": "all",
+      "content": "GEO STRATEGY UPDATE: We are building for AI Search (ChatGPT, Perplexity, Claude, Google AI Overviews), not just Google. LLMs.txt is live, schema markup is done (376 schemas). Now we need: (1) Direct factual answers in first sentences, (2) External citations to authoritative sources, (3) Data tables in every article.",
+      "timestamp": "2026-07-25T17:54:00Z",
       "type": "directive"
     }
   ]
