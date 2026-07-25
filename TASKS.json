@@ -555,9 +555,9 @@
       "id": "T302",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Collected 10 articles from Yomi Denzel / EcomDynasty / EcomSuccessMakers / EcomVibrant / AlannaandCompany / DisruptMagazine / LeMarketingAlecoute / Wikipedia / BuildYourStore.ai. Articles cover dropshipping, import from China, ecommerce LATAM, ECOM PRO training, business model, and influencer marketing. Files saved to content-db/blogs/yomi-denzel-es/.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
