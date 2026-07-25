@@ -972,9 +972,9 @@
       "acceptance": "First Polish article published",
       "id": "T342",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:30:00Z",
-      "result": null,
+      "result": "Created import-z-chin-przewodnik-2026.md — 4815 words in Polish. Practical step-by-step guide covering: Allegro integration, BLIK payments, supplier verification, negotiation tactics, T/T/Payoneer/Alipay payments, Małaszewicze terminal logistics, customs clearance checklist, cost calculator with 3 real examples, 12-question FAQ.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
