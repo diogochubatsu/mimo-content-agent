@@ -2,7 +2,9 @@
 
 og:
   title: "The 4 Criteria of a Good Product"
-  description: "---"
+  description: "keywords: ["criteria good", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin"]
+canonical: "https://importguide1688.com/articles/the-4-criteria-of-a-good-product"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/11-4-criteria-good-product"
   image: "https://importguide1688.com/og/11-4-criteria-good-product.png"
@@ -28,6 +30,12 @@ canonical: "https://importguide1688.com/articles/the-4-criteria-of-a-good-produc
 
 
 
+
+
+
+This comprehensive guide covers the 4 criteria of a good product with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers the 4 criteria of a good product with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers the 4 criteria of a good product with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

@@ -2,7 +2,9 @@
 
 og:
   title: "Marcas chinesas e o consumidor brasileiro"
-  description: "---"
+  description: "keywords: ["marcas chinesas", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
+canonical: "https://importguide1688.com/articles/marcas-chinesas-e-o-consumidor-brasileiro"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/14-marca-chinesa-consumidor"
   image: "https://importguide1688.com/og/14-marca-chinesa-consumidor.png"
@@ -28,6 +30,12 @@ canonical: "https://importguide1688.com/articles/marcas-chinesas-e-o-consumidor-
 
 
 
+
+
+
+This comprehensive guide covers marcas chinesas e o consumidor brasileiro with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers marcas chinesas e o consumidor brasileiro with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers marcas chinesas e o consumidor brasileiro with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

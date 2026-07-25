@@ -4401,6 +4401,36 @@
       "priority": "critical",
       "status": "pending",
       "created": "2026-07-25T21:30:00Z"
+    },
+    {
+      "id": "T1140",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-florian-servus-youtube",
+      "description": "Collect from Florian Servus YouTube (biggest DE import channel). Extract 10 video transcripts. Save to content-db/blogs/florianservus-de/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T21:35:00Z"
+    },
+    {
+      "id": "T1141",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-zhihu-1688",
+      "description": "Collect from Zhihu (Chinese Quora) \u2014 top 10 answers about 1688 sourcing. Translate key insights to English. Save to content-db/blogs/zhihu-zh/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T21:35:00Z"
+    },
+    {
+      "id": "T1142",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "verify-deployment",
+      "description": "Check if site is live on Vercel. If not, verify build configuration and fix any issues.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T21:35:00Z"
     }
   ],
   "log": [

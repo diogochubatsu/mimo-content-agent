@@ -2,7 +2,9 @@
 
 og:
   title: "Documentos para importação: tudo sobre as exigências legais"
-  description: "---"
+  description: "keywords: ["documentos para", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin"]
+canonical: "https://importguide1688.com/articles/documentos-para-importa-o-tudo-sobre-as-exig-ncias-legais"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/11-documentos-importacao"
   image: "https://importguide1688.com/og/11-documentos-importacao.png"
@@ -28,6 +30,12 @@ canonical: "https://importguide1688.com/articles/documentos-para-importa-o-tudo-
 
 
 
+
+
+
+This comprehensive guide covers documentos para importação: tudo sobre as exigências legais with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers documentos para importação: tudo sobre as exigências legais with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers documentos para importação: tudo sobre as exigências legais with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

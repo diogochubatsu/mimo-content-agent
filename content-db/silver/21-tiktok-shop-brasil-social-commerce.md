@@ -2,7 +2,9 @@
 
 og:
   title: "TikTok Shop no Brasil: o social commerce que deixou de ser tendência e virou ameaça real"
-  description: "---"
+  description: "keywords: ["tiktok shop", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
+canonical: "https://importguide1688.com/articles/tiktok-shop-no-brasil-o-social-commerce-que-deixou-de-ser-tend-ncia-e-virou-amea"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/21-tiktok-shop-brasil-social-commerce"
   image: "https://importguide1688.com/og/21-tiktok-shop-brasil-social-commerce.png"
@@ -28,6 +30,12 @@ canonical: "https://importguide1688.com/articles/tiktok-shop-no-brasil-o-social-
 
 
 
+
+
+
+This comprehensive guide covers tiktok shop no brasil: o social commerce que deixou de ser tendência e virou ameaça real with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers tiktok shop no brasil: o social commerce que deixou de ser tendência e virou ameaça real with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers tiktok shop no brasil: o social commerce que deixou de ser tendência e virou ameaça real with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

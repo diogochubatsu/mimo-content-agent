@@ -2,7 +2,9 @@
 
 og:
   title: "How To Find High Demand Low Competition Products To Sell On Amazon FBA"
-  description: "---"
+  description: "keywords: ["find high", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/how-to-find-high-demand-low-competition-products-to-sell-on-amazon-fba"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/30-high-demand-low-competition"
   image: "https://importguide1688.com/og/30-high-demand-low-competition.png"
