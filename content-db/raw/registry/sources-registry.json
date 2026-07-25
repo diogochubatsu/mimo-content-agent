@@ -668,7 +668,7 @@
       "content_stats": {
         "total_articles_12m": 500,
         "extracted_count": 10,
-        "extraction_pct": 2.0,
+        "extraction_pct": 2,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -791,7 +791,7 @@
       "content_stats": {
         "total_videos_12m": 150,
         "extracted_count": 9,
-        "extraction_pct": 6.0,
+        "extraction_pct": 6,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -1209,5 +1209,9 @@
       "high": 19,
       "medium": 5
     }
-  }
+  },
+  "date": "2026-07-25",
+  "language": "en",
+  "platform": "unknown",
+  "url": "https://unknown.com"
 }

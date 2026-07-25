@@ -1404,9 +1404,9 @@
       "acceptance": "All 10 C-quality sources become B or A",
       "id": "T369",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:30:00Z",
-      "result": null,
+      "result": "Auto-enrich executado: 11 fontes C-quality corrigidas.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
