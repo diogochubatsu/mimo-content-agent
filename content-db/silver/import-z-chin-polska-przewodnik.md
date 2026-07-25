@@ -45,6 +45,39 @@ keywords:
 category: silver
 tier: silver
 date: 2026-07-25
+schema:
+  type: FAQPage
+  mainEntity:
+    - name: "Ile kosztuje import z Chin do Polski?"
+      acceptedAnswer:
+        text: "Łączny koszt importu to typowo 130-160% ceny FOB produktu. Obejmuje: produkt (100%), wysyłkę morską (15-25%), cło (0-12%), VAT (23%) oraz agenta celnego (300-800 PLN)."
+    - name: "Jakie certyfikaty są wymagane do importu do Polski?"
+      acceptedAnswer:
+        text: "Obowiązkowe: CE (elektronika, zabawki, tekstylia), REACH (chemikalia), GPSR (bezpieczeństwo produktów od 2024), WEEE (elektronika). Brak certyfikacji oznacza konfiskatę na granicy i kary do 100 000 PLN."
+    - name: "Ile trwa wysyłka z Chin do Polski?"
+      acceptedAnswer:
+        text: "Transport morski: 35-45 dni. Transport kolejowy: 15-20 dni (Nowy Jedwabny Szlak). Transport lotniczy: 5-10 dni. Porty docelowe: Gdańsk, Gdynia lub Hamburg."
+    - name: "Czy mogę sprzedawać na Allegro i Amazon.pl jednocześnie?"
+      acceptedAnswer:
+        text: "Tak, 60% polskich sprzedawców korzysta z 2+ platform. Narzędzia jak BaseLinker, ChannelAdvisor lub Selazon synchronizują stany magazynowe i ceny między platformami."
+    - name: "Jak uzyskać numer EORI w Polsce?"
+      acceptedAnswer:
+        text: "Złóż wniosek do Dyrektora Izby Administracji Skarbowej w Warszawie. Potrzebne: NIP, KRS lub CEIDG, dowód osobisty. Czas oczekiwania: 3-5 dni roboczych. Numer jest bezpłatny."
+    - name: "Ile wynosi VAT przy imporcie z Chin?"
+      acceptedAnswer:
+        text: "Standardowa stawka VAT w Polsce to 23%. VAT obliczany jest od wartości celnej (cena FOB + koszt transportu do granicy UE). Dla niektórych kategorii obowiązuje stawka obniżona 8%."
+    - name: "Czy potrzebuję agenta celno-spedycyjnego w Polsce?"
+      acceptedAnswer:
+        text: "Zdecydowanie zalecane, szczególnie dla początkujących importerów. Agencja celna przeprowadzi procedurę celną, obliczy należności i zapewni zgodność z przepisami. Koszt: 300-800 PLN."
+    - name: "Jak znaleźć wiarygodnego dostawcę w Chinach?"
+      acceptedAnswer:
+        text: "Weryfikuj dostawców po: ocenie 4.8+ (1688.com), statusie Gold Supplier (Alibaba.com), historii transakcji (min. 2 lata), certyfikatach (ISO 9001, BSCI). Zawsze zamawiaj próbki."
+    - name: "Jakie są najlepsze kategorie do importu z Chin do Polski?"
+      acceptedAnswer:
+        text: "Najpopularniejsze: elektronika i akcesoria, tekstylia i odzież, meble i dekoracje, narzędzia, zabawki, kosmetyki, produkty do domu."
+    - name: "Jakie są ryzyka importu z Chin i jak im zapobiegać?"
+      acceptedAnswer:
+        text: "Główne ryzyka: zła jakość (kontrole PSI, próbkowanie), oszustwa dostawców (weryfikacja, Escrow), problemy celne (agencja celna, certyfikaty), opóźnienia (bufor czasowy, ubezpieczenie)."
 ---
 
 # Kompletny przewodnik importu z Chin do Polski — 2026

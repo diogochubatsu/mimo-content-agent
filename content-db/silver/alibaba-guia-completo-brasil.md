@@ -24,6 +24,39 @@ date: "2026-07-25"
 author: "MiMo Content Team"
 reading_time: "12 min"
 word_count: 2800
+schema:
+  type: FAQPage
+  mainEntity:
+    - name: "Preciso de empresa para comprar no Alibaba?"
+      acceptedAnswer:
+        text: "Sim. Para importações regulares, você precisa de CNPJ, inscrição estadual e cadastro no RADAR. Para testes iniciais, é possível importar como pessoa física via Correios, mas com limite de US$ 50 por remessa e imposto fixo de 20%."
+    - name: "Qual o valor mínimo de pedido no Alibaba?"
+      acceptedAnswer:
+        text: "Varia por fornecedor. A maioria aceita pedidos a partir de 1-10 unidades (MOQ). Para produtos customizados (private label), o MOQ pode ser de 100-500 unidades."
+    - name: "Como funciona a garantia do Trade Assurance?"
+      acceptedAnswer:
+        text: "O Trade Assurance protege seu pagamento até a entrega. Se o produto não chegar ou não corresponder às especificações, o Alibaba reembolsa. É grátis para o comprador."
+    - name: "Quanto tempo demora o frete da China para o Brasil?"
+      acceptedAnswer:
+        text: "Express (DHL/FedEx): 7-15 dias úteis. Aéreo: 15-25 dias úteis. Marítimo: 30-50 dias úteis. ePacket/Correios: 15-60 dias."
+    - name: "Preciso de despachante aduaneiro?"
+      acceptedAnswer:
+        text: "Para importações até US$ 3.000, é possível fazer o despacho sozinho via SISCOMEX. Para valores maiores ou produtos regulamentados, o despachante é altamente recomendado."
+    - name: "Como verificar se o fornecedor é confiável?"
+      acceptedAnswer:
+        text: "Verifique: Gold Supplier (mínimo 3 anos), Trade Assurance ativado, avaliações de outros compradores, Transactional History, certificações (ISO, CE, FCC) e solicite amostras."
+    - name: "Quais produtos são proibidos de importar?"
+      acceptedAnswer:
+        text: "Produtos sem registro em órgãos reguladores (ANVISA, MAPA, INMETRO), armas, drogas, produtos contrafação e itens que violem propriedade intelectual."
+    - name: "Posso usar o Alibaba para dropshipping?"
+      acceptedAnswer:
+        text: "Sim, mas com limitações. O Alibaba é mais focado em atacado. Para dropshipping, o ideal é usar fornecedores que aceitam envio direto ao consumidor final, ou usar AliExpress/Temu como complemento."
+    - name: "Como calcular o preço final do produto no Brasil?"
+      acceptedAnswer:
+        text: "Use a fórmula: Custo Total = (FOB + Frete + Seguro) x (1 + II) x (1 + IPI) x (1 + PIS) x (1 + COFINS) / (1 - ICMS). Consulte a tabela completa de impostos acima para referência."
+    - name: "É possível isentar o imposto de importação?"
+      acceptedAnswer:
+        text: "Sim, em alguns casos. Produtos de informática, telecomunicação e bens de capital podem ter II zerado via Ex-Tarifários. Empresas em Zonas Francas (Manaus, Belém, Natal) também têm isenções."
 ---
 
 # Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026

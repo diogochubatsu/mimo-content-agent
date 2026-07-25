@@ -10,6 +10,39 @@ og:
   description: "Guia completo: dropshipping do 1688 para o Brasil com cálculos de impostos, opções de pagamento e comparação de plataformas. Atualizado julho 2026."
   type: "article"
   image: "/og/dropshipping-1688-brasil-2026.png"
+schema:
+  type: FAQPage
+  mainEntity:
+    - name: "É possível fazer dropshipping do 1688 para o Brasil sem falar chinês?"
+      acceptedAnswer:
+        text: "Sim, mas você precisará de um agente de sourcing. Serviços como Superbuy, Wegobuy ou agentes privados cobram 3-8% do valor do pedido para lidar com comunicação, pagamento e frete."
+    - name: "Preciso de CNPJ para importar do 1688?"
+      acceptedAnswer:
+        text: "Para importação comercial regular, sim. Um CNPJ é obrigatório. Importações pessoais são limitadas a 3 remessas por mês, cada uma até US$ 50, com alíquota de 20%."
+    - name: "Quais são os métodos de pagamento disponíveis para brasileiros?"
+      acceptedAnswer:
+        text: "Os principais métodos são: Alipay com cartão internacional (2,5-3,5%), agente de sourcing que aceita PIX/PayPal (3-8%), PingPong ou LianLian Global (1-2,5%), e transferência bancária para grandes volumes."
+    - name: "Qual a alíquota total de impostos para importação no Brasil?"
+      acceptedAnswer:
+        text: "A carga tributária total varia de 60% a 100% do valor CIF, dependendo do produto. Isso inclui II (0-35%), IPI (0-300%), ICMS (17-25%) e PIS/COFINS (9,25%)."
+    - name: "Como calcular o ICMS para importações?"
+      acceptedAnswer:
+        text: "O ICMS é calculado sobre CIF + II + IPI. A fórmula é: ICMS = Alíquota / (1 - Alíquota) x (CIF + II + IPI). Por exemplo, em São Paulo: 18% / (1 - 18%) x US$ 16.141 = US$ 3.501."
+    - name: "Qual a diferença de custo entre 1688 e Alibaba para o Brasil?"
+      acceptedAnswer:
+        text: "Em média, o 1688 é 30-50% mais barato que o Alibaba para produtos idênticos. O custo total landed do 1688 é tipicamente 20-35% menor que o Alibaba."
+    - name: "Quais documentos são necessários para desembaraço aduaneiro?"
+      acceptedAnswer:
+        text: "Documentos essenciais: Nota fiscal de exportação, Packing list, Conhecimento de embarque, Certificado de origem, Certificações (ANATEL, ANVISA, INMETRO), Licença de importação e Declaração de Importação."
+    - name: "É possível usar o Ex-Tarifário para reduzir impostos?"
+      acceptedAnswer:
+        text: "Sim. Ex-Tarifários zeram ou reduzem alíquotas do II para produtos específicos. Produtos de informática e telecomunicações tiveram alíquota zerada em 2020."
+    - name: "Qual o melhor nicho para dropshipping do 1688 para o Brasil?"
+      acceptedAnswer:
+        text: "Nichos mais lucrativos: acessórios de celular (45-55%), capas e películas (45-55%), fones Bluetooth (35-45%), acessórios de cozinha (45-55%) e iluminação LED (40-50%)."
+    - name: "Como evitar golpes no 1688?"
+      acceptedAnswer:
+        text: "Use Alipay ou agente de sourcing, verifique avaliações do fornecedor, compre amostras primeiro, peça fotos reais da fábrica e use agente com verificação de credibilidade."
 ---
 
 # Como Fazer Dropshipping do 1688 para o Brasil: Guia Completo 2026

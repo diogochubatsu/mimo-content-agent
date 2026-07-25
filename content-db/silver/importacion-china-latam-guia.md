@@ -24,6 +24,39 @@ date: "2026-07-25"
 author: "MiMo Content Team"
 reading_time: "14 min"
 word_count: 3200
+schema:
+  type: FAQPage
+  mainEntity:
+    - name: "¿Cuánto cuesta importar un contenedor de China a LATAM?"
+      acceptedAnswer:
+        text: "El costo varía según el destino: Contenedor 20' US$ 3,000-$6,000; Contenedor 40' US$ 5,000-$10,000; FCL más económico por CBM; LCL US$ 50-100 por CBM."
+    - name: "¿Cuál es el arancel promedio para productos chinos en LATAM?"
+      acceptedAnswer:
+        text: "Chile: 6% general; México: 5-15%; Colombia: 5-15%; Perú: 0-11%; Argentina: 10-35%."
+    - name: "¿Cuánto tiempo tarda un envío marítimo de China a LATAM?"
+      acceptedAnswer:
+        text: "México: 25-35 días; Colombia: 30-40 días; Argentina: 35-45 días; Chile: 30-40 días; Perú: 25-35 días."
+    - name: "¿Necesito ser empresa para importar de China?"
+      acceptedAnswer:
+        text: "Depende del país: México recomienda RFC; Colombia requiere RUT; Argentina necesita CUIT; Chile permite persona natural con RUT; Perú requiere RUC."
+    - name: "¿Cómo verificar que un proveedor chino es confiable?"
+      acceptedAnswer:
+        text: "Buscar en Alibaba Verified Supplier, solicitar muestras, verificar certificaciones (ISO, CE, FDA), pedir referencias de clientes, realizar inspección de fábrica."
+    - name: "¿Cuál es la mejor plataforma para comprar productos chinos?"
+      acceptedAnswer:
+        text: "AliExpress para pedidos pequeños ($1-$500); 1688.com para pedidos medianos/grandes; Alibaba para compras B2B con MOQ negociable; DHgate para dropshipping."
+    - name: "¿Qué productos son los más rentables para importar?"
+      acceptedAnswer:
+        text: "Accesorios de celular: 300-800% de margen; Electrónica de consumo: 200-500%; Hogar y cocina: 250-600%; Moda y accesorios: 400-1000%."
+    - name: "¿Cómo puedo reducir los costos de importación?"
+      acceptedAnswer:
+        text: "Comprar en volumen, consolidar envíos, elegir envío marítimo, usar agente de sourcing, optimizar packaging, negociar Incoterms, diversificar proveedores."
+    - name: "¿Qué documentos necesito para importar de China a LATAM?"
+      acceptedAnswer:
+        text: "Factura comercial, lista de empaque, certificado de origen, póliza de seguro, conocimiento de embarque, certificado de calidad. Documentos específicos varían por país."
+    - name: "¿Es rentable el dropshipping desde China a LATAM?"
+      acceptedAnswer:
+        text: "Sí, con márgenes de 200-500%, costo de envío $5-15 por producto, inversión inicial $500-$2,000 y ROI esperado de 200-400% en los primeros 6 meses."
 ---
 
 # Guía Completa para Importar de China a Latinoamérica: Impuestos, Envíos y Estrategias 2026

@@ -6,6 +6,39 @@ keywords: ["Import China Deutschland", "Zoll Deutschland", "EORI Registrierung",
 category: "silver"
 tier: "silver"
 date: "2026-07-25"
+schema:
+  type: FAQPage
+  mainEntity:
+    - name: "Wie lange dauert der Zollprozess in Deutschland?"
+      acceptedAnswer:
+        text: "Der reguläre Zollprozess dauert 1-3 Werktage. Bei Stichprobenkontrollen oder fehlenden Unterlagen kann es zu Verzögerungen kommen. Plane mindestens 5 Werktage ein."
+    - name: "Muss ich als Privatperson Zoll bezahlen?"
+      acceptedAnswer:
+        text: "Ja, auch Privatpersonen müssen Einfuhrzölle und MwSt für Waren über 150 EUR bezahlen. Darunter sind nur die MwSt fällig."
+    - name: "Kann ich die Einfuhrumsatzsteuer zurückfordern?"
+      acceptedAnswer:
+        text: "Ja, als umsatzsteuerpflichtiges Unternehmen können Sie die Einfuhrumsatzsteuer als Vorsteuer abziehen. Dafür benötigen Sie eine ordnungsgemäße Zollerklärung."
+    - name: "Was ist ein Zollwert und wie wird er berechnet?"
+      acceptedAnswer:
+        text: "Der Zollwert ist der CIF-Wert (Kosten, Versicherung, Fracht) der Ware. Er umfasst den Transaktionspreis plus Transport- und Versicherungskosten bis zur EU-Grenze."
+    - name: "Welche Dokumente benötige ich für den Import aus China?"
+      acceptedAnswer:
+        text: "Sie benötigen: Handelsrechnung, Packliste, Frachtbrief, Ursprungszeugnis, CE-Konformitätserklärung (für CE-Pflichtprodukte) und ggf. eine Einfuhrlizenz."
+    - name: "Gibt es Zollfreigrenzen für Importe aus China?"
+      acceptedAnswer:
+        text: "Ja, die EU-Zollschwelle liegt bei 150 EUR. Waren unter diesem Wert sind von der Einfuhrzollgebühr befreit, unterliegen jedoch weiterhin der MwSt."
+    - name: "Wie funktioniert das IOSS-System?"
+      acceptedAnswer:
+        text: "Das IOSS-System ermöglicht es Verkäufern, die MwSt direkt beim Verkauf zu erheben. Für Sendungen bis 150 EUR wird keine MwSt an der Grenze erhoben."
+    - name: "Welche Versandmethode ist am günstigsten?"
+      acceptedAnswer:
+        text: "Die Seefracht ist die günstigste Methode für große Mengen. Für dringende Lieferungen ist die Luftfracht besser geeignet, aber deutlich teurer."
+    - name: "Was ist CBAM und wie wirkt es sich auf Importe aus?"
+      acceptedAnswer:
+        text: "Der Carbon Border Adjustment Mechanism ist ein EU-Instrument zur Vermeidung von Carbon Leakage. Ab 2026 werden für kohlenstoffintensive Importe zusätzliche Kosten fällig."
+    - name: "Muss ich für den Import aus China eine EORI-Nummer haben?"
+      acceptedAnswer:
+        text: "Ja, die EORI-Nummer ist für jedes Unternehmen, das Waren in die EU importiert, zwingend erforderlich."
 ---
 
 # Kompletter Leitfaden für den Import aus China nach Deutschland 2026

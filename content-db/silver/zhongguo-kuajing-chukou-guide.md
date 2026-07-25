@@ -20,6 +20,39 @@ category: silver
 tier: silver
 date: 2026-07-25
 author: "MiMo Content Team"
+schema:
+  type: FAQPage
+  mainEntity:
+    - name: "中国跨境电商出口需要办理哪些资质？"
+      acceptedAnswer:
+        text: "跨境电商出口企业需要具备：营业执照（经营范围包含进出口业务）、海关备案登记、外汇管理局备案、税务登记。部分平台还需要品牌授权书或商标注册证。"
+    - name: "跨境电商出口的利润率一般是多少？"
+      acceptedAnswer:
+        text: "标品类产品利润率在10%-20%之间，非标品/设计类产品利润率可达20%-40%。Temu全托管模式下利润率5%-15%，AliExpress自运营模式利润率较高。"
+    - name: "如何选择跨境电商物流方案？"
+      acceptedAnswer:
+        text: "高价值商品建议使用国际快递+海外仓组合；中低价值商品可选择专线物流；新品测款阶段建议使用直邮模式降低库存风险。"
+    - name: "跨境电商出口需要缴纳哪些税费？"
+      acceptedAnswer:
+        text: "主要涉及：增值税（出口免税或退税）、消费税（出口免税或退税）、关税（根据目的国规定）、企业所得税（25%法定税率）。通过综合试验区出口可享受增值税和消费税免税政策。"
+    - name: "如何处理海外退换货？"
+      acceptedAnswer:
+        text: "海外仓模式下，退货商品可退回海外仓进行二次销售或销毁；直邮模式下，通常采取退款不退货或当地销毁的方式。建议建立清晰的退换货政策。"
+    - name: "跨境电商平台如何收费？"
+      acceptedAnswer:
+        text: "AliExpress收取5%-8%交易佣金；Temu全托管平台负责定价和物流，卖家以出厂价供货；SHEIN同样平台定价；TikTok Shop收取5%-8%佣金。"
+    - name: "如何避免知识产权侵权？"
+      acceptedAnswer:
+        text: "在产品开发前进行目标市场的商标和专利检索；注册自有品牌商标；避免使用未经授权的品牌Logo或设计元素；保留所有供应商的知识产权证明文件。"
+    - name: "跨境电商出口的回款周期是多久？"
+      acceptedAnswer:
+        text: "AliExpress通常交易完成后15天内放款；Temu结算周期约为T+15至T+30天；SHEIN通常为月结；TikTok Shop约为T+7至T+15天。"
+    - name: "新手卖家应该从哪个平台开始？"
+      acceptedAnswer:
+        text: "建议从Temu全托管模式开始，入驻门槛低、无需运营经验、平台负责物流和客服。积累经验后可拓展到AliExpress和TikTok Shop。"
+    - name: "如何提升跨境电商出口的商品曝光率？"
+      acceptedAnswer:
+        text: "优化产品标题和关键词；参加平台促销活动；投放平台广告；积累好评和销量以提升搜索排名；利用社交媒体进行内容营销。"
 ---
 
 # 中国跨境出口完整指南：市场、平台、物流与政策全解析
