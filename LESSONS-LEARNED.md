@@ -322,3 +322,31 @@
 2. **Every cron cycle: execute at least 1 real task** — not status checks, real deliverables
 3. **Real work = files modified, data produced, code written** — not print() statements
 4. **If no GCP tasks are worth doing, investigate why PC-1/PC-2 aren't executing** — that's the real bottleneck
+
+## Fork Development Session 21 (2026-07-25 15:04)
+
+### Cron Redesign (user-directed)
+Old crons were monitoring theater — 35 fires produced ~0 real value.
+New crons are execution-oriented:
+- **EXECUTE (5min)**: Pick next GCP task, do it, commit. Never say "no action needed"
+- **QUALITY GATE (15min)**: Read one silver article, grade A/B/C, rewrite if C
+- **IMPROVE (30min)**: Make one real code change
+- **SOURCE WORK (1h)**: Improve one bronze source file
+
+### What This Session Actually Produced
+1. Source quality 52% → 89% A (fixed 7 empty files)
+2. Polish article upgraded B → A (added FAQ + internal links)
+3. Silver quality verified: 92% A-grade, avg 4,312 words
+4. Affiliate programs researched (8 programs mapped)
+5. Keywords researched (18 across 3 tiers)
+6. README updated with real metrics
+7. LESSONS-LEARNED updated with honest assessment
+8. TASKS.json cleaned: 536 → 249 active
+
+### Agents Finally Executing
+- PC-1 committed at 15:01 UTC: 10 Sebrae PT articles + 1 Polish article (12 files)
+- First time PC-1/PC-2 produced output after 16+ hours idle
+- Agent ID mismatch in commit (author=PC-1, message=pc-2) — needs fixing
+
+### Key Insight
+> The biggest lesson: crons should produce deliverables, not reports. Every cycle that doesn't change a file is wasted. User was right to push back on "no action needed" responses.
