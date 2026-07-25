@@ -3488,7 +3488,7 @@
       "target": "weekly-source-assessment",
       "description": "WEEKLY: Review source registry, assess coverage gaps, reprioritize collection targets.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:50:00Z"
     },
     {
@@ -3498,7 +3498,7 @@
       "target": "bronze-quality-review",
       "description": "WEEKLY: Sample 20 Bronze items, grade A/B/C, check schema compliance.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:50:00Z"
     },
     {

@@ -2,7 +2,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "youtube-ambientpanda-pt",
-    "message": "AmbientPanda extraction at 0% (0/0)"
+    "message": "AmbientPanda extraction at 0% (0/180)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -12,7 +12,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "youtube-canalecommerce-pt",
-    "message": "Canal Ecommerce extraction at 0% (0/0)"
+    "message": "Canal Ecommerce extraction at 0% (0/120)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -22,7 +22,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "youtube-wholesaleted-en",
-    "message": "Wholesale Ted extraction at 0% (0/0)"
+    "message": "Wholesale Ted extraction at 0% (0/200)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -32,7 +32,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "youtube-importdojo-en",
-    "message": "ImportDojo extraction at 0% (0/0)"
+    "message": "ImportDojo extraction at 0% (0/100)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -42,7 +42,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "youtube-nomadmatt-en",
-    "message": "Nomad Matt extraction at 0% (0/0)"
+    "message": "Nomad Matt extraction at 0% (0/80)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -52,22 +52,22 @@
   {
     "type": "LOW_COVERAGE",
     "source": "youtube-yomidenzel-es",
-    "message": "Yomi Denzel extraction at 0% (9/0)"
+    "message": "Yomi Denzel extraction at 6% (9/150)"
   },
   {
     "type": "LOW_COVERAGE",
     "source": "blog-ecommercebrasil-pt",
-    "message": "E-Commerce Brasil extraction at 0% (15/0)"
+    "message": "E-Commerce Brasil extraction at 7.5% (15/200)"
   },
   {
     "type": "LOW_COVERAGE",
     "source": "blog-sebrae-pt",
-    "message": "Sebrae extraction at 0% (10/0)"
+    "message": "Sebrae extraction at 2% (10/500)"
   },
   {
     "type": "LOW_COVERAGE",
     "source": "blog-amazing-en",
-    "message": "Amazing.com extraction at 0% (0/0)"
+    "message": "Amazing.com extraction at 0% (0/150)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -77,7 +77,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "blog-nichedropshipping-en",
-    "message": "NicheDropshipping extraction at 0% (0/0)"
+    "message": "NicheDropshipping extraction at 0% (0/200)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -87,7 +87,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "blog-junglescout-en",
-    "message": "Jungle Scout Blog extraction at 0% (0/0)"
+    "message": "Jungle Scout Blog extraction at 0% (0/300)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -97,7 +97,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "reddit-amazonfba-en",
-    "message": "r/AmazonFBA extraction at 0% (0/0)"
+    "message": "r/AmazonFBA extraction at 0% (0/5000)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -107,7 +107,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "reddit-dropship-en",
-    "message": "r/Dropship extraction at 0% (0/0)"
+    "message": "r/Dropship extraction at 0% (0/8000)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -117,12 +117,12 @@
   {
     "type": "LOW_COVERAGE",
     "source": "blog-ecommercepolska-pl",
-    "message": "E-Commerce Polska extraction at 0% (2/0)"
+    "message": "E-Commerce Polska extraction at 2.5% (2/80)"
   },
   {
     "type": "LOW_COVERAGE",
     "source": "blog-allegro-pl",
-    "message": "Allegro Blog extraction at 0% (0/0)"
+    "message": "Allegro Blog extraction at 0% (0/100)"
   },
   {
     "type": "NEVER_COLLECTED",
@@ -132,7 +132,7 @@
   {
     "type": "LOW_COVERAGE",
     "source": "blog-importlizenz-de",
-    "message": "Import Lizenz extraction at 0% (0/0)"
+    "message": "Import Lizenz extraction at 0% (0/60)"
   },
   {
     "type": "NEVER_COLLECTED",

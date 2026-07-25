@@ -9,7 +9,16 @@
     "product-tips",
     "alibaba-1688"
   ],
-  "languages": ["pt", "en", "es", "de", "pl", "zh", "ko", "ja"],
+  "languages": [
+    "pt",
+    "en",
+    "es",
+    "de",
+    "pl",
+    "zh",
+    "ko",
+    "ja"
+  ],
   "sources": [
     {
       "source_id": "youtube-ambientpanda-pt",
@@ -17,15 +26,19 @@
       "type": "youtube",
       "language": "pt",
       "country": "BR",
-      "topics": ["import-from-china", "dropshipping", "product-tips"],
+      "topics": [
+        "import-from-china",
+        "dropshipping",
+        "product-tips"
+      ],
       "url": "https://youtube.com/@ambientpanda",
       "subscribers": 450000,
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_videos_12m": 0,
+        "total_videos_12m": 180,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -46,15 +59,19 @@
       "type": "youtube",
       "language": "pt",
       "country": "BR",
-      "topics": ["make-money-online", "dropshipping", "alibaba-1688"],
+      "topics": [
+        "make-money-online",
+        "dropshipping",
+        "alibaba-1688"
+      ],
       "url": "https://youtube.com/@canalecommerce",
       "subscribers": 200000,
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_videos_12m": 0,
+        "total_videos_12m": 120,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -75,15 +92,19 @@
       "type": "youtube",
       "language": "en",
       "country": "US",
-      "topics": ["dropshipping", "make-money-online", "product-tips"],
+      "topics": [
+        "dropshipping",
+        "make-money-online",
+        "product-tips"
+      ],
       "url": "https://youtube.com/@WholesaleTed",
       "subscribers": 1200000,
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_videos_12m": 0,
+        "total_videos_12m": 200,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -104,15 +125,18 @@
       "type": "youtube",
       "language": "en",
       "country": "US",
-      "topics": ["import-from-china", "alibaba-1688"],
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
       "url": "https://youtube.com/@ImportDojo",
       "subscribers": 350000,
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_videos_12m": 0,
+        "total_videos_12m": 100,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -133,15 +157,18 @@
       "type": "youtube",
       "language": "en",
       "country": "US",
-      "topics": ["import-from-china", "make-money-online"],
+      "topics": [
+        "import-from-china",
+        "make-money-online"
+      ],
       "url": "https://youtube.com/@NomadMatt",
       "subscribers": 180000,
       "authority_score": "B",
       "collection_priority": "high",
       "content_stats": {
-        "total_videos_12m": 0,
+        "total_videos_12m": 80,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -162,15 +189,19 @@
       "type": "youtube",
       "language": "es",
       "country": "ES",
-      "topics": ["dropshipping", "make-money-online", "alibaba-1688"],
+      "topics": [
+        "dropshipping",
+        "make-money-online",
+        "alibaba-1688"
+      ],
       "url": "https://youtube.com/@YomiDenzel",
       "subscribers": 800000,
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_videos_12m": 0,
+        "total_videos_12m": 150,
         "extracted_count": 9,
-        "extraction_pct": 0,
+        "extraction_pct": 6.0,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -191,14 +222,18 @@
       "type": "blog",
       "language": "pt",
       "country": "BR",
-      "topics": ["dropshipping", "import-from-china", "make-money-online"],
+      "topics": [
+        "dropshipping",
+        "import-from-china",
+        "make-money-online"
+      ],
       "url": "https://www.ecommercebrasil.com.br",
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 200,
         "extracted_count": 15,
-        "extraction_pct": 0,
+        "extraction_pct": 7.5,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -219,14 +254,17 @@
       "type": "blog",
       "language": "pt",
       "country": "BR",
-      "topics": ["import-from-china", "alibaba-1688"],
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
       "url": "https://agenciasebrae.com.br",
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 500,
         "extracted_count": 10,
-        "extraction_pct": 0,
+        "extraction_pct": 2.0,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -247,14 +285,18 @@
       "type": "blog",
       "language": "en",
       "country": "US",
-      "topics": ["import-from-china", "alibaba-1688", "make-money-online"],
+      "topics": [
+        "import-from-china",
+        "alibaba-1688",
+        "make-money-online"
+      ],
       "url": "https://www.amazing.com",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 150,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -275,14 +317,18 @@
       "type": "blog",
       "language": "en",
       "country": "US",
-      "topics": ["dropshipping", "product-tips", "import-from-china"],
+      "topics": [
+        "dropshipping",
+        "product-tips",
+        "import-from-china"
+      ],
       "url": "https://nichedropshipping.com",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 200,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -303,14 +349,18 @@
       "type": "blog",
       "language": "en",
       "country": "US",
-      "topics": ["product-tips", "import-from-china", "make-money-online"],
+      "topics": [
+        "product-tips",
+        "import-from-china",
+        "make-money-online"
+      ],
       "url": "https://www.junglescout.com/blog",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 300,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -331,15 +381,19 @@
       "type": "reddit",
       "language": "en",
       "country": "US",
-      "topics": ["import-from-china", "product-tips", "make-money-online"],
+      "topics": [
+        "import-from-china",
+        "product-tips",
+        "make-money-online"
+      ],
       "url": "https://reddit.com/r/AmazonFBA",
       "subscribers": 180000,
       "authority_score": "B",
       "collection_priority": "high",
       "content_stats": {
-        "total_posts_12m": 0,
+        "total_posts_12m": 5000,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -360,15 +414,19 @@
       "type": "reddit",
       "language": "en",
       "country": "US",
-      "topics": ["dropshipping", "product-tips", "import-from-china"],
+      "topics": [
+        "dropshipping",
+        "product-tips",
+        "import-from-china"
+      ],
       "url": "https://reddit.com/r/Dropship",
       "subscribers": 900000,
       "authority_score": "B",
       "collection_priority": "high",
       "content_stats": {
-        "total_posts_12m": 0,
+        "total_posts_12m": 8000,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -389,14 +447,18 @@
       "type": "blog",
       "language": "pl",
       "country": "PL",
-      "topics": ["import-from-china", "alibaba-1688", "make-money-online"],
+      "topics": [
+        "import-from-china",
+        "alibaba-1688",
+        "make-money-online"
+      ],
       "url": "https://ecommercepolska.pl",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 80,
         "extracted_count": 2,
-        "extraction_pct": 0,
+        "extraction_pct": 2.5,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -417,14 +479,17 @@
       "type": "blog",
       "language": "pl",
       "country": "PL",
-      "topics": ["make-money-online", "import-from-china"],
+      "topics": [
+        "make-money-online",
+        "import-from-china"
+      ],
       "url": "https://allegro.pl/blog",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 100,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
@@ -445,14 +510,17 @@
       "type": "blog",
       "language": "de",
       "country": "DE",
-      "topics": ["import-from-china", "alibaba-1688"],
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
       "url": "https://importlizenz.de",
       "authority_score": "B",
       "collection_priority": "medium",
       "content_stats": {
-        "total_articles_12m": 0,
+        "total_articles_12m": 60,
         "extracted_count": 0,
-        "extraction_pct": 0,
+        "extraction_pct": 0.0,
         "last_extracted": null
       },
       "freshness": {
