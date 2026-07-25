@@ -4172,7 +4172,7 @@
       "target": "check-new-content-quality",
       "description": "Check: what new content appeared since last check? Run quality gate on any new Silver articles.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:37:00Z"
     }
   ],
