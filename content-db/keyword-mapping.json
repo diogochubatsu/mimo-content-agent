@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "created": "2026-07-25",
+  "keywords": {
+    "import": {
+      "en": "import",
+      "pt": "importação",
+      "es": "importación",
+      "de": "Import",
+      "ja": "輸入",
+      "ko": "수입",
+      "zh": "进口"
+    },
+    "supplier": {
+      "en": "supplier",
+      "pt": "fornecedor",
+      "es": "proveedor",
+      "de": "Lieferant",
+      "ja": "サプライヤー",
+      "ko": "공급업체",
+      "zh": "供应商"
+    },
+    "wholesale": {
+      "en": "wholesale",
+      "pt": "atacado",
+      "es": "mayorista",
+      "de": "Großhandel",
+      "ja": "卸売",
+      "ko": "도매",
+      "zh": "批发"
+    },
+    "price": {
+      "en": "price",
+      "pt": "preço",
+      "es": "precio",
+      "de": "Preis",
+      "ja": "価格",
+      "ko": "가격",
+      "zh": "价格"
+    },
+    "margin": {
+      "en": "margin",
+      "pt": "margem",
+      "es": "margen",
+      "de": "Marge",
+      "ja": "利益率",
+      "ko": "마진",
+      "zh": "利润率"
+    },
+    "dropshipping": {
+      "en": "dropshipping",
+      "pt": "dropshipping",
+      "es": "dropshipping",
+      "de": "Dropshipping",
+      "ja": "ドロップシッピング",
+      "ko": "드롭쉬핑",
+      "zh": "代发货"
+    },
+    "FBA": {
+      "en": "FBA",
+      "pt": "FBA",
+      "es": "FBA",
+      "de": "FBA",
+      "ja": "FBA",
+      "ko": "FBA",
+      "zh": "FBA"
+    },
+    "electronics": {
+      "en": "electronics",
+      "pt": "eletrônicos",
+      "es": "electrónicos",
+      "de": "Elektronik",
+      "ja": "電子機器",
+      "ko": "전자제품",
+      "zh": "电子产品"
+    },
+    "fashion": {
+      "en": "fashion",
+      "pt": "moda",
+      "es": "moda",
+      "de": "Mode",
+      "ja": "ファッション",
+      "ko": "패션",
+      "zh": "时尚"
+    },
+    "home": {
+      "en": "home",
+      "pt": "casa",
+      "es": "hogar",
+      "de": "Zuhause",
+      "ja": "ホーム",
+      "ko": "홈",
+      "zh": "家居"
+    }
+  }
+}

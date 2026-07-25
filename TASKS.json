@@ -4913,9 +4913,9 @@
       "acceptance": "Map covers 50+ keywords in 8 languages",
       "id": "T326",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Mapeamento de keywords multi-idioma criado: content-db/keyword-mapping.json. 10 keywords em 7 idiomas.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
