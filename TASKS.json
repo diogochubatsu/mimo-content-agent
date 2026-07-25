@@ -7057,6 +7057,56 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T14:20:00Z"
+    },
+    {
+      "id": "T492",
+      "to": "gcp",
+      "type": "review",
+      "target": "content-gap-analysis",
+      "description": "Analyze content gaps: what topics are missing? What competitors cover that we dont? Create gap report.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:27:00Z"
+    },
+    {
+      "id": "T493",
+      "to": "gcp",
+      "type": "research",
+      "target": "keyword-gap-analysis",
+      "description": "Analyze keyword gaps: what keywords are competitors ranking for that we are not? Create opportunity list.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:27:00Z"
+    },
+    {
+      "id": "T494",
+      "to": "gcp",
+      "type": "review",
+      "target": "agent-execution-investigation",
+      "description": "Investigate why agents are not executing tasks. Check: are they connected to repo? Do they have cron jobs? Process issue?",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T14:27:00Z"
+    },
+    {
+      "id": "T495",
+      "to": "gcp",
+      "type": "research",
+      "target": "content-repurpose-strategy",
+      "description": "Research content repurposing: how to turn 1 article into 10+ pieces of content across platforms.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:27:00Z"
+    },
+    {
+      "id": "T496",
+      "to": "gcp",
+      "type": "review",
+      "target": "next-quarter-planning",
+      "description": "Plan next quarter: goals, metrics, resource allocation, milestone targets.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:27:00Z"
     }
   ],
   "log": [
