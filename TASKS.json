@@ -731,7 +731,7 @@
       "id": "T314",
       "from": "gcp",
       "to": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
