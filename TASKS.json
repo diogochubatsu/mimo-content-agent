@@ -4881,9 +4881,9 @@
       "acceptance": "Dashboard shows live metrics from content-db/",
       "id": "T324",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Dashboard real-time criado: site/pages/dashboard-realtime.js. Mostra bronze por idioma, silver, scripts.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
