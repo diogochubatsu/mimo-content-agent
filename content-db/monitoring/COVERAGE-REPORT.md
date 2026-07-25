@@ -1,49 +1,52 @@
 # Bronze Datalake Coverage Report
 
-**Generated:** 2026-07-25T16:51:58.283Z
+**Generated:** 2026-07-25T18:18:09.111Z
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
-| Total sources | 37 |
-| Total extracted | 36 |
-| Estimated total | 28870 |
-| Overall coverage | 0.1% |
+| Total sources | 59 |
+| Total extracted | 26 |
+| Estimated total | 1187750 |
+| Overall coverage | 0.0% |
 
 ## Coverage by Language
 
 | Language | Sources | Extracted | Estimated | Coverage % |
 |----------|---------|-----------|-----------|------------|
-| de | 2 | 0 | 260 | 0.0% |
-| en | 15 | 0 | 15500 | 0.0% |
+| de | 3 | 0 | 210 | 0.0% |
+| en | 30 | 0 | 574130 | 0.0% |
 | es | 3 | 9 | 850 | 1.1% |
-| ja | 1 | 0 | 80 | 0.0% |
-| ko | 1 | 0 | 100 | 0.0% |
-| pl | 2 | 2 | 180 | 1.1% |
-| pt | 9 | 25 | 2400 | 1.0% |
-| zh | 4 | 0 | 9500 | 0.0% |
+| ja | 2 | 0 | 130 | 0.0% |
+| ko | 2 | 0 | 150 | 0.0% |
+| pl | 3 | 2 | 180 | 1.1% |
+| pt | 9 | 15 | 2100 | 0.7% |
+| zh | 7 | 0 | 610000 | 0.0% |
 
 ## Coverage by Type
 
 | Type | Sources | Extracted | Estimated | Coverage % |
 |------|---------|-----------|-----------|------------|
-| blog | 16 | 27 | 3140 | 0.9% |
+| blog | 13 | 17 | 2380 | 0.7% |
+| directory | 1 | 0 | 5000 | 0.0% |
 | forum | 1 | 0 | 5000 | 0.0% |
+| platform | 8 | 0 | 1150000 | 0.0% |
 | reddit | 2 | 0 | 13000 | 0.0% |
-| tiktok | 4 | 0 | 1500 | 0.0% |
-| web-portal | 2 | 0 | 3500 | 0.0% |
-| youtube | 12 | 9 | 2730 | 0.3% |
+| tiktok | 7 | 0 | 2150 | 0.0% |
+| web-portal | 3 | 0 | 4000 | 0.0% |
+| x-twitter | 3 | 0 | 2800 | 0.0% |
+| youtube | 21 | 9 | 3420 | 0.3% |
 
 ## Coverage by Topic
 
 | Topic | Sources |
 |-------|----------|
-| import-from-china | 27 |
-| dropshipping | 15 |
-| alibaba-1688 | 14 |
-| product-tips | 10 |
-| make-money-online | 9 |
+| import-from-china | 43 |
+| dropshipping | 33 |
+| alibaba-1688 | 22 |
+| product-tips | 22 |
+| make-money-online | 14 |
 
 ## Priority Actions
 

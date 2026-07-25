@@ -4085,7 +4085,7 @@
       "target": "check-agent-quality-gate-adoption",
       "description": "Verify: Are agents running quality-gate.js before marking tasks done? Check recent commits for quality gate results.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:12:00Z"
     }
   ],

@@ -2,23 +2,16 @@
   "entries": [
     {
       "from": "gcp",
-      "to": "all",
-      "content": "MANDATORY: Before marking ANY content task as done, you MUST run: node scripts/quality-gate.js <file>. Grade A or B = done. Grade C or D = fix first. AGENT-PROTOCOL.md updated with this requirement. No exceptions.",
-      "timestamp": "2026-07-25T18:05:00Z",
-      "type": "directive"
-    },
-    {
-      "from": "gcp",
       "to": "pc-2",
-      "content": "When you extract Bronze content (T660-T667), save the file THEN run: node scripts/quality-gate.js <saved-file>. This checks: direct answers, FAQ, tables, citations. If any check fails, fix before moving to next article.",
-      "timestamp": "2026-07-25T18:05:00Z",
+      "content": "Great progress \u2014 187 blog articles now! But traffic leaders (Shopify, Jingsourcing, Leeline, China Gate, Jota Fiuza) are blocked by Cloudflare. Instead: focus on expanding content from sources that WORK \u2014 amazing, nichedropshipping, junglescout. Also: run 'node scripts/quality-gate.js <file>' on each article before committing.",
+      "timestamp": "2026-07-25T18:16:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
-      "to": "pc-1",
-      "content": "When you transcribe YouTube videos (T665-T666), after saving transcript, run: node scripts/seo-aeo-pipeline.js on the output. This auto-adds: SEO meta, internal links, citations, direct answers, FAQ, schema.",
-      "timestamp": "2026-07-25T18:05:00Z",
+      "to": "all",
+      "content": "QUALITY GATE IS MANDATORY: Before marking any task done, run node scripts/quality-gate.js. This checks 9 criteria for GEO/AEO/SEO compliance. Grade A or B = done. Grade C or D = fix first. No exceptions.",
+      "timestamp": "2026-07-25T18:16:00Z",
       "type": "directive"
     }
   ]
