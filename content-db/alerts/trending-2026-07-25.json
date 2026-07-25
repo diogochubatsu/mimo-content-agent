@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-07-25T16:02:52.660Z",
+  "alert_type": "trending_products",
+  "message": "Found 7 trending products",
+  "products": [
+    {
+      "source": "amazon",
+      "title": "Apple AirPods Pro 3 Wireless Earbuds",
+      "metric": 98
+    },
+    {
+      "source": "amazon",
+      "title": "Apple AirPods 4 Wireless Earbuds",
+      "metric": 96
+    },
+    {
+      "source": "amazon",
+      "title": "Apple AirTag 2nd Generation Tracker",
+      "metric": 94
+    },
+    {
+      "source": "amazon",
+      "title": "Amazon Fire TV Stick 4K Select",
+      "metric": 92
+    },
+    {
+      "source": "amazon",
+      "title": "Owala FreeSip Insulated Water Bottle",
+      "metric": 95
+    },
+    {
+      "source": "amazon",
+      "title": "Stanley Quencher H2.0 Tumbler 30oz",
+      "metric": 94
+    },
+    {
+      "source": "amazon",
+      "title": "Queen Size 4 Piece Sheet Set (Hotel Luxury)",
+      "metric": 91
+    }
+  ]
+}
