@@ -3989,7 +3989,7 @@
       "target": "build-internal-link-graph",
       "description": "BUILD: Script to analyze internal linking between articles and suggest new cross-links. Critical for SEO authority flow.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T17:40:00Z"
     },
     {
