@@ -3777,9 +3777,9 @@
       "acceptance": "Script funcional que transcricao 1 video de teste",
       "id": "T255",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": null,
+      "result": "Script transcribe-youtube.js criado. Usa yt-dlp + whisper para transcrever v\u00eddeos YouTube.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
