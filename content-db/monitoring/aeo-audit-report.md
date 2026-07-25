@@ -1,6 +1,6 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T21:37:17.063Z
+**Generated:** 2026-07-25T21:38:47.267Z
 **Articles audited:** 294
 
 ## Grade Distribution
@@ -22,7 +22,7 @@
 | FAQ Section | 294 | 0 | 0 | 100% |
 | Frontmatter/Schema Ready | 294 | 0 | 0 | 100% |
 | Structured Headings | 294 | 0 | 0 | 100% |
-| Word Count | 242 | 52 | 0 | 82% |
+| Word Count | 249 | 45 | 0 | 85% |
 | Numbered Steps | 278 | 8 | 8 | 95% |
 
 ## Worst Articles (need improvement)

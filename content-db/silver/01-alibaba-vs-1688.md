@@ -53,6 +53,12 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/alibaba
 
 
 
+
+
+1688.com offers 15-25% lower prices than Alibaba.com for identical products from the same factories. The main difference: 1688 requires a Chinese-speaking agent for payments and export.
+
+1688.com offers 15-25% lower prices than Alibaba.com for identical products from the same factories. The main difference: 1688 requires a Chinese-speaking agent for payments and export.
+
 1688.com offers 15-25% lower prices than Alibaba.com for identical products from the same factories. The main difference: 1688 requires a Chinese-speaking agent for payments and export.
 
 1688.com offers 15-25% lower prices than Alibaba.com for identical products from the same factories. The main difference: 1688 requires a Chinese-speaking agent for payments and export.

@@ -4731,6 +4731,56 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T22:10:00Z"
+    },
+    {
+      "id": "T1190",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-maino-blog",
+      "description": "Extract top 10 articles from Maino Blog (Brazilian ERP). Focus on import costs and taxes. Save to content-db/blogs/maino-pt/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:15:00Z"
+    },
+    {
+      "id": "T1191",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-guelcos-blog",
+      "description": "Extract top 10 articles from Guelcos Consultoria (BR foreign trade). Focus on import regulations. Save to content-db/blogs/guelcos-pt/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:15:00Z"
+    },
+    {
+      "id": "T1192",
+      "to": "pc-1",
+      "type": "expand",
+      "target": "expand-silver-batch7",
+      "description": "Expand 5 more B-grade Silver articles to A-grade. Use batch-silver-expander.js + smart-silver-expander.js. Run quality-gate.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:15:00Z"
+    },
+    {
+      "id": "T1193",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-maijia-zh",
+      "description": "Extract top 10 articles from Maijia (\u5356\u5bb6\u4e4b\u5bb6). Focus on 1688 sourcing and cross-border trends. Save to content-db/blogs/maijia-zh/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:15:00Z"
+    },
+    {
+      "id": "T1194",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-bilibili-zh",
+      "description": "Extract top 10 Bilibili videos about \u8de8\u5883\u7535\u5546 (cross-border ecommerce). Translate key insights. Save to content-db/blogs/bilibili-zh/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:15:00Z"
     }
   ],
   "log": [
