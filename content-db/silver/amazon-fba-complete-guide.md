@@ -54,6 +54,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/amazon-
 
 
 
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
 Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
 Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.

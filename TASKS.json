@@ -4631,6 +4631,56 @@
       "priority": "high",
       "status": "pending",
       "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1170",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-alibaba-product-research",
+      "description": "Extract top 20 product listings from Alibaba.com trending section. Focus on products with high search volume. Save to content-db/raw/alibaba/products.json.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:05:00Z"
+    },
+    {
+      "id": "T1171",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-1688-product-research",
+      "description": "Extract top 20 product listings from 1688.com trending section. Focus on products with high search volume. Save to content-db/raw/1688/products.json.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:05:00Z"
+    },
+    {
+      "id": "T1172",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-11street-ko",
+      "description": "Extract top 10 articles from 11Street (Korean e-commerce). Focus on China sourcing topics. Save to content-db/blogs/11street-ko/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:05:00Z"
+    },
+    {
+      "id": "T1173",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-rakuten-ja",
+      "description": "Extract top 10 articles from Rakuten Commerce Blog (Japanese import market). Save to content-db/blogs/rakuten-ja/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:05:00Z"
+    },
+    {
+      "id": "T1174",
+      "to": "pc-1",
+      "type": "expand",
+      "target": "expand-silver-batch5",
+      "description": "Expand 5 more B-grade Silver articles to A-grade. Use batch-silver-expander.js + smart-silver-expander.js. Run quality-gate.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:05:00Z"
     }
   ],
   "log": [
