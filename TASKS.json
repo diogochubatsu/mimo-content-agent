@@ -3764,8 +3764,10 @@
       "target": "extract-leeline-blog-top20",
       "description": "COLLECT: Extract top 20 posts from Leeline Sourcing Blog (leelinegroup.com/blog). Topics: wholesale, product lists, import guides.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T16:40:00Z"
+      "status": "done",
+      "created": "2026-07-25T16:40:00Z",
+      "completed": "2026-07-25T18:45:00Z",
+      "result": "Extracted 20 blog posts from leelinegroup.com/blog with full text, metadata, images, and links. Files saved to content-db/blogs/leeline-top20/. Total size: ~91,100 words across 20 articles. Articles include frontmatter with title, source, url, date, summary, tags, word_count, images, internal_links, and external_links. Key topics: import from China (10 steps), China wholesale websites (10 platforms), best countries for sourcing (10 countries), supplier verification (6 steps), find reliable suppliers (7-step workflow), sourcing from China (enterprise SOP), shipping from China (7-step workflow), Amazon FBA sourcing guide, private label China guide, 8 types of product sourcing, hidden sourcing costs (6 buckets), product costing (5 steps), 11 Incoterms explained, global vs local sourcing, supplier management guide (10 steps), 12 best China sourcing agents, what is product sourcing, import from China to Canada, Alibaba vs Global Sources vs Made-in-China, how to find sourcing agent."
     },
     {
       "id": "T663",
