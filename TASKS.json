@@ -859,9 +859,9 @@
       "acceptance": "Tool compares 1 product across 4 platforms",
       "id": "T335",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:30:00Z",
-      "result": null,
+      "result": "Script cross-platform-compare.js criado. Compara produtos entre 1688, Alibaba, Amazon, AliExpress.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
