@@ -4465,7 +4465,9 @@
       "target": "collect-china-gate",
       "description": "Extract 10 articles/videos from China Gate (chinagate.com.br). Biggest BR import channel. Full text + metadata. Save to content-db/blogs/chinagate-pt/",
       "priority": "critical",
-      "status": "pending",
+      "status": "done",
+      "result": "Collected 10 articles from China Gate blog with full text and frontmatter metadata. Articles cover: custo importacao container compartilhado 2026, produtos mais importados China-Brasil 2026, eleicoes 2026 e importacao, assessoria de importacao, importacao de amostras, licenca de importacao, como importar da China primeira vez, declaracao de importacao, desembaraco aduaneiro, acessorios smartphones. Saved to content-db/raw/china-gate/",
+      "completed": "2026-07-25T22:30:00Z",
       "created": "2026-07-25T22:00:00Z"
     },
     {
