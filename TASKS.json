@@ -1228,9 +1228,9 @@
       "acceptance": "Health check generates comprehensive HTML report",
       "id": "T358",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
-      "result": null,
+      "result": "Health check estendido: Audit 80/100, Scorers A=10 C=10, Word count 4 OK 123 viola\u00e7\u00f5es.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
