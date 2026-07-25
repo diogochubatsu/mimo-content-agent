@@ -250,7 +250,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:27:36Z",
       "result": null
     },
@@ -278,7 +278,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:27:37Z",
       "result": null
     },
@@ -292,7 +292,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:27:37Z",
       "result": null
     },
@@ -306,7 +306,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:27:38Z",
       "result": null
     },
@@ -731,7 +731,7 @@
       "id": "T314",
       "from": "gcp",
       "to": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
@@ -3237,7 +3237,7 @@
       "target": "technical-debt-assessment",
       "description": "Assess technical debt: what code needs refactoring? What tests are missing? What documentation is outdated?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:36:00Z"
     },
     {
