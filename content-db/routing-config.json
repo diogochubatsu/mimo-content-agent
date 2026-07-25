@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-07-25T04:51:53.987Z",
+  "total_items": 19,
+  "routing": {
+    "zh": {
+      "count": 1,
+      "template": "bronze-zh.md",
+      "items": [
+        "content-db/raw/1688-guides.json"
+      ]
+    },
+    "en": {
+      "count": 12,
+      "template": "bronze-en.md",
+      "items": [
+        "content-db/raw/amazon/trending-products-2026.json",
+        "content-db/raw/collection-report.json",
+        "content-db/raw/news/trade-news-2026.json",
+        "content-db/raw/pinterest/trends-2026.json",
+        "content-db/raw/reddit/extra-reddit-posts.json",
+        "content-db/raw/reddit/trending_posts_2026-07-24.json",
+        "content-db/raw/tiktok/trending-videos-2.json",
+        "content-db/raw/tiktok/trending-videos.json",
+        "content-db/raw/trends/google-trends.json",
+        "content-db/raw/weibo/trends.json",
+        "content-db/raw/youtube-intl/videos.json",
+        "content-db/raw/youtube-ja/videos.json"
+      ]
+    },
+    "pl": {
+      "count": 1,
+      "template": "bronze-pl.md",
+      "items": [
+        "content-db/raw/tiktok-trending.json"
+      ]
+    },
+    "de": {
+      "count": 1,
+      "template": "bronze-de.md",
+      "items": [
+        "content-db/raw/youtube-de/videos.json"
+      ]
+    },
+    "pt": {
+      "count": 3,
+      "template": "bronze-pt.md",
+      "items": [
+        "content-db/raw/youtube-dropshipping.json",
+        "content-db/raw/youtube-es/videos.json",
+        "content-db/raw/youtube-pt/videos.json"
+      ]
+    },
+    "ko": {
+      "count": 1,
+      "template": "bronze-ko.md",
+      "items": [
+        "content-db/raw/youtube-ko/videos.json"
+      ]
+    }
+  }
+}
