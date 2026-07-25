@@ -2,7 +2,9 @@
 
 og:
   title: "Amazon FBA Complete Guide 2026"
-  description: "---"
+  description: "keywords: ["amazon complete", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/amazon-fba-complete-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/amazon-fba-complete-guide"
   image: "https://importguide1688.com/og/amazon-fba-complete-guide.png"

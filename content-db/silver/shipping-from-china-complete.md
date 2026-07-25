@@ -2,7 +2,9 @@
 
 og:
   title: "Shipping from China: Complete Guide 2026"
-  description: "---"
+  description: "keywords: ["shipping from", "import", "china", "supplier", "1688", "amazon", "fba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/shipping-from-china-complete-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/shipping-from-china-complete"
   image: "https://importguide1688.com/og/shipping-from-china-complete.png"

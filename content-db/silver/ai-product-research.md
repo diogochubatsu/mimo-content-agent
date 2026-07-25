@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: How to Use AI for Product Research (2026)"
+description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+slug: "complete-guide-how-to-use-ai-for-product-research-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-how-to-use-ai-for-product-research-2026"
+og:
+  title: "Complete Guide: How to Use AI for Product Research (2026)"
+  description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-how-to-use-ai-for-product-research-2026.png"
+---
 # Complete Guide: How to Use AI for Product Research (2026)
 
 **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**

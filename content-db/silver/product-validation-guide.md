@@ -2,7 +2,9 @@
 
 og:
   title: "Product Validation Before Ordering Guide (2026)"
-  description: "---"
+  description: "keywords: ["product validation", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/product-validation-before-ordering-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/product-validation-guide"
   image: "https://importguide1688.com/og/product-validation-guide.png"

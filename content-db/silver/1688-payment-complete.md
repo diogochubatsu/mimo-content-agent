@@ -2,7 +2,9 @@
 
 og:
   title: "1688 Payment Methods Complete Guide: How to Pay on China's Biggest Wholesale Platform (2026)"
-  description: "---"
+  description: "keywords: ["1688 payment", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/1688-payment-methods-complete-guide-how-to-pay-on-china-s-biggest-wholesale-plat"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/1688-payment-complete"
   image: "https://importguide1688.com/og/1688-payment-complete.png"

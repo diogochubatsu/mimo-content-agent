@@ -2,7 +2,9 @@
 
 og:
   title: "Complete Guide: Import Scams and How to Avoid Them (2026)"
-  description: "---"
+  description: "keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/complete-guide-import-scams-and-how-to-avoid-them-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/import-scams-avoidance"
   image: "https://importguide1688.com/og/import-scams-avoidance.png"

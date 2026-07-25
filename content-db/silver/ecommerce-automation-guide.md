@@ -2,7 +2,9 @@
 
 og:
   title: "Ecommerce Automation Guide 2026"
-  description: "---"
+  description: "keywords: ["ecommerce automation", "import", "supplier", "wholesale", "dropship", "1688", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/ecommerce-automation-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/ecommerce-automation-guide"
   image: "https://importguide1688.com/og/ecommerce-automation-guide.png"

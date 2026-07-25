@@ -2,7 +2,9 @@
 
 og:
   title: "Amazon FBA Fees Complete Guide 2026: Every Cost Explained"
-  description: "---"
+  description: "keywords: ["amazon fees", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/amazon-fba-fees-complete-guide-2026-every-cost-explained"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/amazon-fba-fees-guide"
   image: "https://importguide1688.com/og/amazon-fba-fees-guide.png"

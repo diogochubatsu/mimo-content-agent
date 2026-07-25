@@ -2,7 +2,9 @@
 
 og:
   title: "Customer Service for Ecommerce Guide 2026"
-  description: "---"
+  description: "keywords: ["customer service", "import", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "profit"]
+canonical: "https://importguide1688.com/articles/customer-service-for-ecommerce-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/customer-service-guide"
   image: "https://importguide1688.com/og/customer-service-guide.png"

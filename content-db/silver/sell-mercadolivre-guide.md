@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: How to Sell on Mercado Livre (2026)"
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+slug: "complete-guide-how-to-sell-on-mercado-livre-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-how-to-sell-on-mercado-livre-2026"
+og:
+  title: "Complete Guide: How to Sell on Mercado Livre (2026)"
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-how-to-sell-on-mercado-livre-2026.png"
+---
 # Complete Guide: How to Sell on Mercado Livre (2026)
 
 **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**

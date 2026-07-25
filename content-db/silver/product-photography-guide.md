@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: Product Photography for Ecommerce (2026)"
+description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "amazon"]
+slug: "complete-guide-product-photography-for-ecommerce-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-product-photography-for-ecommerce-2026"
+og:
+  title: "Complete Guide: Product Photography for Ecommerce (2026)"
+  description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-product-photography-for-ecommerce-2026.png"
+---
 # Complete Guide: Product Photography for Ecommerce (2026)
 
 **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**

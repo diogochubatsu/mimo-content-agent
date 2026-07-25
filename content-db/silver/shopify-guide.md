@@ -2,7 +2,9 @@
 
 og:
   title: "Complete Guide: Shopify for Import Business 2026"
-  description: "---"
+  description: "keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/complete-guide-shopify-for-import-business-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/shopify-guide"
   image: "https://importguide1688.com/og/shopify-guide.png"

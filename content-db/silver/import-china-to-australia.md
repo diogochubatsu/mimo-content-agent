@@ -1,3 +1,15 @@
+---
+title: "Complete Guide: How to Import from China to Australia (2026)"
+description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
+keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "alibaba", "margin", "profit"]
+slug: "complete-guide-how-to-import-from-china-to-australia-2026"
+canonical: "https://importguide1688.com/articles/complete-guide-how-to-import-from-china-to-australia-2026"
+og:
+  title: "Complete Guide: How to Import from China to Australia (2026)"
+  description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/complete-guide-how-to-import-from-china-to-australia-2026.png"
+---
 # Complete Guide: How to Import from China to Australia (2026)
 
 **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**

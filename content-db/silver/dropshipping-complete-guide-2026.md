@@ -2,7 +2,9 @@
 
 og:
   title: "Dropshipping in 2026: Complete Guide to Building a Profitable Business"
-  description: "---"
+  description: "keywords: ["dropshipping 2026:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/dropshipping-in-2026-complete-guide-to-building-a-profitable-business"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/dropshipping-complete-guide-2026"
   image: "https://importguide1688.com/og/dropshipping-complete-guide-2026.png"

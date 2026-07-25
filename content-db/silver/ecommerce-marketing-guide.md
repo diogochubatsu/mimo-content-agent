@@ -8,6 +8,8 @@ reading_time: 14 min
 word_count: 2100
 date: 2026-07-17
 status: published
+keywords: ["complete guide:", "import", "profit"]
+canonical: "https://importguide1688.com/articles/complete-guide-ecommerce-marketing-guide-2026"
 ---
 
 # Complete Guide: Ecommerce Marketing Guide 2026

@@ -2,7 +2,9 @@
 
 og:
   title: "Ecommerce for Beginners Complete Guide (2026)"
-  description: "---"
+  description: "keywords: ["ecommerce beginners", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/ecommerce-for-beginners-complete-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/ecommerce-beginners-guide"
   image: "https://importguide1688.com/og/ecommerce-beginners-guide.png"

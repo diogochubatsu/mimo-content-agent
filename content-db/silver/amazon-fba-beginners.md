@@ -2,7 +2,9 @@
 
 og:
   title: "Amazon FBA for Beginners Guide 2026"
-  description: "---"
+  description: "keywords: ["amazon beginners", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/amazon-fba-for-beginners-guide-2026-start-your-selling-journey"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/amazon-fba-beginners-guide-2026"
   image: "https://importguide1688.com/og/amazon-fba-beginners.png"

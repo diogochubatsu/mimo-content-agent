@@ -1,3 +1,15 @@
+---
+title: "How to Start Selling on Amazon in 2026: Complete Beginner's "
+description: "start selling. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+keywords: ["start selling", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+slug: "how-to-start-selling-on-amazon-in-2026-complete-beginner-s-guide"
+canonical: "https://importguide1688.com/articles/how-to-start-selling-on-amazon-in-2026-complete-beginner-s-guide"
+og:
+  title: "How to Start Selling on Amazon in 2026: Complete Beginner's "
+  description: "start selling. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
+  type: "article"
+  image: "/og/how-to-start-selling-on-amazon-in-2026-complete-beginner-s-guide.png"
+---
 # How to Start Selling on Amazon in 2026: Complete Beginner's Guide
 
 **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**
