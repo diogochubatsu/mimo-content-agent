@@ -4753,9 +4753,9 @@
       "id": "T316",
       "from": "gcp",
       "to": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Research completed",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "gcp"
@@ -4769,9 +4769,9 @@
       "id": "T317",
       "from": "gcp",
       "to": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Research completed",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "gcp"
