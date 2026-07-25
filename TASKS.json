@@ -320,7 +320,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T02:59:40Z",
       "result": null
     },
@@ -334,7 +334,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T02:59:41Z",
       "result": null
     },
@@ -347,7 +347,7 @@
       "acceptance": "10+ artigos com dados de mercado polones",
       "id": "T261",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -363,7 +363,7 @@
       "acceptance": "10+ artigos do Sebrae com dados de importacao BR",
       "id": "T262",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -395,7 +395,7 @@
       "acceptance": "10+ artigos do Yomi Denzel com dados de LATAM",
       "id": "T264",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -411,7 +411,7 @@
       "acceptance": "10+ artigos sobre importacao para Alemanha",
       "id": "T265",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -427,7 +427,7 @@
       "acceptance": "15+ artigos do Jungle Scout com dados de FBA",
       "id": "T266",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -443,7 +443,7 @@
       "acceptance": "10+ artigos sobre frete internacional",
       "id": "T267",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -459,7 +459,7 @@
       "acceptance": "10+ artigos do Rakuten sobre e-commerce JP",
       "id": "T268",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -475,7 +475,7 @@
       "acceptance": "10+ artigos do Coupang sobre e-commerce KR",
       "id": "T269",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
       "result": null,
       "depends_on": [],
@@ -491,7 +491,7 @@
       "acceptance": "Script gera relatorio de qualidade por artigo",
       "id": "T273",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T22:00:00Z",
       "result": null,
       "depends_on": [],
@@ -587,7 +587,7 @@
       "id": "T304",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
@@ -603,7 +603,7 @@
       "id": "T305",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
@@ -619,7 +619,7 @@
       "id": "T306",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
@@ -635,7 +635,7 @@
       "id": "T307",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
@@ -715,7 +715,7 @@
       "id": "T312",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
       "result": null,
       "depends_on": [],
@@ -796,7 +796,7 @@
       "acceptance": "Chinese article published",
       "id": "T331",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
       "result": null,
       "depends_on": [],
@@ -812,7 +812,7 @@
       "acceptance": "Korean article published",
       "id": "T332",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
       "result": null,
       "depends_on": [],
@@ -828,7 +828,7 @@
       "acceptance": "Japanese article published",
       "id": "T333",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
       "result": null,
       "depends_on": [],
@@ -908,7 +908,7 @@
       "acceptance": "Engine generates 4 formats from 1 article",
       "id": "T338",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1052,7 +1052,7 @@
       "acceptance": "Chinese article published",
       "id": "T347",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1068,7 +1068,7 @@
       "acceptance": "Korean article published",
       "id": "T348",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1084,7 +1084,7 @@
       "acceptance": "Japanese article published",
       "id": "T349",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1180,7 +1180,7 @@
       "acceptance": "Chinese article published",
       "id": "T355",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1196,7 +1196,7 @@
       "acceptance": "Korean article published",
       "id": "T356",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1212,7 +1212,7 @@
       "acceptance": "Japanese article published",
       "id": "T357",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1324,7 +1324,7 @@
       "acceptance": "Chinese article published",
       "id": "T364",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1340,7 +1340,7 @@
       "acceptance": "Korean article published",
       "id": "T365",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1356,7 +1356,7 @@
       "acceptance": "Japanese article published",
       "id": "T366",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1452,7 +1452,7 @@
       "acceptance": "Chinese article published",
       "id": "T372",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1468,7 +1468,7 @@
       "acceptance": "Korean article published",
       "id": "T373",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1484,7 +1484,7 @@
       "acceptance": "Japanese article published",
       "id": "T374",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1548,7 +1548,7 @@
       "acceptance": "All 10 C-quality sources become B or A",
       "id": "T378",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1596,7 +1596,7 @@
       "acceptance": "Chinese article published",
       "id": "T381",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1612,7 +1612,7 @@
       "acceptance": "Korean article published",
       "id": "T382",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1628,7 +1628,7 @@
       "acceptance": "Japanese article published",
       "id": "T383",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1644,7 +1644,7 @@
       "acceptance": "Dashboard shows live metrics",
       "id": "T384",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1660,7 +1660,7 @@
       "acceptance": "Optimizer runs on 10 articles",
       "id": "T385",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1676,7 +1676,7 @@
       "acceptance": "Alert detects 3 old sources",
       "id": "T386",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1692,7 +1692,7 @@
       "acceptance": "All 10 C-quality sources become B or A",
       "id": "T387",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1708,7 +1708,7 @@
       "acceptance": "First Polish article published",
       "id": "T388",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1724,7 +1724,7 @@
       "acceptance": "German article published",
       "id": "T389",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1740,7 +1740,7 @@
       "acceptance": "Chinese article published",
       "id": "T390",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1756,7 +1756,7 @@
       "acceptance": "Korean article published",
       "id": "T391",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1772,7 +1772,7 @@
       "acceptance": "Japanese article published",
       "id": "T392",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1788,7 +1788,7 @@
       "acceptance": "Dashboard shows live metrics",
       "id": "T393",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1804,7 +1804,7 @@
       "acceptance": "Batch processes 20 articles",
       "id": "T394",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1820,7 +1820,7 @@
       "acceptance": "Monitor detects old sources and generates report",
       "id": "T395",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:30:00Z",
       "result": null,
       "depends_on": [],
@@ -1836,7 +1836,7 @@
       "acceptance": "All 10 C-quality sources become B or A",
       "id": "T396",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1852,7 +1852,7 @@
       "acceptance": "First Polish article published",
       "id": "T397",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1868,7 +1868,7 @@
       "acceptance": "German article published",
       "id": "T398",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1884,7 +1884,7 @@
       "acceptance": "Chinese article published",
       "id": "T399",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1900,7 +1900,7 @@
       "acceptance": "Korean article published",
       "id": "T400",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1916,7 +1916,7 @@
       "acceptance": "Japanese article published",
       "id": "T401",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1932,7 +1932,7 @@
       "acceptance": "Dashboard shows live metrics",
       "id": "T402",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1948,7 +1948,7 @@
       "acceptance": "Optimizer processes 20 articles",
       "id": "T403",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1964,7 +1964,7 @@
       "acceptance": "Monitor detects old sources",
       "id": "T404",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:00:00Z",
       "result": null,
       "depends_on": [],
@@ -1978,7 +1978,7 @@
       "target": "weibo-metadata",
       "description": "Add source and category fields to weibo/trends.json (12 records missing metadata)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:20:00Z",
       "acceptance_criteria": "weibo/trends.json has source and category fields for all 12 records"
     },
@@ -1989,7 +1989,7 @@
       "target": "1688-guides-metadata",
       "description": "Add url, title, category fields to 1688-guides.json (10 records)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:20:00Z",
       "acceptance_criteria": "1688-guides.json has url, title, category for all records"
     },
@@ -2000,7 +2000,7 @@
       "target": "tiktok-metadata",
       "description": "Add url, title, category fields to tiktok files (40 records)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:20:00Z",
       "acceptance_criteria": "Both tiktok files have url, title, category for all records"
     },
@@ -2011,7 +2011,7 @@
       "target": "reddit-metadata",
       "description": "Add url, date, title, category fields to reddit/extra-reddit-posts.json (8 records)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:20:00Z",
       "acceptance_criteria": "reddit/extra-reddit-posts.json has all required metadata"
     },
@@ -2022,7 +2022,7 @@
       "target": "remove-empty-files",
       "description": "Delete or archive empty files: collection-report.json, tiktok-trending.json, youtube-dropshipping.json, pinterest/trends-2026.json, trends/google-trends.json, reddit/trending_posts_2026-07-24.json",
       "priority": "low",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:20:00Z",
       "acceptance_criteria": "Empty files removed from content-db/raw/"
     },
@@ -2033,7 +2033,7 @@
       "target": "weibo-metadata",
       "description": "Add source and category fields to weibo/trends.json (12 records missing metadata)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:35:00Z",
       "acceptance_criteria": "weibo/trends.json has source and category fields for all 12 records"
     },
@@ -2044,7 +2044,7 @@
       "target": "1688-guides-metadata",
       "description": "Add url, title, category fields to 1688-guides.json (10 records)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:35:00Z",
       "acceptance_criteria": "1688-guides.json has url, title, category for all records"
     },
@@ -2055,7 +2055,7 @@
       "target": "tiktok-metadata",
       "description": "Add url, title, category fields to tiktok files (40 records)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:35:00Z",
       "acceptance_criteria": "Both tiktok files have url, title, category for all records"
     },
@@ -2066,7 +2066,7 @@
       "target": "reddit-metadata",
       "description": "Add url, date, title, category fields to reddit/extra-reddit-posts.json (8 records)",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:35:00Z",
       "acceptance_criteria": "reddit/extra-reddit-posts.json has all required metadata"
     },
@@ -2077,7 +2077,7 @@
       "target": "remove-empty-files",
       "description": "Delete or archive empty files: collection-report.json, tiktok-trending.json, youtube-dropshipping.json, pinterest/trends-2026.json, trends/google-trends.json, reddit/trending_posts_2026-07-24.json",
       "priority": "low",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:35:00Z",
       "acceptance_criteria": "Empty files removed from content-db/raw/"
     },
@@ -2088,7 +2088,7 @@
       "target": "task-archival-system",
       "description": "Create system to archive completed tasks (T1-T200) to reduce TASKS.json size. Move to archive/tasks-archive.json.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Completed tasks archived, TASKS.json reduced to <200 active tasks"
     },
@@ -2099,7 +2099,7 @@
       "target": "agent-execution-monitor",
       "description": "Create monitoring script to detect when agents stop executing tasks. Check TASKS.json every 5 min for in_progress status changes.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Script detects idle agents within 15 minutes"
     },
@@ -2110,7 +2110,7 @@
       "target": "silver-pl-article-final",
       "description": "Create Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL FIRST POLISH CONTENT. 2000+ words, 5+ images.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "First Polish article published"
     },
@@ -2121,7 +2121,7 @@
       "target": "silver-de-article-final",
       "description": "Create German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words, 5+ images.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "German article published"
     },
@@ -2132,7 +2132,7 @@
       "target": "silver-zh-article",
       "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Chinese article published"
     },
@@ -2143,7 +2143,7 @@
       "target": "silver-ko-article",
       "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Korean article published"
     },
@@ -2154,7 +2154,7 @@
       "target": "silver-ja-article",
       "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Japanese article published"
     },
@@ -2165,7 +2165,7 @@
       "target": "pipeline-performance-metrics",
       "description": "Create performance metrics for pipeline: articles/hour, quality scores, bronze coverage %. Dashboard or CLI output.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Performance metrics dashboard showing real-time pipeline stats"
     },
@@ -2176,7 +2176,7 @@
       "target": "content-deduplication-v2",
       "description": "Advanced deduplication: detect similar content across sources using title similarity, URL matching, and content hashing.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Deduplication detects 5+ duplicate content items"
     },
@@ -2187,7 +2187,7 @@
       "target": "bronze-coverage-dashboard",
       "description": "Dashboard showing bronze coverage by language: how many sources per language, completeness score, gaps.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T08:45:00Z",
       "acceptance_criteria": "Dashboard shows language coverage breakdown"
     },
@@ -2198,7 +2198,7 @@
       "target": "task-archival-v2",
       "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Keep TASKS.json under 200 active tasks.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2208,7 +2208,7 @@
       "target": "agent-heartbeat-check",
       "description": "Create heartbeat mechanism: each agent pings TASKS.json every 10 min. If no ping for 20 min, alert GCP.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2218,7 +2218,7 @@
       "target": "pl-first-article",
       "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2228,7 +2228,7 @@
       "target": "de-first-article",
       "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2238,7 +2238,7 @@
       "target": "zh-first-article",
       "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2248,7 +2248,7 @@
       "target": "ko-first-article",
       "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2258,7 +2258,7 @@
       "target": "ja-first-article",
       "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2268,7 +2268,7 @@
       "target": "pipeline-benchmark",
       "description": "Benchmark pipeline performance: articles/hour, quality scores, bronze coverage %. Create performance report.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2278,7 +2278,7 @@
       "target": "content-quality-scorecard",
       "description": "Create quality scorecard for silver articles: readability, keyword density, SEO score, image count. Grade A/B/C.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2288,7 +2288,7 @@
       "target": "bronze-language-coverage",
       "description": "Dashboard showing bronze coverage by language: sources per language, completeness, gaps. HTML/CLI.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:00:00Z"
     },
     {
@@ -2298,7 +2298,7 @@
       "target": "task-archival-v3",
       "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2308,7 +2308,7 @@
       "target": "agent-health-monitor",
       "description": "Create health monitoring: check TASKS.json for in_progress changes every 5 min. Alert if no changes for 30 min.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2318,7 +2318,7 @@
       "target": "pl-premier-article",
       "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2328,7 +2328,7 @@
       "target": "de-premier-article",
       "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2338,7 +2338,7 @@
       "target": "zh-premier-article",
       "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2348,7 +2348,7 @@
       "target": "ko-premier-article",
       "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2358,7 +2358,7 @@
       "target": "ja-premier-article",
       "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2368,7 +2368,7 @@
       "target": "pipeline-optimization",
       "description": "Optimize pipeline: cache results, batch processing, parallel execution. Target: 2x throughput.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2378,7 +2378,7 @@
       "target": "content-dedup-v3",
       "description": "Advanced deduplication: fuzzy title matching, content hashing, cross-source duplicate detection.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2388,7 +2388,7 @@
       "target": "bronze-coverage-v2",
       "description": "Bronze coverage dashboard v2: real-time language coverage, source freshness, gap analysis.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T09:30:00Z"
     },
     {
@@ -2398,7 +2398,7 @@
       "target": "task-archival-v4",
       "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2408,7 +2408,7 @@
       "target": "agent-ping-system",
       "description": "Create ping system: each agent writes timestamp to ping.json every 5 min. GCP checks for staleness >20 min.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2418,7 +2418,7 @@
       "target": "pl-ultimate-article",
       "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2428,7 +2428,7 @@
       "target": "de-ultimate-article",
       "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2438,7 +2438,7 @@
       "target": "zh-ultimate-article",
       "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2448,7 +2448,7 @@
       "target": "ko-ultimate-article",
       "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2458,7 +2458,7 @@
       "target": "ja-ultimate-article",
       "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2468,7 +2468,7 @@
       "target": "pipeline-caching",
       "description": "Implement pipeline caching: store processed results, skip re-processing identical topics. 2x throughput.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2478,7 +2478,7 @@
       "target": "content-fingerprinting",
       "description": "Content fingerprinting: hash article content to detect near-duplicates across sources. Reduce redundancy.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2488,7 +2488,7 @@
       "target": "bronze-coverage-map",
       "description": "Interactive bronze coverage map: languages x sources x quality. HTML visualization.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:00:00Z"
     },
     {
@@ -2498,7 +2498,7 @@
       "target": "task-archival-v5",
       "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2508,7 +2508,7 @@
       "target": "agent-heartbeat-v2",
       "description": "Heartbeat v2: each agent writes to heartbeat.json every 3 min. GCP checks every 5 min. Alert if stale >15 min.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2518,7 +2518,7 @@
       "target": "pl-flagship-article",
       "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2528,7 +2528,7 @@
       "target": "de-flagship-article",
       "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2538,7 +2538,7 @@
       "target": "zh-flagship-article",
       "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2548,7 +2548,7 @@
       "target": "ko-flagship-article",
       "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2558,7 +2558,7 @@
       "target": "ja-flagship-article",
       "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2568,7 +2568,7 @@
       "target": "pipeline-batch-processor",
       "description": "Batch processor: accept CSV of topics, generate silver articles in bulk. Target: 10 articles in 5 minutes.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2578,7 +2578,7 @@
       "target": "content-versioning",
       "description": "Content versioning: track article revisions, maintain changelog, enable rollback to previous versions.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2588,7 +2588,7 @@
       "target": "bronze-freshness-monitor",
       "description": "Monitor bronze source freshness: alert when any source is >30 days old. Daily check at midnight.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T10:30:00Z"
     },
     {
@@ -2598,7 +2598,7 @@
       "target": "task-archival-v6",
       "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2608,7 +2608,7 @@
       "target": "agent-heartbeat-v3",
       "description": "Heartbeat v3: each agent writes to heartbeat.json every 3 min. GCP checks every 5 min. Alert if stale >10 min.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2618,7 +2618,7 @@
       "target": "pl-mastery-article",
       "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2628,7 +2628,7 @@
       "target": "de-mastery-article",
       "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2638,7 +2638,7 @@
       "target": "zh-mastery-article",
       "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2648,7 +2648,7 @@
       "target": "ko-mastery-article",
       "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2658,7 +2658,7 @@
       "target": "ja-mastery-article",
       "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2668,7 +2668,7 @@
       "target": "pipeline-parallel",
       "description": "Parallel pipeline: process 3 topics simultaneously. Use worker threads or child processes.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2678,7 +2678,7 @@
       "target": "content-analytics",
       "description": "Content analytics dashboard: track views, engagement, SEO rankings per article. Google Analytics integration.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -2688,7 +2688,7 @@
       "target": "bronze-quality-scorecard",
       "description": "Bronze quality scorecard: automated A/B/C scoring with HTML report. Include freshness, completeness, source authority.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T11:00:00Z"
     },
     {
@@ -3318,7 +3318,7 @@
       "target": "expand-ecommerce-brasil",
       "description": "FEEDBACK: Your ecommerce-brasil-pt articles are good bronze sources but only 174-264 words each. Pick the 3 best topics and expand to full Silver articles (2000+ words). Add tables, FAQ, internal links. Prioritize: dropshipping 2026, import taxes, and cross-border ecommerce.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:10:00Z"
     },
     {
@@ -3328,7 +3328,7 @@
       "target": "sebrae-to-silver",
       "description": "FEEDBACK: Your 10 sebrae-pt articles are excellent source data (NCM codes, tax rates) but only 195-359 words. Pick the 2 most impactful topics (zero-rate IT imports + auto parts) and expand to full Silver articles (2000+ words). Use the NCM data as centerpieces.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:10:00Z"
     },
     {
@@ -3338,7 +3338,7 @@
       "target": "agent-id-fix",
       "description": "BUG: Your commits say \"pc-2:\" in the message but author is pc-1@mimo-agent.local. Fix agent identification in your commit workflow. Message format should be: feat(pc-1): or fix(pc-1):",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:10:00Z"
     },
     {
@@ -3348,7 +3348,7 @@
       "target": "expand-sebrae-tax-silver",
       "description": "REQUEST: GCP needs your input \u2014 which sebrae topics have the highest SEO potential for LATAM importers? Review your 10 sebrae articles and rank by search volume potential. Also check: are the NCM codes still valid in 2026?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:10:00Z"
     },
     {
@@ -3358,7 +3358,7 @@
       "target": "agent-feedback-integration",
       "description": "When PC-1 and PC-2 respond to T-new4/T-new5, review their output quality and create follow-up tasks for improvement.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:10:00Z"
     },
     {
@@ -3418,7 +3418,7 @@
       "target": "temu-vs-1688-comparison",
       "description": "CREATE: Temu vs 1688 comparison article (EN). High volume keyword (4000/mo). Target 3000+ words, tables, FAQ. Priority: HIGH.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:20:00Z"
     },
     {
@@ -3428,7 +3428,7 @@
       "target": "import-china-brazil-guide",
       "description": "CREATE: Guia completo para importar da China para o Brasil (PT). Target 3000+ words, impostos NCM, passo a passo. Priority: HIGH.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:20:00Z"
     },
     {
@@ -3438,7 +3438,7 @@
       "target": "article-expansion-template",
       "description": "BUILD: Create a script that takes a short blog article (200 words) and generates a Silver-quality expansion template (2000+ words) with sections, tables, FAQ.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:20:00Z"
     },
     {
@@ -3468,7 +3468,7 @@
       "target": "import-china-to-japan-silver",
       "description": "CREATE Silver article: Complete Guide to Importing from China to Japan (EN). 3000+ words. Include customs, duties, shipping, suppliers. High priority - Japanese market untapped.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:23:00Z"
     },
     {
@@ -3478,7 +3478,7 @@
       "target": "korean-beauty-import-guide",
       "description": "CREATE Silver article: How to Import Korean Beauty Products (EN). 3000+ words. K-beauty trend, suppliers, regulations, shipping. Growing market.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:23:00Z"
     },
     {
@@ -3938,7 +3938,7 @@
       "target": "t660-t667-agent-pickup",
       "description": "Check: why haven't agents picked up T660-T667? Investigate root cause.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T17:27:00Z"
     }
   ],
