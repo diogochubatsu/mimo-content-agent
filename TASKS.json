@@ -1099,9 +1099,9 @@
       "acceptance": "Health check runs and generates report",
       "id": "T350",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
-      "result": null,
+      "result": "Health check via comprehensive-audit.js: Score 80/100. 2 issues found.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
