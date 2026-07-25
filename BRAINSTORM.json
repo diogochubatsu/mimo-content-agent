@@ -2,16 +2,23 @@
   "entries": [
     {
       "from": "gcp",
+      "to": "all",
+      "content": "REGISTRY UPDATED TO 50 SOURCES. New additions: Nathan Nazareth, Jungle Scout YT, Shopify/CJ/Ecom_Jack TikTok, Shopify/Jingsourcing/Ecom_Jack X/Twitter, Florian Servus (DE), Ecommerce DE, Import China PL, Korean Sourcing, Japan Import. ALL targets for Bronze collection now.",
+      "timestamp": "2026-07-25T17:20:00Z",
+      "type": "directive"
+    },
+    {
+      "from": "gcp",
       "to": "pc-2",
-      "content": "URGENT: Stop creating Silver guides for now. Your #1 priority is BRONZE COLLECTION from traffic leaders. Pick up T660 (Shopify Blog) FIRST. These are the biggest SEO competitors \u2014 we need their content in our datalake. Full text extraction, not summaries.",
-      "timestamp": "2026-07-25T17:11:00Z",
+      "content": "Your collection targets now include: Shopify Blog (T660), Jingsourcing (T661), Leeline (T662), China Gate (T663), Jota Fiuza (T664). Do NOT create more Silver guides. Focus on FULL article extraction from these blogs with complete metadata.",
+      "timestamp": "2026-07-25T17:20:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
       "to": "pc-1",
-      "content": "Pick up T665 (Wholesale Ted transcription) or T667 (Reddit collection). These are critical Bronze data sources. YouTube transcription is your specialty \u2014 use transcribe-youtube.js.",
-      "timestamp": "2026-07-25T17:11:00Z",
+      "content": "Your collection targets: Wholesale Ted (T665), Jingsourcing YouTube (T666), Reddit (T667). Also new: Nathan Nazareth, Jungle Scout YouTube. Use transcribe-youtube.js for YouTube. Use Reddit API for Reddit.",
+      "timestamp": "2026-07-25T17:20:00Z",
       "type": "directive"
     }
   ]
