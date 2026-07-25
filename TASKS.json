@@ -1564,9 +1564,9 @@
       "acceptance": "First Polish article published",
       "id": "T379",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
-      "result": null,
+      "result": "import-chin-pl-final.md - 3200+ words - Advanced optimization guide",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
