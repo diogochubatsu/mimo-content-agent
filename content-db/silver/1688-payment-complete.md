@@ -644,3 +644,84 @@ A: Payment timing depends on the method: Alipay balance payments are instant. Cr
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use my international credit card to pay on 1688?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not directly. 1688 does not accept international Visa, Mastercard, or American Express. However, you can use a credit card to fund an Alipay cross-border account, a PingPong wallet, or pay a sourcing agent who then pays your 1688 supplier in CNY."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to pay on 1688 as an international buyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For orders under $2,000, Alipay cross-border (2.5-3.5%) or a sourcing agent (5-8%) are your most practical options. For orders over $3,000, LianLian Global (1-1.5%) or PingPong (1.5-2.5%) offer the lowest fees. Bank wire transfers become competitive above $5,000 (2-3% total cost)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set up an Alipay account for 1688 without a Chinese bank card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Download the international Alipay app, register with your phone number, complete passport verification, and link an international credit card. You can fund your account via the linked card or wire transfer. The cross-border account supports 26 currencies and has a ¥50,000 daily limit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are sourcing agents safe for 1688 payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reputable agents are generally safe, but verify their credentials first. Check for: business registration, years in operation (3+ recommended), online reviews, and whether they offer escrow protection. Never pay an agent outside their official platform. Popular verified agents include Superbuy, Wegobuy, and CSSBuy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a supplier doesn't deliver after I pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you paid through 1688's Alipay system, you have built-in buyer protection. File a dispute within 7-15 days of the expected delivery date. Alipay will hold the funds in escrow and investigate. If you paid through an agent, contact the agent's dispute resolution team. For direct wire transfers, recovery is much more difficult — always use escrow for new suppliers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I convert USD to CNY for 1688 payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have several options: (1) Fund an Alipay cross-border account — Alipay converts at 2.5-3.5% markup. (2) Use PingPong or LianLian — typically 1-2.5% markup. (3) Bank wire transfer — your bank's exchange rate plus wire fees, usually 2-4% total. (4) Agent service — the agent handles conversion, charging 3-8% all-in."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a tax invoice for 1688 payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1688 provides electronic invoices (fapiao) for most transactions through Alipay. For cross-border payments via PingPong or LianLian, you can request business invoices. Agent services typically provide their own invoices. Keep all payment records for your tax filings — most countries allow you to deduct import costs as business expenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a minimum order amount for 1688 payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There's no minimum payment amount set by 1688 itself. However, individual suppliers set minimum order quantities (MOQs), which typically range from 2-100 units depending on the product. Some payment methods have minimum transaction amounts: LianLian requires $200 minimum, while bank wires have practical minimums around $500 due to fixed fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a 1688 payment take to reach the supplier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Payment timing depends on the method: Alipay balance payments are instant. Cross-border Alipay payments take 1-3 hours. PingPong and LianLian payments process within 1-2 hours. Agent payments take 1-2 days (you pay agent, agent pays supplier). Bank wire transfers take 3-7 business days to reach Chinese accounts."
+      }
+    }
+  ]
+}
+</script>

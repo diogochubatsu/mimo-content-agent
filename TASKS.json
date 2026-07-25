@@ -3584,9 +3584,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:14Z",
-      "result": null
+      "result": "FAQPage schema adicionado a 15 artigos via add-faq-schema.js"
     },
     {
       "id": "T243",

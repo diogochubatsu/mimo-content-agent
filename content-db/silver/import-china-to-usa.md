@@ -618,3 +618,84 @@ A: The top mistakes include: (1) Not calculating total landed cost before pricin
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum order quantity (MOQ) for importing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by supplier and product. For most consumer goods, expect MOQs of 100-1,000 units. Some suppliers on Alibaba offer MOQs as low as 50 units for first-time buyers, though prices will be 20-40% higher. For 1688.com, MOQs are typically lower (50-200 units) because the platform targets domestic buyers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost to import a container from China to the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 20-foot container (FCL) typically costs $2,500-$6,000, depending on the port of origin and destination. A 40-foot container costs $4,000-$10,000. These rates include ocean freight but not customs duties, insurance, or inland transportation. LCL (Less than Container Load) rates are $80-$200 per CBM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a business license to import from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a business license isn't legally required for importing, you'll need an Employer Identification Number (EIN) from the IRS to file customs entries. Most importers also obtain a customs bond, which requires a business entity. For personal imports under $800, no formal documentation is required (de minimis exemption)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does customs clearance take in the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard customs clearance takes 1-3 business days for sea freight and 1-2 days for air freight. However, if CBP selects your shipment for examination, add 3-7 days. Shipments with complete, accurate documentation typically clear faster. Using a licensed customs broker can expedite the process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my shipment is held at customs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If CBP holds your shipment, they'll issue a \"Request for Information\" or \"Notice of Action.\" Common reasons include incomplete documentation, HTS classification questions, or suspected regulatory violations. You typically have 30 days to respond. Working with a customs broker can help resolve issues quickly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I avoid Section 301 tariffs on Chinese goods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Section 301 tariffs are difficult to avoid entirely, but some strategies can reduce your burden: (1) Verify if your product qualifies for an exclusion, (2) Consider sourcing from non-Chinese manufacturers for affected products, (3) Use Foreign Trade Zones for duty deferral, (4) Explore tariff engineering (legally modifying products to change HTS classification). Consult a trade attorney for your specific situation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What insurance coverage do I need for imports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maritime insurance coverage should be at least 110% of the CIF (Cost, Insurance, Freight) value. Standard policies cover loss, damage, theft, and natural disasters. For high-value shipments, consider all-risk coverage. Typical premium rates are 0.3-0.5% of insured value. Many freight forwarders can arrange insurance as part of their service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate the total landed cost of my imports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total landed cost includes: product cost (FOB) + international shipping + customs duties + customs broker fees + insurance + warehousing + inland transportation + quality inspection + any product-specific certifications. A general formula is: Product Cost x 1.4-1.6 = Total Landed Cost. This accounts for all variable costs but not fixed costs like annual certifications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most common mistakes new importers make?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The top mistakes include: (1) Not calculating total landed cost before pricing, (2) Skipping supplier verification, (3) Not ordering samples, (4) Inadequate documentation, (5) Not using a customs broker, (6) Ignoring regulatory requirements (FCC, FDA, CPSC), (7) Paying full amount upfront without trade assurance, (8) Not planning for quality control."
+      }
+    }
+  ]
+}
+</script>

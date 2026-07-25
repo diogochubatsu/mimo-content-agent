@@ -634,3 +634,92 @@ A: The most common mistakes include: (1) Incorrect HS code classification leadin
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to import goods from China to Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline varies by shipping method. Sea freight takes 5-12 days for transit plus 2-5 days for customs clearance (total: 7-17 days). Air freight takes 3-5 days transit plus 1-2 days clearance (total: 4-7 days). Express courier services deliver in 1-3 days total. The overall process from order to delivery typically takes 4-8 weeks including supplier lead time, production, and shipping."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the consumption tax rate for imports from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Japan's standard consumption tax (JCT) rate is 10% on most imported goods. A reduced rate of 8% applies to food and beverages (excluding alcohol). The JCT is calculated on the customs value plus duty amount. Registered businesses can claim input tax credits on JCT paid on imports, effectively reducing the net tax cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a customs broker to import from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While not legally required, using a customs broker is highly recommended, especially for first-time importers. Customs brokers in Japan charge ¥30,000-¥100,000 per shipment but can prevent costly errors, delays, and penalties. They handle documentation, NACCS declarations, and communication with Japan Customs. Most experienced importers use brokers even for routine shipments due to the complexity of Japanese regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications are required for electronics imported from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All electrical products sold in Japan must have PSE (Product Safety Electrical Appliance & Material) certification. There are two types: diamond PSE (for higher-risk products like adapters and power supplies) and circle PSE (for lower-risk products). Testing must be performed at accredited laboratories like JET or JQA. The certification process typically takes 4-8 weeks and costs ¥100,000-¥300,000 per product category."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I reduce customs duties when importing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several strategies can reduce duty burden: (1) Correctly classify products using optimal HS codes — some codes have 0% duty rates; (2) Utilize RCEP preferential tariffs where applicable; (3) Consider temporary import procedures for samples; (4) Use bonded warehouses for storage before final clearance; (5) Negotiate FOB terms to have better control over customs valuation. Always ensure compliance — attempting to undervalue goods can result in severe penalties."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my goods are held at customs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If goods are held, Japan Customs will issue a notice explaining the reason. Common causes include documentation errors, missing certifications, or valuation discrepancies. You typically have 1 month to resolve issues. Your customs broker can help respond to inquiries. If the issue is minor (missing document), it can usually be resolved quickly. For major issues (valuation dispute, missing certification), the process may take longer. Goods may be stored in bonded warehouses, incurring daily storage fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I import food products from China to Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but food imports face strict regulations. You must: (1) Submit import notification to MHLW at least 30 days before arrival; (2) Provide detailed ingredient lists and nutritional information in Japanese; (3) Meet Japan's food additive standards (which differ from China's); (4) Provide shelf life information; (5) Obtain sanitary certificate from Chinese authorities. The inspection rate for food from China is higher than average (15-20%), and non-compliant products will be rejected or destroyed at importer's expense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the payment terms for importing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common payment terms include: T/T (Telegraphic Transfer) — most common, usually 30% deposit, 70% before shipment; L/C (Letter of Credit) — for larger orders, provides security for both parties; Alibaba Trade Assurance — escrow service for orders through Alibaba; Western Union — for small sample orders only. For first-time importers, T/T with Trade Assurance offers a good balance of security and flexibility. Always negotiate payment terms before placing orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle returns or defective products from Chinese suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Japan has strong consumer protection laws, so handling returns properly is crucial: (1) Establish clear return policies with suppliers before ordering; (2) Include quality clauses in purchase agreements; (3) Conduct pre-shipment inspections for large orders; (4) Document any defects immediately with photos; (5) Negotiate replacement or credit terms. For defective products already in Japan, you may need to dispose of them properly (especially electronics) and claim against the supplier. Consider product liability insurance for high-value items."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common mistakes when importing from China to Japan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common mistakes include: (1) Incorrect HS code classification leading to wrong duty rates; (2) Undervaluing goods to reduce duties (illegal and can result in seizure); (3) Missing certifications (especially PSE for electronics); (4) Inadequate documentation causing customs holds; (5) Choosing cheapest logistics without considering reliability; (6) Not registering for JCT input credits; (7) Ignoring labeling requirements (Japanese language mandatory); (8) Failing to plan for seasonal port congestion (especially Golden Week and year-end)."
+      }
+    }
+  ]
+}
+</script>

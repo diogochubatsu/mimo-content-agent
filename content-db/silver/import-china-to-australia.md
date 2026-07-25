@@ -346,3 +346,116 @@ A: The most common categories include electronics and electrical equipment, clot
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the GST threshold for imports to Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Australia applies a 10% GST on most imported goods with a value of AUD 1,000 or more. For goods valued under AUD 1,000, GST is generally not applied, though this exemption was modified in 2018 to include low-value imported goods (LVIG) for digital products and goods sold to Australian consumers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a license to import goods from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most goods can be imported without a specific license, but certain product categories require permits or licenses. These include pharmaceuticals, food products, agricultural equipment, chemicals, and weapons. Check the Australian Border Force's Import Permit System (IPS) to determine if your product requires authorization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does customs clearance take in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customs clearance typically takes 1-2 business days for standard shipments with complete documentation. However, shipments may be delayed for inspection, additional documentation requests, or if goods require permits. Complex shipments or those with issues may take longer to clear."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main shipping options from China to Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main shipping options are sea freight (FCL or LCL), air freight, and express courier services. Sea freight is most cost-effective for large shipments (14-35 days transit), air freight is faster (3-7 days) but more expensive, and express couriers offer door-to-door service (2-5 days) with customs clearance included."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I calculate the total cost of importing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total landed cost includes: product cost, international shipping, customs duties (0-10% of value), GST (10% of taxable value), customs broker fees (AUD 150-500), port charges, insurance, and inland transportation. Use the formula: Total Cost = Product Cost + Shipping + Duties + GST + Other Fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for customs clearance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential documents include: Commercial Invoice, Packing List, Bill of Lading or Airway Bill, Customs Import Declaration, and any required permits or certificates. Additional documents may be needed for specific product categories like food, electronics, or chemicals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any restrictions on importing electronics from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electronics must comply with Australian safety standards and may require certificates of conformity. Certain products may need approval from the Australian Communications and Media Authority (ACMA) for telecommunications equipment. Always verify specific requirements for your product category."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I claim GST credits on imported goods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you are registered for GST and the imported goods are for business purposes, you can claim a GST credit for the GST paid on importation. This must be claimed through your Business Activity Statement (BAS) and requires proper documentation of the import transaction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the penalties for non-compliance with Australian import regulations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Penalties vary depending on the violation. Minor documentation errors may result in delays and additional fees. Serious violations like importing prohibited goods can result in fines up to AUD 500,000 for individuals and AUD 2.5 million for corporations. Goods may be seized or destroyed, and importers may face criminal charges in severe cases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find a reliable customs broker in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for licensed customs brokers through the Customs Brokers and Forwarders Council of Australia (CBFCA). Check their licensing status with the Department of Home Affairs. Ask for references from other importers, verify their experience with your product category, and compare fees from multiple brokers before deciding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the biosecurity requirements for importing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Australia has strict biosecurity regulations. Wood packaging must comply with ISPM 15 standards. Food and agricultural products require permits and may need treatment. Animal products including leather and wool must meet specific requirements. Always check DAFF guidelines for your product category."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does shipping from China to Australia typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sea freight takes 14-35 days depending on the route and port. Air freight takes 3-7 days. Express courier services like DHL, FedEx, and UPS take 2-5 days door-to-door. Transit times vary based on shipping method, route, and seasonal factors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most common product categories imported from China to Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common categories include electronics and electrical equipment, clothing and textiles, furniture and home goods, machinery and industrial equipment, toys and sporting goods, and automotive parts. Each category has specific import requirements and duty rates."
+      }
+    }
+  ]
+}
+</script>

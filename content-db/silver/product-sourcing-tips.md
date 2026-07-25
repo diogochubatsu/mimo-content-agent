@@ -682,3 +682,92 @@ A: Yes, but with caveats. Use AliExpress or DHgate for dropshipping, as they sup
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best platform for sourcing products from China as a beginner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alibaba.com is the best starting point for beginners due to its English interface, Trade Assurance buyer protection, and wide supplier selection. It allows orders as small as 1-50 units, making it low-risk for testing. As you gain experience, consider adding 1688.com to your sourcing toolkit for better pricing on repeat orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify that a Chinese supplier is legitimate and not a scam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the 7-point verification framework: check business license, request factory video tours, verify transaction history on the platform, confirm certifications independently, order samples, test communication responsiveness, and ask for customer references. Additionally, use third-party verification services like SGS or Bureau Veritas for orders above $5,000."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the typical MOQ (Minimum Order Quantity) when sourcing from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MOQs vary significantly by platform and supplier. On Alibaba, MOQs range from 1-1,000 units, with many suppliers willing to negotiate. On 1688, MOQs are typically 50-500 units. Custom products and private label items usually require higher MOQs (100-1,000 units) to justify setup costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much should I budget for quality control inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a typical order of 1,000 units, expect to spend $150-400 per inspection stage. A full three-stage quality control process (PPI, DPI, PSI) costs approximately $500-900. This investment typically saves 5-15% of your order value by preventing defects, returns, and reputational damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most common mistakes when sourcing from China for the first time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The top 5 mistakes are: (1) ordering without samples, (2) choosing the cheapest supplier without verifying quality, (3) not using a written contract, (4) skipping quality inspections, and (5) not understanding total landed cost including duties, shipping, and insurance. Following the sourcing tips in this guide helps avoid all of these pitfalls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to receive products from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total timeline from inquiry to delivery is typically 45-90 days: 1-2 weeks for supplier negotiation and samples, 2-4 weeks for production, and 2-6 weeks for shipping depending on method. Sea freight takes 15-35 days, air freight 3-7 days, and express shipping 3-5 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a sourcing agent or source directly from suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sourcing agent is recommended if: you cannot communicate in Chinese, you are ordering from 1688, you want local quality inspection, or you are spending over $10,000 per order. Sourcing agents typically charge 5-10% commission but provide value through better pricing negotiation, quality control, and risk mitigation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods are safest when paying Chinese suppliers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For orders under $500, PayPal or credit card through Alibaba Trade Assurance offers the best buyer protection. For larger orders, wire transfer (T/T) is standard — pay 30% deposit upfront and 70% before shipment after inspection. Never pay 100% upfront to a new supplier, and avoid Western Union or cryptocurrency payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle defective products from a Chinese supplier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document defects immediately with photos and videos, notify the supplier within 48 hours, reference your contract's quality standards and AQL levels, negotiate a resolution (replacement, refund, or credit), and escalate through the platform's dispute system if needed. Prevention through quality control is always better than remediation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I source from China for dropshipping with no inventory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but with caveats. Use AliExpress or DHgate for dropshipping, as they support small orders and direct shipping. The margins are typically lower (15-30% vs 40-60% for bulk), and shipping times are longer. For better results, use a Chinese fulfillment center that can ship directly to your customers with faster transit times."
+      }
+    }
+  ]
+}
+</script>

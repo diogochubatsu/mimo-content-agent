@@ -724,3 +724,76 @@ A: Seasonal inventory management requires careful planning: analyze historical s
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a good inventory turnover rate for ecommerce?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A healthy inventory turnover rate varies by industry, but most successful ecommerce businesses aim for 8-12 turns per year. Fast-moving categories like electronics or fashion should target 12-18 turns, while specialty or luxury items may be profitable at 4-6 turns. The key is comparing your turnover to industry benchmarks and continuously improving. Higher turnover generally indicates efficient inventory management and better cash flow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate the reorder point for my products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The basic formula is: Reorder Point = (Average Daily Sales × Lead Time in Days) + Safety Stock. For example, if you sell 10 units per day, your supplier lead time is 14 days, and you maintain 70 units of safety stock, your reorder point would be (10 × 14) + 70 = 210 units. When inventory reaches this level, place a new order. Adjust this formula based on demand variability and service level targets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between perpetual and periodic inventory systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perpetual inventory systems update inventory records in real-time with every transaction, providing current visibility into stock levels. Periodic systems update inventory at set intervals (weekly, monthly, through physical counts). Perpetual systems are strongly preferred for ecommerce because they enable accurate multi-channel synchronization and prevent overselling. Most modern inventory management software provides perpetual inventory tracking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much safety stock should I maintain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety stock depends on your desired service level, demand variability, and lead time variability. For a 95% service level (stockout only 5% of the time), multiply the standard deviation of demand by 1.65 times the square root of lead time. In practice, many businesses maintain 2-4 weeks of safety stock for regular items and 4-6 weeks for critical or slow-replenishment items. Review and adjust safety stock levels quarterly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I reduce inventory carrying costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key strategies include improving forecast accuracy to reduce excess stock, negotiating better payment terms with suppliers, implementing dropshipping for uncertain-demand products, optimizing warehouse space utilization, liquidating slow-moving inventory before it becomes obsolete, and using consignment arrangements where possible. Most businesses can reduce carrying costs by 20-35% through systematic optimization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a single warehouse or multiple fulfillment centers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Multiple fulfillment centers reduce shipping costs and delivery times, improving customer satisfaction. However, they require more complex inventory management and higher safety stock levels. Consider adding a second fulfillment center when shipping costs exceed 10% of revenue, when delivery speed is a competitive differentifier, or when serving geographically dispersed customer bases. Start with one or two strategically located facilities and expand based on order volume data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What metrics should I track for inventory management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential metrics include: inventory turnover rate (how quickly stock sells), days of supply (how long current inventory will last), fill rate (percentage of orders shipped complete), stockout rate (frequency of out-of-stock situations), carrying cost percentage (holding costs as % of inventory value), and gross margin return on investment (GMROI, which measures profit generated per dollar invested in inventory). Review these metrics monthly and set improvement targets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle inventory for seasonal products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seasonal inventory management requires careful planning: analyze historical sales patterns to forecast demand accurately, build inventory 60-90 days before peak season, negotiate flexible return/swap terms with suppliers for unsold seasonal stock, plan markdown and promotion strategies for post-season clearance, and consider pre-season testing with limited quantities before committing to full orders. Document lessons learned after each season to improve future planning."
+      }
+    }
+  ]
+}
+</script>

@@ -558,3 +558,84 @@ A: Amazon provides more sophisticated advertising options (Sponsored Products, S
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sell on both Amazon and Mercado Livre simultaneously?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can absolutely sell on both platforms simultaneously. In fact, many successful sellers in Brazil use a dual-platform strategy, allocating products based on price point and target audience. Amazon typically handles premium products while Mercado Livre drives volume with mid-range offerings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform has lower fees for sellers in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mercado Livre generally has lower fees (11-16%) compared to Amazon (12-17% including referral and closing fees). However, Amazon's higher average order value and conversion rates often offset the fee difference. Calculate your specific margins on both platforms before deciding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to start selling on each platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon Brazil typically takes 2-4 weeks for seller registration and product listing approval. Mercado Livre is faster, with most sellers operational within 3-7 days. Both platforms require business documentation (CNPJ) and bank account verification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform is better for international sellers entering Brazil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon Brazil is generally better for international sellers due to its English-language seller support, established global seller onboarding processes, and FBA infrastructure. Mercado Livre requires more Portuguese-language navigation and local business knowledge, though they have improved international seller support in 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the payment terms for sellers on each platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon Brazil pays sellers every 14 days via bank transfer. Mercado Livre offers instant payments through Mercado Pago, with funds available immediately after sale confirmation. This cash flow advantage is significant for sellers with tight working capital requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform provides better seller protection against fraud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both platforms offer buyer and seller protection programs, but with different approaches. Amazon's A-to-Z Guarantee is more structured and favors buyers, while Mercado Livre's protection system is more balanced. Amazon has stricter account suspension policies, while Mercado Livre uses a gradual penalty system based on seller reputation scores."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a Brazilian company (CNPJ) to sell on these platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, both Amazon Brazil and Mercado Livre require a Brazilian CNPJ for professional seller accounts. However, Amazon has recently introduced a simplified registration process for international sellers through their Global Selling program, which can help navigate Brazilian tax requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is customer reviews on each platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews are critical on both platforms but function differently. Amazon's review system is more influential on conversion rates, with products needing 50+ reviews to gain significant visibility. Mercado Livre's reputation system (based on transaction history and feedback) is equally important, with sellers needing to maintain 95%+ positive ratings for premium placement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platform offers better advertising tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon provides more sophisticated advertising options (Sponsored Products, Sponsored Brands, Sponsored Display, DSP) with detailed analytics. Mercado Livre's advertising is simpler but effective, focusing on sponsored listings and featured products. Amazon's tools are more complex but offer higher potential ROAS for experienced advertisers."
+      }
+    }
+  ]
+}
+</script>

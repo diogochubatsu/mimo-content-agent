@@ -564,3 +564,92 @@ A: Never ignore negative reviews. Respond publicly with a professional, helpful 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money do I need to start Amazon FBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most beginners need $1,500-$3,500 for their first product. This includes inventory, shipping, photography, PPC advertising, and tools. You can start with as little as $1,000 if you source low-cost items and handle photography yourself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a business license to sell on Amazon FBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon requires you to be a legally registered business. An LLC or sole proprietorship is sufficient. Check your local requirements for business registration and sales tax permits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to start making money with FBA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most beginners see their first sales within 2-4 weeks of listing. Profitability typically takes 60-90 days, depending on your product, pricing, and marketing. The first month is often break-even or a small loss."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I sell on Amazon FBA from outside the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Amazon has marketplaces in 16+ countries. For international sellers, you can use Amazon's Global Selling program or work with a US-based fulfillment partner. You'll need to handle customs and import duties for shipping to Amazon."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my product doesn't sell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can create removal orders to have Amazon ship your inventory back to you (fees apply: $0.50-$1.00 per unit) or dispose of it. Long-term storage fees ($3.80-$6.90 per cubic foot) incentivize you to manage inventory carefully."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Amazon FBA still profitable in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. While competition has increased, the opportunity has grown too. Amazon's marketplace is projected to exceed $800 billion in GMV by 2027. FBA sellers who focus on product differentiation, branding, and customer experience continue to see strong returns of 30-65% gross margin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to brand my products to succeed on Amazon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While you can sell generic products, branded products consistently outperform. Brand Registry gives you access to A+ Content, Brand Analytics, Sponsored Brands ads, and more. Building a brand increases your selling price, reduces competition, and builds customer loyalty."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the most common reason beginners fail?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The #1 reason is poor product selection. Beginners often choose products that are too competitive, too cheap, or have no demand. The #2 reason is giving up too early — success on Amazon takes 3-6 months of consistent effort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I start with FBA or dropshipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most beginners, FBA is recommended. It provides Prime eligibility, higher Buy Box rates, and Amazon handles customer service. Dropshipping has lower startup costs but thinner margins and less control over the customer experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle negative reviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Never ignore negative reviews. Respond publicly with a professional, helpful message. If there's a product defect, offer a refund or replacement. Use negative feedback to improve your product. Amazon's Buyer-Seller messaging allows you to proactively contact customers who left reviews."
+      }
+    }
+  ]
+}
+</script>

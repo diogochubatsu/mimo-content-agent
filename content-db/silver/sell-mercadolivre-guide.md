@@ -608,3 +608,84 @@ A: Mercado Livre offers several seller tools:
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be Brazilian to sell on Mercado Livre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Mercado Livre is primarily designed for Brazilian sellers, international sellers can participate through Mercado Livre's cross-border program or by partnering with a local distributor. However, having a CPF or CNPJ significantly simplifies the process. International sellers without Brazilian documentation will need to work through authorized representatives or use Mercado Livre's international selling programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost to start selling on Mercado Livre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Starting costs vary, but here's a breakdown:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to receive payment after a sale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mercado Livre processes payments through Mercado Pago. After a sale is confirmed and the buyer receives the product:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I sell used items on Mercado Livre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mercado Livre allows selling used items through its auction and fixed-price formats. However, used items must be accurately described with clear photos showing the actual condition. Mercado Livre has strict policies against misrepresenting used items as new, and violations can result in account suspension."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What products are prohibited on Mercado Livre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prohibited items include:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle returns and refunds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mercado Livre has a buyer protection program that covers most purchases. For returns:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use Mercado Livre to sell internationally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mercado Livre operates in multiple Latin American countries (Brazil, Argentina, Mexico, Colombia, Chile, etc.). You can sell on any of these platforms with appropriate local documentation. Cross-border selling between ML countries is possible through Mercado Livre's international logistics programs, though it requires additional setup and documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I become a Mercado Líder seller?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To achieve Mercado Líder status, you need:"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tools does Mercado Livre provide for sellers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mercado Livre offers several seller tools:"
+      }
+    }
+  ]
+}
+</script>
