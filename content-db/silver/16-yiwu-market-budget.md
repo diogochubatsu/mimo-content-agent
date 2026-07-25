@@ -269,6 +269,16 @@ Use this template to plan your Yiwu Market budget:
 - [Top 10 China Sourcing Agents](/top-10-china-sourcing-agents/) — Find the best sourcing partner
 
 
+
+### Step-by-Step Guide
+
+1. Book flights to Yiwu ($500-1000)
+2. Reserve hotel near market ($50-100/night)
+3. Hire local guide/translator ($100-200/day)
+4. Budget for samples ($500-1000)
+5. Set aside shipping costs ($300-500)
+6. Reserve contingency fund ($500)
+
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)

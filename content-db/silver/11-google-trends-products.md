@@ -47,6 +47,16 @@ This comprehensive guide covers google trends for product research: 10 trending 
 - [Step-by-Step Product Research Methodology](#step-by-step-product-research-methodology)
 - [Trend Analysis Framework](#trend-analysis-framework)
 - [Validating Beyond Google Trends](#validating-beyond-google-trends)
+
+### Step-by-Step Guide
+
+1. Go to trends.google.com
+2. Filter by 'Rising' queries
+3. Compare multiple products
+4. Check seasonal patterns
+5. Cross-reference with 1688
+6. Set up alerts for niche spikes
+
 - [FAQ](#frequently-asked-questions)
 - [Related Guides](#related-guides)
 - [Sources](#sources--references)

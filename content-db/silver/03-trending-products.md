@@ -48,6 +48,17 @@ This comprehensive guide covers 20 trending products to sell online in 2026: com
 - [Product Selection Framework](#product-selection-framework)
 - [Sourcing Guide by Category](#sourcing-guide-by-category)
 - [Profit Margin Analysis](#profit-margin-analysis)
+
+### Step-by-Step Guide
+
+1. Check Google Trends for rising queries
+2. Browse TikTok #TikTokMadeMeBuyIt
+3. Check Amazon BSR #1000-10000
+4. Search 1688 trending
+5. Validate margins
+6. Order samples
+7. Test with small ad budget
+
 - [FAQ](#frequently-asked-questions)
 - [Related Guides](#related-guides)
 - [Sources](#sources--references)

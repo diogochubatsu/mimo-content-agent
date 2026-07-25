@@ -238,6 +238,18 @@ Some agents offer value-added services like quality inspection, packaging design
 - [How to Verify Yiwu Supplier](/verify-yiwu-supplier/) — Protect yourself from supplier scams
 
 
+
+### How to Choose a Sourcing Agent
+
+1. Research agent reviews on Google and Trustpilot
+2. Check years in business (minimum 3 years)
+3. Verify they have experience in your product category
+4. Request reference contacts from past clients
+5. Test with a small order ($100-500)
+6. Compare fees (3-8% of order value is standard)
+7. Evaluate communication speed and English proficiency
+
+
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)

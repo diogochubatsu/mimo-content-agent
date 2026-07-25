@@ -1,14 +1,14 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T20:25:51.769Z
+**Generated:** 2026-07-25T20:27:14.112Z
 **Articles audited:** 263
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 256 | 97% |
-| B | 7 | 3% |
+| A | 257 | 98% |
+| B | 6 | 2% |
 | C | 0 | 0% |
 | D | 0 | 0% |
 
@@ -16,14 +16,14 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 61 | 0 | 202 | 23% |
+| Direct Answer in First 30 Lines | 63 | 0 | 200 | 24% |
 | Data Tables | 263 | 0 | 0 | 100% |
 | External Links/Citations | 263 | 0 | 0 | 100% |
 | FAQ Section | 263 | 0 | 0 | 100% |
 | Frontmatter/Schema Ready | 263 | 0 | 0 | 100% |
 | Structured Headings | 263 | 0 | 0 | 100% |
 | Word Count | 164 | 99 | 0 | 62% |
-| Numbered Steps | 245 | 9 | 9 | 93% |
+| Numbered Steps | 247 | 8 | 8 | 94% |
 
 ## Worst Articles (need improvement)
 
@@ -35,10 +35,10 @@
 | zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | 07-low-moq-products-in-yiwu.md | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | 10-yiwu-landed-cost.md | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
-| 15-how-to-compare-yiwu-product-suppliers | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | 01-alibaba-vs-1688.md | 80% | A | Direct Answer in First 30 Lines |
 | 01-fidelizacao-cliente.md | 80% | A | Direct Answer in First 30 Lines |
 | 01-german-customs-rules-regulations-impo | 80% | A | Direct Answer in First 30 Lines |
+| 01-udostepnianie-ofert-zagranicznych-ryn | 80% | A | Direct Answer in First 30 Lines |
 
 ## Recommendations
 

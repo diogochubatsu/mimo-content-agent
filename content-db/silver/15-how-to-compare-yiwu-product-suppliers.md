@@ -231,6 +231,17 @@ The real cost includes packaging volume, inland delivery, warehouse handling, in
 - [Top 10 China Sourcing Agents](/top-10-china-sourcing-agents/) — Find the best sourcing partner
 
 
+
+### Step-by-Step Guide
+
+1. Identify 3-5 suppliers on Yiwu market
+2. Request price quotes for same product
+3. Check MOQ and payment terms
+4. Visit factories if possible
+5. Order samples from top 2
+6. Compare quality and pricing
+7. Negotiate final terms
+
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)

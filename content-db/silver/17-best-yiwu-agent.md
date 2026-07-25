@@ -260,6 +260,16 @@ Clarify exactly what services are included in their commission. Ensure there are
 - [Yiwu Inspection Report Guide](/yiwu-inspection-report/) — What a proper inspection includes
 
 
+
+### Step-by-Step Guide
+
+1. Research agent reviews on Google
+2. Check years in business (3+ minimum)
+3. Verify processing capacity
+4. Request reference contacts
+5. Test with small order first
+6. Compare fees (3-8% typical)
+
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)
