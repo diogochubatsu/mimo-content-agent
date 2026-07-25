@@ -4202,7 +4202,7 @@
       "target": "update-registry-with-new-collections",
       "description": "Update sources-registry.json with actual collection counts from Shopify (20), Jingsourcing (20), Leeline (21), China Gate (1).",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:43:00Z"
     }
   ],

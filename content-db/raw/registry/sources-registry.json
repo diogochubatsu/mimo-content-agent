@@ -67,9 +67,9 @@
       "collection_priority": "critical",
       "content_stats": {
         "total_articles_12m": 200,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 20,
+        "extraction_pct": 10.0,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,
@@ -99,9 +99,9 @@
       "collection_priority": "critical",
       "content_stats": {
         "total_articles_12m": 150,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 21,
+        "extraction_pct": 14.0,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,
@@ -224,9 +224,9 @@
       "collection_priority": "high",
       "content_stats": {
         "total_articles_12m": 200,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 30,
+        "extraction_pct": 15.0,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,
@@ -255,9 +255,9 @@
       "collection_priority": "high",
       "content_stats": {
         "total_articles_12m": 300,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 35,
+        "extraction_pct": 11.7,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,
@@ -606,8 +606,8 @@
       "collection_priority": "critical",
       "content_stats": {
         "total_articles_12m": 200,
-        "extracted_count": 15,
-        "extraction_pct": 7.5,
+        "extracted_count": 30,
+        "extraction_pct": 15.0,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -729,8 +729,8 @@
       "collection_priority": "critical",
       "content_stats": {
         "total_videos_12m": 150,
-        "extracted_count": 9,
-        "extraction_pct": 6,
+        "extracted_count": 10,
+        "extraction_pct": 6.7,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -948,8 +948,8 @@
       "collection_priority": "high",
       "content_stats": {
         "total_articles_12m": 80,
-        "extracted_count": 2,
-        "extraction_pct": 2.5,
+        "extracted_count": 15,
+        "extraction_pct": 18.8,
         "last_extracted": "2026-07-25"
       },
       "freshness": {
@@ -1908,7 +1908,10 @@
       "x-twitter": 3,
       "platform": 8,
       "directory": 1
-    }
+    },
+    "total_extracted": 181,
+    "total_estimated_items": 1187750,
+    "overall_coverage_pct": 0.02
   },
   "date": "2026-07-25",
   "language": "en",
