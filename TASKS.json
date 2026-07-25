@@ -1292,9 +1292,9 @@
       "acceptance": "First Polish article published",
       "id": "T362",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
-      "result": null,
+      "result": "Created import-chin-przewodnik-v2.md — 4223 words in Polish. Legal and tax aspects guide covering: EORI registration, EU customs framework, customs duties by HS code, VAT import calculations and recovery, CE/GPSR/REACH/WEEE certifications, BDO/LUCID environmental compliance, accounting and bookkeeping for imports, customs documentation checklist, 8 common legal mistakes, cost calculator with 3 PLN examples, 12-question FAQ. Differentiates from previous 4 Polish articles by focusing specifically on legal, tax, and compliance aspects.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
