@@ -2,7 +2,9 @@
 
 og:
   title: "How to Verify Suppliers: Complete 6-Step System with Anti-Fraud Protocols"
-  description: "---"
+  description: "keywords: ["verify suppliers:", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/how-to-verify-suppliers-complete-6-step-system-with-anti-fraud-protocols"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/04-how-to-verify-suppliers"
   image: "https://importguide[1688.com](https://www.1688.com)/og/04-how-to-verify-suppliers.png"
@@ -66,6 +68,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

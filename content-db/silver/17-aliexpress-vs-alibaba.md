@@ -2,7 +2,9 @@
 
 og:
   title: "AliExpress vs Alibaba: Complete Comparison Guide for 2026"
-  description: "---"
+  description: "keywords: ["aliexpress alibaba:", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/aliexpress-vs-alibaba-complete-comparison-guide-for-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/17-aliexpress-vs-alibaba"
   image: "https://importguide1688.com/og/17-aliexpress-vs-alibaba.png"

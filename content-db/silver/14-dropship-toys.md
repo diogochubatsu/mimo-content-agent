@@ -2,7 +2,9 @@
 
 og:
   title: "How to Dropship Toys: Bestselling Toys & Complete Business Guide (2026)"
-  description: "---"
+  description: "keywords: ["dropship toys:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin"]
+canonical: "https://importguide1688.com/articles/how-to-dropship-toys-bestselling-toys-complete-business-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/14-dropship-toys"
   image: "https://importguide1688.com/og/14-dropship-toys.png"

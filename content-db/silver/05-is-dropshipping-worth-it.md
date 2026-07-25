@@ -2,7 +2,9 @@
 
 og:
   title: "Is Dropshipping Worth It in 2026? Honest Profit Analysis"
-  description: "---"
+  description: "keywords: ["dropshipping worth", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/is-dropshipping-worth-it-in-2026-honest-profit-analysis"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/05-is-dropshipping-worth-it"
   image: "https://importguide[1688.com](https://www.1688.com)/og/05-is-dropshipping-worth-it.png"

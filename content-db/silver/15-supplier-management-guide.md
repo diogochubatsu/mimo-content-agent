@@ -2,7 +2,9 @@
 
 og:
   title: "Supplier Management Guide: Complete Framework for Supplier Relationships and Performance"
-  description: "---"
+  description: "keywords: ["supplier management", "import", "china", "supplier", "1688", "alibaba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/supplier-management-guide-complete-framework-for-supplier-relationships-and-perf"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/15-supplier-management-guide"
   image: "https://importguide[1688.com](https://www.1688.com)/og/15-supplier-management-guide.png"
@@ -56,6 +58,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/supplie
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

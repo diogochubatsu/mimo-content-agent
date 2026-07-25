@@ -2,7 +2,9 @@
 
 og:
   title: "AliExpress Dropshipping: Complete 2026 Setup & Profit Guide"
-  description: "---"
+  description: "keywords: ["aliexpress dropshipping:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/aliexpress-dropshipping-complete-2026-setup-profit-guide"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/09-aliexpress-dropshipping"
   image: "https://importguide[1688.com](https://www.1688.com)/og/09-aliexpress-dropshipping.png"

@@ -2,7 +2,9 @@
 
 og:
   title: "How to Verify Yiwu Supplier Before Sending Money (Complete Guide)"
-  description: "---"
+  description: "keywords: ["verify yiwu", "import", "china", "supplier", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/how-to-verify-yiwu-supplier-before-sending-money-complete-guide"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/05-verify-yiwu-supplier"
   image: "https://importguide[1688.com](https://www.1688.com)/og/05-verify-yiwu-supplier.png"
@@ -45,6 +47,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

@@ -2,7 +2,9 @@
 
 og:
   title: "Evergreen Products: How to Source and Dropship Year-Round (2026)"
-  description: "---"
+  description: "keywords: ["evergreen products:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/evergreen-products-how-to-source-and-dropship-year-round-2026"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/15-evergreen-products"
   image: "https://importguide[1688.com](https://www.1688.com)/og/15-evergreen-products.png"

@@ -2,7 +2,9 @@
 
 og:
   title: "Hidden Sourcing Costs: 15 Expenses Most Importers Miss (With Calculation Guide)"
-  description: "---"
+  description: "keywords: ["hidden sourcing", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/hidden-sourcing-costs-15-expenses-most-importers-miss-with-calculation-guide"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/11-hidden-sourcing-costs"
   image: "https://importguide[1688.com](https://www.1688.com)/og/11-hidden-sourcing-costs.png"
@@ -57,6 +59,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/hidden-
 
 
 
+
+
+This comprehensive guide covers hidden sourcing costs: 15 expenses most importers miss (with calculation guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers hidden sourcing costs: 15 expenses most importers miss (with calculation guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

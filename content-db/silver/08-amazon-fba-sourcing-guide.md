@@ -2,7 +2,9 @@
 
 og:
   title: "Amazon FBA Sourcing Guide: Complete China Import Strategy with Landed Cost Calculator"
-  description: "---"
+  description: "keywords: ["amazon sourcing", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/amazon-fba-sourcing-guide-complete-china-import-strategy-with-landed-cost-calcul"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/08-amazon-fba-sourcing-guide"
   image: "https://importguide[1688.com](https://www.1688.com)/og/08-amazon-fba-sourcing-guide.png"
@@ -58,6 +60,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/amazon-
 
 
 
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 

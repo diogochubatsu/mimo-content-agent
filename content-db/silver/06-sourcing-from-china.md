@@ -2,7 +2,9 @@
 
 og:
   title: "Sourcing From China: Complete Guide with Cost Analysis and Supplier Strategies"
-  description: "---"
+  description: "keywords: ["sourcing from", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/sourcing-from-china-complete-guide-with-cost-analysis-and-supplier-strategies"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/06-sourcing-from-china"
   image: "https://importguide[1688.com](https://www.1688.com)/og/06-sourcing-from-china.png"
@@ -59,6 +61,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/sourcin
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

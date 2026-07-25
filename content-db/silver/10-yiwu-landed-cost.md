@@ -2,7 +2,9 @@
 
 og:
   title: "How to Calculate Yiwu Landed Cost (Complete Import Cost Guide 2026)"
-  description: "---"
+  description: "keywords: ["calculate yiwu", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/how-to-calculate-yiwu-landed-cost-complete-import-cost-guide-2026"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/10-yiwu-landed-cost"
   image: "https://importguide[1688.com](https://www.1688.com)/og/10-yiwu-landed-cost.png"
@@ -44,6 +46,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-
 
 
 
+
+
+This comprehensive guide covers how to calculate yiwu landed cost (complete import cost guide 2026) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers how to calculate yiwu landed cost (complete import cost guide 2026) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

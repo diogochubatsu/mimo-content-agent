@@ -2,7 +2,9 @@
 
 og:
   title: "How to Start Sourcing Suppliers in China Successfully (Complete 2026 Guide)"
-  description: "---"
+  description: "keywords: ["start sourcing", "import", "china", "supplier", "wholesale", "1688", "alibaba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/how-to-start-sourcing-suppliers-in-china-successfully-complete-2026-guide"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/18-sourcing-suppliers-in-china"
   image: "https://importguide[1688.com](https://www.1688.com)/og/18-sourcing-suppliers-in-china.png"
@@ -46,6 +48,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

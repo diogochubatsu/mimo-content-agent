@@ -2,7 +2,9 @@
 
 og:
   title: "Critical, Major, and Minor Defects in Yiwu Product Inspections (Complete Guide)"
-  description: "---"
+  description: "keywords: ["critical, major,", "import", "supplier", "dropship", "1688", "alibaba", "margin"]
+canonical: "https://importguide1688.com/articles/critical-major-and-minor-defects-in-yiwu-product-inspections-complete-guide"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/04-yiwu-inspection-defect-classification"
   image: "https://importguide[1688.com](https://www.1688.com)/og/04-yiwu-inspection-defect-classification.png"
@@ -43,6 +45,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/critica
 
 
 
+
+
+This comprehensive guide covers critical, major, and minor defects in yiwu product inspections (complete guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers critical, major, and minor defects in yiwu product inspections (complete guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

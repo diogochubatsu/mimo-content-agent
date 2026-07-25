@@ -2,7 +2,9 @@
 
 og:
   title: "Import From China to Canada: Complete Guide with Customs, Duties, and Logistics"
-  description: "---"
+  description: "keywords: ["import from", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/import-from-china-to-canada-complete-guide-with-customs-duties-and-logistics"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/18-import-from-china-to-canada"
   image: "https://importguide1688.com/og/18-import-from-china-to-canada.png"
@@ -57,6 +59,9 @@ canonical: "https://importguide1688.com/articles/import-from-china-to-canada-com
 
 
 
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 

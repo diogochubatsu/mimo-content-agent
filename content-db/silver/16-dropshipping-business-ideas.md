@@ -2,7 +2,9 @@
 
 og:
   title: "100+ Dropshipping Business Ideas: Complete Product Catalog (2026)"
-  description: "---"
+  description: "keywords: ["100+ dropshipping", "china", "supplier", "wholesale", "dropship", "1688", "amazon", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/100-dropshipping-business-ideas-complete-product-catalog-2026"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/16-dropshipping-business-ideas"
   image: "https://importguide[1688.com](https://www.1688.com)/og/16-dropshipping-business-ideas.png"

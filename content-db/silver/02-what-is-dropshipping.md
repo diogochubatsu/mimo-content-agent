@@ -2,7 +2,9 @@
 
 og:
   title: "What Is Dropshipping and How Does It Work? Complete 2026 Guide"
-  description: "---"
+  description: "keywords: ["what dropshipping", "import", "china", "supplier", "wholesale", "dropship", "amazon", "fba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/what-is-dropshipping-and-how-does-it-work-complete-2026-guide"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/02-what-is-dropshipping"
   image: "https://importguide1688.com/og/02-what-is-dropshipping.png"

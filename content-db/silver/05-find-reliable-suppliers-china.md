@@ -2,7 +2,9 @@
 
 og:
   title: "How to Find Reliable Suppliers China: Complete 7-Step Zero-Risk Strategy"
-  description: "---"
+  description: "keywords: ["find reliable", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/how-to-find-reliable-suppliers-china-complete-7-step-zero-risk-strategy"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/05-find-reliable-suppliers-china"
   image: "https://importguide[1688.com](https://www.1688.com)/og/05-find-reliable-suppliers-china.png"
@@ -67,6 +69,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

@@ -2,7 +2,9 @@
 
 og:
   title: "How to Spot Fake Factory Videos From China Suppliers (Complete Guide)"
-  description: "---"
+  description: "keywords: ["spot fake", "import", "china", "supplier", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/how-to-spot-fake-factory-videos-from-china-suppliers-complete-guide"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/12-how-to-spot-fake-factory-videos"
   image: "https://importguide1688.com/og/12-how-to-spot-fake-factory-videos.png"
@@ -45,6 +47,9 @@ canonical: "https://importguide1688.com/articles/how-to-spot-fake-factory-videos
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

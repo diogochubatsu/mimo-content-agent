@@ -2,7 +2,9 @@
 
 og:
   title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)"
-  description: "---"
+  description: "keywords: ["yiwu supplier", "import", "china", "supplier", "wholesale", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit-complete-guide"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/06-yiwu-supplier-verification-checklist"
   image: "https://importguide[1688.com](https://www.1688.com)/og/06-yiwu-supplier-verification-checklist.png"
@@ -45,6 +47,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/yiwu-su
 
 
 
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 

@@ -2,7 +2,9 @@
 
 og:
   title: "How to Import From China: Complete 10-Step Guide with Landed Cost Calculations and Supplier Vetting"
-  description: "---"
+  description: "keywords: ["import from", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/how-to-import-from-china-complete-10-step-guide-with-landed-cost-calculations-an"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/01-how-to-import-from-china"
   image: "https://importguide[1688.com](https://www.1688.com)/og/01-how-to-import-from-china.png"
@@ -72,6 +74,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-
 
 
 
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 

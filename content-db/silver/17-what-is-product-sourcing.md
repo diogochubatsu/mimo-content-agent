@@ -2,7 +2,9 @@
 
 og:
   title: "What is Product Sourcing: Complete Guide to Sourcing Fundamentals and Strategies"
-  description: "---"
+  description: "keywords: ["what product", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/what-is-product-sourcing-complete-guide-to-sourcing-fundamentals-and-strategies"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/17-what-is-product-sourcing"
   image: "https://importguide[1688.com](https://www.1688.com)/og/17-what-is-product-sourcing.png"
@@ -56,6 +58,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/what-is
 
 
 
+
+
+This comprehensive guide covers what is product sourcing: complete guide to sourcing fundamentals and strategies with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers what is product sourcing: complete guide to sourcing fundamentals and strategies with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

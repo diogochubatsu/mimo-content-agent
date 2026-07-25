@@ -2,7 +2,9 @@
 
 og:
   title: "Yiwu MOQ by Product Category: What Minimum Order Quantities Should Buyers Expect? (2026 Guide)"
-  description: "---"
+  description: "keywords: ["yiwu product", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba", "profit"]
+canonical: "https://importguide1688.com/articles/yiwu-moq-by-product-category-what-minimum-order-quantities-should-buyers-expect-"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/11-yiwu-moq-by-product-category"
   image: "https://importguide[1688.com](https://www.1688.com)/og/11-yiwu-moq-by-product-category.png"
@@ -46,6 +48,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/yiwu-mo
 
 
 
+
+
+This comprehensive guide covers yiwu moq by product category: what minimum order quantities should buyers expect? (2026 guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers yiwu moq by product category: what minimum order quantities should buyers expect? (2026 guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

@@ -2,7 +2,9 @@
 
 og:
   title: "Types of Product Sourcing: Complete Guide to Sourcing Models and Strategies"
-  description: "---"
+  description: "keywords: ["types product", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/types-of-product-sourcing-complete-guide-to-sourcing-models-and-strategies"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/10-types-of-product-sourcing"
   image: "https://importguide[1688.com](https://www.1688.com)/og/10-types-of-product-sourcing.png"
@@ -58,6 +60,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/types-o
 
 
 
+
+
+This comprehensive guide covers types of product sourcing: complete guide to sourcing models and strategies with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers types of product sourcing: complete guide to sourcing models and strategies with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

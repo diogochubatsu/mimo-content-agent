@@ -2,7 +2,9 @@
 
 og:
   title: "Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization"
-  description: "---"
+  description: "keywords: ["shipping from", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/shipping-from-china-complete-guide-to-freight-logistics-and-cost-optimization"
+---"
   type: "article"
   url: "https://importguide[1688.com](https://www.1688.com)/articles/07-shipping-from-china"
   image: "https://importguide[1688.com](https://www.1688.com)/og/07-shipping-from-china.png"
@@ -57,6 +59,9 @@ canonical: "https://importguide[1688.com](https://www.1688.com)/articles/shippin
 
 
 
+
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
 Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
