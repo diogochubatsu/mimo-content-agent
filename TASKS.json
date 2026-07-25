@@ -3640,6 +3640,46 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T16:10:00Z"
+    },
+    {
+      "id": "T640",
+      "to": "gcp",
+      "type": "review",
+      "target": "check-agent-picks-up-bronze-tasks",
+      "description": "Monitor: Did PC-1 and PC-2 pick up T610-T627 (Bronze collection tasks)? Check git log for new commits. If not, investigate why.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:15:00Z"
+    },
+    {
+      "id": "T641",
+      "to": "gcp",
+      "type": "implement",
+      "target": "upgrade-registry-with-sebrae-actual-count",
+      "description": "Fix Sebrae total \u2014 we already have 10 articles collected but registry says 0 extracted_count. Update with actual data from blogs/sebrae-pt/.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T16:15:00Z"
+    },
+    {
+      "id": "T642",
+      "to": "gcp",
+      "type": "research",
+      "target": "find-10-more-youtube-channels",
+      "description": "Research: Find 10 more YouTube channels across PT/EN/ES for import/dropshipping/product-tips. Add to registry. Focus on channels with 10k-500k subscribers (sweet spot).",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:15:00Z"
+    },
+    {
+      "id": "T643",
+      "to": "gcp",
+      "type": "review",
+      "target": "self-assessment-gcp-work",
+      "description": "Self-assessment: What did GCP accomplish this session? What was wasted effort? What should I do differently? Write honest assessment.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T16:15:00Z"
     }
   ],
   "log": [
