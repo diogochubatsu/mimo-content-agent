@@ -1,0 +1,1570 @@
+{
+  "total": 163,
+  "byLanguage": {
+    "zh": 17,
+    "en": 106,
+    "de": 5,
+    "es": 5,
+    "EN": 3,
+    "ES": 3,
+    "PT": 3,
+    "DE": 3,
+    "JA": 3,
+    "ja": 5,
+    "ko": 5,
+    "pt": 5
+  },
+  "byCategory": {
+    "1688": 1,
+    "sourcing-guide": 1,
+    "tutorial": 2,
+    "supplier-verification": 1,
+    "negotiation": 1,
+    "payment": 1,
+    "Electronics": 4,
+    "Kitchen & Dining": 5,
+    "Home & Kitchen": 8,
+    "Health & Household": 8,
+    "Clothing, Shoes & Jewelry": 3,
+    "Toys & Games": 2,
+    "report": 1,
+    "taxes": 5,
+    "trade": 3,
+    "home-decor": 1,
+    "electronics": 1,
+    "packaging": 1,
+    "business_model": 1,
+    "ppc_strategy": 2,
+    "success_story": 2,
+    "cost_analysis": 1,
+    "beginner": 1,
+    "pain_point": 1,
+    "discussion": 2,
+    "story": 1,
+    "product_finds": 10,
+    "supplier_tips": 11,
+    "success_stories": 10,
+    "mistakes_to_avoid": 9,
+    "trending-products": 2,
+    "haul": 1,
+    "product-finds": 1,
+    "tips": 1,
+    "trend": 3,
+    "trade_policy": 2,
+    "manufacturing": 3,
+    "investment": 1,
+    "product_trends": 2,
+    "technology": 2,
+    "industry_trends": 1,
+    "ecommerce": 1,
+    "import_grundlagen": 1,
+    "qualitaetskontrolle": 1,
+    "china_erfahrungen": 1,
+    "amazon_fba": 1,
+    "import_strategien": 1,
+    "comparison": 1,
+    "product-research": 1,
+    "supplier": 1,
+    "logistics": 1,
+    "importacion-china": 1,
+    "dropshipping": 3,
+    "amazon-fba": 1,
+    "productos-importacion": 1,
+    "negocios-online": 1,
+    "importing-from-china": 15,
+    "china_sourcing_tutorial": 1,
+    "amazon_oem_sourcing": 1,
+    "alibaba_1688_sourcing": 1,
+    "shopify_dropshipping": 1,
+    "alibaba_sourcing_best_practices": 1,
+    "중국수입": 2,
+    "드롭쉬핑": 2,
+    "제품트렌드": 1,
+    "importação": 2
+  },
+  "bySource": {
+    "1688-guides": 5,
+    "trending-products-2026": 30,
+    "collection-report": 1,
+    "trade-news-2026": 8,
+    "trends-2026": 3,
+    "extra-reddit-posts": 8,
+    "trending_posts_2026-07-24": 3,
+    "trending-videos-2": 20,
+    "trending-videos": 20,
+    "tiktok-trending": 5,
+    "google-trends": 3,
+    "trends": 12,
+    "videos": 40,
+    "youtube-dropshipping": 5
+  },
+  "products": [
+    {
+      "title": "1688买家采购指南",
+      "url": "https://www.1688.com/zt/buyerGuide",
+      "source": "1688-guides",
+      "language": "zh",
+      "category": "sourcing-guide",
+      "date": "2026-07-01",
+      "path": "content-db/raw/1688-guides.json"
+    },
+    {
+      "title": "1688新手入门教程",
+      "url": "https://www.1688.com/zt/beginner",
+      "source": "1688-guides",
+      "language": "zh",
+      "category": "tutorial",
+      "date": "2026-06-15",
+      "path": "content-db/raw/1688-guides.json"
+    },
+    {
+      "title": "1688供应商筛选技巧",
+      "url": "https://www.1688.com/zt/supplier",
+      "source": "1688-guides",
+      "language": "zh",
+      "category": "supplier-verification",
+      "date": "2026-07-10",
+      "path": "content-db/raw/1688-guides.json"
+    },
+    {
+      "title": "1688采购谈判策略",
+      "url": "https://www.1688.com/zt/negotiation",
+      "source": "1688-guides",
+      "language": "zh",
+      "category": "negotiation",
+      "date": "2026-05-20",
+      "path": "content-db/raw/1688-guides.json"
+    },
+    {
+      "title": "1688付款方式详解",
+      "url": "https://www.1688.com/zt/payment",
+      "source": "1688-guides",
+      "language": "zh",
+      "category": "payment",
+      "date": "2026-06-01",
+      "path": "content-db/raw/1688-guides.json"
+    },
+    {
+      "title": "Apple AirPods Pro 3 Wireless Earbuds",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Electronics",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Apple AirPods 4 Wireless Earbuds",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Electronics",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Apple AirTag 2nd Generation Tracker",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Electronics",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Amazon Fire TV Stick 4K Select",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Electronics",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Owala FreeSip Insulated Water Bottle",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Kitchen & Dining",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Stanley Quencher H2.0 Tumbler 30oz",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Kitchen & Dining",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "HydroJug Traveler 40oz Insulated Tumbler",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Kitchen & Dining",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Etekcity Digital Food Kitchen Scale",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Kitchen & Dining",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Alpha Grillers Instant Read Meat Thermometer",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Kitchen & Dining",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Queen Size 4 Piece Sheet Set (Hotel Luxury)",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Beckham Hotel Collection Bed Pillows",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "DREO Tower Fan for Bedroom",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Zulay Kitchen Milk Frother Handheld",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Terro Ant Killer Bait Stations",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Zevo Flying Insect Trap + Refills",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "LMNT Zero Sugar Electrolytes Drink Mix",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Liquid I.V. Hydration Electrolytes",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Pure Encapsulations Magnesium Glycinate",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Nutricost Creatine Monohydrate 500G",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Boka Toothpaste Nano Hydroxyapatite",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Hanes Mens Boxer Briefs Cool & Breathable",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Clothing, Shoes & Jewelry",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "COOFANDY Mens Linen Shirts Short Sleeve",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Clothing, Shoes & Jewelry",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "ATHMILE Water Shoes Quick-Dry Aqua Socks",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Clothing, Shoes & Jewelry",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "SkaterTrainer Wheels for Skateboard",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Toys & Games",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Joking Hazard Party Card Game",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Toys & Games",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Dawn Ultra Dish Soap Refill Jug",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Affresh Washing Machine Cleaner",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Optimum Nutrition Gold Standard Whey Protein",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "PlayHot Portable Handheld Turbo Fan",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Home & Kitchen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "DUDE Wipes Flushable Wet Wipes",
+      "url": "https://amazon.com",
+      "source": "trending-products-2026",
+      "language": "en",
+      "category": "Health & Household",
+      "date": "2026-07-24",
+      "path": "content-db/raw/amazon/trending-products-2026.json"
+    },
+    {
+      "title": "Bronze collection report - 19 sources, 148+ records",
+      "url": "internal://collection-report",
+      "source": "collection-report",
+      "language": "en",
+      "category": "report",
+      "date": "2026-07-25",
+      "path": "content-db/raw/collection-report.json"
+    },
+    {
+      "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+      "url": "https://www.theguardian.com/business/2026/jun/29/eu-introduces-3-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "taxes",
+      "date": "2026-06-29",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "Trump tariff tracker - July 2026",
+      "url": "https://www.bakerbotts.com/en/insights/alerts/2026/07/trump-tariff-tracker-july-2026",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "taxes",
+      "date": "2026-07-21",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
+      "url": "https://www.theguardian.com/business/2026/jul/14/us-refunds-81bn-in-trump-tariffs-after-supreme-court-ruled-them-illegal",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "taxes",
+      "date": "2026-07-14",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "UK accelerates plan to end low-value parcel tariff loophole",
+      "url": "https://www.reuters.com/world/uk/uk-accelerates-plan-end-low-value-parcel-tariff-loophole-2026-06-23/",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "taxes",
+      "date": "2026-06-23",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "China's monthly car exports top 1m for first time as overall trade soars",
+      "url": "https://www.theguardian.com/business/2026/jul/14/chinas-monthly-car-exports-top-1m-for-first-time-as-overall-trade-soars",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "trade",
+      "date": "2026-07-14",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports",
+      "url": "https://www.reuters.com/world/us/trump-xi-weigh-tariff-cuts-30-billion-imports-managed-trade-push-2026-05-13/",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "trade",
+      "date": "2026-05-13",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "EU slaps €3 duty fee on SHEIN, Temu and AliExpress imports",
+      "url": "https://www.euronews.com/business/2026/06/30/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "taxes",
+      "date": "2026-06-30",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "Brazil-China trade relations 2026",
+      "url": "https://www.china-briefing.com/news/china-brazil-trade-relations-2026/",
+      "source": "trade-news-2026",
+      "language": "en",
+      "category": "trade",
+      "date": "2026-06-01",
+      "path": "content-db/raw/news/trade-news-2026.json"
+    },
+    {
+      "title": "Trending: Minimalist home decor wholesale",
+      "url": "https://pinterest.com/trends/home-decor",
+      "source": "trends-2026",
+      "language": "en",
+      "category": "home-decor",
+      "date": "2026-07-24",
+      "path": "content-db/raw/pinterest/trends-2026.json"
+    },
+    {
+      "title": "Trending: Tech accessories bulk buy",
+      "url": "https://pinterest.com/trends/tech-accessories",
+      "source": "trends-2026",
+      "language": "en",
+      "category": "electronics",
+      "date": "2026-07-23",
+      "path": "content-db/raw/pinterest/trends-2026.json"
+    },
+    {
+      "title": "Trending: Sustainable packaging products",
+      "url": "https://pinterest.com/trends/sustainable",
+      "source": "trends-2026",
+      "language": "en",
+      "category": "packaging",
+      "date": "2026-07-22",
+      "path": "content-db/raw/pinterest/trends-2026.json"
+    },
+    {
+      "title": "I ran my $500K Amazon wholesale business out of a storage unit",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "business_model",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "$80k to $142k/mo - Claude Automations",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "ppc_strategy",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "$350k/year - 200% YoY Growth - Claude Automations",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "ppc_strategy",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "Just 14 Months After Launch, Crossed $2.7M in Revenue With just 7% TACOS",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "success_story",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "How does a $4 product become a $19.99 Amazon FBA sale?",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "cost_analysis",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "1 Week Into Amazon FBA",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "beginner",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "The downside of FBA... going 100% FBM now",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "pain_point",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "Hit £200k in Amazon FBA revenue in the UK - Handmade category",
+      "url": "https://reddit.com",
+      "source": "extra-reddit-posts",
+      "language": "en",
+      "category": "success_story",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/extra-reddit-posts.json"
+    },
+    {
+      "title": "r/FulfillmentByAmazon: Best 1688 finds for Q4",
+      "url": "https://reddit.com/r/FulfillmentByAmazon/1688q4",
+      "source": "trending_posts_2026-07-24",
+      "language": "en",
+      "category": "discussion",
+      "date": "2026-07-24",
+      "path": "content-db/raw/reddit/trending_posts_2026-07-24.json"
+    },
+    {
+      "title": "r/Dropship: Is 1688 still worth it in 2026?",
+      "url": "https://reddit.com/r/Dropship/1688worth",
+      "source": "trending_posts_2026-07-24",
+      "language": "en",
+      "category": "discussion",
+      "date": "2026-07-23",
+      "path": "content-db/raw/reddit/trending_posts_2026-07-24.json"
+    },
+    {
+      "title": "r/Entrepreneur: My China sourcing story",
+      "url": "https://reddit.com/r/Entrepreneur/chinasourcing",
+      "source": "trending_posts_2026-07-24",
+      "language": "en",
+      "category": "story",
+      "date": "2026-07-22",
+      "path": "content-db/raw/reddit/trending_posts_2026-07-24.json"
+    },
+    {
+      "title": "These Products Are PRINTING Money on TikTok Shop",
+      "url": "https://www.tiktok.com/@ecommoney/video/021",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "I Found a Product Nobody Is Selling Yet",
+      "url": "https://www.tiktok.com/@dropshiphunter/video/022",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Best TikTok Products Under $5 Cost to Ship",
+      "url": "https://www.tiktok.com/@cheapshippro/video/023",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Hidden Gems on Temu You Can Resell",
+      "url": "https://www.tiktok.com/@temudeals/video/024",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Products I'm Selling for $30 That Cost Me $2",
+      "url": "https://www.tiktok.com/@marginking/video/025",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "How I Cut My Shipping Times in HALF",
+      "url": "https://www.tiktok.com/@fastshipdrop/video/026",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Vetting Chinese Suppliers: My 5-Point Checklist",
+      "url": "https://www.tiktok.com/@suppliercheck/video/027",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "The REAL Cost of Using a Sourcing Agent",
+      "url": "https://www.tiktok.com/@agenttruth/video/028",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Private Agent vs Public 1688 Sellers",
+      "url": "https://www.tiktok.com/@privateagent/video/029",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "AliExpress vs 1688 vs Temu: Price Showdown",
+      "url": "https://www.tiktok.com/@pricecompare/video/030",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "I Went From $0 to $20K/Month in 3 Months",
+      "url": "https://www.tiktok.com/@fastgrowth/video/031",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "How I Built a Brand From a TikTok Trend",
+      "url": "https://www.tiktok.com/@brandbuilder/video/032",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "My First $10K Month Was Pure Luck",
+      "url": "https://www.tiktok.com/@honestecom/video/033",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "From Side Hustle to Full-Time: My Dropship Story",
+      "url": "https://www.tiktok.com/@quits9to5/video/034",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "I Launched a Store in 24 Hours and Made Sales",
+      "url": "https://www.tiktok.com/@speeddropship/video/035",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "The #1 Mistake Killing Your Profit Margins",
+      "url": "https://www.tiktok.com/@ecomcoach/video/036",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Why Most Dropshippers FAIL in the First Month",
+      "url": "https://www.tiktok.com/@ecomfail/video/037",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "Stop Copying Other People's Ads",
+      "url": "https://www.tiktok.com/@adsmarter/video/038",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "This Shipping Mistake Cost Me $2K",
+      "url": "https://www.tiktok.com/@shippingfail/video/039",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "3 Reasons Your Dropshipping Store Isn't Converting",
+      "url": "https://www.tiktok.com/@conversionfix/video/040",
+      "source": "trending-videos-2",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos-2.json"
+    },
+    {
+      "title": "I Found the CHEAPEST iPhone Cases on 1688",
+      "url": "https://www.tiktok.com/@dropshipmike/video/001",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "My $0 to $10K/Month Dropshipping Journey",
+      "url": "https://www.tiktok.com/@ecommercechris/video/002",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "5 Products to NEVER Dropship from China",
+      "url": "https://www.tiktok.com/@sarahdances/video/003",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "1688 vs AliExpress: Which is BETTER?",
+      "url": "https://www.tiktok.com/@chinaguru/video/004",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "Unboxing $500 of TikTok Viral Products",
+      "url": "https://www.tiktok.com/@dropshipdave/video/005",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "How I Found My Winning Product in 24 Hours",
+      "url": "https://www.tiktok.com/@ecomlauren/video/006",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "The SCAM Most 1688 Sellers Won't Tell You",
+      "url": "https://www.tiktok.com/@chinaagentjoe/video/007",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "Dropshipping Supplier Red Flags to Watch",
+      "url": "https://www.tiktok.com/@ecomjessica/video/008",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "I Made $5K in One Week Dropshipping",
+      "url": "https://www.tiktok.com/@nickimogul/video/009",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "TikTok Shop vs Traditional Dropshipping",
+      "url": "https://www.tiktok.com/@ecomalex/video/010",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "5 Products Going VIRAL Right Now on TikTok",
+      "url": "https://www.tiktok.com/@trendingproducts/video/011",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "How to Negotiate with Chinese Suppliers",
+      "url": "https://www.tiktok.com/@chinamanufacturingmike/video/012",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "My BIGGEST Dropshipping Mistake (Lost $3K)",
+      "url": "https://www.tiktok.com/@dropshipfail/video/013",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "1688 Product Research HACK Nobody Talks About",
+      "url": "https://www.tiktok.com/@chinasecrets/video/014",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "What $100 Gets You on 1688",
+      "url": "https://www.tiktok.com/@budgetdrops/video/015",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "Dropshipping in 2024: Is It Too Late?",
+      "url": "https://www.tiktok.com/@ecomreality/video/016",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "Chinese Supplier lied to me... Here's Proof",
+      "url": "https://www.tiktok.com/@dropshipdrama/video/017",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "mistakes_to_avoid",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "Top 10 Dropshipping Niches from China",
+      "url": "https://www.tiktok.com/@nichehunter/video/018",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "product_finds",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "How to Use a Sourcing Agent (Step by Step)",
+      "url": "https://www.tiktok.com/@agentguide/video/019",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "supplier_tips",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "From $0 to $50K/Month: My Exact Process",
+      "url": "https://www.tiktok.com/@sixfiguresecom/video/020",
+      "source": "trending-videos",
+      "language": "en",
+      "category": "success_stories",
+      "date": "",
+      "path": "content-db/raw/tiktok/trending-videos.json"
+    },
+    {
+      "title": "#productfinds trending - LED strip lights bulk",
+      "url": "https://www.tiktok.com/@productfinds",
+      "source": "tiktok-trending",
+      "language": "en",
+      "category": "trending-products",
+      "date": "2026-07-24",
+      "path": "content-db/raw/tiktok-trending.json"
+    },
+    {
+      "title": "#1688haul viral video - phone accessories",
+      "url": "https://www.tiktok.com/@1688haul",
+      "source": "tiktok-trending",
+      "language": "en",
+      "category": "haul",
+      "date": "2026-07-23",
+      "path": "content-db/raw/tiktok-trending.json"
+    },
+    {
+      "title": "#alibabafinds - home decor wholesale",
+      "url": "https://www.tiktok.com/@alibabafinds",
+      "source": "tiktok-trending",
+      "language": "en",
+      "category": "product-finds",
+      "date": "2026-07-22",
+      "path": "content-db/raw/tiktok-trending.json"
+    },
+    {
+      "title": "#dropshipping trending - kitchen gadgets",
+      "url": "https://www.tiktok.com/@dropshipproducts",
+      "source": "tiktok-trending",
+      "language": "en",
+      "category": "trending-products",
+      "date": "2026-07-24",
+      "path": "content-db/raw/tiktok-trending.json"
+    },
+    {
+      "title": "#chinaimport tips - packaging materials",
+      "url": "https://www.tiktok.com/@chinaimporttips",
+      "source": "tiktok-trending",
+      "language": "en",
+      "category": "tips",
+      "date": "2026-07-21",
+      "path": "content-db/raw/tiktok-trending.json"
+    },
+    {
+      "title": "Rising: '1688 agent' - 180% growth",
+      "url": "https://trends.google.com/trends/1688agent",
+      "source": "google-trends",
+      "language": "en",
+      "category": "trend",
+      "date": "2026-07-25",
+      "path": "content-db/raw/trends/google-trends.json"
+    },
+    {
+      "title": "Rising: 'buy from china direct' - 120% growth",
+      "url": "https://trends.google.com/trends/buyfromchina",
+      "source": "google-trends",
+      "language": "en",
+      "category": "trend",
+      "date": "2026-07-25",
+      "path": "content-db/raw/trends/google-trends.json"
+    },
+    {
+      "title": "Rising: 'china wholesale supplier' - 90% growth",
+      "url": "https://trends.google.com/trends/wholesalesupplier",
+      "source": "google-trends",
+      "language": "en",
+      "category": "trend",
+      "date": "2026-07-25",
+      "path": "content-db/raw/trends/google-trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "trade_policy",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "manufacturing",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "manufacturing",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "investment",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "trade_policy",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "product_trends",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "technology",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "technology",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "industry_trends",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "product_trends",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "ecommerce",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Weibo Trend",
+      "url": "https://weibo.com",
+      "source": "trends",
+      "language": "zh",
+      "category": "manufacturing",
+      "date": "2026-07-24",
+      "path": "content-db/raw/weibo/trends.json"
+    },
+    {
+      "title": "Wie importiert man Produkte aus China?",
+      "url": "https://www.youtube.com/watch?v=8XDvyuF9aZE",
+      "source": "videos",
+      "language": "de",
+      "category": "import_grundlagen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-de/videos.json"
+    },
+    {
+      "title": "Produkte aus China importieren? So checkst du die Qualität",
+      "url": "https://www.youtube.com/watch?v=FTaWWTKaMvc",
+      "source": "videos",
+      "language": "de",
+      "category": "qualitaetskontrolle",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-de/videos.json"
+    },
+    {
+      "title": "Import aus China? 😉",
+      "url": "https://www.youtube.com/watch?v=KM--RfKKUKQ",
+      "source": "videos",
+      "language": "de",
+      "category": "china_erfahrungen",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-de/videos.json"
+    },
+    {
+      "title": "Amazon FBA Anleitung 2026 | Verkaufen auf Amazon in 20 Minuten",
+      "url": "https://www.youtube.com/watch?v=kmclTRLrAoA",
+      "source": "videos",
+      "language": "de",
+      "category": "amazon_fba",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-de/videos.json"
+    },
+    {
+      "title": "Sicher und günstig Produkte aus China importieren",
+      "url": "https://www.youtube.com/watch?v=vdh6tbdIB0Y",
+      "source": "videos",
+      "language": "de",
+      "category": "import_strategien",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-de/videos.json"
+    },
+    {
+      "title": "How to Start Dropshipping in 2026 - Complete Guide",
+      "url": "https://youtube.com/watch?v=dropship2026",
+      "source": "youtube-dropshipping",
+      "language": "en",
+      "category": "tutorial",
+      "date": "2026-07-20",
+      "path": "content-db/raw/youtube-dropshipping.json"
+    },
+    {
+      "title": "1688 vs Alibaba - Which is Better for Dropshipping?",
+      "url": "https://youtube.com/watch?v=1688vsalibaba",
+      "source": "youtube-dropshipping",
+      "language": "en",
+      "category": "comparison",
+      "date": "2026-07-18",
+      "path": "content-db/raw/youtube-dropshipping.json"
+    },
+    {
+      "title": "Best Products to Dropship from China 2026",
+      "url": "https://youtube.com/watch?v=bestproducts26",
+      "source": "youtube-dropshipping",
+      "language": "en",
+      "category": "product-research",
+      "date": "2026-07-22",
+      "path": "content-db/raw/youtube-dropshipping.json"
+    },
+    {
+      "title": "How to Find Reliable Suppliers on 1688",
+      "url": "https://youtube.com/watch?v=reliablesuppliers",
+      "source": "youtube-dropshipping",
+      "language": "en",
+      "category": "supplier",
+      "date": "2026-07-15",
+      "path": "content-db/raw/youtube-dropshipping.json"
+    },
+    {
+      "title": "Shipping from China: Complete Cost Breakdown",
+      "url": "https://youtube.com/watch?v=shippingcosts",
+      "source": "youtube-dropshipping",
+      "language": "en",
+      "category": "logistics",
+      "date": "2026-07-19",
+      "path": "content-db/raw/youtube-dropshipping.json"
+    },
+    {
+      "title": "Cómo Importar de China 2025 - Guía Completa para Principiantes",
+      "url": "https://www.youtube.com/watch?v=Ejemplo1A",
+      "source": "videos",
+      "language": "es",
+      "category": "importacion-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-es/videos.json"
+    },
+    {
+      "title": "Dropshipping desde China en 2025 - Todo lo que Necesitas Saber",
+      "url": "https://www.youtube.com/watch?v=Ejemplo2A",
+      "source": "videos",
+      "language": "es",
+      "category": "dropshipping",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-es/videos.json"
+    },
+    {
+      "title": "Negocios Online desde China - Importar y Vender en Amazon FBA",
+      "url": "https://www.youtube.com/watch?v=Ejemplo3A",
+      "source": "videos",
+      "language": "es",
+      "category": "amazon-fba",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-es/videos.json"
+    },
+    {
+      "title": "10 Productos para Importar de China en 2025 con Alta Demanda",
+      "url": "https://www.youtube.com/watch?v=Ejemplo4A",
+      "source": "videos",
+      "language": "es",
+      "category": "productos-importacion",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-es/videos.json"
+    },
+    {
+      "title": "Negocios Online Rentables 2025 - De China a Tus Clientes",
+      "url": "https://www.youtube.com/watch?v=Ejemplo5A",
+      "source": "videos",
+      "language": "es",
+      "category": "negocios-online",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-es/videos.json"
+    },
+    {
+      "title": "Complete Guide to Importing from China for Beginners 2024",
+      "url": "https://www.youtube.com/watch?v=example_en_001",
+      "source": "videos",
+      "language": "EN",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "How to Find Reliable Suppliers on Alibaba & AliExpress",
+      "url": "https://www.youtube.com/watch?v=example_en_002",
+      "source": "videos",
+      "language": "EN",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "China Import Business: Shipping Methods Compared",
+      "url": "https://www.youtube.com/watch?v=example_en_003",
+      "source": "videos",
+      "language": "EN",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Como Importar de China Guia Completo 2024",
+      "url": "https://www.youtube.com/watch?v=example_es_001",
+      "source": "videos",
+      "language": "ES",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Errores Comunes al Importar de China y Cómo Evitarlos",
+      "url": "https://www.youtube.com/watch?v=example_es_002",
+      "source": "videos",
+      "language": "ES",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Importar de China para Principiantes: Paso a Paso",
+      "url": "https://www.youtube.com/watch?v=example_es_003",
+      "source": "videos",
+      "language": "ES",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Como Importar da China Guia Completo para Iniciantes",
+      "url": "https://www.youtube.com/watch?v=example_pt_001",
+      "source": "videos",
+      "language": "PT",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Erros ao Importar da China: O Que Não Fazer",
+      "url": "https://www.youtube.com/watch?v=example_pt_002",
+      "source": "videos",
+      "language": "PT",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Importação da China: Tipos de Frete Explicados",
+      "url": "https://www.youtube.com/watch?v=example_pt_003",
+      "source": "videos",
+      "language": "PT",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Aus China Importieren: Der Komplette Leitfaden 2024",
+      "url": "https://www.youtube.com/watch?v=example_de_001",
+      "source": "videos",
+      "language": "DE",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "China Import Fehler und wie man Sie Vermeidet",
+      "url": "https://www.youtube.com/watch?v=example_de_002",
+      "source": "videos",
+      "language": "DE",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "Versandarten aus China im Vergleich",
+      "url": "https://www.youtube.com/watch?v=example_de_003",
+      "source": "videos",
+      "language": "DE",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "中国から輸入する方法 完全ガイド 2024",
+      "url": "https://www.youtube.com/watch?v=example_ja_001",
+      "source": "videos",
+      "language": "JA",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "中国輸入で失敗しないポイント",
+      "url": "https://www.youtube.com/watch?v=example_ja_002",
+      "source": "videos",
+      "language": "JA",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "中国輸入：輸送方法の比較と選び方",
+      "url": "https://www.youtube.com/watch?v=example_ja_003",
+      "source": "videos",
+      "language": "JA",
+      "category": "importing-from-china",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-intl/videos.json"
+    },
+    {
+      "title": "【2026年決定版】中国輸入の始め方！資金5万から月収100万稼ぐロードマップを徹底解説",
+      "url": "https://www.youtube.com/watch?v=ZLeIhJxKMWA",
+      "source": "videos",
+      "language": "ja",
+      "category": "china_sourcing_tutorial",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ja/videos.json"
+    },
+    {
+      "title": "【完全解説】Amazon 中国輸入 OEM 自社ブランド販売の始め方2026年版",
+      "url": "https://www.youtube.com/watch?v=OPmv-ryV_XU",
+      "source": "videos",
+      "language": "ja",
+      "category": "amazon_oem_sourcing",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ja/videos.json"
+    },
+    {
+      "title": "【1688仕入れ】日本企業のための1688活用術：中国仕入れの進め方｜1688で工場直仕入れを始める手順・使い方・注意点をアリババ担当者が解説",
+      "url": "https://www.youtube.com/watch?v=HY84YOnhrfw",
+      "source": "videos",
+      "language": "ja",
+      "category": "alibaba_1688_sourcing",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ja/videos.json"
+    },
+    {
+      "title": "中国輸入で月に10万円を最短で稼ぐ方法【Shopify初心者】",
+      "url": "https://www.youtube.com/watch?v=Iubo3klXnVk",
+      "source": "videos",
+      "language": "ja",
+      "category": "shopify_dropshipping",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ja/videos.json"
+    },
+    {
+      "title": "【中国輸入】アリババ(1688)で失敗しないための仕入れ方法最新版！実際の画面で解説！",
+      "url": "https://www.youtube.com/watch?v=mZ3436h1Nnc",
+      "source": "videos",
+      "language": "ja",
+      "category": "alibaba_sourcing_best_practices",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ja/videos.json"
+    },
+    {
+      "title": "2026년 중국 수입 사업 시작하기 - 알리바바 도매 완벽 가이드",
+      "url": "https://www.youtube.com/watch?v=example1",
+      "source": "videos",
+      "language": "ko",
+      "category": "중국수입",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ko/videos.json"
+    },
+    {
+      "title": "드롭쉬핑 한국에서 성공하는 법 - 중국 제품 소싱 팁",
+      "url": "https://www.youtube.com/watch?v=example2",
+      "source": "videos",
+      "language": "ko",
+      "category": "드롭쉬핑",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ko/videos.json"
+    },
+    {
+      "title": "알리바바 도매 vs 1688 비교 - 한국 바이어가 알아야 할 차이점",
+      "url": "https://www.youtube.com/watch?v=example3",
+      "source": "videos",
+      "language": "ko",
+      "category": "중국수입",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ko/videos.json"
+    },
+    {
+      "title": "2026년 중국 직구 인기 품목 TOP 10 - 수익성 높은 제품 추천",
+      "url": "https://www.youtube.com/watch?v=example4",
+      "source": "videos",
+      "language": "ko",
+      "category": "제품트렌드",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ko/videos.json"
+    },
+    {
+      "title": "드롭쉬핑 실패 후기 - 중국 제품으로 다시 시작하는 법",
+      "url": "https://www.youtube.com/watch?v=example5",
+      "source": "videos",
+      "language": "ko",
+      "category": "드롭쉬핑",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-ko/videos.json"
+    },
+    {
+      "title": "Como Importar da China em 2026 - Guia Completo para Iniciantes",
+      "url": "https://www.youtube.com/watch?v=exemple1",
+      "source": "videos",
+      "language": "pt",
+      "category": "importação",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-pt/videos.json"
+    },
+    {
+      "title": "Dropshipping Brasil 2026 - Como Começar do Zero",
+      "url": "https://www.youtube.com/watch?v=exemple2",
+      "source": "videos",
+      "language": "pt",
+      "category": "dropshipping",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-pt/videos.json"
+    },
+    {
+      "title": "1688 Tutorial Completo - Como Comprar Direto da Fábrica",
+      "url": "https://www.youtube.com/watch?v=exemple3",
+      "source": "videos",
+      "language": "pt",
+      "category": "1688",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-pt/videos.json"
+    },
+    {
+      "title": "Lucro com Importação - Produtos Mais Lucrativos 2026",
+      "url": "https://www.youtube.com/watch?v=exemple4",
+      "source": "videos",
+      "language": "pt",
+      "category": "importação",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-pt/videos.json"
+    },
+    {
+      "title": "Dropshipping com Fornecedores Brasileiros - Alternativa à China",
+      "url": "https://www.youtube.com/watch?v=exemple5",
+      "source": "videos",
+      "language": "pt",
+      "category": "dropshipping",
+      "date": "2026-07-24",
+      "path": "content-db/raw/youtube-pt/videos.json"
+    }
+  ]
+}
