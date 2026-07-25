@@ -534,33 +534,218 @@
         "has_internal_links": false,
         "has_external_links": false
       }
+    },
+    {
+      "source_id": "youtube-1688tutorial-zh",
+      "name": "1688 Tutorial Channels",
+      "type": "youtube",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://youtube.com/results?search_query=1688%E6%95%99%E7%A8%8B",
+      "authority_score": "B",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 500,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-alibaba-zh",
+      "name": "Alibaba.com Guides",
+      "type": "blog",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "alibaba-1688",
+        "import-from-china"
+      ],
+      "url": "https://seller.alibaba.com",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 300,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-ktrading-ko",
+      "name": "K-Trade Channel",
+      "type": "youtube",
+      "language": "ko",
+      "country": "KR",
+      "topics": [
+        "import-from-china",
+        "make-money-online"
+      ],
+      "url": "https://youtube.com/results?search_query=%EC%A4%91%EA%B5%AD+%EC%9D%B8%EB%8F%84",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_videos_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-japanimport-ja",
+      "name": "Japan Import Channel",
+      "type": "youtube",
+      "language": "ja",
+      "country": "JP",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://youtube.com/results?search_query=%E4%B8%AD%E5%9B%BD%E8%BC%B8%E5%85%A5",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_videos_12m": 80,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 5,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-ecommerce-de",
+      "name": "E-Commerce Germany",
+      "type": "blog",
+      "language": "de",
+      "country": "DE",
+      "topics": [
+        "import-from-china",
+        "dropshipping",
+        "make-money-online"
+      ],
+      "url": "https://www.ecommerce.de",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_articles_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-junglescout-en",
+      "name": "Jungle Scout",
+      "type": "youtube",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "product-tips",
+        "import-from-china",
+        "make-money-online"
+      ],
+      "url": "https://youtube.com/@JungleScout",
+      "subscribers": 350000,
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 5,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
     }
   ],
   "collection_summary": {
-    "total_sources": 16,
+    "total_sources": 22,
     "by_language": {
       "pt": 4,
-      "en": 6,
+      "en": 9,
       "es": 1,
-      "de": 1,
       "pl": 2,
-      "zh": 0,
-      "ko": 0,
-      "ja": 0
+      "de": 2,
+      "zh": 2,
+      "ko": 1,
+      "ja": 1
     },
     "by_type": {
-      "youtube": 5,
-      "blog": 7,
-      "reddit": 2,
-      "tiktok": 0,
-      "news": 0,
-      "marketplace": 0
+      "youtube": 10,
+      "blog": 10,
+      "reddit": 2
     },
     "by_priority": {
-      "critical": 6,
-      "high": 7,
-      "medium": 3,
-      "low": 0
+      "critical": 8,
+      "high": 11,
+      "medium": 3
     }
   },
   "date": "2026-07-25",

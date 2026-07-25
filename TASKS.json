@@ -3608,7 +3608,7 @@
       "target": "check-agent-output",
       "description": "Check what PC-1 and PC-2 produced this cycle. Grade quality. Give feedback via BRAINSTORM.json.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T16:10:00Z"
     },
     {
@@ -3618,7 +3618,7 @@
       "target": "expand-registry-new-sources",
       "description": "Find and add 5 new sources to registry. Focus on gaps: ZH, KO, JA, DE. Update sources-registry.json.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T16:10:00Z"
     },
     {
