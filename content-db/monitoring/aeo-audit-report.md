@@ -1,14 +1,14 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T18:50:34.407Z
+**Generated:** 2026-07-25T18:54:18.167Z
 **Articles audited:** 224
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 205 | 92% |
-| B | 19 | 8% |
+| A | 211 | 94% |
+| B | 13 | 6% |
 | C | 0 | 0% |
 | D | 0 | 0% |
 
@@ -22,7 +22,7 @@
 | FAQ Section | 224 | 0 | 0 | 100% |
 | Frontmatter/Schema Ready | 224 | 0 | 0 | 100% |
 | Structured Headings | 223 | 1 | 0 | 100% |
-| Word Count | 122 | 74 | 28 | 54% |
+| Word Count | 123 | 80 | 21 | 55% |
 | Numbered Steps | 213 | 5 | 6 | 95% |
 
 ## Worst Articles (need improvement)
@@ -33,12 +33,12 @@
 | bronze-phone-cases.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | chugoku-yunyu-kanzen-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
-| 02-busca-intencao-consumo.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 | 02-sprzedaz-za-granice-przewodnik.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 | 02-wholesale-suppliers-guide.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 | 03-ia-antecipar-gargalos-cac.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 | 04-cosmetica-brasil-ciencia-mercado.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 06-zoll-businesses-import-overview.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 07-allegro-pomoc-sprzedajacych-start.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 07-varejo-online-faturar-65-bilhoes.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 
 ## Recommendations
 
