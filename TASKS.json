@@ -1115,9 +1115,9 @@
       "acceptance": "Dedup detects 5+ cross-source duplicates",
       "id": "T351",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
-      "result": null,
+      "result": "Deduplica\u00e7\u00e3o executada: 1 duplicata encontrada (tiktok files).",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
