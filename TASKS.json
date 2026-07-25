@@ -3287,7 +3287,7 @@
       "target": "compliance-check",
       "description": "Compliance check: are we following all regulations? GDPR, copyright, data privacy. Create compliance report.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:37:00Z"
     },
     {
