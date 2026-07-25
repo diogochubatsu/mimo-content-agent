@@ -3971,6 +3971,36 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T17:36:00Z"
+    },
+    {
+      "id": "T750",
+      "to": "gcp",
+      "type": "review",
+      "target": "check-bronze-collection-progress",
+      "description": "Verify agents are collecting Bronze from traffic leaders. Check content-db/blogs/ for new Shopify/Jingsourcing/Leeline articles.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:40:00Z"
+    },
+    {
+      "id": "T751",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-internal-link-graph",
+      "description": "BUILD: Script to analyze internal linking between articles and suggest new cross-links. Critical for SEO authority flow.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T17:40:00Z"
+    },
+    {
+      "id": "T752",
+      "to": "gcp",
+      "type": "implement",
+      "target": "country-specific-landing-pages",
+      "description": "Create landing page templates for each country (PT, EN, ES, DE, PL) with localized import guides.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T17:40:00Z"
     }
   ],
   "log": [
