@@ -3752,8 +3752,10 @@
       "target": "extract-jingsourcing-blog-top20",
       "description": "COLLECT: Extract top 20 posts from Jingsourcing Blog (goldenshiny.com/blog). Topics: China sourcing, 1688, wholesale. #1 China sourcing SEO competitor.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T16:40:00Z"
+      "status": "done",
+      "created": "2026-07-25T16:40:00Z",
+      "completed": "2026-07-25T18:23:00Z",
+      "result": "Extracted 20 blog posts from goldenshiny.com/blog with full text, metadata, images, and links. Files saved to content-db/blogs/jingsourcing-top20/. Total size: ~55KB. Articles include frontmatter with title, source, url, date, summary, tags, word_count, images, internal_links, and external_links. Key topics: Alibaba vs 1688, China sourcing agents, Yiwu inspection reports, supplier verification, low MOQ products, 1688 sourcing, best Yiwu products, landed cost calculation, MOQ by category, fake factory videos, sourcing service process, sourcing agent comparison, supplier comparison, market budget, best Yiwu agent, sourcing suppliers, wholesale market guide, trade shows 2026."
     },
     {
       "id": "T662",
