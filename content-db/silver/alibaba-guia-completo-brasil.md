@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/alibaba-guia-completo-brasil"
+  image: "https://importguide1688.com/og/alibaba-guia-completo-brasil.png"
+  site_name: "Import Guide 1688"
 title: "Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026"
 slug: "guia-completo-comprar-alibaba-brasil"
 meta_description: "Guia definitivo para importar do Alibaba para o Brasil. Calcular impostos (II, IPI, PIS, COFINS, ICMS), documentos necessários, verificação de fornecedores e comparação com 1688 e AliExpress. Atualizado para 2026."
@@ -70,6 +78,9 @@ canonical: "https://importguide1688.com/articles/guia-completo-para-comprar-no-a
 
 # Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026
 
+
+
+This comprehensive guide covers guia completo para comprar no alibaba no brasil: impostos, documentos e estratégias 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers guia completo para comprar no alibaba no brasil: impostos, documentos e estratégias 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

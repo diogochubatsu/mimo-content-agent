@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import aus China - Kompletter Leitfaden 2026: Logistik, Versandoptimierung und Zollabwicklung"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-china-deutschland-2026"
+  image: "https://importguide1688.com/og/import-china-deutschland-2026.png"
+  site_name: "Import Guide 1688"
 title: "Import aus China - Kompletter Leitfaden 2026: Logistik, Versandoptimierung und Zollabwicklung"
 slug: "import-china-deutschland-2026"
 meta_description: "Kompletter Leitfaden für Logistik und Versandoptimierung beim Import aus China nach Deutschland 2026: Vergleich Seefracht, Luftfracht, Bahnfracht, Express; Incoterms, Zollabwicklung, Dokumentation, Versicherung, Frachtführer, Kostenrechner."
@@ -58,6 +66,9 @@ canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-lei
 
 # Import aus China - Kompletter Leitfaden 2026: Logistik, Versandoptimierung und Zollabwicklung
 
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 

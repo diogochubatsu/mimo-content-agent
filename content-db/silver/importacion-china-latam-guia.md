@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Guía Completa para Importar de China a Latinoamérica: Impuestos, Envíos y Estrategias 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/importacion-china-latam-guia"
+  image: "https://importguide1688.com/og/importacion-china-latam-guia.png"
+  site_name: "Import Guide 1688"
 title: "Guía Completa para Importar de China a Latinoamérica: Impuestos, Envíos y Estrategias 2026"
 slug: "guia-completa-importar-china-latinoamerica"
 meta_description: "Guía definitiva para importar productos desde China a México, Colombia, Argentina, Chile y Perú. Impuestos aduaneros, procedimientos, métodos de pago, opciones de envío y errores comunes. Actualizado para 2026."
@@ -70,6 +78,9 @@ canonical: "https://importguide1688.com/articles/gu-a-completa-para-importar-de-
 
 # Guía Completa para Importar de China a Latinoamérica: Impuestos, Envíos y Estrategias 2026
 
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 

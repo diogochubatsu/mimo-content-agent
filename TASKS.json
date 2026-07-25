@@ -4065,6 +4065,26 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T18:00:00Z"
+    },
+    {
+      "id": "T780",
+      "to": "gcp",
+      "type": "implement",
+      "target": "upgrade-quality-gate-a",
+      "description": "Fix the 4 C-grade articles: add direct answers and tables to reach Grade A. Target: 100% A-grade Silver content.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T18:12:00Z"
+    },
+    {
+      "id": "T781",
+      "to": "gcp",
+      "type": "review",
+      "target": "check-agent-quality-gate-adoption",
+      "description": "Verify: Are agents running quality-gate.js before marking tasks done? Check recent commits for quality gate results.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T18:12:00Z"
     }
   ],
   "log": [

@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Kompletny przewodnik importu z Chin do Polski — 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-z-chin-polska-przewodnik"
+  image: "https://importguide1688.com/og/import-z-chin-polska-przewodnik.png"
+  site_name: "Import Guide 1688"
 title: "Kompletny przewodnik importu z Chin do Polski — 2026"
 slug: "kompletny-przewodnik-importu-z-chin-do-polski"
 meta_description: "Kompletny przewodnik importu towarów z Chin do Polski w 2026. Poznaj koszty, cła, VAT, certyfikacje UE, Allegro, BLIK, formy wysyłki i sprawdzone strategie dla polskich importerów."
@@ -91,6 +99,9 @@ canonical: "https://importguide1688.com/articles/kompletny-przewodnik-importu-z-
 
 # Kompletny przewodnik importu z Chin do Polski — 2026
 
+
+
+This comprehensive guide covers kompletny przewodnik importu z chin do polski — 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers kompletny przewodnik importu z chin do polski — 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

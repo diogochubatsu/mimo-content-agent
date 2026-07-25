@@ -1,6 +1,6 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T18:01:31.150Z
+**Generated:** 2026-07-25T18:12:42.171Z
 **Articles audited:** 131
 
 ## Grade Distribution
@@ -16,7 +16,7 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 39 | 0 | 92 | 30% |
+| Direct Answer in First 30 Lines | 35 | 0 | 96 | 27% |
 | Data Tables | 130 | 0 | 1 | 99% |
 | External Links/Citations | 131 | 0 | 0 | 100% |
 | FAQ Section | 131 | 0 | 0 | 100% |

@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import aus China - Kompletter Leitfaden 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-aus-china-leitfaden-2026"
+  image: "https://importguide1688.com/og/import-aus-china-leitfaden-2026.png"
+  site_name: "Import Guide 1688"
 title: "Import aus China - Kompletter Leitfaden 2026: Schritt für Schritt zum erfolgreichen Einkauf"
 slug: "import-aus-china-leitfaden-2026"
 meta_description: "Praktischer Leitfaden für den Import aus China: Lieferantenfindung, Bestellablauf, Qualitätskontrolle, Versandlogistik, Zollabwicklung und Kostenrechner mit echten Beispielen."

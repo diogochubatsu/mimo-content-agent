@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/jungguk-suip-wanjeon-guide"
+  image: "https://importguide1688.com/og/jungguk-suip-wanjeon-guide.png"
+  site_name: "Import Guide 1688"
 title: "중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설"
 slug: "jungguk-suip-wanjeon-guide-2026"
 meta_description: "중국에서 한국으로의 수입을 완전 정리. 관세청·UNI-PASS 시스템, 관세·부가가치세(10%)·개인소비세, 필요 서류, KC 인증, 배송 방법(부산/인천 해운, 인천/김포 항공), 결제 방법(T/T, L/C, 쿠팡페이), 공급업체 검증을 2026년 최신 데이터로 해설."
@@ -75,6 +83,9 @@ canonical: "https://importguide1688.com/articles/2026-kc"
 
 # 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설
 
+
+
+This comprehensive guide covers 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·kc 인증 모든 것을 해설 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·kc 인증 모든 것을 해설 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

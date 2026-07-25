@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-zchin-kompletny-przewodnik"
+  image: "https://importguide1688.com/og/import-zchin-kompletny-przewodnik.png"
+  site_name: "Import Guide 1688"
 title: "Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026"
 slug: "import-zchin-kompletny-przewodnik"
 meta_description: "Kompletny przewodnik sprzedaży importowanych z Chin produktów na Allegro 2026. Allegro seller account, BLIK, Allegro Smart, cross-border PL→CZ/SK/HU, VAT, EPR, LUCID, BDO, Allegro Ads, kalkulator kosztów."
@@ -77,6 +85,9 @@ canonical: "https://importguide1688.com/articles/import-z-chin-na-allegro-komple
 
 # Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026
 
+
+
+This comprehensive guide covers import z chin na allegro — kompletny przewodnik dla sprzedawców 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers import z chin na allegro — kompletny przewodnik dla sprzedawców 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import aus China - Verkauf & Marketing in Deutschland: Kompletter Leitfaden 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-china-deutschland-final"
+  image: "https://importguide1688.com/og/import-china-deutschland-final.png"
+  site_name: "Import Guide 1688"
 date: 2026-07-25
 title: "Import aus China - Verkauf & Marketing in Deutschland: Kompletter Leitfaden 2026"
 slug: "import-china-deutschland-marketing-verkauf-2026"

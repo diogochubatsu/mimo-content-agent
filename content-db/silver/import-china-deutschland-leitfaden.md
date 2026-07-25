@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import aus China - Kompletter Leitfaden 2026: Lieferantprüfung, Qualitätskontrolle und sichere Beschaffung"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-china-deutschland-leitfaden"
+  image: "https://importguide1688.com/og/import-china-deutschland-leitfaden.png"
+  site_name: "Import Guide 1688"
 title: "Import aus China - Kompletter Leitfaden 2026: Lieferantprüfung, Qualitätskontrolle und sichere Beschaffung"
 slug: "import-china-deutschland-leitfaden"
 meta_description: "Kompletter Leitfaden für Lieferantprüfung und Qualitätskontrolle beim Import aus China nach Deutschland 2026: Factory Audits, ISO-Zertifikate, CE/REACH/RoHS, Mustertest, Verhandlungstaktiken, Escrow und Kostenrechner."

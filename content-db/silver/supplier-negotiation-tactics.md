@@ -14,6 +14,9 @@ og:
 # Complete Guide: Supplier Negotiation Tactics for Importers (2026)
 
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**

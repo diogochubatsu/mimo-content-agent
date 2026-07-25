@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import z Chin 2026 — Kompletny Przewodnik Sourcingu Produktów"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-chin-kompletny-2026"
+  image: "https://importguide1688.com/og/import-chin-kompletny-2026.png"
+  site_name: "Import Guide 1688"
 title: "Import z Chin 2026 — Kompletny Przewodnik Sourcingu Produktów dla Polskich Przedsiębiorców"
 slug: import-chin-kompletny-2026
 meta_description: "Odkryj kompletny przewodnik importu z Chin 2026: 1688 vs Alibaba vs AliExpress, metody researchu produktów, kontrola jakości, negocjacje z dostawcami, płatności T/T Payoneer Alipay, logistyka Małaszewicze, odprawa celna i kalkulator kosztów w PLN."

@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Import z Chin do Polski — Prawo, Podatki i Zgodność 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-chin-przewodnik-v2"
+  image: "https://importguide1688.com/og/import-chin-przewodnik-v2.png"
+  site_name: "Import Guide 1688"
 title: "Import z Chin do Polski — Prawo, Podatki i Zgodność 2026"
 slug: "import-z-chin-prawo-podatki-zgodnosc-2026"
 
@@ -82,6 +90,9 @@ canonical: "https://importguide1688.com/articles/import-z-chin-do-polski-prawo-p
 
 # Import z Chin do Polski — Prawo, Podatki i Zgodność 2026
 
+
+
+This comprehensive guide covers import z chin do polski — prawo, podatki i zgodność 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers import z chin do polski — prawo, podatki i zgodność 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

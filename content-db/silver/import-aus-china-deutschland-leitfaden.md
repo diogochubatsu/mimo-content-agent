@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Kompletter Leitfaden für den Import aus China nach Deutschland 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/import-aus-china-deutschland-leitfaden"
+  image: "https://importguide1688.com/og/import-aus-china-deutschland-leitfaden.png"
+  site_name: "Import Guide 1688"
 title: "Kompletter Leitfaden für den Import aus China nach Deutschland 2026"
 slug: "import-aus-china-deutschland-leitfaden"
 meta_description: "Umfassender Leitfaden für den Import aus China nach Deutschland: Zollvorschriften, EORI-Registrierung, Zölle, MwSt, ATLAS-System, Dokumentation und Versandoptionen."
@@ -52,6 +60,9 @@ canonical: "https://importguide1688.com/articles/kompletter-leitfaden-f-r-den-im
 
 # Kompletter Leitfaden für den Import aus China nach Deutschland 2026
 
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
