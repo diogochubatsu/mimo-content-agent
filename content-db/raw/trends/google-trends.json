@@ -134,5 +134,9 @@
   "data_coleta": "2026-07-24T21:05:00Z",
   "cat_fonte": "trend",
   "cat_produto": "general",
-  "canal": "google_trends"
+  "canal": "google_trends",
+  "date": "2026-07-24",
+  "url": "https://trends.google.com",
+  "language": "en",
+  "title": "Google Trends"
 }

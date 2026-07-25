@@ -1,13 +1,14 @@
 [
   {
-    "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+    "title": "EU introduces \u20ac3 customs charge on small parcels to curb cheap Chinese imports",
     "url": "https://www.theguardian.com/business/2026/jun/29/eu-introduces-3-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
     "date": "2026-06-29",
     "source": "The Guardian",
-    "summary": "EU implemented €3 duty fee on low-value imports from platforms like SHEIN, Temu, and AliExpress to protect local businesses from cheap Chinese goods.",
+    "summary": "EU implemented \u20ac3 duty fee on low-value imports from platforms like SHEIN, Temu, and AliExpress to protect local businesses from cheap Chinese goods.",
     "category": "taxes",
     "region": "EU",
-    "impact": "high"
+    "impact": "high",
+    "language": "en"
   },
   {
     "title": "Trump tariff tracker - July 2026",
@@ -17,7 +18,8 @@
     "summary": "Comprehensive tracking of US tariffs on Chinese goods, including new double-digit tariffs on dozens of countries.",
     "category": "taxes",
     "region": "US",
-    "impact": "high"
+    "impact": "high",
+    "language": "en"
   },
   {
     "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
@@ -27,7 +29,8 @@
     "summary": "US government ordered to refund $81 billion in tariffs after Supreme Court ruled emergency tariffs were illegal.",
     "category": "taxes",
     "region": "US",
-    "impact": "high"
+    "impact": "high",
+    "language": "en"
   },
   {
     "title": "UK accelerates plan to end low-value parcel tariff loophole",
@@ -37,7 +40,8 @@
     "summary": "UK following EU's lead to close tax loophole on cheap imports from China, affecting dropshipping business model.",
     "category": "taxes",
     "region": "UK",
-    "impact": "medium"
+    "impact": "medium",
+    "language": "en"
   },
   {
     "title": "China's monthly car exports top 1m for first time as overall trade soars",
@@ -47,7 +51,8 @@
     "summary": "China's exports continue to grow despite trade tensions, with car exports reaching record levels.",
     "category": "trade",
     "region": "China",
-    "impact": "medium"
+    "impact": "medium",
+    "language": "en"
   },
   {
     "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports",
@@ -57,17 +62,19 @@
     "summary": "US and China negotiating potential tariff reductions on $30 billion worth of goods.",
     "category": "trade",
     "region": "US-China",
-    "impact": "high"
+    "impact": "high",
+    "language": "en"
   },
   {
-    "title": "EU slaps €3 duty fee on SHEIN, Temu and AliExpress imports",
+    "title": "EU slaps \u20ac3 duty fee on SHEIN, Temu and AliExpress imports",
     "url": "https://www.euronews.com/business/2026/06/30/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports",
     "date": "2026-06-30",
     "source": "Euronews",
     "summary": "EU implementing new customs charges specifically targeting Chinese e-commerce platforms.",
     "category": "taxes",
     "region": "EU",
-    "impact": "high"
+    "impact": "high",
+    "language": "en"
   },
   {
     "title": "Brazil-China trade relations 2026",
@@ -77,6 +84,7 @@
     "summary": "Analysis of Brazil-China trade dynamics, including agricultural exports and manufacturing imports.",
     "category": "trade",
     "region": "Brazil-China",
-    "impact": "medium"
+    "impact": "medium",
+    "language": "en"
   }
 ]
