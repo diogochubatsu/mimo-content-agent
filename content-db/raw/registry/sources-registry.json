@@ -1601,15 +1601,298 @@
         "has_internal_links": false,
         "has_external_links": false
       }
+    },
+    {
+      "source_id": "platform-alibaba",
+      "name": "Alibaba.com",
+      "type": "platform",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "alibaba-1688",
+        "import-from-china",
+        "product-tips"
+      ],
+      "url": "https://alibaba.com",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_listings_12m": 100000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 1
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-1688",
+      "name": "1688.com",
+      "type": "platform",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "alibaba-1688",
+        "import-from-china",
+        "product-tips"
+      ],
+      "url": "https://1688.com",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_listings_12m": 500000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 1
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-dhgate",
+      "name": "DHgate",
+      "type": "platform",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "dropshipping",
+        "import-from-china",
+        "product-tips"
+      ],
+      "url": "https://dhgate.com",
+      "authority_score": "B",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_listings_12m": 50000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 1
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-global-sources",
+      "name": "Global Sources",
+      "type": "platform",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://globalsources.com",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_listings_12m": 30000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 7,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-made-in-china",
+      "name": "Made-in-China",
+      "type": "platform",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://made-in-china.com",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_listings_12m": 20000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 7,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-yiwugo",
+      "name": "Yiwugo",
+      "type": "platform",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "product-tips",
+        "import-from-china"
+      ],
+      "url": "https://yiwugo.com",
+      "authority_score": "A",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_listings_12m": 100000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 1
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "blog-goldsupplier",
+      "name": "GoldSupplier Directory",
+      "type": "directory",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://goldsupplier.com",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_listings_12m": 5000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 30,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-cjdropshipping",
+      "name": "CJDropshipping",
+      "type": "platform",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "dropshipping",
+        "import-from-china",
+        "product-tips"
+      ],
+      "url": "https://cjdropshipping.com",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_listings_12m": 300000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 1
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "platform-banggood",
+      "name": "Banggood",
+      "type": "platform",
+      "language": "en",
+      "country": "CN",
+      "topics": [
+        "product-tips",
+        "dropshipping"
+      ],
+      "url": "https://banggood.com",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_listings_12m": 50000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 1
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": true,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
     }
   ],
   "collection_summary": {
-    "total_sources": 50,
+    "total_sources": 59,
     "by_language": {
-      "en": 23,
+      "en": 30,
       "pt": 9,
       "es": 3,
-      "zh": 5,
+      "zh": 7,
       "pl": 3,
       "de": 3,
       "ko": 2,
@@ -1622,7 +1905,9 @@
       "tiktok": 7,
       "web-portal": 3,
       "forum": 1,
-      "x-twitter": 3
+      "x-twitter": 3,
+      "platform": 8,
+      "directory": 1
     }
   },
   "date": "2026-07-25",
