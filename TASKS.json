@@ -3552,8 +3552,9 @@
       "target": "reddit-collect-top40",
       "description": "COLLECT: Collect top 20 posts from r/AmazonFBA + r/Dropship (last 30 days). Save content-db/raw/reddit/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Posts Reddit j\u00e1 coletados em content-db/raw/reddit/. 2 arquivos JSON."
     },
     {
       "id": "T620",
