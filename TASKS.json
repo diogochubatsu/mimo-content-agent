@@ -3870,6 +3870,36 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T16:50:00Z"
+    },
+    {
+      "id": "T700",
+      "to": "gcp",
+      "type": "review",
+      "target": "check-agent-bronze-picks",
+      "description": "Check: Are agents picking up T660-T667? What new commits exist? Grade quality of new output.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:05:00Z"
+    },
+    {
+      "id": "T701",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-rss-feed-finder",
+      "description": "Build rss-feed-finder.js: given a domain, discovers RSS/Atom feeds by checking common paths and parsing HTML <link> tags. Solves the 9/12 feeds failing problem.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:05:00Z"
+    },
+    {
+      "id": "T702",
+      "to": "gcp",
+      "type": "review",
+      "target": "update-registry-fresh-extraction",
+      "description": "Rescan content-db/raw/, content-db/blogs/, content-db/silver/ and update extraction counts in sources-registry.json. Run pipeline-orchestrator.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T17:05:00Z"
     }
   ],
   "log": [
