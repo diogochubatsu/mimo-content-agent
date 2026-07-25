@@ -1422,7 +1422,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T06:30:00Z",
-      "result": "Polish article created: import-chin-final-2026.md — 3076 words in Polish. Marketing and sales strategies guide covering: Allegro optimization (listing, Ads, Smart!, cross-border CZ/SK/HU), Amazon.pl integration, social media marketing (Facebook, Instagram, TikTok, Pinterest), pricing strategies with PLN examples, CAC benchmarks, retention/loyalty programs, brand building for imported products, 3 case studies of successful Polish importers, cost calculator with 3 real PLN scenarios, 14-question FAQ. Differentiates from previous 5 Polish articles by focusing exclusively on marketing and sales strategies.",
+      "result": "Polish article created: import-chin-final-2026.md \u2014 3076 words in Polish. Marketing and sales strategies guide covering: Allegro optimization (listing, Ads, Smart!, cross-border CZ/SK/HU), Amazon.pl integration, social media marketing (Facebook, Instagram, TikTok, Pinterest), pricing strategies with PLN examples, CAC benchmarks, retention/loyalty programs, brand building for imported products, 3 case studies of successful Polish importers, cost calculator with 3 real PLN scenarios, 14-question FAQ. Differentiates from previous 5 Polish articles by focusing exclusively on marketing and sales strategies.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -3910,6 +3910,16 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T17:11:00Z"
+    },
+    {
+      "id": "T720",
+      "to": "gcp",
+      "type": "implement",
+      "target": "source-scorecard-script",
+      "description": "Build source-scorecard.js \u2014 generates a detailed scorecard for each source in registry. Shows authority, freshness, extraction %, content volume, priority.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:15:00Z"
     }
   ],
   "log": [
