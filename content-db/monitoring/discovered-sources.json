@@ -1,0 +1,616 @@
+{
+  "timestamp": "2026-07-25T20:33:58.524Z",
+  "total_domains": 132,
+  "top_20": [
+    {
+      "domain": "alibaba.com",
+      "mentions": 268
+    },
+    {
+      "domain": "jingsourcing.com",
+      "mentions": 266
+    },
+    {
+      "domain": "1688.com",
+      "mentions": 265
+    },
+    {
+      "domain": "leelinegroup.com",
+      "mentions": 141
+    },
+    {
+      "domain": "schema.org",
+      "mentions": 130
+    },
+    {
+      "domain": "cbp.gov",
+      "mentions": 116
+    },
+    {
+      "domain": "ecommercebrasil.com.br",
+      "mentions": 78
+    },
+    {
+      "domain": "amazing.com",
+      "mentions": 47
+    },
+    {
+      "domain": "shopify.com",
+      "mentions": 42
+    },
+    {
+      "domain": "goldenshiny.com",
+      "mentions": 40
+    },
+    {
+      "domain": "img.leelinegroup.com",
+      "mentions": 40
+    },
+    {
+      "domain": "junglescout.com",
+      "mentions": 36
+    },
+    {
+      "domain": "nichedropshipping.com",
+      "mentions": 30
+    },
+    {
+      "domain": "cjdropshipping.com",
+      "mentions": 27
+    },
+    {
+      "domain": "iso.org",
+      "mentions": 26
+    },
+    {
+      "domain": "alidropship.com",
+      "mentions": 24
+    },
+    {
+      "domain": "agenciasebrae.com.br",
+      "mentions": 20
+    },
+    {
+      "domain": "help.allegro.com",
+      "mentions": 18
+    },
+    {
+      "domain": "blog.allegro.tech",
+      "mentions": 12
+    },
+    {
+      "domain": "cdn.shopify.com",
+      "mentions": 12
+    }
+  ],
+  "all_domains": [
+    {
+      "domain": "alibaba.com",
+      "mentions": 268
+    },
+    {
+      "domain": "jingsourcing.com",
+      "mentions": 266
+    },
+    {
+      "domain": "1688.com",
+      "mentions": 265
+    },
+    {
+      "domain": "leelinegroup.com",
+      "mentions": 141
+    },
+    {
+      "domain": "schema.org",
+      "mentions": 130
+    },
+    {
+      "domain": "cbp.gov",
+      "mentions": 116
+    },
+    {
+      "domain": "ecommercebrasil.com.br",
+      "mentions": 78
+    },
+    {
+      "domain": "amazing.com",
+      "mentions": 47
+    },
+    {
+      "domain": "shopify.com",
+      "mentions": 42
+    },
+    {
+      "domain": "goldenshiny.com",
+      "mentions": 40
+    },
+    {
+      "domain": "img.leelinegroup.com",
+      "mentions": 40
+    },
+    {
+      "domain": "junglescout.com",
+      "mentions": 36
+    },
+    {
+      "domain": "nichedropshipping.com",
+      "mentions": 30
+    },
+    {
+      "domain": "cjdropshipping.com",
+      "mentions": 27
+    },
+    {
+      "domain": "iso.org",
+      "mentions": 26
+    },
+    {
+      "domain": "alidropship.com",
+      "mentions": 24
+    },
+    {
+      "domain": "agenciasebrae.com.br",
+      "mentions": 20
+    },
+    {
+      "domain": "help.allegro.com",
+      "mentions": 18
+    },
+    {
+      "domain": "blog.allegro.tech",
+      "mentions": 12
+    },
+    {
+      "domain": "cdn.shopify.com",
+      "mentions": 12
+    },
+    {
+      "domain": "iccwbo.org",
+      "mentions": 11
+    },
+    {
+      "domain": "gsxt.gov.cn",
+      "mentions": 11
+    },
+    {
+      "domain": "hts.usitc.gov",
+      "mentions": 9
+    },
+    {
+      "domain": "flexlogistik.de",
+      "mentions": 8
+    },
+    {
+      "domain": "grandviewresearch.com",
+      "mentions": 6
+    },
+    {
+      "domain": "amfori.org",
+      "mentions": 5
+    },
+    {
+      "domain": "amazon.com",
+      "mentions": 5
+    },
+    {
+      "domain": "zoll.de",
+      "mentions": 5
+    },
+    {
+      "domain": "sellercentral.amazon.com",
+      "mentions": 5
+    },
+    {
+      "domain": "iata.org",
+      "mentions": 4
+    },
+    {
+      "domain": "trade.gov",
+      "mentions": 4
+    },
+    {
+      "domain": "yomidenzel.com",
+      "mentions": 4
+    },
+    {
+      "domain": "sell.amazon.com",
+      "mentions": 4
+    },
+    {
+      "domain": "ipc.org",
+      "mentions": 3
+    },
+    {
+      "domain": "data.worldbank.org",
+      "mentions": 3
+    },
+    {
+      "domain": "aliexpress.com",
+      "mentions": 3
+    },
+    {
+      "domain": "example.com",
+      "mentions": 3
+    },
+    {
+      "domain": "reddit.com",
+      "mentions": 3
+    },
+    {
+      "domain": "cpsc.gov",
+      "mentions": 3
+    },
+    {
+      "domain": "ascm.org",
+      "mentions": 3
+    },
+    {
+      "domain": "cantonfair.org.cn",
+      "mentions": 2
+    },
+    {
+      "domain": "irs.gov",
+      "mentions": 2
+    },
+    {
+      "domain": "chinagate.com.br",
+      "mentions": 2
+    },
+    {
+      "domain": "ecomdynasty.com",
+      "mentions": 2
+    },
+    {
+      "domain": "ecomsuccessmakers.com",
+      "mentions": 2
+    },
+    {
+      "domain": "ctl.mit.edu",
+      "mentions": 2
+    },
+    {
+      "domain": "mida.gov.my",
+      "mentions": 2
+    },
+    {
+      "domain": "euratex.eu",
+      "mentions": 2
+    },
+    {
+      "domain": "customs-lookup.com",
+      "mentions": 2
+    },
+    {
+      "domain": "ecomvibrant.com",
+      "mentions": 2
+    },
+    {
+      "domain": "traddal.com",
+      "mentions": 2
+    },
+    {
+      "domain": "alannaandcompany.com",
+      "mentions": 2
+    },
+    {
+      "domain": "anab.ansi.org",
+      "mentions": 2
+    },
+    {
+      "domain": "ilo.org",
+      "mentions": 2
+    },
+    {
+      "domain": "easetocompliance.com",
+      "mentions": 2
+    },
+    {
+      "domain": "disruptmagazine.com",
+      "mentions": 2
+    },
+    {
+      "domain": "lemarketingalecoute.com",
+      "mentions": 2
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "mentions": 2
+    },
+    {
+      "domain": "ftc.gov",
+      "mentions": 2
+    },
+    {
+      "domain": "ec.europa.eu",
+      "mentions": 2
+    },
+    {
+      "domain": "buildyourstore.ai",
+      "mentions": 2
+    },
+    {
+      "domain": "dsers.com",
+      "mentions": 2
+    },
+    {
+      "domain": "uspto.gov",
+      "mentions": 2
+    },
+    {
+      "domain": "wipo.int",
+      "mentions": 2
+    },
+    {
+      "domain": "printful.com",
+      "mentions": 2
+    },
+    {
+      "domain": "printify.com",
+      "mentions": 2
+    },
+    {
+      "domain": "investopedia.com",
+      "mentions": 2
+    },
+    {
+      "domain": "cbsa-asfc.gc.ca",
+      "mentions": 2
+    },
+    {
+      "domain": "canada.ca",
+      "mentions": 2
+    },
+    {
+      "domain": "wto.org",
+      "mentions": 2
+    },
+    {
+      "domain": "ccpit.org",
+      "mentions": 2
+    },
+    {
+      "domain": "hubspot.com",
+      "mentions": 2
+    },
+    {
+      "domain": "oberlo.com",
+      "mentions": 2
+    },
+    {
+      "domain": "statista.com",
+      "mentions": 2
+    },
+    {
+      "domain": "sgs.com",
+      "mentions": 2
+    },
+    {
+      "domain": "ptc.com",
+      "mentions": 2
+    },
+    {
+      "domain": "accountingtools.com",
+      "mentions": 1
+    },
+    {
+      "domain": "autods.com",
+      "mentions": 1
+    },
+    {
+      "domain": "klaviyo.com",
+      "mentions": 1
+    },
+    {
+      "domain": "npd.com",
+      "mentions": 1
+    },
+    {
+      "domain": "tc.canada.ca",
+      "mentions": 1
+    },
+    {
+      "domain": "gelato.com",
+      "mentions": 1
+    },
+    {
+      "domain": "globalsources.com",
+      "mentions": 1
+    },
+    {
+      "domain": "moz.com",
+      "mentions": 1
+    },
+    {
+      "domain": "customs.gov.cn",
+      "mentions": 1
+    },
+    {
+      "domain": "mof.gov.cn",
+      "mentions": 1
+    },
+    {
+      "domain": "rcepsec.org",
+      "mentions": 1
+    },
+    {
+      "domain": "kpmg.com",
+      "mentions": 1
+    },
+    {
+      "domain": "deloitte.com",
+      "mentions": 1
+    },
+    {
+      "domain": "tiktok.com",
+      "mentions": 1
+    },
+    {
+      "domain": "zendesk.com",
+      "mentions": 1
+    },
+    {
+      "domain": "freshworks.com",
+      "mentions": 1
+    },
+    {
+      "domain": "salesforce.com",
+      "mentions": 1
+    },
+    {
+      "domain": "forrester.com",
+      "mentions": 1
+    },
+    {
+      "domain": "gartner.com",
+      "mentions": 1
+    },
+    {
+      "domain": "bigcommerce.com",
+      "mentions": 1
+    },
+    {
+      "domain": "gov.uk",
+      "mentions": 1
+    },
+    {
+      "domain": "intracen.org",
+      "mentions": 1
+    },
+    {
+      "domain": "gtfg.com",
+      "mentions": 1
+    },
+    {
+      "domain": "ic3.gov",
+      "mentions": 1
+    },
+    {
+      "domain": "bakerbotts.com",
+      "mentions": 1
+    },
+    {
+      "domain": "theguardian.com",
+      "mentions": 1
+    },
+    {
+      "domain": "euronews.com",
+      "mentions": 1
+    },
+    {
+      "domain": "reuters.com",
+      "mentions": 1
+    },
+    {
+      "domain": "china-briefing.com",
+      "mentions": 1
+    },
+    {
+      "domain": "customs.go.jp",
+      "mentions": 1
+    },
+    {
+      "domain": "gov.br",
+      "mentions": 1
+    },
+    {
+      "domain": "helium10.com",
+      "mentions": 1
+    },
+    {
+      "domain": "alibabagroup.com",
+      "mentions": 1
+    },
+    {
+      "domain": "asiainspection.com",
+      "mentions": 1
+    },
+    {
+      "domain": "intracen.org,",
+      "mentions": 1
+    },
+    {
+      "domain": "tradeassurance.alibaba.com,",
+      "mentions": 1
+    },
+    {
+      "domain": "qima.com,",
+      "mentions": 1
+    },
+    {
+      "domain": "sellercentral.amazon.com,",
+      "mentions": 1
+    },
+    {
+      "domain": "globalsources.com,",
+      "mentions": 1
+    },
+    {
+      "domain": "cpsc.gov,",
+      "mentions": 1
+    },
+    {
+      "domain": "wcoomd.org",
+      "mentions": 1
+    },
+    {
+      "domain": "dhl.com",
+      "mentions": 1
+    },
+    {
+      "domain": "harrisbricken.com",
+      "mentions": 1
+    },
+    {
+      "domain": "stripe.com",
+      "mentions": 1
+    },
+    {
+      "domain": "astm.org",
+      "mentions": 1
+    },
+    {
+      "domain": "fmc.gov",
+      "mentions": 1
+    },
+    {
+      "domain": "remittanceprices.worldbank.org",
+      "mentions": 1
+    },
+    {
+      "domain": "usitc.gov",
+      "mentions": 1
+    },
+    {
+      "domain": "asme.org",
+      "mentions": 1
+    },
+    {
+      "domain": "rulings.cbp.gov",
+      "mentions": 1
+    },
+    {
+      "domain": "mckinsey.com",
+      "mentions": 1
+    },
+    {
+      "domain": "english.cnipa.gov.cn",
+      "mentions": 1
+    },
+    {
+      "domain": "ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca",
+      "mentions": 1
+    },
+    {
+      "domain": "fcc.gov",
+      "mentions": 1
+    },
+    {
+      "domain": "service.alibaba.com",
+      "mentions": 1
+    },
+    {
+      "domain": "keywordseverywhere.com",
+      "mentions": 1
+    }
+  ]
+}
