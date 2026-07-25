@@ -5,7 +5,7 @@
  * Output: total cost breakdown including shipping, taxes, agent fees
  */
 
-function calculateLandedCost(priceCNY, weightKg, category = 'general') {
+function calculateLandedCost(priceCNY, weightKg, category = 'general', country = 'BR') {
     const USD_CNY = 7.25;
     const priceUSD = priceCNY / USD_CNY;
     
@@ -27,8 +27,9 @@ function calculateLandedCost(priceCNY, weightKg, category = 'general') {
     const dutyRate = dutyRates[category] || 0.06;
     const duty = priceUSD * dutyRate;
     
-    // VAT (Brazil 23%, US 0%, EU ~21%)
-    const vatRate = 0.23;
+    // VAT varies by country
+    const vatRates = { BR: 0.23, US: 0, EU: 0.21, UK: 0.20, JP: 0.10, AU: 0.10 };
+    const vatRate = vatRates[country] || 0.23;
     const vatBase = priceUSD + shippingSea + duty;
     const vat = vatBase * vatRate;
     
@@ -51,14 +52,14 @@ function calculateLandedCost(priceCNY, weightKg, category = 'general') {
 if (typeof module !== 'undefined') module.exports = { calculateLandedCost };
 
 // Demo
-const result = calculateLandedCost(50, 0.5, 'electronics');
+const result = calculateLandedCost(50, 0.5, 'electronics', 'BR');
 console.log('Landed Cost Calculator');
-console.log('Product: ¥50 (~$7)');
+console.log('Product: ¥50 (~$7) | Category: electronics | Country: BR');
 console.log(`  Shipping (air): $${result.shipping.air}`);
 console.log(`  Shipping (sea): $${result.shipping.sea}`);
 console.log(`  Agent fee: $${result.agentFee}`);
 console.log(`  Duty: $${result.duty.amount}`);
-console.log(`  VAT (23%): $${result.vat.amount}`);
+console.log(`  VAT (${(result.vat.rate * 100).toFixed(0)}%): $${result.vat.amount}`);
 console.log(`  ---`);
 console.log(`  Total (air): $${result.total.air}`);
 console.log(`  Total (sea): $${result.total.sea}`);

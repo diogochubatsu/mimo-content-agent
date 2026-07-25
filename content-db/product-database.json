@@ -2,17 +2,12 @@
   "total": 163,
   "byLanguage": {
     "zh": 17,
-    "en": 106,
-    "de": 5,
-    "es": 5,
-    "EN": 3,
-    "ES": 3,
-    "PT": 3,
-    "DE": 3,
-    "JA": 3,
-    "ja": 5,
-    "ko": 5,
-    "pt": 5
+    "en": 109,
+    "de": 8,
+    "es": 8,
+    "pt": 8,
+    "ja": 8,
+    "ko": 5
   },
   "byCategory": {
     "1688": 1,
@@ -1300,7 +1295,7 @@
       "title": "Complete Guide to Importing from China for Beginners 2024",
       "url": "https://www.youtube.com/watch?v=example_en_001",
       "source": "videos",
-      "language": "EN",
+      "language": "en",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1309,7 +1304,7 @@
       "title": "How to Find Reliable Suppliers on Alibaba & AliExpress",
       "url": "https://www.youtube.com/watch?v=example_en_002",
       "source": "videos",
-      "language": "EN",
+      "language": "en",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1318,7 +1313,7 @@
       "title": "China Import Business: Shipping Methods Compared",
       "url": "https://www.youtube.com/watch?v=example_en_003",
       "source": "videos",
-      "language": "EN",
+      "language": "en",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1327,7 +1322,7 @@
       "title": "Como Importar de China Guia Completo 2024",
       "url": "https://www.youtube.com/watch?v=example_es_001",
       "source": "videos",
-      "language": "ES",
+      "language": "es",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1336,7 +1331,7 @@
       "title": "Errores Comunes al Importar de China y Cómo Evitarlos",
       "url": "https://www.youtube.com/watch?v=example_es_002",
       "source": "videos",
-      "language": "ES",
+      "language": "es",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1345,7 +1340,7 @@
       "title": "Importar de China para Principiantes: Paso a Paso",
       "url": "https://www.youtube.com/watch?v=example_es_003",
       "source": "videos",
-      "language": "ES",
+      "language": "es",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1354,7 +1349,7 @@
       "title": "Como Importar da China Guia Completo para Iniciantes",
       "url": "https://www.youtube.com/watch?v=example_pt_001",
       "source": "videos",
-      "language": "PT",
+      "language": "pt",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1363,7 +1358,7 @@
       "title": "Erros ao Importar da China: O Que Não Fazer",
       "url": "https://www.youtube.com/watch?v=example_pt_002",
       "source": "videos",
-      "language": "PT",
+      "language": "pt",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1372,7 +1367,7 @@
       "title": "Importação da China: Tipos de Frete Explicados",
       "url": "https://www.youtube.com/watch?v=example_pt_003",
       "source": "videos",
-      "language": "PT",
+      "language": "pt",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1381,7 +1376,7 @@
       "title": "Aus China Importieren: Der Komplette Leitfaden 2024",
       "url": "https://www.youtube.com/watch?v=example_de_001",
       "source": "videos",
-      "language": "DE",
+      "language": "de",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1390,7 +1385,7 @@
       "title": "China Import Fehler und wie man Sie Vermeidet",
       "url": "https://www.youtube.com/watch?v=example_de_002",
       "source": "videos",
-      "language": "DE",
+      "language": "de",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1399,7 +1394,7 @@
       "title": "Versandarten aus China im Vergleich",
       "url": "https://www.youtube.com/watch?v=example_de_003",
       "source": "videos",
-      "language": "DE",
+      "language": "de",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1408,7 +1403,7 @@
       "title": "中国から輸入する方法 完全ガイド 2024",
       "url": "https://www.youtube.com/watch?v=example_ja_001",
       "source": "videos",
-      "language": "JA",
+      "language": "ja",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1417,7 +1412,7 @@
       "title": "中国輸入で失敗しないポイント",
       "url": "https://www.youtube.com/watch?v=example_ja_002",
       "source": "videos",
-      "language": "JA",
+      "language": "ja",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"
@@ -1426,7 +1421,7 @@
       "title": "中国輸入：輸送方法の比較と選び方",
       "url": "https://www.youtube.com/watch?v=example_ja_003",
       "source": "videos",
-      "language": "JA",
+      "language": "ja",
       "category": "importing-from-china",
       "date": "2026-07-24",
       "path": "content-db/raw/youtube-intl/videos.json"

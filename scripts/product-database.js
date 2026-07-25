@@ -34,7 +34,7 @@ function loadSources() {
                                 title: item.title,
                                 url: item.url || '',
                                 source: file.name.replace('.json', ''),
-                                language: item.language || 'en',
+                                language: (item.language || 'en').toLowerCase(),
                                 category: item.category || item.cat_produto || 'general',
                                 date: item.date || '',
                                 path: path.relative(path.join(__dirname, '..'), fullPath),
