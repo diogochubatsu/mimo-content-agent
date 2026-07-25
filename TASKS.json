@@ -4681,6 +4681,56 @@
       "priority": "high",
       "status": "pending",
       "created": "2026-07-25T22:05:00Z"
+    },
+    {
+      "id": "T1180",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-autods-blog",
+      "description": "Extract top 10 articles from AutoDS Blog (dropshipping automation). Focus on AliExpress and 1688 tutorials. Save to content-db/blogs/autods-en/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:10:00Z"
+    },
+    {
+      "id": "T1181",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-alidropship-blog",
+      "description": "Extract top 10 articles from AliDropship Blog. Focus on AliExpress sourcing and dropshipping guides. Save to content-db/blogs/alidropship-en/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:10:00Z"
+    },
+    {
+      "id": "T1182",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-cjdropshipping-blog",
+      "description": "Extract top 10 articles from CJDropshipping Blog. Focus on China sourcing and comparison guides. Save to content-db/blogs/cjdropshipping-en/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:10:00Z"
+    },
+    {
+      "id": "T1183",
+      "to": "pc-1",
+      "type": "expand",
+      "target": "expand-silver-batch6",
+      "description": "Expand 5 more B-grade Silver articles to A-grade. Use batch-silver-expander.js + smart-silver-expander.js. Run quality-gate.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:10:00Z"
+    },
+    {
+      "id": "T1184",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-hugocrossborder-zh",
+      "description": "Extract top 10 articles from Hugo Cross-Border (cifnews.com). Focus on cross-border ecommerce trends. Save to content-db/blogs/hugocrossborder-zh/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:10:00Z"
     }
   ],
   "log": [

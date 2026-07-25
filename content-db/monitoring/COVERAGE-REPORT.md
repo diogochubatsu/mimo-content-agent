@@ -1,6 +1,6 @@
 # Bronze Datalake Coverage Report
 
-**Generated:** 2026-07-25T21:35:17.790Z
+**Generated:** 2026-07-25T21:37:02.117Z
 
 ## Summary
 
