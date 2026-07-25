@@ -73,3 +73,10 @@ Methods:
 - Search using Google
 - Order from the competition
 - Attend a trade show
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

@@ -60,3 +60,10 @@ Print on demand (POD) is a type of dropshipping business model that allows you t
 
 - Print on demand: Better for custom products and brand-focused businesses
 - Dropshipping: Better for sales-driven, marketing-focused retailers
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

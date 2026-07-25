@@ -69,3 +69,10 @@ Protect customer information and follow privacy laws.
 ## Is dropshipping legal under 18?
 
 Minors usually cannot run the business independently. Shopify requires users to be 18 years old or the age of majority.
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

@@ -70,3 +70,10 @@ Use DSers app for automated order processing.
 
 - Build supplier relationships
 - Market your business (SEO, email, influencer, social media, Google Ads)
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

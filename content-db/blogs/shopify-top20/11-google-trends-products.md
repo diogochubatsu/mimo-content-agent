@@ -79,3 +79,10 @@ Google Trends is a free tool that tracks what people are searching for, how inte
 4. Leverage related queries
 5. Compare product ideas
 6. Validate beyond Google Trends
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

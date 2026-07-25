@@ -48,3 +48,10 @@ Alibaba is not ideal for traditional dropshipping but works well for:
 - Private label products
 - Custom manufacturing
 - Bulk purchasing for inventory
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

@@ -86,3 +86,10 @@ Signs that dropshipping is right for you:
 3. Add a dropshipping app
 4. Import products and set prices
 5. Start selling and marketing
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

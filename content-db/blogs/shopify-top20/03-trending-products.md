@@ -71,3 +71,10 @@ Top categories by sales growth (September 2025 vs 2024):
 - eBay Trending Deals
 - Etsy trending items
 - Instagram popular hashtags
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

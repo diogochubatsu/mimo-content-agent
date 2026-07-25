@@ -36,9 +36,9 @@
       "collection_priority": "critical",
       "content_stats": {
         "total_articles_12m": 500,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 20,
+        "extraction_pct": 4.0,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,

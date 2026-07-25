@@ -39,3 +39,10 @@ external_links: []
 - Pricing
 - Integration with Shopify
 - Customization options
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

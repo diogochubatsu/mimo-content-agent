@@ -73,3 +73,10 @@ Market for protective coverings worth over $25 billion in 2024.
 - Watches (incredibly saturated)
 - Clothing (particularly competitive)
 - Health products (risks and challenges)
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

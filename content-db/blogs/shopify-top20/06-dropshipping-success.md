@@ -52,3 +52,10 @@ The general consensus is that most dropshipping businesses fail. But it can ofte
 4. Have a long-term perspective (at least 1 year)
 5. Offer outstanding customer service
 6. Don't get hung up on details
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

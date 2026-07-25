@@ -92,3 +92,10 @@ Essential marketing channels:
 - Skipping SEO
 - Not planning for growth
 - Neglecting unhappy customers
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

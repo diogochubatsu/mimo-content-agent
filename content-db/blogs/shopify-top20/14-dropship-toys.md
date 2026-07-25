@@ -42,3 +42,10 @@ external_links: []
 3. Build your Shopify store
 4. Market your products
 5. Prepare for seasonal demand
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

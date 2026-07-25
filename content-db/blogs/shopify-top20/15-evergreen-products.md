@@ -45,3 +45,10 @@ Evergreen products have consistent demand year-round, not dependent on seasons o
 2. Find reliable suppliers
 3. Test products before scaling
 4. Build customer loyalty programs
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

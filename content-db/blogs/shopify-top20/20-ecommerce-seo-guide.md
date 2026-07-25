@@ -66,3 +66,10 @@ Ecommerce SEO is the process of optimizing your online store to rank higher in s
 - Google Analytics
 - Rank tracking tools
 - Conversion tracking
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

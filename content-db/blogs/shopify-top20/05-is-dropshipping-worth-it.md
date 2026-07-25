@@ -59,3 +59,10 @@ Communicate delays proactively and maintain strict quality control.
 
 ### 6. Dropshipping is legal
 Consider LLC structure and understand tax obligations.
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)

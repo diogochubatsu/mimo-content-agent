@@ -50,3 +50,10 @@ external_links: []
 ## Can you dropship from Alibaba?
 
 Some suppliers offer dropshipping, but it's not the primary focus. Best for private label businesses.
+
+
+### Sources & References
+
+- [Shopify Blog](https://shopify.com/blog)
+- [CJDropshipping platform](https://cjdropshipping.com)
+- [AliDropship resources](https://alidropship.com/blog/)
