@@ -424,7 +424,7 @@ Die Wahl des richtigen Logistikpartners ist entscheidend:
 
 ### Was ist CBAM?
 
-Der Carbon Border Adjustment Mechanism (CBAM) ist ein neues EU-Instrument zur Vermeidung von Carbon Leakage. Ab 2026 gelten finanzielle Pflichten für碳-intensive Importe.
+Der Carbon Border Adjustment Mechanism (CBAM) ist ein neues EU-Instrument zur Vermeidung von Carbon Leakage. Ab 2026 gelten finanzielle Pflichten für kohlenstoffintensive Importe.
 
 ### Betroffene Produkte
 
@@ -749,7 +749,7 @@ Die Seefracht ist die günstigste Methode für große Mengen. Für dringende Lie
 
 ### 10. Was ist CBAM und wie wirkt es sich auf Importe aus?
 
-Der Carbon Border Adjustment Mechanism ist ein EU-Instrument zur Vermeidung von Carbon Leakage. Ab 2026 werden für碳-intensive Importe zusätzliche Kosten fällig.
+Der Carbon Border Adjustment Mechanism ist ein EU-Instrument zur Vermeidung von Carbon Leakage. Ab 2026 werden für kohlenstoffintensive Importe zusätzliche Kosten fällig.
 
 ### 11. Muss ich für den Import aus China eine EORI-Nummer haben?
 

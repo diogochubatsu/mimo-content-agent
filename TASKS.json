@@ -765,7 +765,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": "Article created with 4087 words in German, covering all required topics: EU customs framework, EORI, duties, VAT, ATLAS, documentation, shipping options, CBAM, product compliance, comparison table, and 30 FAQ questions.",
+      "result": "Article created with 4087 words in German, covering all required topics: EU customs framework, EORI, duties, VAT, ATLAS, documentation, shipping options, CBAM, product compliance, comparison table, and 30 FAQ questions. [PC-2 FIX] Fixed Chinese character artifacts: 碳-intensive replaced with kohlenstoffintensiv on lines 427 and 752.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
