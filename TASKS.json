@@ -4431,6 +4431,206 @@
       "priority": "critical",
       "status": "pending",
       "created": "2026-07-25T21:35:00Z"
+    },
+    {
+      "id": "T1150",
+      "to": "pc-2",
+      "type": "expand",
+      "target": "expand-silver-quality-batch1",
+      "description": "Expand 5 B-grade Silver articles to A-grade: add data tables, expert quotes, 500+ words each. Focus on highest word count articles first. Run quality-gate.js.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1151",
+      "to": "pc-2",
+      "type": "expand",
+      "target": "expand-silver-quality-batch2",
+      "description": "Expand 5 more B-grade Silver articles to A-grade. Different articles from batch 1. Focus on articles with fewest tables and no FAQ sections.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1152",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-china-gate",
+      "description": "Extract 10 articles/videos from China Gate (chinagate.com.br). Biggest BR import channel. Full text + metadata. Save to content-db/blogs/chinagate-pt/",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1153",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-jotafiuza",
+      "description": "Extract 10 videos from Jota Fiuza YouTube. Biggest BR dropshipping channel. Transcribe + extract metadata. Save to content-db/blogs/jotafiuza-pt/",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1154",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-wholesaleted",
+      "description": "Extract 10 videos from Wholesale Ted YouTube. Biggest EN dropshipping channel. Transcribe + extract metadata. Save to content-db/blogs/wholesaleted-en/",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1155",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-adriansaenz",
+      "description": "Extract 10 videos from Adrian Saenz YouTube. Biggest ES dropshipping channel. Transcribe + extract metadata. Save to content-db/blogs/adriansaenz-es/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1156",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-florianservus",
+      "description": "Extract 10 videos from Florian Servus YouTube. Biggest DE import channel. Transcribe + extract metadata. Save to content-db/blogs/florianservus-de/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1157",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-zhihu-1688",
+      "description": "Extract top 10 Zhihu answers about 1688 sourcing. Translate key insights to English. Save to content-db/blogs/zhihu-zh/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1158",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-bilibili-ecommerce",
+      "description": "Extract top 10 Bilibili videos about \u8de8\u5883\u7535\u5546 (cross-border ecommerce). Translate key insights. Save to content-db/blogs/bilibili-zh/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1159",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-reddit-top50",
+      "description": "Extract top 50 posts from r/AmazonFBA and r/Dropship (last 30 days). Full text + metadata + top comments. Save to content-db/raw/reddit/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1160",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "deploy-site",
+      "description": "DEPLOY: Get site live on Vercel. Verify build, fix errors, deploy, submit sitemap. #1 BLOCKER for revenue.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1161",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "add-affiliate-links",
+      "description": "Add Amazon Associates + AliExpress affiliate links to top 20 Silver articles. Insert in product comparison tables and recommendations.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1162",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-reddit-50",
+      "description": "Extract top 50 posts from r/AmazonFBA + r/Dropship. Full text + comments + metadata. Save to content-db/raw/reddit/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1163",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-jingsourcing-youtube",
+      "description": "Transcribe top 10 Jingsourcing YouTube videos (factory inspections, sourcing guides). Save to content-db/blogs/jingsourcing-yt-en/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1164",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-importdojo-youtube",
+      "description": "Transcribe top 10 ImportDojo YouTube videos. Focus on 1688/Alibaba tutorials. Save to content-db/blogs/importdojo-en/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1165",
+      "to": "pc-1",
+      "type": "expand",
+      "target": "expand-silver-batch3",
+      "description": "Expand 5 B-grade Silver articles to A-grade using batch-silver-expander.js + smart-silver-expander.js. Run quality-gate.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1166",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-leomiranda-youtube",
+      "description": "Transcribe top 10 Leo Miranda YouTube videos (BR import channel). Save to content-db/blogs/leomiranda-pt/",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1167",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-albertokouty-youtube",
+      "description": "Transcribe top 10 Alberto Kouty YouTube videos (BR ecommerce). Save to content-db/blogs/albertokouty-pt/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1168",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "fix-agent-id-commits",
+      "description": "Fix git config so commit messages use correct agent ID. Currently commits say 'pc-2' but author is pc-1.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
+    },
+    {
+      "id": "T1169",
+      "to": "pc-1",
+      "type": "expand",
+      "target": "expand-silver-batch4",
+      "description": "Expand 5 more B-grade Silver articles to A-grade. Different articles from batch 3. Focus on articles with fewest tables.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:00:00Z"
     }
   ],
   "log": [

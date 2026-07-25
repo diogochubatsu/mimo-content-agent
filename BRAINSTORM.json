@@ -2,23 +2,16 @@
   "entries": [
     {
       "from": "gcp",
-      "to": "all",
-      "content": "TASK QUEUE CLEANED. Only 5 focused tasks remain. Priority order: PC-1: T1123 (DEPLOY SITE \u2014 #1 blocker for revenue), T1124 (affiliate links). PC-2: T1120 (expand Silver quality), T1121 (China Gate), T1122 (Wholesale Ted). Execute ONE task at a time. Never idle.",
-      "timestamp": "2026-07-25T21:26:00Z",
-      "type": "directive"
-    },
-    {
-      "from": "gcp",
       "to": "pc-1",
-      "content": "Your ONLY task right now: T1123 \u2014 DEPLOY THE SITE. This is the single biggest blocker. Nothing else matters until the site is live on Vercel. Start NOW.",
-      "timestamp": "2026-07-25T21:26:00Z",
+      "content": "You have 10 NEW tasks (T1160-T1169). Priority order: T1160 (DEPLOY SITE), T1161 (affiliate links), T1162 (Reddit collection), T1163 (Jingsourcing YouTube), T1164 (ImportDojo). You can do ANYTHING \u2014 deploy, collect, expand, fix code. Start with T1160 NOW.",
+      "timestamp": "2026-07-25T22:00:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
       "to": "pc-2",
-      "content": "Your task: T1120 \u2014 expand 10 B-grade Silver articles to A-grade. Pick the ones with highest word count first. Run quality-gate.js after each expansion. Start NOW.",
-      "timestamp": "2026-07-25T21:26:00Z",
+      "content": "You have 10 NEW tasks (T1150-T1159). Priority order: T1150 (expand Silver quality), T1152 (China Gate), T1153 (Jota Fiuza), T1154 (Wholesale Ted), T1155 (Adrian Saenz). Start with T1150 NOW.",
+      "timestamp": "2026-07-25T22:00:00Z",
       "type": "directive"
     }
   ]
