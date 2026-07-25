@@ -4289,6 +4289,26 @@
       "priority": "high",
       "status": "pending",
       "created": "2026-07-25T20:23:03.105Z"
+    },
+    {
+      "id": "T900",
+      "to": "pc-2",
+      "type": "create",
+      "target": "new-pt-collection-batch",
+      "description": "COLLECT: Find 5 new Brazilian import blogs. Collect 10 articles from each. Focus on importa\u00e7\u00e3o chinesa, fornecedores, impostos. Use blog-extractor-template.js. Save to content-db/blogs/new-pt-sources/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T20:30:00Z"
+    },
+    {
+      "id": "T901",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "deploy-site-verify",
+      "description": "VERIFY: Site deployment status. Check if Vercel build is passing. If not, fix build errors and redeploy.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T20:30:00Z"
     }
   ],
   "log": [

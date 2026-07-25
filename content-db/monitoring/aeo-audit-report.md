@@ -1,13 +1,13 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T20:28:20.768Z
-**Articles audited:** 263
+**Generated:** 2026-07-25T20:32:10.048Z
+**Articles audited:** 291
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 257 | 98% |
+| A | 285 | 98% |
 | B | 6 | 2% |
 | C | 0 | 0% |
 | D | 0 | 0% |
@@ -16,14 +16,14 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 63 | 0 | 200 | 24% |
-| Data Tables | 263 | 0 | 0 | 100% |
-| External Links/Citations | 263 | 0 | 0 | 100% |
-| FAQ Section | 263 | 0 | 0 | 100% |
-| Frontmatter/Schema Ready | 263 | 0 | 0 | 100% |
-| Structured Headings | 263 | 0 | 0 | 100% |
-| Word Count | 164 | 99 | 0 | 62% |
-| Numbered Steps | 247 | 8 | 8 | 94% |
+| Direct Answer in First 30 Lines | 64 | 0 | 227 | 22% |
+| Data Tables | 291 | 0 | 0 | 100% |
+| External Links/Citations | 291 | 0 | 0 | 100% |
+| FAQ Section | 291 | 0 | 0 | 100% |
+| Frontmatter/Schema Ready | 291 | 0 | 0 | 100% |
+| Structured Headings | 291 | 0 | 0 | 100% |
+| Word Count | 181 | 110 | 0 | 62% |
+| Numbered Steps | 275 | 8 | 8 | 95% |
 
 ## Worst Articles (need improvement)
 
@@ -36,9 +36,9 @@
 | 07-low-moq-products-in-yiwu.md | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | 10-yiwu-landed-cost.md | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | 01-alibaba-vs-1688.md | 80% | A | Direct Answer in First 30 Lines |
-| 01-fidelizacao-cliente.md | 80% | A | Direct Answer in First 30 Lines |
-| 01-german-customs-rules-regulations-impo | 80% | A | Direct Answer in First 30 Lines |
 | 01-udostepnianie-ofert-zagranicznych-ryn | 80% | A | Direct Answer in First 30 Lines |
+| 01-zera-aliquota-informatica-telecom.md | 80% | A | Direct Answer in First 30 Lines |
+| 02-busca-intencao-consumo.md | 80% | A | Direct Answer in First 30 Lines |
 
 ## Recommendations
 
