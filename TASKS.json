@@ -7135,7 +7135,7 @@
       "target": "agent-restart-procedure",
       "description": "Create procedure to restart stalled agents. Document steps, test recovery, ensure agents can resume.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:28:00Z"
     },
     {
@@ -7145,7 +7145,7 @@
       "target": "revenue-forecast",
       "description": "Create revenue forecast: based on current traffic, what revenue can we expect in 30/60/90 days?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:28:00Z"
     },
     {
@@ -7155,7 +7155,7 @@
       "target": "project-health-dashboard",
       "description": "Create project health dashboard: key metrics, trends, alerts. One-glance status of entire project.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:28:00Z"
     },
     {
@@ -7165,7 +7165,7 @@
       "target": "project-milestone-review",
       "description": "Review project milestones: are we on track? What needs adjustment? Create milestone report.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:29:00Z"
     },
     {
@@ -7175,7 +7175,7 @@
       "target": "technology-stack-review",
       "description": "Review technology stack: is Next.js still the best choice? What\u65b0\u6280\u672f could improve our pipeline?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:29:00Z"
     },
     {
@@ -7207,6 +7207,56 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T14:29:00Z"
+    },
+    {
+      "id": "T507",
+      "to": "gcp",
+      "type": "review",
+      "target": "final-session-summary",
+      "description": "Create final session summary: all accomplishments, metrics, lessons learned, next steps.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:30:00Z"
+    },
+    {
+      "id": "T508",
+      "to": "gcp",
+      "type": "research",
+      "target": "next-session-agenda",
+      "description": "Create agenda for next session: priorities, tasks to execute, research to conduct.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:30:00Z"
+    },
+    {
+      "id": "T509",
+      "to": "gcp",
+      "type": "review",
+      "target": "knowledge-transfer",
+      "description": "Document all knowledge gained this session for future agents. Update MEMORY.md, create handoff document.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:30:00Z"
+    },
+    {
+      "id": "T510",
+      "to": "gcp",
+      "type": "research",
+      "target": "innovation-opportunities",
+      "description": "Research innovation opportunities: AI tools, automation, new content formats. What could 10x our output?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:30:00Z"
+    },
+    {
+      "id": "T511",
+      "to": "gcp",
+      "type": "review",
+      "target": "quality-assurance-final",
+      "description": "Final quality assurance: check all deliverables, verify completeness, ensure nothing is broken.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:30:00Z"
     }
   ],
   "log": [
