@@ -1276,9 +1276,9 @@
       "acceptance": "Both files become A-quality",
       "id": "T361",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
-      "result": null,
+      "result": "Metadata corrigido em pinterest/trends-2026.json e weibo/trends.json.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
