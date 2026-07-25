@@ -4369,9 +4369,9 @@
       "id": "T292",
       "from": "gcp",
       "to": "pc-1",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Script blog-scanner.js criado. Escaneia 11 fontes (7 blogs + 4 YouTube).",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"

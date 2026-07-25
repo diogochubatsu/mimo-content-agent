@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Amazon Seller Blog",
+    "url": "https://sell.amazon.com/blog",
+    "type": "blog",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.819Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Amazing.com",
+    "url": "https://amazing.com/blog",
+    "type": "blog",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Jungle Scout",
+    "url": "https://www.junglescout.com/blog/",
+    "type": "blog",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Helium 10",
+    "url": "https://www.helium10.com/blog/",
+    "type": "blog",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Oberlo",
+    "url": "https://www.oberlo.com/blog",
+    "type": "blog",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Ecommerce Brasil",
+    "url": "https://www.ecommercebrasil.com.br/",
+    "type": "blog",
+    "language": "pt",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Ecommerce Germany",
+    "url": "https://www.ecommercegermany.com/",
+    "type": "blog",
+    "language": "de",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Jungle Scout",
+    "url": "https://youtube.com/@junglescout",
+    "type": "youtube",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Wholesale Ted",
+    "url": "https://youtube.com/@wholesaleted",
+    "type": "youtube",
+    "language": "en",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Yomi Denzel",
+    "url": "https://youtube.com/@YomiDenzel",
+    "type": "youtube",
+    "language": "es",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  },
+  {
+    "name": "Sandro Ferreira",
+    "url": "https://youtube.com/@sandroferreira",
+    "type": "youtube",
+    "language": "pt",
+    "scanned_at": "2026-07-25T14:21:25.830Z",
+    "status": "pending",
+    "articles_found": 0
+  }
+]
