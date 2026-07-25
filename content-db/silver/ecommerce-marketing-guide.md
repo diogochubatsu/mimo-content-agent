@@ -477,3 +477,39 @@ A: Content marketing ROI is measured through multiple metrics: organic traffic g
 5. Google. "Ecommerce Marketing Insights: Search and Shopping." (accessed July 2026)
 6. HubSpot. "State of Marketing Report 2026." (accessed July 2026)
 7. Statista. "Global Ecommerce Sales Projections 2026." (accessed July 2026)
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: Ecommerce Marketing Guide 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-25T03:38:03.891Z",
+  "dateModified": "2026-07-25T03:38:03.891Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/ecommerce-marketing-guide"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>

@@ -3556,9 +3556,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:13Z",
-      "result": null
+      "result": "Schema.org Article markup adicionado a 21 artigos via add-schema.js"
     },
     {
       "id": "T241",

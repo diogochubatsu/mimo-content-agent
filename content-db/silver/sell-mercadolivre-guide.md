@@ -572,3 +572,39 @@ A: Mercado Livre offers several seller tools:
 ---
 
 *This guide is for informational purposes only. Fees, policies, and features may change. Always check Mercado Livre's official website for the most current information.*
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Guide: How to Sell on Mercado Livre (2026)",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-25T03:38:03.900Z",
+  "dateModified": "2026-07-25T03:38:03.900Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/sell-mercadolivre-guide"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>
