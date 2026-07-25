@@ -3958,7 +3958,7 @@
       "target": "schema-markup-generator",
       "description": "BUILD: Script to add Article, FAQPage, and HowTo schema markup to all Silver articles. Critical for rich results and AI citations.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T17:36:00Z"
     },
     {
