@@ -295,3 +295,31 @@ Polski rynek e-commerce oferuje ogromne możliwości w 2026 roku. Kluczem do suk
 5. **Budowanie marki** — od pierwszej sprzedaży do lojalnej społeczności
 
 Nie musisz robić tego sam. Skorzystaj z naszych przewodników, szablonów i narzędzi, aby przyspieszyć swój sukces w e-commerce.
+
+---
+
+## FAQ — Najczęściej zadawane pytania
+
+### Ile kosztuje import z Chin do Polski?
+Łączny koszt importu to typically 130-150% ceny FOB produktu. Obejmuje: produkt (100%), wysyłkę morską (15-25%), cło (0-12%), VAT (23%) oraz ewentualnego agenta (3-8%). Dla kontenera 20' koszt pełny wynosi 8,000-15,000 PLN.
+
+### Czy mogę sprzedawać na Allegro i Amazon.pl jednocześnie?
+Tak, 60% polskich sprzedawców korzysta z 2+ platform. Kluczowe narzędzia: BaseLinker, ChannelAdvisor lub Selazon synchronizują stany magazynowe i ceny między platformami.
+
+### Jakie certyfikacje są wymagane w UE?
+Obowiązkowe: CE (elektronika, zabawki, tekstylia), REACH (chemikalia), GPSR (bezpieczeństwo produktów od 2024), WEEE (elektronika). Brak certyfikacji = konfiskata na granicy + kary do 100,000 PLN.
+
+### Ile trwa wysyłka z Chin do Polski?
+Morze: 35-45 dni (najtańsze). Kolej: 15-20 dni (Nowy Jedwabny Szlak). Lotniczo: 5-10 dni (najdroższe). Port docelowy: Gdańsk lub Hamburg.
+
+### Jak zacząć sprzedawać na Allegro?
+Załóż konto Firmowe (opłata ~40 PLN/mies.), dodaj produkty z pełnymi opisami (min. 300 słów), ustaw ceny z uwzględnieniem prowizji (4-12%) i kosztów wysyłki. Zacznij od 10-20 SKU i skaluj po pierwszych recenzjach.
+
+---
+
+## Powiązane przewodniki
+
+- [1688 vs Alibaba — Porównanie 2026](/articles/1688-vs-alibaba-2026)
+- [Kompletny przewodnik importu z Chin](/articles/import-from-china-complete-guide)
+- [Kalkulator kosztów importu](/tools/import-cost-calculator)
+- [Amazon FBA dla początkujących](/articles/amazon-fba-beginners)
