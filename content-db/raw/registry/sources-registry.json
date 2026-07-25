@@ -1,7 +1,8 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "created": "2026-07-25",
-  "description": "Master registry of all content sources for the Bronze datalake. Each source is classified by language, type, topics, and collection priority.",
+  "last_updated": "2026-07-25T16:30:00Z",
+  "description": "Master source registry v2 — rebuilt with actual traffic leaders. Sources ranked by organic traffic dominance in import/dropshipping niche.",
   "topics": [
     "import-from-china",
     "make-money-online",
@@ -21,276 +22,141 @@
   ],
   "sources": [
     {
-      "source_id": "youtube-ambientpanda-pt",
-      "name": "AmbientPanda",
-      "type": "youtube",
-      "language": "pt",
-      "country": "BR",
-      "topics": [
-        "import-from-china",
-        "dropshipping",
-        "product-tips"
-      ],
-      "url": "https://youtube.com/@ambientpanda",
-      "subscribers": 450000,
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_videos_12m": 180,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 3,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-canalecommerce-pt",
-      "name": "Canal Ecommerce",
-      "type": "youtube",
-      "language": "pt",
-      "country": "BR",
-      "topics": [
-        "make-money-online",
-        "dropshipping",
-        "alibaba-1688"
-      ],
-      "url": "https://youtube.com/@canalecommerce",
-      "subscribers": 200000,
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_videos_12m": 120,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 2,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-wholesaleted-en",
-      "name": "Wholesale Ted",
-      "type": "youtube",
+      "source_id": "blog-shopify-en",
+      "name": "Shopify Blog",
+      "type": "blog",
       "language": "en",
       "country": "US",
       "topics": [
         "dropshipping",
-        "make-money-online",
-        "product-tips"
-      ],
-      "url": "https://youtube.com/@WholesaleTed",
-      "subscribers": 1200000,
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_videos_12m": 200,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 7,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-importdojo-en",
-      "name": "ImportDojo",
-      "type": "youtube",
-      "language": "en",
-      "country": "US",
-      "topics": [
-        "import-from-china",
-        "alibaba-1688"
-      ],
-      "url": "https://youtube.com/@ImportDojo",
-      "subscribers": 350000,
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_videos_12m": 100,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 5,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-nomadmatt-en",
-      "name": "Nomad Matt",
-      "type": "youtube",
-      "language": "en",
-      "country": "US",
-      "topics": [
-        "import-from-china",
         "make-money-online"
       ],
-      "url": "https://youtube.com/@NomadMatt",
-      "subscribers": 180000,
-      "authority_score": "B",
-      "collection_priority": "high",
-      "content_stats": {
-        "total_videos_12m": 80,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 5,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-yomidenzel-es",
-      "name": "Yomi Denzel",
-      "type": "youtube",
-      "language": "es",
-      "country": "ES",
-      "topics": [
-        "dropshipping",
-        "make-money-online",
-        "alibaba-1688"
-      ],
-      "url": "https://youtube.com/@YomiDenzel",
-      "subscribers": 800000,
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_videos_12m": 150,
-        "extracted_count": 9,
-        "extraction_pct": 6,
-        "last_extracted": "2026-07-25"
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 3,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "blog-ecommercebrasil-pt",
-      "name": "E-Commerce Brasil",
-      "type": "blog",
-      "language": "pt",
-      "country": "BR",
-      "topics": [
-        "dropshipping",
-        "import-from-china",
-        "make-money-online"
-      ],
-      "url": "https://www.ecommercebrasil.com.br",
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_articles_12m": 200,
-        "extracted_count": 15,
-        "extraction_pct": 7.5,
-        "last_extracted": "2026-07-25"
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 2,
-        "stale_threshold_days": 30
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": true
-      }
-    },
-    {
-      "source_id": "blog-sebrae-pt",
-      "name": "Sebrae",
-      "type": "blog",
-      "language": "pt",
-      "country": "BR",
-      "topics": [
-        "import-from-china",
-        "alibaba-1688"
-      ],
-      "url": "https://agenciasebrae.com.br",
+      "url": "https://shopify.com/blog",
       "authority_score": "A",
       "collection_priority": "critical",
       "content_stats": {
         "total_articles_12m": 500,
-        "extracted_count": 10,
-        "extraction_pct": 2,
-        "last_extracted": "2026-07-25"
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
       },
       "freshness": {
         "last_content_date": null,
-        "avg_frequency_days": 7,
+        "avg_frequency_days": 2,
         "stale_threshold_days": 30
       },
       "metadata_completeness": {
         "has_transcripts": false,
         "has_images": false,
         "has_internal_links": false,
-        "has_external_links": true
+        "has_external_links": false
       }
     },
     {
-      "source_id": "blog-amazing-en",
-      "name": "Amazing.com",
+      "source_id": "blog-jingsourcing-en",
+      "name": "Jingsourcing Blog",
+      "type": "blog",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://goldenshiny.com/blog",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-leeline-en",
+      "name": "Leeline Sourcing Blog",
       "type": "blog",
       "language": "en",
       "country": "US",
       "topics": [
         "import-from-china",
         "alibaba-1688",
-        "make-money-online"
+        "product-tips"
       ],
-      "url": "https://www.amazing.com",
+      "url": "https://leelinegroup.com/blog",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 150,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-autods-en",
+      "name": "AutoDS Blog",
+      "type": "blog",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "dropshipping",
+        "product-tips"
+      ],
+      "url": "https://autods.com/blog",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_articles_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 2,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-alidropship-en",
+      "name": "AliDropship Blog",
+      "type": "blog",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "dropshipping",
+        "import-from-china"
+      ],
+      "url": "https://alidropship.com/blog",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
@@ -302,6 +168,37 @@
       "freshness": {
         "last_content_date": null,
         "avg_frequency_days": 3,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-cjdropshipping-en",
+      "name": "CJDropshipping Blog",
+      "type": "blog",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "dropshipping",
+        "alibaba-1688"
+      ],
+      "url": "https://cjdropshipping.com/blogs/dropshipping-knowledge",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_articles_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 5,
         "stale_threshold_days": 30
       },
       "metadata_completeness": {
@@ -351,10 +248,9 @@
       "country": "US",
       "topics": [
         "product-tips",
-        "import-from-china",
-        "make-money-online"
+        "import-from-china"
       ],
-      "url": "https://www.junglescout.com/blog",
+      "url": "https://junglescout.com/blog",
       "authority_score": "A",
       "collection_priority": "high",
       "content_stats": {
@@ -376,6 +272,133 @@
       }
     },
     {
+      "source_id": "blog-bansarchina-en",
+      "name": "BansarChina",
+      "type": "blog",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://bansarchina.com",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_articles_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 7,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-wholesaleted-en",
+      "name": "Wholesale Ted",
+      "type": "youtube",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "dropshipping",
+        "make-money-online"
+      ],
+      "url": "https://youtube.com/@WholesaleTed",
+      "subscribers": 1200000,
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_videos_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 7,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-jingsourcing-en",
+      "name": "Jingsourcing YouTube",
+      "type": "youtube",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://youtube.com/@jingsourcing",
+      "subscribers": 200000,
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 5,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-importdojo-en",
+      "name": "ImportDojo",
+      "type": "youtube",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://youtube.com/@ImportDojo",
+      "subscribers": 350000,
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 5,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
       "source_id": "reddit-amazonfba-en",
       "name": "r/AmazonFBA",
       "type": "reddit",
@@ -383,8 +406,7 @@
       "country": "US",
       "topics": [
         "import-from-china",
-        "product-tips",
-        "make-money-online"
+        "product-tips"
       ],
       "url": "https://reddit.com/r/AmazonFBA",
       "subscribers": 180000,
@@ -405,7 +427,7 @@
         "has_transcripts": false,
         "has_images": false,
         "has_internal_links": false,
-        "has_external_links": true
+        "has_external_links": false
       }
     },
     {
@@ -416,8 +438,7 @@
       "country": "US",
       "topics": [
         "dropshipping",
-        "product-tips",
-        "import-from-china"
+        "product-tips"
       ],
       "url": "https://reddit.com/r/Dropship",
       "subscribers": 900000,
@@ -438,7 +459,601 @@
         "has_transcripts": false,
         "has_images": false,
         "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "tiktok-jingsourcing-en",
+      "name": "Jingsourcing TikTok",
+      "type": "tiktok",
+      "language": "en",
+      "country": "US",
+      "topics": [
+        "import-from-china",
+        "product-tips"
+      ],
+      "url": "https://tiktok.com/@jingsourcing_official",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-chinagate-pt",
+      "name": "China Gate / R. Giraldelli",
+      "type": "youtube",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://youtube.com/@chinagatebr",
+      "subscribers": 500000,
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_videos_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 2,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-jotafiuza-pt",
+      "name": "Jota Fiuza",
+      "type": "youtube",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "dropshipping",
+        "make-money-online"
+      ],
+      "url": "https://youtube.com/@jotafiuza",
+      "subscribers": 800000,
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_videos_12m": 300,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-leomiranda-pt",
+      "name": "Leo Miranda / China Facil",
+      "type": "youtube",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688",
+        "product-tips"
+      ],
+      "url": "https://youtube.com/@leomiranda",
+      "subscribers": 400000,
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_videos_12m": 150,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 2,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-albertokouty-pt",
+      "name": "Alberto Kouty",
+      "type": "youtube",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "dropshipping",
+        "make-money-online"
+      ],
+      "url": "https://youtube.com/@albertokouty",
+      "subscribers": 300000,
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 150,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-ecommercebrasil-pt",
+      "name": "E-Commerce Brasil",
+      "type": "blog",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "dropshipping",
+        "import-from-china"
+      ],
+      "url": "https://ecommercebrasil.com.br",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 200,
+        "extracted_count": 15,
+        "extraction_pct": 7.5,
+        "last_extracted": "2026-07-25"
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 2,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
         "has_external_links": true
+      }
+    },
+    {
+      "source_id": "blog-sebrae-pt",
+      "name": "Sebrae",
+      "type": "blog",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "import-from-china"
+      ],
+      "url": "https://agenciasebrae.com.br",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 500,
+        "extracted_count": 10,
+        "extraction_pct": 2.0,
+        "last_extracted": "2026-07-25"
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 7,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": true
+      }
+    },
+    {
+      "source_id": "blog-maino-pt",
+      "name": "Maino Blog",
+      "type": "blog",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "import-from-china"
+      ],
+      "url": "https://maino.com.br/blog",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_articles_12m": 100,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 5,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "tiktok-chinafacil-pt",
+      "name": "China Facil TikTok",
+      "type": "tiktok",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "import-from-china",
+        "product-tips"
+      ],
+      "url": "https://tiktok.com/@chinafacil",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 300,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "tiktok-cortesdojota-pt",
+      "name": "Cortes do Jota TikTok",
+      "type": "tiktok",
+      "language": "pt",
+      "country": "BR",
+      "topics": [
+        "dropshipping"
+      ],
+      "url": "https://tiktok.com/@cortesdojota",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 500,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-yomidenzel-es",
+      "name": "Yomi Denzel",
+      "type": "youtube",
+      "language": "es",
+      "country": "ES",
+      "topics": [
+        "dropshipping",
+        "make-money-online"
+      ],
+      "url": "https://youtube.com/@YomiDenzel",
+      "subscribers": 800000,
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_videos_12m": 150,
+        "extracted_count": 9,
+        "extraction_pct": 6.0,
+        "last_extracted": "2026-07-25"
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "youtube-adriansaenz-es",
+      "name": "Adrian Saenz",
+      "type": "youtube",
+      "language": "es",
+      "country": "MX",
+      "topics": [
+        "dropshipping",
+        "make-money-online",
+        "import-from-china"
+      ],
+      "url": "https://youtube.com/@AdrianSaenz",
+      "subscribers": 1000000,
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_videos_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 2,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "tiktok-adriansaenz-es",
+      "name": "Adrian Saenz TikTok",
+      "type": "tiktok",
+      "language": "es",
+      "country": "MX",
+      "topics": [
+        "dropshipping",
+        "product-tips"
+      ],
+      "url": "https://tiktok.com/@adriansaenz",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 500,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "web-hugocrossborder-zh",
+      "name": "雨果跨境 (Hugo Cross-Border)",
+      "type": "web-portal",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://cifnews.com",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 2000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "web-maijia-zh",
+      "name": "卖家之家 (Maijia)",
+      "type": "web-portal",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://mjzj.com",
+      "authority_score": "A",
+      "collection_priority": "critical",
+      "content_stats": {
+        "total_articles_12m": 1500,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 14
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "web-zhihu-zh",
+      "name": "知乎 (Zhihu)",
+      "type": "forum",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://zhihu.com",
+      "authority_score": "A",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_articles_12m": 5000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "video-bilibili-zh",
+      "name": "Bilibili 跨境电商",
+      "type": "youtube",
+      "language": "zh",
+      "country": "CN",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://bilibili.com",
+      "authority_score": "B",
+      "collection_priority": "high",
+      "content_stats": {
+        "total_videos_12m": 1000,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 1,
+        "stale_threshold_days": 7
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-importlizenz-de",
+      "name": "Import Lizenz",
+      "type": "blog",
+      "language": "de",
+      "country": "DE",
+      "topics": [
+        "import-from-china",
+        "alibaba-1688"
+      ],
+      "url": "https://importlizenz.de",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_articles_12m": 60,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 7,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
+      }
+    },
+    {
+      "source_id": "blog-ecommerce-de",
+      "name": "E-Commerce Germany",
+      "type": "blog",
+      "language": "de",
+      "country": "DE",
+      "topics": [
+        "import-from-china",
+        "dropshipping"
+      ],
+      "url": "https://ecommerce.de",
+      "authority_score": "B",
+      "collection_priority": "medium",
+      "content_stats": {
+        "total_articles_12m": 200,
+        "extracted_count": 0,
+        "extraction_pct": 0,
+        "last_extracted": null
+      },
+      "freshness": {
+        "last_content_date": null,
+        "avg_frequency_days": 3,
+        "stale_threshold_days": 30
+      },
+      "metadata_completeness": {
+        "has_transcripts": false,
+        "has_images": false,
+        "has_internal_links": false,
+        "has_external_links": false
       }
     },
     {
@@ -449,7 +1064,6 @@
       "country": "PL",
       "topics": [
         "import-from-china",
-        "alibaba-1688",
         "make-money-online"
       ],
       "url": "https://ecommercepolska.pl",
@@ -505,99 +1119,6 @@
       }
     },
     {
-      "source_id": "blog-importlizenz-de",
-      "name": "Import Lizenz",
-      "type": "blog",
-      "language": "de",
-      "country": "DE",
-      "topics": [
-        "import-from-china",
-        "alibaba-1688"
-      ],
-      "url": "https://importlizenz.de",
-      "authority_score": "B",
-      "collection_priority": "medium",
-      "content_stats": {
-        "total_articles_12m": 60,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 7,
-        "stale_threshold_days": 30
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-1688tutorial-zh",
-      "name": "1688 Tutorial Channels",
-      "type": "youtube",
-      "language": "zh",
-      "country": "CN",
-      "topics": [
-        "import-from-china",
-        "alibaba-1688"
-      ],
-      "url": "https://youtube.com/results?search_query=1688%E6%95%99%E7%A8%8B",
-      "authority_score": "B",
-      "collection_priority": "high",
-      "content_stats": {
-        "total_videos_12m": 500,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 1,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "blog-alibaba-zh",
-      "name": "Alibaba.com Guides",
-      "type": "blog",
-      "language": "zh",
-      "country": "CN",
-      "topics": [
-        "alibaba-1688",
-        "import-from-china"
-      ],
-      "url": "https://seller.alibaba.com",
-      "authority_score": "A",
-      "collection_priority": "critical",
-      "content_stats": {
-        "total_articles_12m": 300,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 3,
-        "stale_threshold_days": 30
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
       "source_id": "youtube-ktrading-ko",
       "name": "K-Trade Channel",
       "type": "youtube",
@@ -607,7 +1128,7 @@
         "import-from-china",
         "make-money-online"
       ],
-      "url": "https://youtube.com/results?search_query=%EC%A4%91%EA%B5%AD+%EC%9D%B8%EB%8F%84",
+      "url": "https://youtube.com/results?search_query=중국+인도",
       "authority_score": "B",
       "collection_priority": "medium",
       "content_stats": {
@@ -638,7 +1159,7 @@
         "import-from-china",
         "alibaba-1688"
       ],
-      "url": "https://youtube.com/results?search_query=%E4%B8%AD%E5%9B%BD%E8%BC%B8%E5%85%A5",
+      "url": "https://youtube.com/results?search_query=中国+輸入",
       "authority_score": "B",
       "collection_priority": "medium",
       "content_stats": {
@@ -658,98 +1179,35 @@
         "has_internal_links": false,
         "has_external_links": false
       }
-    },
-    {
-      "source_id": "blog-ecommerce-de",
-      "name": "E-Commerce Germany",
-      "type": "blog",
-      "language": "de",
-      "country": "DE",
-      "topics": [
-        "import-from-china",
-        "dropshipping",
-        "make-money-online"
-      ],
-      "url": "https://www.ecommerce.de",
-      "authority_score": "A",
-      "collection_priority": "high",
-      "content_stats": {
-        "total_articles_12m": 200,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 3,
-        "stale_threshold_days": 30
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
-    },
-    {
-      "source_id": "youtube-junglescout-en",
-      "name": "Jungle Scout",
-      "type": "youtube",
-      "language": "en",
-      "country": "US",
-      "topics": [
-        "product-tips",
-        "import-from-china",
-        "make-money-online"
-      ],
-      "url": "https://youtube.com/@JungleScout",
-      "subscribers": 350000,
-      "authority_score": "A",
-      "collection_priority": "high",
-      "content_stats": {
-        "total_videos_12m": 100,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
-      },
-      "freshness": {
-        "last_content_date": null,
-        "avg_frequency_days": 5,
-        "stale_threshold_days": 14
-      },
-      "metadata_completeness": {
-        "has_transcripts": false,
-        "has_images": false,
-        "has_internal_links": false,
-        "has_external_links": false
-      }
     }
   ],
   "collection_summary": {
-    "total_sources": 22,
+    "total_sources": 37,
+    "total_estimated_items": 28870,
+    "total_extracted": 36,
+    "overall_coverage_pct": 0.12,
     "by_language": {
-      "pt": 4,
-      "en": 9,
-      "es": 1,
-      "pl": 2,
+      "en": 15,
+      "pt": 9,
+      "es": 3,
+      "zh": 4,
       "de": 2,
-      "zh": 2,
+      "pl": 2,
       "ko": 1,
       "ja": 1
     },
     "by_type": {
-      "youtube": 10,
-      "blog": 10,
-      "reddit": 2
+      "blog": 16,
+      "youtube": 12,
+      "reddit": 2,
+      "tiktok": 4,
+      "web-portal": 2,
+      "forum": 1
     },
     "by_priority": {
-      "critical": 8,
-      "high": 11,
-      "medium": 3
+      "critical": 13,
+      "high": 19,
+      "medium": 5
     }
-  },
-  "date": "2026-07-25",
-  "language": "en",
-  "platform": "unknown",
-  "url": "https://unknown.com"
+  }
 }

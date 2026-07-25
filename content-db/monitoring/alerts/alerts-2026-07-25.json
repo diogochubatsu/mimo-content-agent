@@ -1,78 +1,63 @@
 [
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-ambientpanda-pt",
-    "message": "AmbientPanda extraction at 0% (0/180)"
+    "source": "blog-shopify-en",
+    "message": "Shopify Blog extraction at 0% (0/500)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "youtube-ambientpanda-pt",
-    "message": "AmbientPanda has never been collected"
+    "source": "blog-shopify-en",
+    "message": "Shopify Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-canalecommerce-pt",
-    "message": "Canal Ecommerce extraction at 0% (0/120)"
+    "source": "blog-jingsourcing-en",
+    "message": "Jingsourcing Blog extraction at 0% (0/200)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "youtube-canalecommerce-pt",
-    "message": "Canal Ecommerce has never been collected"
+    "source": "blog-jingsourcing-en",
+    "message": "Jingsourcing Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-wholesaleted-en",
-    "message": "Wholesale Ted extraction at 0% (0/200)"
+    "source": "blog-leeline-en",
+    "message": "Leeline Sourcing Blog extraction at 0% (0/150)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "youtube-wholesaleted-en",
-    "message": "Wholesale Ted has never been collected"
+    "source": "blog-leeline-en",
+    "message": "Leeline Sourcing Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-importdojo-en",
-    "message": "ImportDojo extraction at 0% (0/100)"
+    "source": "blog-autods-en",
+    "message": "AutoDS Blog extraction at 0% (0/200)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "youtube-importdojo-en",
-    "message": "ImportDojo has never been collected"
+    "source": "blog-autods-en",
+    "message": "AutoDS Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-nomadmatt-en",
-    "message": "Nomad Matt extraction at 0% (0/80)"
+    "source": "blog-alidropship-en",
+    "message": "AliDropship Blog extraction at 0% (0/150)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "youtube-nomadmatt-en",
-    "message": "Nomad Matt has never been collected"
+    "source": "blog-alidropship-en",
+    "message": "AliDropship Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-yomidenzel-es",
-    "message": "Yomi Denzel extraction at 6% (9/150)"
-  },
-  {
-    "type": "LOW_COVERAGE",
-    "source": "blog-ecommercebrasil-pt",
-    "message": "E-Commerce Brasil extraction at 7.5% (15/200)"
-  },
-  {
-    "type": "LOW_COVERAGE",
-    "source": "blog-sebrae-pt",
-    "message": "Sebrae extraction at 2% (10/500)"
-  },
-  {
-    "type": "LOW_COVERAGE",
-    "source": "blog-amazing-en",
-    "message": "Amazing.com extraction at 0% (0/150)"
+    "source": "blog-cjdropshipping-en",
+    "message": "CJDropshipping Blog extraction at 0% (0/100)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "blog-amazing-en",
-    "message": "Amazing.com has never been collected"
+    "source": "blog-cjdropshipping-en",
+    "message": "CJDropshipping Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
@@ -96,6 +81,46 @@
   },
   {
     "type": "LOW_COVERAGE",
+    "source": "blog-bansarchina-en",
+    "message": "BansarChina extraction at 0% (0/100)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-bansarchina-en",
+    "message": "BansarChina has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-wholesaleted-en",
+    "message": "Wholesale Ted extraction at 0% (0/200)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-wholesaleted-en",
+    "message": "Wholesale Ted has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-jingsourcing-en",
+    "message": "Jingsourcing YouTube extraction at 0% (0/100)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-jingsourcing-en",
+    "message": "Jingsourcing YouTube has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-importdojo-en",
+    "message": "ImportDojo extraction at 0% (0/100)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-importdojo-en",
+    "message": "ImportDojo has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
     "source": "reddit-amazonfba-en",
     "message": "r/AmazonFBA extraction at 0% (0/5000)"
   },
@@ -116,18 +141,158 @@
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "blog-ecommercepolska-pl",
-    "message": "E-Commerce Polska extraction at 2.5% (2/80)"
-  },
-  {
-    "type": "LOW_COVERAGE",
-    "source": "blog-allegro-pl",
-    "message": "Allegro Blog extraction at 0% (0/100)"
+    "source": "tiktok-jingsourcing-en",
+    "message": "Jingsourcing TikTok extraction at 0% (0/200)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "blog-allegro-pl",
-    "message": "Allegro Blog has never been collected"
+    "source": "tiktok-jingsourcing-en",
+    "message": "Jingsourcing TikTok has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-chinagate-pt",
+    "message": "China Gate / R. Giraldelli extraction at 0% (0/200)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-chinagate-pt",
+    "message": "China Gate / R. Giraldelli has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-jotafiuza-pt",
+    "message": "Jota Fiuza extraction at 0% (0/300)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-jotafiuza-pt",
+    "message": "Jota Fiuza has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-leomiranda-pt",
+    "message": "Leo Miranda / China Facil extraction at 0% (0/150)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-leomiranda-pt",
+    "message": "Leo Miranda / China Facil has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-albertokouty-pt",
+    "message": "Alberto Kouty extraction at 0% (0/150)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-albertokouty-pt",
+    "message": "Alberto Kouty has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-ecommercebrasil-pt",
+    "message": "E-Commerce Brasil extraction at 7.5% (15/200)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-sebrae-pt",
+    "message": "Sebrae extraction at 2% (10/500)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-maino-pt",
+    "message": "Maino Blog extraction at 0% (0/100)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-maino-pt",
+    "message": "Maino Blog has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "tiktok-chinafacil-pt",
+    "message": "China Facil TikTok extraction at 0% (0/300)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "tiktok-chinafacil-pt",
+    "message": "China Facil TikTok has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "tiktok-cortesdojota-pt",
+    "message": "Cortes do Jota TikTok extraction at 0% (0/500)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "tiktok-cortesdojota-pt",
+    "message": "Cortes do Jota TikTok has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-yomidenzel-es",
+    "message": "Yomi Denzel extraction at 6% (9/150)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-adriansaenz-es",
+    "message": "Adrian Saenz extraction at 0% (0/200)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-adriansaenz-es",
+    "message": "Adrian Saenz has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "tiktok-adriansaenz-es",
+    "message": "Adrian Saenz TikTok extraction at 0% (0/500)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "tiktok-adriansaenz-es",
+    "message": "Adrian Saenz TikTok has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "web-hugocrossborder-zh",
+    "message": "雨果跨境 (Hugo Cross-Border) extraction at 0% (0/2000)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "web-hugocrossborder-zh",
+    "message": "雨果跨境 (Hugo Cross-Border) has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "web-maijia-zh",
+    "message": "卖家之家 (Maijia) extraction at 0% (0/1500)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "web-maijia-zh",
+    "message": "卖家之家 (Maijia) has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "web-zhihu-zh",
+    "message": "知乎 (Zhihu) extraction at 0% (0/5000)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "web-zhihu-zh",
+    "message": "知乎 (Zhihu) has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "video-bilibili-zh",
+    "message": "Bilibili 跨境电商 extraction at 0% (0/1000)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "video-bilibili-zh",
+    "message": "Bilibili 跨境电商 has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
@@ -141,23 +306,28 @@
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "youtube-1688tutorial-zh",
-    "message": "1688 Tutorial Channels extraction at 0% (0/500)"
+    "source": "blog-ecommerce-de",
+    "message": "E-Commerce Germany extraction at 0% (0/200)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "youtube-1688tutorial-zh",
-    "message": "1688 Tutorial Channels has never been collected"
+    "source": "blog-ecommerce-de",
+    "message": "E-Commerce Germany has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
-    "source": "blog-alibaba-zh",
-    "message": "Alibaba.com Guides extraction at 0% (0/300)"
+    "source": "blog-ecommercepolska-pl",
+    "message": "E-Commerce Polska extraction at 2.5% (2/80)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-allegro-pl",
+    "message": "Allegro Blog extraction at 0% (0/100)"
   },
   {
     "type": "NEVER_COLLECTED",
-    "source": "blog-alibaba-zh",
-    "message": "Alibaba.com Guides has never been collected"
+    "source": "blog-allegro-pl",
+    "message": "Allegro Blog has never been collected"
   },
   {
     "type": "LOW_COVERAGE",
@@ -178,25 +348,5 @@
     "type": "NEVER_COLLECTED",
     "source": "youtube-japanimport-ja",
     "message": "Japan Import Channel has never been collected"
-  },
-  {
-    "type": "LOW_COVERAGE",
-    "source": "blog-ecommerce-de",
-    "message": "E-Commerce Germany extraction at 0% (0/200)"
-  },
-  {
-    "type": "NEVER_COLLECTED",
-    "source": "blog-ecommerce-de",
-    "message": "E-Commerce Germany has never been collected"
-  },
-  {
-    "type": "LOW_COVERAGE",
-    "source": "youtube-junglescout-en",
-    "message": "Jungle Scout extraction at 0% (0/100)"
-  },
-  {
-    "type": "NEVER_COLLECTED",
-    "source": "youtube-junglescout-en",
-    "message": "Jungle Scout has never been collected"
   }
 ]
