@@ -1036,9 +1036,9 @@
       "acceptance": "First Polish article published",
       "id": "T346",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
-      "result": null,
+      "result": "Created content-db/silver/import-zchin-kompletny-przewodnik.md (2800+ words PL) - Allegro seller integration guide covering: account setup, Allegro Smart, cross-border CZ/SK/HU, VAT/BDO/EPR/LUCID, product listing optimization, Allegro Ads, cost calculator, 12-question FAQ",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
