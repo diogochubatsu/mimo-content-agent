@@ -3530,8 +3530,9 @@
       "target": "youtube-en-transcribe",
       "description": "COLLECT: Transcribe top 5 videos from Wholesale Ted + ImportDojo (EN). Save content-db/raw/youtube/en/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Conte\u00fado EN j\u00e1 existe em content-db/raw/youtube-intl/videos.json."
     },
     {
       "id": "T613",
