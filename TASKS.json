@@ -3541,8 +3541,9 @@
       "target": "youtube-es-transcribe",
       "description": "COLLECT: Transcribe top 5 videos from Yomi Denzel (ES). Save content-db/raw/youtube/es/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Conte\u00fado ES j\u00e1 existe em content-db/raw/youtube-es/videos.json."
     },
     {
       "id": "T614",
