@@ -78,7 +78,7 @@
       "decisions": [
         "Usar JSON estruturado para comunicacao",
         "Focar em 1 site primeiro",
-        "Pipeline Bronze\u2192Silver como prioridade #1"
+        "Pipeline Bronze→Silver como prioridade #1"
       ]
     },
     {
@@ -232,7 +232,7 @@
       "to": "gcp",
       "type": "update",
       "target": "lessons-learned",
-      "description": "Atualizar LESSONS-LEARNED.md com descobertas desta sessao. Adicionar metricas, melhorias, li\u00e7\u00f5es para futuras sessoes.",
+      "description": "Atualizar LESSONS-LEARNED.md com descobertas desta sessao. Adicionar metricas, melhorias, lições para futuras sessoes.",
       "files": [],
       "acceptance": "",
       "priority": "medium",
@@ -302,7 +302,7 @@
       "to": "gcp",
       "type": "meta",
       "target": "innovation-loop",
-      "description": "CICLO DE INOVA\u00c7\u00c3O: Analisar o que outros projetos de content agent estao fazendo. Identificar melhorias ao fork. Propor features novas.",
+      "description": "CICLO DE INOVAÇÃO: Analisar o que outros projetos de content agent estao fazendo. Identificar melhorias ao fork. Propor features novas.",
       "files": [],
       "acceptance": "",
       "priority": "medium",
@@ -316,7 +316,7 @@
       "to": "gcp",
       "type": "recurring",
       "target": "team-review",
-      "description": "RECORRENTE (a cada 6h): REVISAO DA EQUIPE: 1) Ler self-reviews de pc-1 e pc-2 2) Consolidar li\u00e7\u00f5es aprendidas 3) Identificar gargalos 4) Ajustar distribuicao de tasks 5) Propor mudancas na estrutura 6) Atualizar TEAM-REVIEW.md 7) Comunicar resultados",
+      "description": "RECORRENTE (a cada 6h): REVISAO DA EQUIPE: 1) Ler self-reviews de pc-1 e pc-2 2) Consolidar lições aprendidas 3) Identificar gargalos 4) Ajustar distribuicao de tasks 5) Propor mudancas na estrutura 6) Atualizar TEAM-REVIEW.md 7) Comunicar resultados",
       "files": [],
       "acceptance": "",
       "priority": "medium",
@@ -379,9 +379,9 @@
       "acceptance": "15+ artigos da maior comunidade ecommerce BR",
       "id": "T263",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
-      "result": null,
+      "result": "15 articles collected from Ecommerce Brasil. Covered dropshipping, importacao, fornecedores chineses, Temu, Shein, cross-border.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -517,7 +517,7 @@
     {
       "type": "collect",
       "target": "collect-sebrae",
-      "description": "Collect 10 articles from Sebrae (sebrae.com.br) about import, comex, taxa\u00e7\u00e3o. Save to content-db/blogs/sebrae-pt/",
+      "description": "Collect 10 articles from Sebrae (sebrae.com.br) about import, comex, taxação. Save to content-db/blogs/sebrae-pt/",
       "priority": "high",
       "acceptance": "10 articles with complete metadata",
       "id": "T300",
@@ -525,7 +525,7 @@
       "to": "pc-2",
       "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": "10 articles collected from Sebrae/ASN about importa\u00e7\u00e3o, comex, and tributa\u00e7\u00e3o. Saved as individual .md files with frontmatter in content-db/blogs/sebrae-pt/. Topics covered: al\u00edquotas zero de importa\u00e7\u00e3o, cotas de importa\u00e7\u00e3o, autope\u00e7as, bens de capital, prote\u00e7\u00e3o \u00e0 vida, zonas francas, produtos m\u00e9dicos, e expans\u00e3o internacional.",
+      "result": "10 articles collected from Sebrae/ASN about importação, comex, and tributação. Saved as individual .md files with frontmatter in content-db/blogs/sebrae-pt/. Topics covered: alíquotas zero de importação, cotas de importação, autopeças, bens de capital, proteção à vida, zonas francas, produtos médicos, e expansão internacional.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -539,9 +539,9 @@
       "id": "T301",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "15 articles collected from Ecommerce Brasil (ecommercebrasil.com.br) about dropshipping, importacao, and fornecedores chineses. Saved as individual .md files with frontmatter in content-db/blogs/ecommerce-brasil-pt/. Topics covered: dropshipping future 2026, digital dropshipping, national dropshipping, China import strategies, Temu/TikTok Shop, import taxes, NCM classification, supplier relations, cross-border ecommerce.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -693,7 +693,7 @@
     {
       "type": "create",
       "target": "silver-es-importacion-guia",
-      "description": "Create Silver article: Gu\u00eda Completa para Importar de China a Latinoam\u00e9rica (ES). Use Yomi Denzel data. 2000+ words.",
+      "description": "Create Silver article: Guía Completa para Importar de China a Latinoamérica (ES). Use Yomi Denzel data. 2000+ words.",
       "priority": "high",
       "acceptance": "Article published in Spanish with 2000+ words",
       "id": "T311",
@@ -709,7 +709,7 @@
     {
       "type": "create",
       "target": "silver-de-alibaba-deutschland",
-      "description": "Create Silver article: Alibaba Einkaufen f\u00fcr Deutschland - Kompletter Leitfaden (DE). 2000+ words.",
+      "description": "Create Silver article: Alibaba Einkaufen für Deutschland - Kompletter Leitfaden (DE). 2000+ words.",
       "priority": "medium",
       "acceptance": "Article published in German with 2000+ words",
       "id": "T312",
@@ -758,7 +758,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-de-guia-completo",
-      "description": "Create Silver article: Kompletter Leitfaden f\u00fcr den Import aus China nach Deutschland (DE). Use Importlizenz data. 2500+ words, 5+ images.",
+      "description": "Create Silver article: Kompletter Leitfaden für den Import aus China nach Deutschland (DE). Use Importlizenz data. 2500+ words, 5+ images.",
       "priority": "high",
       "acceptance": "Article published in German with 2500+ words",
       "id": "T329",
@@ -790,7 +790,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-guoyinchukou",
-      "description": "Create Silver article: \u4e2d\u56fd\u51fa\u53e3\u5b8c\u6574\u6307\u5357 (ZH). Chinese language content. 2000+ words.",
+      "description": "Create Silver article: 中国出口完整指南 (ZH). Chinese language content. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T331",
@@ -806,7 +806,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-hanguk",
-      "description": "Create Silver article: \ud55c\uad6d\uc5d0\uc11c \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc (KO). Korean content. 2000+ words.",
+      "description": "Create Silver article: 한국에서 중국 수입 완전 가이드 (KO). Korean content. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T332",
@@ -822,7 +822,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-nihon",
-      "description": "Create Silver article: \u4e2d\u56fd\u304b\u3089\u306e\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 (JA). Japanese content. 2000+ words.",
+      "description": "Create Silver article: 中国からの輸入完全ガイド (JA). Japanese content. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T333",
@@ -918,7 +918,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-guochukou",
-      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u51fa\u53e3\u5b8c\u6574\u6307\u5357. 2000+ words.",
+      "description": "Create Chinese article: 中国跨境出口完整指南. 2000+ words.",
       "priority": "high",
       "acceptance": "Chinese article published",
       "id": "T339",
@@ -934,7 +934,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-jungguk",
-      "description": "Create Korean article: \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "high",
       "acceptance": "Korean article published",
       "id": "T340",
@@ -950,7 +950,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-chugoku",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "high",
       "acceptance": "Japanese article published",
       "id": "T341",
@@ -1046,7 +1046,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-kuajing",
-      "description": "Create Chinese article: \u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T347",
@@ -1062,7 +1062,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-hanguk-import",
-      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T348",
@@ -1078,7 +1078,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-chugoku-yunyu",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T349",
@@ -1126,7 +1126,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "bronze-enrichment-pipeline",
-      "description": "Build pipeline that auto-enriches bronze records: add language from content analysis, add current date, extract source URLs, generate quality score. Target: convert 10 C\u2192A sources.",
+      "description": "Build pipeline that auto-enriches bronze records: add language from content analysis, add current date, extract source URLs, generate quality score. Target: convert 10 C→A sources.",
       "priority": "high",
       "acceptance": "Pipeline enriches 10 sources from C to A quality",
       "id": "T352",
@@ -1174,7 +1174,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-kuajingzhinan",
-      "description": "Create Chinese article: \u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T355",
@@ -1190,7 +1190,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-jungguk-suyip",
-      "description": "Create Korean article: \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T356",
@@ -1206,7 +1206,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-chugoku-yunyu",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T357",
@@ -1238,7 +1238,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "repurpose-engine-v2",
-      "description": "Engine that takes silver article \u2192 generates: Reddit post (data+CTA), Twitter thread (5 tweets), LinkedIn post, newsletter snippet. Output to content-db/social/.",
+      "description": "Engine that takes silver article → generates: Reddit post (data+CTA), Twitter thread (5 tweets), LinkedIn post, newsletter snippet. Output to content-db/social/.",
       "priority": "medium",
       "acceptance": "Engine generates 4 formats from 1 article",
       "id": "T359",
@@ -1254,7 +1254,7 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-tiktok-metadata-final",
-      "description": "Final fix for all tiktok files (3): add date, url, lang, title. Convert remaining C\u2192A.",
+      "description": "Final fix for all tiktok files (3): add date, url, lang, title. Convert remaining C→A.",
       "priority": "high",
       "acceptance": "All 3 tiktok files become A-quality",
       "id": "T360",
@@ -1318,7 +1318,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-v2",
-      "description": "Create Chinese article: \u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T364",
@@ -1334,7 +1334,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-v2",
-      "description": "Create Korean article: \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T365",
@@ -1350,7 +1350,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-v2",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T366",
@@ -1446,7 +1446,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-zhongguo",
-      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T372",
@@ -1462,7 +1462,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-hanguk",
-      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T373",
@@ -1478,7 +1478,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-nihon",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T374",
@@ -1590,7 +1590,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-final",
-      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T381",
@@ -1606,7 +1606,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-final",
-      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T382",
@@ -1622,7 +1622,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-final",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T383",
@@ -1734,7 +1734,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-quancheng",
-      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T390",
@@ -1750,7 +1750,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-wanjeon",
-      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T391",
@@ -1766,7 +1766,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-kanzen",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T392",
@@ -1878,7 +1878,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-complete",
-      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Chinese article published",
       "id": "T399",
@@ -1894,7 +1894,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-complete",
-      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Korean article published",
       "id": "T400",
@@ -1910,7 +1910,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-complete",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "acceptance": "Japanese article published",
       "id": "T401",
@@ -2129,7 +2129,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-zh-article",
-      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T08:45:00Z",
@@ -2140,7 +2140,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ko-article",
-      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T08:45:00Z",
@@ -2151,7 +2151,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "silver-ja-article",
-      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T08:45:00Z",
@@ -2235,7 +2235,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "zh-first-article",
-      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create first Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T09:00:00Z"
@@ -2245,7 +2245,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ko-first-article",
-      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create first Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T09:00:00Z"
@@ -2255,7 +2255,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ja-first-article",
-      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create first Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T09:00:00Z"
@@ -2335,7 +2335,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "zh-premier-article",
-      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create first Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T09:30:00Z"
@@ -2345,7 +2345,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ko-premier-article",
-      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create first Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T09:30:00Z"
@@ -2355,7 +2355,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ja-premier-article",
-      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create first Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T09:30:00Z"
@@ -2435,7 +2435,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "zh-ultimate-article",
-      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create first Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T10:00:00Z"
@@ -2445,7 +2445,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ko-ultimate-article",
-      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create first Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T10:00:00Z"
@@ -2455,7 +2455,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ja-ultimate-article",
-      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create first Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T10:00:00Z"
@@ -2535,7 +2535,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "zh-flagship-article",
-      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create first Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T10:30:00Z"
@@ -2545,7 +2545,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ko-flagship-article",
-      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create first Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T10:30:00Z"
@@ -2555,7 +2555,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ja-flagship-article",
-      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create first Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T10:30:00Z"
@@ -2635,7 +2635,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "zh-mastery-article",
-      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "description": "Create first Chinese article: 中国跨境电商完整指南 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T11:00:00Z"
@@ -2645,7 +2645,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ko-mastery-article",
-      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "description": "Create first Korean article: 한국 중국 수입 완전 가이드 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T11:00:00Z"
@@ -2655,7 +2655,7 @@
       "to": "pc-2",
       "type": "create",
       "target": "ja-mastery-article",
-      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "description": "Create first Japanese article: 中国輸入完全ガイド 2026. 2000+ words.",
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T11:00:00Z"
@@ -2975,7 +2975,7 @@
       "to": "gcp",
       "type": "research",
       "target": "technology-stack-review",
-      "description": "Review technology stack: is Next.js still the best choice? What\u65b0\u6280\u672f could improve our pipeline?",
+      "description": "Review technology stack: is Next.js still the best choice? What新技术 could improve our pipeline?",
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T14:29:00Z"
@@ -4827,7 +4827,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "pipeline-runner",
-      "description": "Criar pipeline que conecta Scout \u2192 Writer \u2192 Editor \u2192 Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
+      "description": "Criar pipeline que conecta Scout → Writer → Editor → Output. Deve aceitar input de topics e gerar artigo Silver automaticamente.",
       "files": [
         "src/pipeline.ts",
         "src/runner.ts"
@@ -4954,7 +4954,7 @@
       "deadline": "2026-07-30",
       "status": "done",
       "created": "2026-07-23T10:25:00Z",
-      "result": "SEO t\u00e9cnico implementado: robots.txt, sitemap.xml.js, SEO component com schema.org (Article, FAQ, Breadcrumb), Layout atualizado.",
+      "result": "SEO técnico implementado: robots.txt, sitemap.xml.js, SEO component com schema.org (Article, FAQ, Breadcrumb), Layout atualizado.",
       "depends_on": [
         "T002"
       ],
@@ -5029,7 +5029,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:32:19Z",
-      "result": "Error handling adicionado em todas as fases: scoutPhase, writerPhase, editorPhase, outputPhase, runPipeline. Valida\u00e7\u00e3o de inputs, try/catch em cada fase, mensagens de erro claras."
+      "result": "Error handling adicionado em todas as fases: scoutPhase, writerPhase, editorPhase, outputPhase, runPipeline. Validação de inputs, try/catch em cada fase, mensagens de erro claras."
     },
     {
       "id": "T012",
@@ -5057,7 +5057,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:32:21Z",
-      "result": "SEO Agent criado: generateSEOMetadata, generateSchema, generateFAQSchema, analyzeSEO. Pronto para integra\u00e7\u00e3o."
+      "result": "SEO Agent criado: generateSEOMetadata, generateSchema, generateFAQSchema, analyzeSEO. Pronto para integração."
     },
     {
       "id": "T014",
@@ -5085,7 +5085,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:35:21Z",
-      "result": "Conclu\u00eddo via T011 - Error handling adicionado em todas as fases do pipeline."
+      "result": "Concluído via T011 - Error handling adicionado em todas as fases do pipeline."
     },
     {
       "id": "T016",
@@ -5099,7 +5099,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:35:22Z",
-      "result": "Conclu\u00eddo via T012 - pipeline.config.json criado com paths, fontes, templates."
+      "result": "Concluído via T012 - pipeline.config.json criado com paths, fontes, templates."
     },
     {
       "id": "T017",
@@ -5113,7 +5113,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:35:22Z",
-      "result": "SEO Agent TypeScript criado: src/agents/seo.ts com interfaces tipadas e fun\u00e7\u00f5es completas."
+      "result": "SEO Agent TypeScript criado: src/agents/seo.ts com interfaces tipadas e funções completas."
     },
     {
       "id": "T018",
@@ -5127,7 +5127,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:35:23Z",
-      "result": "Testes criados: 10 testes passando. Cobrem pipeline (runPipeline, valida\u00e7\u00e3o) e SEO Agent (metadata, schema, analyze)."
+      "result": "Testes criados: 10 testes passando. Cobrem pipeline (runPipeline, validação) e SEO Agent (metadata, schema, analyze)."
     },
     {
       "id": "T019",
@@ -5323,7 +5323,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:40:23Z",
-      "result": "Tarefa antiga - j\u00e1 estamos trabalhando ativamente. PC-1 completou 20+ tasks nesta sess\u00e3o."
+      "result": "Tarefa antiga - já estamos trabalhando ativamente. PC-1 completou 20+ tasks nesta sessão."
     },
     {
       "id": "T033",
@@ -5435,7 +5435,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:56:23Z",
-      "result": "7 canais YouTube mapeados em 7 idiomas (de, pl, ja, ko, zh-TW, es, pt). 21 v\u00eddeos documentados. Arquivo: content-db/raw/youtube-dropshipping.json"
+      "result": "7 canais YouTube mapeados em 7 idiomas (de, pl, ja, ko, zh-TW, es, pt). 21 vídeos documentados. Arquivo: content-db/raw/youtube-dropshipping.json"
     },
     {
       "id": "T041",
@@ -5449,7 +5449,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T00:56:24Z",
-      "result": "20 v\u00eddeos TikTok mapeados em 4 hashtags (productfinds, dropshipping, 1688, amazonfba). 25M+ views total. Dados de pre\u00e7o e margem inclu\u00eddos."
+      "result": "20 vídeos TikTok mapeados em 4 hashtags (productfinds, dropshipping, 1688, amazonfba). 25M+ views total. Dados de preço e margem incluídos."
     },
     {
       "id": "T049",
@@ -5491,7 +5491,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T01:25:13Z",
-      "result": "6 testes m\u00ednimos criados em tests/pipeline-minimal.test.js. Todos passando. Cobrem: pipeline output, tiers, valida\u00e7\u00e3o, SEO agent."
+      "result": "6 testes mínimos criados em tests/pipeline-minimal.test.js. Todos passando. Cobrem: pipeline output, tiers, validação, SEO agent."
     },
     {
       "id": "T052",
@@ -6009,7 +6009,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T02:32:30Z",
-      "result": "Script generate-pages.js criado. Gera p\u00e1ginas Next.js automaticamente a partir de content-db/. 15+ p\u00e1ginas geradas."
+      "result": "Script generate-pages.js criado. Gera páginas Next.js automaticamente a partir de content-db/. 15+ páginas geradas."
     },
     {
       "id": "T094",
@@ -6037,7 +6037,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T02:32:32Z",
-      "result": "Plausible analytics j\u00e1 configurado no Layout.js. Script tag presente com data-domain=importguide1688.com"
+      "result": "Plausible analytics já configurado no Layout.js. Script tag presente com data-domain=importguide1688.com"
     },
     {
       "id": "T096",
@@ -6135,7 +6135,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T02:59:37Z",
-      "result": "\u00daltimas 5 tasks revisadas: T120 (calendar), T119 (auto-tasks), T115-T116-T113 (artigos Silver). Todas conclu\u00eddas com sucesso."
+      "result": "Últimas 5 tasks revisadas: T120 (calendar), T119 (auto-tasks), T115-T116-T113 (artigos Silver). Todas concluídas com sucesso."
     },
     {
       "id": "T103",
@@ -6149,7 +6149,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T02:59:37Z",
-      "result": "An\u00e1lise conclu\u00edda: 6 src, 7 scripts, 2 testes, 90 content-db, 49 p\u00e1ginas site. Recomenda\u00e7\u00e3o: mais testes, docs, e padroniza\u00e7\u00e3o."
+      "result": "Análise concluída: 6 src, 7 scripts, 2 testes, 90 content-db, 49 páginas site. Recomendação: mais testes, docs, e padronização."
     },
     {
       "id": "T104",
@@ -6157,13 +6157,13 @@
       "to": "pc-1",
       "type": "recurring",
       "target": "learn-and-adapt",
-      "description": "RECORRENTE (a cada sessao): Identificar 3 li\u00e7\u00f5es aprendidas. Atualizar LESSONS-LEARNED.md. Sugerir ajustes para proximas tasks. Propor melhorias ao fork.",
+      "description": "RECORRENTE (a cada sessao): Identificar 3 lições aprendidas. Atualizar LESSONS-LEARNED.md. Sugerir ajustes para proximas tasks. Propor melhorias ao fork.",
       "files": [],
       "acceptance": "",
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T02:59:38Z",
-      "result": "Li\u00e7\u00f5es aprendidas atualizadas em LESSONS-LEARNED.md. Adicionadas descobertas da sess\u00e3o 3: cache, SEO automation, status page, auto-tasks."
+      "result": "Lições aprendidas atualizadas em LESSONS-LEARNED.md. Adicionadas descobertas da sessão 3: cache, SEO automation, status page, auto-tasks."
     },
     {
       "id": "T105",
@@ -6219,7 +6219,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:02:35Z",
-      "result": "Cache module criado: src/cache.js. Pipeline agora previne reprocessamento de topics j\u00e1 processados. Cache salvo em cache/processed-topics.json."
+      "result": "Cache module criado: src/cache.js. Pipeline agora previne reprocessamento de topics já processados. Cache salvo em cache/processed-topics.json."
     },
     {
       "id": "T111",
@@ -6233,7 +6233,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:02:36Z",
-      "result": "P\u00e1gina /status criada. Mostra: total de artigos, artigos por tier, fontes raw, status do pipeline."
+      "result": "Página /status criada. Mostra: total de artigos, artigos por tier, fontes raw, status do pipeline."
     },
     {
       "id": "T112",
@@ -6247,7 +6247,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:02:37Z",
-      "result": "Script validate-sources.js criado. Verifica campos obrigat\u00f3rios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
+      "result": "Script validate-sources.js criado. Verifica campos obrigatórios (source, collected_at) e recomendados em arquivos JSON de content-db/raw/."
     },
     {
       "id": "T113",
@@ -6345,7 +6345,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:30:39Z",
-      "result": "Script auto-tasks.js criado. Analisa gaps de conte\u00fado e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
+      "result": "Script auto-tasks.js criado. Analisa gaps de conteúdo e gera tasks automaticamente. Ex: tiers faltando, produtos sem artigo."
     },
     {
       "id": "T120",
@@ -6359,7 +6359,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T03:30:40Z",
-      "result": "Content calendar criado: content-db/content-calendar.json. Agenda para 2 semanas com tarefas di\u00e1rias, targets de conte\u00fado, e KPIs."
+      "result": "Content calendar criado: content-db/content-calendar.json. Agenda para 2 semanas com tarefas diárias, targets de conteúdo, e KPIs."
     },
     {
       "id": "T121",
@@ -6529,7 +6529,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T19:04:24Z",
-      "result": "Script optimize-all-seo.js criado. Executa todas as otimiza\u00e7\u00f5es SEO de uma vez: meta tags, links internos, schema.org, valida\u00e7\u00e3o."
+      "result": "Script optimize-all-seo.js criado. Executa todas as otimizações SEO de uma vez: meta tags, links internos, schema.org, validação."
     },
     {
       "id": "T133",
@@ -6543,7 +6543,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T19:06:21Z",
-      "result": "Template engine criado: src/template-engine.js. Fun\u00e7\u00f5es: loadTemplate, fillTemplate, generateFromTemplate, getTemplates."
+      "result": "Template engine criado: src/template-engine.js. Funções: loadTemplate, fillTemplate, generateFromTemplate, getTemplates."
     },
     {
       "id": "T134",
@@ -6557,7 +6557,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T19:06:23Z",
-      "result": "Conclu\u00eddo via T132 - Script optimize-all-seo.js criado."
+      "result": "Concluído via T132 - Script optimize-all-seo.js criado."
     },
     {
       "id": "T135",
@@ -6655,7 +6655,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T19:27:14Z",
-      "result": "Template bronze.md atualizado: se\u00e7\u00e3o How to Order adicionada conforme sugest\u00e3o do PC-2."
+      "result": "Template bronze.md atualizado: seção How to Order adicionada conforme sugestão do PC-2."
     },
     {
       "id": "T142",
@@ -6683,7 +6683,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T19:27:16Z",
-      "result": "Script add-faq-schema.js criado. Adiciona FAQPage schema a todos os artigos Silver que t\u00eam se\u00e7\u00e3o FAQ."
+      "result": "Script add-faq-schema.js criado. Adiciona FAQPage schema a todos os artigos Silver que têm seção FAQ."
     },
     {
       "id": "T144",
@@ -6795,7 +6795,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T19:39:03Z",
-      "result": "Dashboard de m\u00e9tricas criado: site/pages/dashboard.js. Mostra: artigos por tier, fontes, tasks, scripts, testes, progresso."
+      "result": "Dashboard de métricas criado: site/pages/dashboard.js. Mostra: artigos por tier, fontes, tasks, scripts, testes, progresso."
     },
     {
       "id": "T152",
@@ -6991,7 +6991,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:10:25Z",
-      "result": "Conclu\u00eddo via T125 - RSS feed generator criado."
+      "result": "Concluído via T125 - RSS feed generator criado."
     },
     {
       "id": "T166",
@@ -7089,7 +7089,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:15:34Z",
-      "result": "Conclu\u00eddo via T143 - Script add-faq-schema.js criado e executado."
+      "result": "Concluído via T143 - Script add-faq-schema.js criado e executado."
     },
     {
       "id": "T173",
@@ -7271,7 +7271,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:40:32Z",
-      "result": "Lazy loading n\u00e3o aplic\u00e1vel - site n\u00e3o tem imagens HTML ainda. Placeholder SVGs criados via T184."
+      "result": "Lazy loading não aplicável - site não tem imagens HTML ainda. Placeholder SVGs criados via T184."
     },
     {
       "id": "T186",
@@ -7299,7 +7299,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:40:33Z",
-      "result": "Script lighthouse-audit.js criado. An\u00e1lise est\u00e1tica do site: 0 issues, 5 recomenda\u00e7\u00f5es."
+      "result": "Script lighthouse-audit.js criado. Análise estática do site: 0 issues, 5 recomendações."
     },
     {
       "id": "T188",
@@ -7313,7 +7313,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:50:30Z",
-      "result": "Conclu\u00eddo via T125 e T171 - RSS feed e sitemap din\u00e2mico j\u00e1 implementados."
+      "result": "Concluído via T125 e T171 - RSS feed e sitemap dinâmico já implementados."
     },
     {
       "id": "T189",
@@ -7327,7 +7327,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:50:32Z",
-      "result": "Plausible analytics j\u00e1 configurado no Layout.js com data-domain=importguide1688.com"
+      "result": "Plausible analytics já configurado no Layout.js com data-domain=importguide1688.com"
     },
     {
       "id": "T190",
@@ -7341,7 +7341,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:55:29Z",
-      "result": "ErrorBoundary component criado: site/components/ErrorBoundary.js. Captura erros de JavaScript e mostra fallback amig\u00e1vel."
+      "result": "ErrorBoundary component criado: site/components/ErrorBoundary.js. Captura erros de JavaScript e mostra fallback amigável."
     },
     {
       "id": "T191",
@@ -7369,7 +7369,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:55:30Z",
-      "result": "Viewport meta tag j\u00e1 presente no Layout.js. Site j\u00e1 \u00e9 mobile-responsive via CSS."
+      "result": "Viewport meta tag já presente no Layout.js. Site já é mobile-responsive via CSS."
     },
     {
       "id": "T193",
@@ -7383,7 +7383,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:55:31Z",
-      "result": "P\u00e1gina de busca criada: site/pages/search.js. Indexa artigos bronze/silver, busca por t\u00edtulo e keywords."
+      "result": "Página de busca criada: site/pages/search.js. Indexa artigos bronze/silver, busca por título e keywords."
     },
     {
       "id": "T194",
@@ -7397,7 +7397,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T20:55:32Z",
-      "result": "Newsletter component criado: site/components/Newsletter.js. Formul\u00e1rio de captura de emails com estado de sucesso/loading."
+      "result": "Newsletter component criado: site/components/Newsletter.js. Formulário de captura de emails com estado de sucesso/loading."
     },
     {
       "id": "T195",
@@ -7411,7 +7411,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:01:56Z",
-      "result": "P\u00e1gina de blog criada: site/pages/blog.js. Lista artigos com filtros por tier (bronze/silver). Grid responsivo."
+      "result": "Página de blog criada: site/pages/blog.js. Lista artigos com filtros por tier (bronze/silver). Grid responsivo."
     },
     {
       "id": "T196",
@@ -7425,7 +7425,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:01:57Z",
-      "result": "P\u00e1ginas por categoria criadas: site/pages/category/[slug].js. 8 categorias: electronics, fashion, home, fitness, beauty, pet, car, kitchen."
+      "result": "Páginas por categoria criadas: site/pages/category/[slug].js. 8 categorias: electronics, fashion, home, fitness, beauty, pet, car, kitchen."
     },
     {
       "id": "T197",
@@ -7439,7 +7439,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:01:57Z",
-      "result": "P\u00e1gina /about criada: site/pages/about.js. Miss\u00e3o, como trabalhamos, dados, contato."
+      "result": "Página /about criada: site/pages/about.js. Missão, como trabalhamos, dados, contato."
     },
     {
       "id": "T198",
@@ -7453,7 +7453,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:01:58Z",
-      "result": "P\u00e1gina /contact criada: site/pages/contact.js. Formul\u00e1rio de contato com nome, email, mensagem. Layout responsivo."
+      "result": "Página /contact criada: site/pages/contact.js. Formulário de contato com nome, email, mensagem. Layout responsivo."
     },
     {
       "id": "T199",
@@ -7495,7 +7495,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:05:21Z",
-      "result": "Hero section atualizada: t\u00edtulo impactante, estat\u00edsticas (50+ guides, 100+ suppliers), CTA para blog."
+      "result": "Hero section atualizada: título impactante, estatísticas (50+ guides, 100+ suppliers), CTA para blog."
     },
     {
       "id": "T202",
@@ -7509,7 +7509,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:05:22Z",
-      "result": "Se\u00e7\u00e3o de artigos destaque adicionada na homepage com header e descri\u00e7\u00e3o."
+      "result": "Seção de artigos destaque adicionada na homepage com header e descrição."
     },
     {
       "id": "T203",
@@ -7663,7 +7663,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:29Z",
-      "result": "Conclu\u00eddo via scripts add-internal-links.js e add-contextual-links.js. Artigos relacionados adicionados."
+      "result": "Concluído via scripts add-internal-links.js e add-contextual-links.js. Artigos relacionados adicionados."
     },
     {
       "id": "T214",
@@ -7677,7 +7677,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:29Z",
-      "result": "TableOfContents component criado: extrai headings do markdown e gera navega\u00e7\u00e3o autom\u00e1tica."
+      "result": "TableOfContents component criado: extrai headings do markdown e gera navegação automática."
     },
     {
       "id": "T215",
@@ -7691,7 +7691,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:30Z",
-      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece ap\u00f3s scroll de 300px, smooth scroll para topo."
+      "result": "Componente BackToTop criado e adicionado ao Layout. Aparece após scroll de 300px, smooth scroll para topo."
     },
     {
       "id": "T216",
@@ -7705,7 +7705,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:31Z",
-      "result": "DarkModeToggle criado: site/components/DarkModeToggle.js. Toggle com localStorage para persistir prefer\u00eancia."
+      "result": "DarkModeToggle criado: site/components/DarkModeToggle.js. Toggle com localStorage para persistir preferência."
     },
     {
       "id": "T217",
@@ -7719,7 +7719,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:31Z",
-      "result": "Estilos de impress\u00e3o criados: site/styles/print.css. Otimiza artigos para PDF/print."
+      "result": "Estilos de impressão criados: site/styles/print.css. Otimiza artigos para PDF/print."
     },
     {
       "id": "T218",
@@ -7733,7 +7733,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:15:32Z",
-      "result": "Breadcrumbs component criado: site/components/Breadcrumbs.js. Navega\u00e7\u00e3o Home > Category > Article."
+      "result": "Breadcrumbs component criado: site/components/Breadcrumbs.js. Navegação Home > Category > Article."
     },
     {
       "id": "T219",
@@ -8097,7 +8097,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:23:16Z",
-      "result": "Valida\u00e7\u00e3o de fontes: 3 v\u00e1lidas, 15 com warnings. Script validate-sources.js executado."
+      "result": "Validação de fontes: 3 válidas, 15 com warnings. Script validate-sources.js executado."
     },
     {
       "id": "T245",
@@ -8125,7 +8125,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:23:17Z",
-      "result": "Audit completo criado: scripts/comprehensive-audit.js. Verifica performance, SEO, acessibilidade, conte\u00fado. Score: 80/100."
+      "result": "Audit completo criado: scripts/comprehensive-audit.js. Verifica performance, SEO, acessibilidade, conteúdo. Score: 80/100."
     },
     {
       "id": "T247",
@@ -8139,7 +8139,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:23:18Z",
-      "result": "SEO pipeline completo executado: meta tags, links, schema, valida\u00e7\u00e3o."
+      "result": "SEO pipeline completo executado: meta tags, links, schema, validação."
     },
     {
       "id": "T248",
@@ -8153,7 +8153,7 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-24T21:23:19Z",
-      "result": "Datas adicionadas a 111 artigos silver via timestamp de modifica\u00e7\u00e3o."
+      "result": "Datas adicionadas a 111 artigos silver via timestamp de modificação."
     },
     {
       "to": "pc-2",
@@ -8198,7 +8198,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": "Datas adicionadas a 6 artigos bronze. Usando timestamp de modifica\u00e7\u00e3o do arquivo.",
+      "result": "Datas adicionadas a 6 artigos bronze. Usando timestamp de modificação do arquivo.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8262,7 +8262,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": "Script transcribe-youtube.js criado. Usa yt-dlp + whisper para transcrever v\u00eddeos YouTube.",
+      "result": "Script transcribe-youtube.js criado. Usa yt-dlp + whisper para transcrever vídeos YouTube.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8294,7 +8294,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": "Script daily-collect.js criado. Coleta dados de 11 fontes, gera relat\u00f3rio de conformidade.",
+      "result": "Script daily-collect.js criado. Coleta dados de 11 fontes, gera relatório de conformidade.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8310,7 +8310,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": "Script deduplicate-bronze.js criado. Detecta duplicatas por URL e similaridade de t\u00edtulo.",
+      "result": "Script deduplicate-bronze.js criado. Detecta duplicatas por URL e similaridade de título.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8351,7 +8351,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "auto-silver-gen",
-      "description": "Criar script que gera artigos Silver automaticamente a partir do bronze. Template selection baseado em category + language. Pipeline: bronze JSON \u2192 template \u2192 silver MD.",
+      "description": "Criar script que gera artigos Silver automaticamente a partir do bronze. Template selection baseado em category + language. Pipeline: bronze JSON → template → silver MD.",
       "priority": "high",
       "acceptance": "Script gera 1 article silver a partir de 1 bronze record",
       "id": "T270",
@@ -8374,7 +8374,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:00:00Z",
-      "result": "Script pipeline-metrics.js criado. Mostra m\u00e9tricas: bronze por idioma, silver articles, efficiency.",
+      "result": "Script pipeline-metrics.js criado. Mostra métricas: bronze por idioma, silver articles, efficiency.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8383,14 +8383,14 @@
       "to": "pc-1",
       "type": "implement",
       "target": "multi-lang-router",
-      "description": "Criar router que direciona conteudo bronze para templates corretos baseado no idioma. PT\u2192pt-br template, EN\u2192en template, etc.",
+      "description": "Criar router que direciona conteudo bronze para templates corretos baseado no idioma. PT→pt-br template, EN→en template, etc.",
       "priority": "medium",
       "acceptance": "Router processa 8 idiomas corretamente",
       "id": "T272",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:00:00Z",
-      "result": "Script content-router.js criado. Direciona conte\u00fado bronze para templates baseado no idioma detectado.",
+      "result": "Script content-router.js criado. Direciona conteúdo bronze para templates baseado no idioma detectado.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8399,7 +8399,7 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-amazon-metadata",
-      "description": "Corrigir amazon/trending-products-2026.json: adicionar date, url, lang, title em todos os 30 registros. Fonte C\u2192A.",
+      "description": "Corrigir amazon/trending-products-2026.json: adicionar date, url, lang, title em todos os 30 registros. Fonte C→A.",
       "priority": "high",
       "acceptance": "Todos 30 registros com metadata completa",
       "id": "T274",
@@ -8415,7 +8415,7 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-pinterest-metadata",
-      "description": "Corrigir pinterest/trends-2026.json: adicionar date, url, lang, title. Fonte C\u2192A.",
+      "description": "Corrigir pinterest/trends-2026.json: adicionar date, url, lang, title. Fonte C→A.",
       "priority": "medium",
       "acceptance": "Todos registros com metadata completa",
       "id": "T275",
@@ -8431,14 +8431,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-reddit-trending",
-      "description": "Corrigir reddit/trending_posts_2026-07-24.json: adicionar date, url, lang, title. Fonte C\u2192A.",
+      "description": "Corrigir reddit/trending_posts_2026-07-24.json: adicionar date, url, lang, title. Fonte C→A.",
       "priority": "medium",
       "acceptance": "Todos registros com metadata completa",
       "id": "T276",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: date, url, language, platform.",
+      "result": "Metadata corrigido em múltiplos arquivos: date, url, language, platform.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8447,14 +8447,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-1688-guides",
-      "description": "Corrigir root/1688-guides.json: adicionar date, url, lang, title. Fonte C\u2192A.",
+      "description": "Corrigir root/1688-guides.json: adicionar date, url, lang, title. Fonte C→A.",
       "priority": "medium",
       "acceptance": "Todos registros com metadata completa",
       "id": "T277",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: date, url, language, platform.",
+      "result": "Metadata corrigido em múltiplos arquivos: date, url, language, platform.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8463,14 +8463,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-tiktok-all",
-      "description": "Corrigir TODOS os arquivos tiktok (3 arquivos): adicionar date, url, lang, title. Fontes C\u2192A.",
+      "description": "Corrigir TODOS os arquivos tiktok (3 arquivos): adicionar date, url, lang, title. Fontes C→A.",
       "priority": "high",
       "acceptance": "Todos 3 arquivos tiktok com metadata completa",
       "id": "T278",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: date, url, language, platform.",
+      "result": "Metadata corrigido em múltiplos arquivos: date, url, language, platform.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8479,14 +8479,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-trends-metadata",
-      "description": "Corrigir trends/google-trends.json: adicionar date, url, lang, title. Fonte C\u2192A.",
+      "description": "Corrigir trends/google-trends.json: adicionar date, url, lang, title. Fonte C→A.",
       "priority": "medium",
       "acceptance": "Todos registros com metadata completa",
       "id": "T279",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: trends, weibo, youtube, news.",
+      "result": "Metadata corrigido em múltiplos arquivos: trends, weibo, youtube, news.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8495,14 +8495,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-weibo-metadata",
-      "description": "Corrigir weibo/trends.json: adicionar date, url, lang, title. Fonte C\u2192A.",
+      "description": "Corrigir weibo/trends.json: adicionar date, url, lang, title. Fonte C→A.",
       "priority": "medium",
       "acceptance": "Todos 12 registros com metadata completa",
       "id": "T280",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: trends, weibo, youtube, news.",
+      "result": "Metadata corrigido em múltiplos arquivos: trends, weibo, youtube, news.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8511,14 +8511,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-youtube-dates",
-      "description": "Corrigir TODOS os arquivos youtube (6 arquivos): adicionar campo date. Fontes B\u2192A.",
+      "description": "Corrigir TODOS os arquivos youtube (6 arquivos): adicionar campo date. Fontes B→A.",
       "priority": "high",
       "acceptance": "Todos 6 arquivos youtube com date",
       "id": "T281",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: trends, weibo, youtube, news.",
+      "result": "Metadata corrigido em múltiplos arquivos: trends, weibo, youtube, news.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8527,14 +8527,14 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-news-lang",
-      "description": "Corrigir news/trade-news-2026.json: adicionar campo lang. Fonte B\u2192A.",
+      "description": "Corrigir news/trade-news-2026.json: adicionar campo lang. Fonte B→A.",
       "priority": "low",
       "acceptance": "Todos registros com lang",
       "id": "T282",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": "Metadata corrigido em m\u00faltiplos arquivos: trends, weibo, youtube, news.",
+      "result": "Metadata corrigido em múltiplos arquivos: trends, weibo, youtube, news.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8543,7 +8543,7 @@
       "to": "pc-1",
       "type": "fix",
       "target": "fix-reddit-lang",
-      "description": "Corrigir reddit/extra-reddit-posts.json: adicionar campo lang. Fonte B\u2192A.",
+      "description": "Corrigir reddit/extra-reddit-posts.json: adicionar campo lang. Fonte B→A.",
       "priority": "low",
       "acceptance": "Todos registros com lang",
       "id": "T283",
@@ -8742,7 +8742,7 @@
       "to": "pc-1",
       "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": "Script keyword-density.js criado. Analisa densidade de keywords prim\u00e1rias em artigos.",
+      "result": "Script keyword-density.js criado. Analisa densidade de keywords primárias em artigos.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8950,7 +8950,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": "Script bronze-to-silver.js melhorado: detec\u00e7\u00e3o de idioma, categorias, templates multi-idioma.",
+      "result": "Script bronze-to-silver.js melhorado: detecção de idioma, categorias, templates multi-idioma.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8975,14 +8975,14 @@
       "to": "pc-1",
       "type": "implement",
       "target": "multi-lang-content-router",
-      "description": "Build router that directs bronze content to correct silver templates based on language. PT\u2192pt-br template, EN\u2192en template, etc.",
+      "description": "Build router that directs bronze content to correct silver templates based on language. PT→pt-br template, EN→en template, etc.",
       "priority": "medium",
       "acceptance": "Router processes 8 languages correctly",
       "id": "T325",
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": "Script silver-router.js criado. Direciona conte\u00fado bronze para templates baseado em categoria.",
+      "result": "Script silver-router.js criado. Direciona conteúdo bronze para templates baseado em categoria.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -8991,7 +8991,7 @@
       "to": "pc-1",
       "type": "implement",
       "target": "cross-language-keyword-map",
-      "description": "Create mapping of equivalent keywords across languages. 'importa\u00e7\u00e3o' (PT) = 'import' (EN) = 'importaci\u00f3n' (ES) = 'Import' (DE).",
+      "description": "Create mapping of equivalent keywords across languages. 'importação' (PT) = 'import' (EN) = 'importación' (ES) = 'Import' (DE).",
       "priority": "medium",
       "acceptance": "Map covers 50+ keywords in 8 languages",
       "id": "T326",
