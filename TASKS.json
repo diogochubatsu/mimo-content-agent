@@ -956,9 +956,9 @@
       "acceptance": "Japanese article published",
       "id": "T341",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:30:00Z",
-      "result": null,
+      "result": "Silver article created: chugoku-yunyu-kanzen-guide.md. ~3200 words in Japanese. Covers: Japanese import market overview (¥40 trillion bilateral trade), trade statistics, customs procedures (NACCS system, 98% electronic declaration), import duties (0-30% by HS code), consumption tax (JCT 10%/8%), input tax credit system, documentation requirements (Invoice, Packing List, Certificate of Origin), product compliance (PSE, PSC, Food Sanitation Act, Pharmaceutical Affairs Act), shipping options (sea via Yokohama/Kobe, air via Narita/Haneda, express), payment methods (T/T, L/C, Payoneer, Alipay), supplier verification (Alibaba Gold, 1688, factory visits), comparison table of shipping methods, 2 case studies (apparel importer, electronics manufacturer), and 12 FAQ questions. SEO-optimized with Japanese keywords.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
