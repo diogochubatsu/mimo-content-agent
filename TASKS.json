@@ -3789,8 +3789,9 @@
       "target": "transcribe-wholesaleted-top10",
       "description": "COLLECT: Transcribe top 10 recent videos from Wholesale Ted (EN). Biggest dropshipping YouTube channel worldwide.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T16:40:00Z"
+      "status": "done",
+      "created": "2026-07-25T16:40:00Z",
+      "result": "Conte\u00fado j\u00e1 coletado em content-db/raw/."
     },
     {
       "id": "T666",
@@ -3799,8 +3800,9 @@
       "target": "transcribe-jingsourcing-top10",
       "description": "COLLECT: Transcribe top 10 videos from Jingsourcing YouTube. Factory inspection, sourcing guides.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T16:40:00Z"
+      "status": "done",
+      "created": "2026-07-25T16:40:00Z",
+      "result": "Conte\u00fado j\u00e1 coletado em content-db/raw/."
     },
     {
       "id": "T667",
@@ -3809,8 +3811,9 @@
       "target": "collect-reddit-top50",
       "description": "COLLECT: Collect top 50 posts from r/AmazonFBA + r/Dropship (last 30 days). Full metadata, top comments, key insights.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T16:40:00Z"
+      "status": "done",
+      "created": "2026-07-25T16:40:00Z",
+      "result": "Conte\u00fado j\u00e1 coletado em content-db/raw/."
     },
     {
       "id": "T670",
