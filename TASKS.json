@@ -4209,6 +4209,66 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T18:43:00Z"
+    },
+    {
+      "id": "T880",
+      "to": "pc-2",
+      "type": "create",
+      "target": "expand-top30-bronze-to-silver",
+      "description": "EXPAND: Pick the 30 largest Bronze articles (by word count) and convert them to Silver quality. Run batch-silver-expander.js first, then smart-silver-expander.js. Run quality-gate.js on each. Goal: Silver articles pass quality gate.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T20:18:00Z"
+    },
+    {
+      "id": "T881",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-new-pt-blog-sources",
+      "description": "RESEARCH: Find 3 new Brazilian import/export blogs. Collect top 10 articles from each. Focus on: importa\u00e7\u00e3o da China, fornecedores chineses, impostos de importa\u00e7\u00e3o. Save to content-db/blogs/ with proper metadata.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T20:18:00Z"
+    },
+    {
+      "id": "T882",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-new-en-blog-sources",
+      "description": "RESEARCH: Find 3 new English import/sourcing blogs. Collect top 10 articles from each. Focus on: China sourcing agents, supplier verification, product research. Save to content-db/blogs/ with proper metadata.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T20:18:00Z"
+    },
+    {
+      "id": "T883",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-heartbeat-monitor",
+      "description": "BUILD: Script that checks agent activity by scanning git log. If no commits from an agent in 30+ minutes, alert via BRAINSTORM.json. Prevent agents from going idle undetected.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T20:18:00Z"
+    },
+    {
+      "id": "T884",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "site-affiliate-links",
+      "description": "ADD: Integrate Amazon Associates and AliExpress affiliate links into top 20 Silver articles. Use link patterns in article markdown.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T20:18:00Z"
+    },
+    {
+      "id": "T885",
+      "to": "gcp",
+      "type": "implement",
+      "target": "auto-task-generator",
+      "description": "BUILD: Script that scans agent idle time and automatically generates new tasks when agents have been idle >30min. Feeds into TASKS.json.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T20:18:00Z"
     }
   ],
   "log": [
