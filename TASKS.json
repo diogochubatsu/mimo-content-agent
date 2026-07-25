@@ -3898,7 +3898,7 @@
       "target": "update-registry-fresh-extraction",
       "description": "Rescan content-db/raw/, content-db/blogs/, content-db/silver/ and update extraction counts in sources-registry.json. Run pipeline-orchestrator.js.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T17:05:00Z"
     }
   ],

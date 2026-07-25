@@ -1009,9 +1009,9 @@
       "collection_priority": "medium",
       "content_stats": {
         "total_articles_12m": 60,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 10,
+        "extraction_pct": 16.7,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,
@@ -1102,9 +1102,9 @@
       "collection_priority": "high",
       "content_stats": {
         "total_articles_12m": 100,
-        "extracted_count": 0,
-        "extraction_pct": 0,
-        "last_extracted": null
+        "extracted_count": 15,
+        "extraction_pct": 15.0,
+        "last_extracted": "2026-07-25"
       },
       "freshness": {
         "last_content_date": null,
