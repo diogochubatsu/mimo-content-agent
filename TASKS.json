@@ -6957,6 +6957,56 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T482",
+      "to": "gcp",
+      "type": "review",
+      "target": "content-quality-deep-dive",
+      "description": "Deep dive into content quality: review top 20 silver articles, identify patterns, create quality improvement playbook.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:18:00Z"
+    },
+    {
+      "id": "T483",
+      "to": "gcp",
+      "type": "research",
+      "target": "competitor-analysis-update",
+      "description": "Update competitor analysis: what are top 5 import sites doing differently? Identify gaps in our approach.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:18:00Z"
+    },
+    {
+      "id": "T484",
+      "to": "gcp",
+      "type": "review",
+      "target": "pipeline-efficiency-audit",
+      "description": "Audit pipeline efficiency: time per article, cost per article, error rate. Identify bottlenecks.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:18:00Z"
+    },
+    {
+      "id": "T485",
+      "to": "gcp",
+      "type": "research",
+      "target": "monetization-strategy",
+      "description": "Research monetization strategies: affiliate programs, sponsored content, premium tools. Which have highest ROI?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:18:00Z"
+    },
+    {
+      "id": "T486",
+      "to": "gcp",
+      "type": "review",
+      "target": "seo-performance-check",
+      "description": "Check SEO performance: keyword rankings, organic traffic, backlinks. What keywords are we ranking for?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:18:00Z"
     }
   ],
   "log": [
