@@ -589,6 +589,14 @@ A: Absolutely. Cargo insurance typically costs 0.3–0.8% of declared value — 
 - [Supplier Comparison Guide](/content-db/silver/supplier-comparison-guide.md)
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Freightos Baltic Index — Container Freight Rate Index (July 2026)
 2. The Guardian — EU introduces €3 customs charge on small parcels (June 29, 2026)

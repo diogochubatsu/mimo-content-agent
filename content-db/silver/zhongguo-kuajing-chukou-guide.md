@@ -21,6 +21,14 @@ tier: silver
 date: 2026-07-25
 author: "MiMo Content Team"
 schema:
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
   type: FAQPage
   mainEntity:
     - name: "中国跨境电商出口需要办理哪些资质？"

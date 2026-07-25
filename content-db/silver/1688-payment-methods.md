@@ -583,6 +583,14 @@ A: Yes, payment terms are negotiable, especially for established relationships. 
 - [Understanding 1688 Trade Assurance](/content-db/silver/1688-trade-assurance.md)
 - [Import Duties and Customs for 1688 Orders](/content-db/silver/import-duties-1688.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Alipay Global. "International Payment Solutions for Cross-Border Commerce." Alipay.com, accessed January 2026.
 2. China Customs Statistics. "2025 Annual Report on Cross-Border E-Commerce Payments." General Administration of Customs, People's Republic of China, 2025.

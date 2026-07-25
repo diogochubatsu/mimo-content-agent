@@ -553,6 +553,14 @@ A: Temu is better for new importers. It offers English support, buyer protection
 - [How to Calculate Import Margins](/content-db/silver/guide-margins.md)
 - [Complete Import Guide 2026](/content-db/silver/complete-import-guide-2026.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com (accessed July 24, 2026)
 2. Temu Official Website (accessed July 24, 2026)

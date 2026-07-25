@@ -566,6 +566,14 @@ A: Use the exchange rate on the date of each transaction. Account for exchange r
 - [Shipping from China Guide](/content-db/silver/shipping-from-china-guide.md)
 - [Amazon FBA Complete Guide](/content-db/silver/amazon-fba-complete-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Shopify E-commerce Statistics 2026
 2. Oberlo Dropshipping Market Report 2026

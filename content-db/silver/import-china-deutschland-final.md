@@ -43,6 +43,14 @@ Importing from China costs 30-50% less than domestic wholesale, but total landed
 - [Abschnitt 8: Branding für importierte Produkte](#abschnitt-8-branding-fuer-importierte-produkte)
 - [Abschnitt 9: Erfolgsgeschichten deutscher Importeure](#abschnitt-9-erfolgsgeschichten-deutscher-importeure)
 - [Abschnitt 10: Kostenrechner mit EUR-Beispielen](#abschnitt-10-kostenrechner-mit-eur-beispielen)
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 - [FAQ](#faq)
 - [Quellen](#quellen)
 

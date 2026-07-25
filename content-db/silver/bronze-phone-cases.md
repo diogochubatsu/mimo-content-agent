@@ -95,6 +95,14 @@ A: Phone case returns average 5-8%. Main reasons: wrong size, poor fit, color mi
 **Q: Can I sell cases without a brand?**
 A: Yes, but branded cases sell better. Create a simple brand name and logo (use Canva), add it to packaging. This allows you to build customer loyalty and charge premium prices.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 - 1688.com (accessed July 24, 2026)
 - Alibaba.com (accessed July 24, 2026)

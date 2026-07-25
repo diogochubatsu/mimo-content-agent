@@ -639,6 +639,14 @@ A: Yes, but with caveats. Use AliExpress or DHgate for dropshipping, as they sup
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Alibaba.com — Global B2B Marketplace Supplier Directory (accessed July 21, 2026)
 2. 1688.com — China Domestic B2B Platform (accessed July 21, 2026)

@@ -648,6 +648,14 @@ Remember that the lowest price isn't always the best value. Consider quality, re
 - [Canton Fair Sourcing Strategy](guide-importing-china.md)
 - [Quality Control Best Practices](supplier-comparison-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Global Sources Official Website (globalsources.com) - accessed July 2026
 2. Alibaba Group Annual Report 2025 - accessed July 2026

@@ -308,6 +308,14 @@ A: IPX4 provides splash resistance from any direction. IP54 adds dust protection
 - [Best Sourcing Agents Reviewed 2026](guide-agents.md)
 - [Bluetooth Earbuds Sourcing Guide](../silver/bronze-earbuds.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. SoundGuys - The best wireless earbuds of 2026: Lab-tested by experts (June 2, 2026)
 2. RTINGS.com - The 7 Best Wireless Earbuds of 2026 (July 2026)

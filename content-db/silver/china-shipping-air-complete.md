@@ -652,6 +652,14 @@ A: Choose air freight if: your product is high-value, time-sensitive, or you fac
 **Q: What happens if my air freight shipment is delayed?**
 A: Contact your freight forwarder immediately for updated ETAs. Common delay causes include weather, customs holds, or airline capacity issues. Insurance covers losses from extended delays in most cases. Maintain safety stock to buffer against unexpected delays.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. IATA Air Freight Market Analysis Q2 2026 (accessed July 21, 2026)

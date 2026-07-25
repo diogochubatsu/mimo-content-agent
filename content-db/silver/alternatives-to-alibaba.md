@@ -549,6 +549,14 @@ A: Yes, and it's actually recommended. Use AliExpress for sampling, 1688 for bul
 - [Import Taxes by Country: US, EU, Brazil, Japan](/silver/import-taxes-by-country.md)
 - [Shipping from China: Complete Cost Guide 2026](/silver/shipping-cost-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Alibaba Group Official Reports — alibabagroup.com (accessed July 24, 2026)
 2. Made-in-China.com Supplier Verification Program — made-in-china.com (accessed July 24, 2026)

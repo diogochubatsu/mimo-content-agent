@@ -447,6 +447,14 @@ A: 1) Build supplier relationships (2-3 per product), 2) Consolidate shipments, 
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. World Trade Organization Statistics 2026

@@ -333,6 +333,14 @@ A: Both offer private labeling. 1688 is cheaper (30-50% lower costs) but require
 - [How to Calculate Import Margins](/content-db/silver/guide-margins.md)
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com (accessed July 24, 2026)
 2. Alibaba.com (accessed July 24, 2026)

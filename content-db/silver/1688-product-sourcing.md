@@ -561,6 +561,14 @@ Search for "代加工" (contract manufacturing) or "OEM" combined with your prod
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Alibaba Group Annual Report 2025 — Corporate financial disclosures and platform statistics

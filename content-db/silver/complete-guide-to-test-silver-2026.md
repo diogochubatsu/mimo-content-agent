@@ -44,6 +44,14 @@ This section provides in-depth analysis of the Test Silver market...
 **Q: What's the best platform to buy Test Silver?**
 A: 1688 offers the lowest prices, but requires Chinese language or agent.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 - Amazon Blog: https://sell.amazon.com/blog

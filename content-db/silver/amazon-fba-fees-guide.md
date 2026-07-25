@@ -548,6 +548,14 @@ A: Individual sellers cannot negotiate standard FBA fees, but high-volume seller
 - [FBA Inventory Management Mastery](/fba-inventory-management)
 - [Product Sourcing for FBA: Complete Guide](/product-sourcing-fba)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Amazon Seller Central - FBA Fees and Inventory Storage (accessed July 24, 2026)
 2. Amazon FBA Revenue Calculator - Official Fee Estimation Tool (accessed July 24, 2026)

@@ -344,6 +344,14 @@ A: The top mistakes from community reports: (1) Not calculating true landed cost
 - [Product Research Tools Comparison: Jungle Scout vs Helium 10](#)
 - [Understanding Landed Costs: Complete Calculator Guide](#)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Google Trends Data Analysis, collected July 24, 2026 (agent: pc-2)

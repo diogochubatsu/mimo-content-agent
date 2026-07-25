@@ -517,6 +517,14 @@ A: Amazon provides more sophisticated advertising options (Sponsored Products, S
 - [E-commerce Taxes in Brazil: Complete Guide](/articles/ecommerce-taxes-brazil-complete-guide)
 - [Cross-Border Selling: Brazil Market Entry Strategies](/articles/cross-border-selling-brazil-market-entry)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Associação Brasileira de Comércio Eletrônico (ABComm). "E-commerce Brazil 2026 Report." Accessed July 15, 2026.

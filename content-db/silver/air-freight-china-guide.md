@@ -717,6 +717,14 @@ A: Shanghai Pudong (PVG) has the most international air cargo capacity and fligh
 - [Import Taxes by Country: US, EU, Brazil, Japan](/silver/import-taxes-by-country)
 - [How to Verify Chinese Suppliers on 1688](/silver/verify-suppliers-1688)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. International Air Transport Association (IATA). "Air Cargo Market Analysis Q1 2026." iata.org (accessed July 21, 2026)

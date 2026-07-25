@@ -523,6 +523,14 @@ A: Never ignore negative reviews. Respond publicly with a professional, helpful 
 - [Amazon Product Research Guide 2026](/articles/amazon-product-research-guide) — Advanced product research
 - [Amazon Listing Optimization Guide](/articles/amazon-listing-optimization) — Create listings that convert
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Amazon Seller Central. "Fulfillment by Amazon Fee Changes." sell.amazon.com, 2026.

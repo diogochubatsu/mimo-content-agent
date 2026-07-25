@@ -486,6 +486,14 @@ A: The major trends include: sustainability (73% of consumers under 40 prioritiz
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Grand View Research. (2026). "Home Decor Market Size, Share & Trends Analysis Report." (accessed July 2026)

@@ -592,6 +592,14 @@ A: Payment timing depends on the method: Alipay balance payments are instant. Cr
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Alipay International. "Cross-Border Payment Services for Global Merchants." Alipay.com, accessed July 24, 2026.

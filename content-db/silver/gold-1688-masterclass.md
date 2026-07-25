@@ -872,6 +872,14 @@ Best categories: Electronics, fashion accessories, home decor, beauty tools, fit
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources and References
 
 1. Alibaba Group. "1688.com Platform Statistics 2025." Alibaba Corporate Reports.

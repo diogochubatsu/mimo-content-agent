@@ -312,6 +312,14 @@ A: The safest method is Alibaba Trade Assurance, which holds your payment in esc
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Global Automotive Aftermarket Market Report 2026 — Allied Market Research (accessed July 2026)
 2. US Department of Transportation — Federal Motor Vehicle Safety Standards (FMVSS) — NHTSA.gov (accessed July 2026)

@@ -645,6 +645,14 @@ A: File a claim with your freight forwarder and insurance provider immediately u
 **Q: How do I reduce transit time for sea freight from China?**
 A: Reduce transit time by: (1) choosing direct routes instead of transshipment, (2) selecting less congested ports, (3) booking early to secure space on faster vessels, (4) having all documentation ready before shipment, (5) using a customs broker with fast clearance capabilities.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Flexport Ocean Freight Index Q2 2026 (accessed July 24, 2026)

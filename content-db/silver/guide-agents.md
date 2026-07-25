@@ -420,6 +420,14 @@ A: Reputable agents have dispute resolution processes. Document issues with phot
 - [How to Calculate Import Margins 2026](/content-db/silver/guide-margins.md)
 - [Top 10 Products to Import from China 2026](/content-db/silver/guide-top10.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Superbuy.com (accessed July 24, 2026)
 2. Wegobuy.com (accessed July 24, 2026)

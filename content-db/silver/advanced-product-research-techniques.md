@@ -592,6 +592,14 @@ A: The five most costly mistakes are: (1) Confirmation bias—falling in love wi
 - [Import Taxes Guide by Country](/content-db/silver/import-taxes-by-country.md)
 - [Shipping from China: Sea vs Air](/content-db/silver/china-shipping-sea-vs-air.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Jungle Scout. "State of Amazon Seller Report 2026." junglescout.com/research (accessed July 2026)

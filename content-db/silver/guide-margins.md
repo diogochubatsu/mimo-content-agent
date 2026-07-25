@@ -386,6 +386,14 @@ A: Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (
 - [Top 10 Products to Import from China 2026](/content-db/silver/guide-top10.md)
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Amazon Fee Structure 2026
 2. US Customs and Border Protection 2026

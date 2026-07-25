@@ -332,6 +332,14 @@ A: Made-in-China partners with major international logistics providers offering 
 - [Quality Control Best Practices for Chinese Imports](./quality-control-guide.md)
 - [Negotiation Strategies with Chinese Suppliers](./negotiation-strategies.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Made-in-China.com Official Website - Company Profile and Statistics (accessed July 2026)

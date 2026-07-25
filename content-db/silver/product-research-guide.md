@@ -662,6 +662,14 @@ A: Always order samples from multiple suppliers before committing to large order
 - [Guide to Import Margins](guide-margins.md)
 - [Verify Suppliers on 1688](verify-suppliers-1688.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Jungle Scout. "2026 State of Amazon Seller Report." jungle-scout.com. Accessed July 2026.
 2. Helium 10. "Product Research Trends and Insights." helium10.com. Accessed July 2026.

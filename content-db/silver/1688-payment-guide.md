@@ -323,6 +323,14 @@ A: 1688.com does not accept cryptocurrency payments. The platform only accepts A
 - Alipay Registration Guide for International Users 2024
 - Understanding Chinese Import Duties and Tax Requirements
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com Official Platform Documentation (accessed July 2024)
 2. Alipay International User Registration Guide (accessed July 2024)

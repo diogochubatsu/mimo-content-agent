@@ -440,6 +440,14 @@ A: Monitor your inventory regularly, use the Inventory Age report in Seller Cent
 - [Best Sourcing Agents for Amazon FBA](/content-db/silver/sourcing-agent-review.md)
 - [Amazon PPC Optimization Guide](/content-db/silver/amazon-ppc-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Amazon Seller Central - FBA Fees and Revenue Calculator (accessed July 24, 2026)
 2. Jungle Scout - 2026 Amazon Product Research Report (accessed July 24, 2026)

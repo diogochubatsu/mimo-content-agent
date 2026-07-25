@@ -593,6 +593,14 @@ A: The most common mistakes include: (1) Incorrect HS code classification leadin
 - [Import from China to Europe](import-china-to-europe.md) — EU import requirements
 - [Import from China to UK](import-china-to-uk.md) — UK post-Brexit import guide
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Japan Customs (www.customs.go.jp) — Official customs regulations and procedures (accessed July 2026)
 2. JETRO (www.jetro.go.jp) — Japan External Trade Organization trade statistics and guides (accessed July 2026)

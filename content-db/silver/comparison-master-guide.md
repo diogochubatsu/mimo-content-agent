@@ -595,6 +595,14 @@ A: Varies by platform and method:
 - [Shipping from China: Complete Cost Guide](/content-db/silver/shipping-from-china-guide.md)
 - [Best Sourcing Agents Reviewed 2026](/content-db/silver/sourcing-agent-review-update.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com (accessed July 24, 2026)
 2. Alibaba.com (accessed July 24, 2026)

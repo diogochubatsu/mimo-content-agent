@@ -524,6 +524,14 @@ A: Protect your IP through: 1) Register trademarks in China (through CNIPA) befo
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Alibaba.com. (2026). "2026 China Electronics Industry Report." Retrieved from alibaba.com/research (accessed July 15, 2026)

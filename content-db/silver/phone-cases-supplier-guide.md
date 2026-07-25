@@ -379,6 +379,14 @@ A: Focus on: (1) iPhone 17 series (expected September 2026), (2) Samsung Galaxy 
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Grand View Research. (2025). "Phone Cases Market Size, Share & Trends Analysis Report." Accessed January 15, 2026.
 2. ImportGenius. (2025). "Top Phone Case Suppliers: Verified Manufacturer Database." Accessed January 18, 2026.

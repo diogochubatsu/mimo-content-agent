@@ -522,6 +522,14 @@ A: IP protection requires proactive steps before manufacturing begins: (1) Regis
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. China Council for the Promotion of International Trade (CCPIT). "Cross-Border Trade Dispute Resolution Report 2025." (Accessed July 2026)

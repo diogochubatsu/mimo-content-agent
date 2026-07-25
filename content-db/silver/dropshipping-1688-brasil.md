@@ -1,6 +1,14 @@
 ---
 date: 2026-07-25
 title: "Como Fazer Dropshipping do 1688 para o Brasil: Guia Completo 2026"
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 description: "Guia completo e definitivo sobre como fazer dropshipping do 1688.com para o Brasil. Inclui: o que é 1688, como encontrar fornecedores, métodos de pagamento (Alipay, agentes), opções de frete, impostos brasileiros (II, IPI, ICMS, PIS/COFINS), regularização fiscal, cálculo de margens de lucro, erros comuns e FAQ completo com 12 perguntas."
 keywords: ["dropshipping 1688 brasil", "1688.com como usar", "fornecedores 1688 brasil", "dropshipping china brasil 2026", "importar 1688 brasil", "Alipay Brasil", "agente 1688", "imposto importação brasil", "1688 vs aliexpress", "dropshipping lucro brasil"]
 slug: "como-fazer-dropshipping-1688-brasil-2026"

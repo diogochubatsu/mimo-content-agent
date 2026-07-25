@@ -562,6 +562,14 @@ A: A standard pre-shipment inspection takes 4-8 hours on-site depending on order
 - [Shipping from China: Sea vs Air](/articles/china-shipping-sea-vs-air)
 - [1688 vs Alibaba Comparison](/articles/1688-vs-alibaba-2026)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. SGS Group. "Quality Control Services in China." SGS.com. Accessed July 21, 2026.

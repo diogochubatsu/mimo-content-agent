@@ -494,6 +494,14 @@ A: Contact your freight forwarder immediately. For sea freight, claims are typic
 - [Best Sourcing Agents Reviewed 2026](/sourcing-agent-review-update)
 - [How to Verify Chinese Suppliers on 1688](/verify-suppliers-1688)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Flexport Ocean Freight Index Q2 2026 (accessed July 24, 2026)

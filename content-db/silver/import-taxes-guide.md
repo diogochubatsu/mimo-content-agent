@@ -496,6 +496,14 @@ A: Yes, for any commercial import over $2,500. A customs broker ($50-150 per shi
 - [Complete Guide to Importing from China 2026](/content-db/silver/guide-importing-china.md)
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. The Guardian — EU introduces €3 customs charge (June 29, 2026)
 2. Baker Botts — Trump tariff tracker (July 21, 2026)

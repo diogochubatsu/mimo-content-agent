@@ -95,6 +95,14 @@ A: Budget 3-5% for warranty claims. Most Chinese suppliers offer 6-12 month warr
 **Q: Are there any legal restrictions on importing earbuds?**
 A: Yes. Earbuds with Bluetooth must comply with FCC (US), CE (EU), and local regulations. Some countries require specific Bluetooth version certifications. Check import regulations before ordering.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 - 1688.com (accessed July 24, 2026)
 - Alibaba.com (accessed July 24, 2026)

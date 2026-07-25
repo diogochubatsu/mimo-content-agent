@@ -643,6 +643,14 @@ A: Import duties and taxes vary by country and product type. Research your count
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. DHgate Official Platform Statistics (accessed January 2026)
 2. Import Export Business Review, Industry Analysis 2025

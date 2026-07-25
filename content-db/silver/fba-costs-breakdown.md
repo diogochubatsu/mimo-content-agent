@@ -535,6 +535,14 @@ A: Common hidden costs include: returns processing fees (especially for apparel 
 - [Supplier Negotiation Tactics](/content-db/silver/supplier-negotiation-tactics.md)
 - [Private Label vs. Wholesale](/content-db/silver/private-label-vs-wholesale.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Amazon Seller Central - FBA Fee Schedule (accessed July 2026)
 2. Jungle Scout - State of Amazon FBA 2026 Report (accessed July 2026)

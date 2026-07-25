@@ -380,6 +380,14 @@ A: Yes, but customs duties still apply. Most countries allow personal imports up
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 - [Top 10 Products to Import from China 2026](/content-db/silver/guide-top10.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. US Census Bureau Trade Data 2026
 2. China Customs Statistics 2026

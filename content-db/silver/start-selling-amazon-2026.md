@@ -463,6 +463,14 @@ A: No. Amazon's marketplace continues to grow, with over 300 million active cust
 - [1688 vs Alibaba: Real Price Comparison](1688-vs-alibaba-2026.md)
 - [Complete Guide to Importing from China](complete-import-guide-2026.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Amazon Seller Central — sellercentral.amazon.com (accessed July 2026)

@@ -25,6 +25,14 @@ author: "MiMo Content Team"
 reading_time: "14 min"
 word_count: 3200
 schema:
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
   type: FAQPage
   mainEntity:
     - name: "¿Cuánto cuesta importar un contenedor de China a LATAM?"

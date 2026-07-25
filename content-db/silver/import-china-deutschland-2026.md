@@ -7,6 +7,14 @@ category: "silver"
 tier: "silver"
 date: "2026-07-25"
 schema:
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
   type: FAQPage
   mainEntity:
     - name: "Was ist der Unterschied zwischen Seefracht, Luftfracht und Bahnfracht aus China?"

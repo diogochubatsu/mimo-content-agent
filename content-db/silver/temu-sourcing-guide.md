@@ -379,6 +379,14 @@ A: Customs duties and import taxes depend on your country's regulations. Many co
 - Importing from China: Complete Beginner's Guide
 - Product Research Techniques for Dropshipping 2026
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Temu Official Website (accessed July 2026)
 2. PDD Holdings Annual Report 2025 (accessed July 2026)

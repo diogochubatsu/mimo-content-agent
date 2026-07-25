@@ -460,6 +460,14 @@ A: Cargo insurance is highly recommended and typically costs 0.5-2% of the cargo
 - [Negotiating with Chinese Suppliers: Tips and Strategies]
 - [Quality Control Standards for Imported Electronics]
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Alibaba Group Annual Report 2025 (accessed July 2026)
 2. U.S. Customs and Border Protection - Importing Into the U.S. (accessed July 2026)

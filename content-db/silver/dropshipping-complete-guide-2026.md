@@ -368,6 +368,14 @@ A: While some people start dropshipping without formal business registration, it
 - [Amazon FBA Complete Guide 2026](/amazon-fba-complete-guide)
 - [Shipping from China: Complete Cost Guide](/shipping-from-china-cost-guide)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Statista. "Dropshipping market size worldwide from 2020 to 2026." (accessed July 24, 2026)
 2. Shopify. "E-Commerce Trends Report 2026: State of Commerce." (accessed July 24, 2026)

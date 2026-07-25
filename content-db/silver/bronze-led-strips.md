@@ -94,6 +94,14 @@ A: Yes, but ensure compliance with destination country regulations. US requires 
 **Q: What's the return rate for LED strips?**
 A: Quality suppliers show 2-5% return rates. Main issues are: defective LEDs (test before shipping), poor adhesive (use 3M backing), and wrong color temperature (specify clearly in orders).
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 - 1688.com (accessed July 24, 2026)
 - Alibaba.com (accessed July 24, 2026)

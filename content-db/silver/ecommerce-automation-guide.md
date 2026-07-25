@@ -802,6 +802,14 @@ A: Common mistakes include: (1) Automating broken processes without fixing them 
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Shopify Inc. (2026). "State of Ecommerce Report 2026." Shopify Newsroom. (accessed July 2026)

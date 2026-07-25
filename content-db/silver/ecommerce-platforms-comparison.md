@@ -412,6 +412,14 @@ A: Import businesses face elevated security risks due to cross-border transactio
 - [Ecommerce Tax Compliance for Cross-Border Sales](/guides/ecommerce-tax-compliance)
 - [Building a B2B Ecommerce Strategy for Importers](/guides/b2b-ecommerce-strategy-importers)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Statista. (2025). "Cross-Border Ecommerce Market Size Worldwide from 2020 to 2030." Accessed January 2026.

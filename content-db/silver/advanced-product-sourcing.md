@@ -549,6 +549,14 @@ A: Use 1688's built-in translation tools for basic communication. For complex ne
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. 1688.com Official Seller Verification Documentation (accessed July 2026)

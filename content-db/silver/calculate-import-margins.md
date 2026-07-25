@@ -576,6 +576,14 @@ A: Monthly at minimum. Shipping rates, platform fees, duty rates, and currency e
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Amazon Seller Central Fee Schedule 2026 — sellercentral.amazon.com

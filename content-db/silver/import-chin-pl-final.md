@@ -492,6 +492,14 @@ Rynek importu z Chin dynamicznie się zmienia. Oto kluczowe trendy, które będ�
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## 9. FAQ — Najczęściej Zadawane Pytania (15+)
 
 ### 1. Jaka jest minimalna wielkość zamówienia u chińskich dostawców?

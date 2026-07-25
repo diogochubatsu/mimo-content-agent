@@ -479,6 +479,14 @@ A: Absolutely. A common strategy: 1) Use AliExpress to test products (small orde
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 - [Trending Products to Import 2026](/content-db/silver/trending-products-2026.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com marketplace analysis (July 2026)
 2. Alibaba.com marketplace analysis (July 2026)

@@ -382,6 +382,14 @@ A: Extremely important in 2026. Over 50% of online shoppers discover new product
 - [Product Research: Finding Winning Products](/articles/product-research-guide-2026)
 - [Ecommerce SEO: Rank Your Store on Google](/articles/ecommerce-seo-guide)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Shopify. (2026). "Global Ecommerce Statistics and Trends." https://www.shopify.com/blog/ecommerce-statistics (accessed 7/24/2026)

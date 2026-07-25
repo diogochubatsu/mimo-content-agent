@@ -440,6 +440,14 @@ A: Build volume over time. Agents typically offer lower rates for larger orders:
 - [Private Label vs Wholesale](/content-db/silver/private-label-vs-wholesale.md)
 - [How to Calculate Import Margins](/content-db/silver/guide-margins.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Reddit r/AmazonFBA — sourcing agent discussions (July 2026)
 2. Reddit r/FashionReps — agent reviews and comparisons (July 2026)

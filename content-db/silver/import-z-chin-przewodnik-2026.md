@@ -1,6 +1,14 @@
 ---
 title: "Import z Chin do Polski — Praktyczny przewodnik krok po kroku 2026"
 slug: "import-z-chin-przewodnik-2026"
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 meta_description: "Praktyczny przewodnik importu z Chin do Polski 2026: krok po kroku, Allegro, BLIK, weryfikacja dostawców, kontrola jakości, negocjacje, płatności T/T Payoneer Alipay, Małaszewicze, odprawa celna, kalkulator kosztów, FAQ."
 keywords:
   - import z chin do polski krok po kroku

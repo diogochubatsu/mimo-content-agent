@@ -418,6 +418,14 @@ A: Choosing products based on price alone (cheap = high returns) instead of qual
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Shopify Commerce Trends Report 2026

@@ -746,6 +746,14 @@ A: Penalties vary by member state and violation severity, ranging from warnings 
 - [Supplier Verification: Due Diligence Checklist](/articles/supplier-red-flags-guide)
 - [Quality Control for China Imports](/articles/china-quality-control)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. European Commission - Union Customs Code (UCC) Regulations 2025 (accessed July 2026)

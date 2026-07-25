@@ -582,6 +582,14 @@ A: Returning to China is usually not cost-effective due to shipping costs. Inste
 - [Import Taxes by Country](/content-db/silver/import-taxes-by-country.md)
 - [Top 10 Products to Import from China 2026](/content-db/silver/guide-top10.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Alibaba Group — Supplier Verification Guidelines 2026
 2. US Census Bureau — US Import Data 2026

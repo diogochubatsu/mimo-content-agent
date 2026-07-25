@@ -95,6 +95,14 @@ A: Keep records of all certifications and supplier agreements. For Amazon, enrol
 **Q: Can I create my own brand?**
 A: Yes! Private labeling is common. Most suppliers offer custom branding for 100+ units. Create a brand name, logo, and custom packaging. This allows 2-3x price increase over generic products.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 - 1688.com (accessed July 24, 2026)
 - Alibaba.com (accessed July 24, 2026)

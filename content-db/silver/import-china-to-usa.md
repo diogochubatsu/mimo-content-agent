@@ -576,6 +576,14 @@ A: The top mistakes include: (1) Not calculating total landed cost before pricin
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. U.S. Customs and Border Protection. "Importing into the United States." (accessed July 2026)

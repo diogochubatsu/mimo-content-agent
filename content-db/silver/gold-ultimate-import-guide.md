@@ -865,6 +865,14 @@ Register trademarks and patents in China (first-to-file system). Use NDAs with s
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources and References
 
 1. United Nations Industrial Development Organization (UNIDO). "Global Manufacturing Value Added Report 2026." UNIDO Publications.

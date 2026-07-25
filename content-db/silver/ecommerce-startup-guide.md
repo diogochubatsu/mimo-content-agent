@@ -388,6 +388,14 @@ A: For Shopify stores, use apps like ReturnGO or Loop Returns to automate the re
 - [Supplier Negotiation Tactics](/supplier-negotiation-tactics)
 - [How to Calculate Import Margins](/guide-margins)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Statista — Global E-Commerce Forecast 2026 (accessed July 2026)
 2. Jungle Scout — State of E-Commerce Seller Report 2026 (accessed July 2026)

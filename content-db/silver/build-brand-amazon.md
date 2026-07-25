@@ -542,6 +542,14 @@ A: Track these key metrics: (1) conversion rate improvement after A+ Content imp
 - [How to Start Selling on Amazon 2026](/articles/start-selling-amazon-2026)
 - [Amazon FBA Fees Complete Breakdown](/articles/amazon-fba-fees-guide)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Amazon Brand Registry (brandregistry.amazon.com) - Official enrollment requirements and features (accessed July 24, 2026)
 2. Amazon Seller Central - Brand Building Best Practices and Case Studies (sellercentral.amazon.com) (accessed July 24, 2026)

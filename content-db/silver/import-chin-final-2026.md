@@ -1,6 +1,14 @@
 ---
 title: "Import z Chin — Kompletny Przewodnik Marketingu i Sprzedaży 2026"
 slug: "import-z-chin-marketing-sprzedaz-2026"
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 meta_description: "Kompletny przewodnik marketingu i sprzedaży importowanych z Chin produktów w Polsce 2026. Allegro, Amazon.pl, social media, ceny, pozyskiwanie klientów, budowanie marki, case studies, kalkulator kosztów w PLN, FAQ."
 keywords:
   - import z chin marketing

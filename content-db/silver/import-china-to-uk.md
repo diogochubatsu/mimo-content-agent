@@ -626,6 +626,14 @@ A: Look for suppliers with Gold Supplier status (minimum 3 years), trade assuran
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. HM Revenue & Customs. "Importing and Exporting." GOV.UK, https://www.gov.uk/topic/business-tax/import-export (accessed July 2026)

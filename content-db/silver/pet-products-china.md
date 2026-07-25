@@ -448,6 +448,14 @@ A: Start with verified platforms like Alibaba (look for Gold Suppliers with Trad
 - [China Sourcing: Factory Audit Checklist](/content-db/silver/factory-audit-checklist.md)
 - [E-Commerce Fulfillment for Pet Products](/content-db/silver/ecommerce-fulfillment-pet.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. American Pet Products Association (APPA). "2025 State of the Industry Report." appa.org (accessed July 2026)

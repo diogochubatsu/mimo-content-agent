@@ -543,6 +543,14 @@ A: Alibaba's Trade Assurance provides escrow protection for payments up to $150,
 - [How to Verify Chinese Suppliers on 1688](/articles/verify-suppliers-1688)
 - [Private Label vs Wholesale: Which is Right for You?](/articles/private-label-vs-wholesale)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com Platform Statistics (accessed July 24, 2026)
 2. Alibaba.com Official Reports Q2 2026 (accessed July 24, 2026)

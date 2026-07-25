@@ -640,6 +640,14 @@ A: Yes, consider: 1) Alibaba.com (English B2B platform), 2) DHgate (English B2B/
 - [Shipping from China Guide](/content-db/silver/shipping-from-china-guide.md)
 - [Import Taxes Guide](/content-db/silver/import-taxes-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. AliExpress Official Website (accessed July 24, 2026)

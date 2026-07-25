@@ -468,6 +468,14 @@ Poniższe przykłady pokazują realne koszty importu dla trzech typowych zamówi
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## 10. FAQ — Najczęściej Zadawane Pytania
 
 ### 1. Jaka platforma jest najlepsza dla początkującego importera z Polski?

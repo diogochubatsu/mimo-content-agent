@@ -1,15 +1,15 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T17:57:19.899Z
+**Generated:** 2026-07-25T18:01:31.150Z
 **Articles audited:** 131
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 38 | 29% |
-| B | 89 | 68% |
-| C | 4 | 3% |
+| A | 126 | 96% |
+| B | 5 | 4% |
+| C | 0 | 0% |
 | D | 0 | 0% |
 
 ## Check Summary
@@ -18,10 +18,10 @@
 |-------|------|---------|------|----------|
 | Direct Answer in First 30 Lines | 39 | 0 | 92 | 30% |
 | Data Tables | 130 | 0 | 1 | 99% |
-| External Links/Citations | 6 | 0 | 125 | 5% |
+| External Links/Citations | 131 | 0 | 0 | 100% |
 | FAQ Section | 131 | 0 | 0 | 100% |
 | Frontmatter/Schema Ready | 131 | 0 | 0 | 100% |
-| Structured Headings | 125 | 6 | 0 | 95% |
+| Structured Headings | 130 | 1 | 0 | 99% |
 | Word Count | 122 | 8 | 1 | 93% |
 | Numbered Steps | 122 | 4 | 5 | 93% |
 
@@ -29,16 +29,16 @@
 
 | Article | Score | Grade | Key Issues |
 |---------|-------|-------|------------|
-| bronze-phone-cases.md | 50% | C | Direct Answer in First 30 Lines, External Links/Ci |
-| chugoku-yunyu-kanzen-guide.md | 55% | C | Direct Answer in First 30 Lines, External Links/Ci |
-| import-chin-pl-final.md | 55% | C | Direct Answer in First 30 Lines, Data Tables, Exte |
-| zhongguo-kuajing-chukou-guide.md | 55% | C | Direct Answer in First 30 Lines, External Links/Ci |
-| complete-guide-to-test-silver-2026.md | 60% | B | External Links/Citations, Word Count, Numbered Ste |
-| bronze-resistance-bands.md | 65% | B | External Links/Citations, Numbered Steps |
-| jungguk-suip-wanjeon-guide.md | 65% | B | Direct Answer in First 30 Lines, External Links/Ci |
-| 1688-product-sourcing.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
-| 1688-vs-temu.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
-| advanced-product-research-techniques.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
+| bronze-phone-cases.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| chugoku-yunyu-kanzen-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| import-chin-pl-final.md | 70% | B | Direct Answer in First 30 Lines, Data Tables |
+| zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| complete-guide-to-test-silver-2026.md | 75% | B | Word Count, Numbered Steps |
+| jungguk-suip-wanjeon-guide.md | 80% | A | Direct Answer in First 30 Lines |
+| 1688-product-sourcing.md | 85% | A | Direct Answer in First 30 Lines |
+| 1688-vs-temu.md | 85% | A | Direct Answer in First 30 Lines |
+| advanced-product-research-techniques.md | 85% | A | Direct Answer in First 30 Lines |
+| ai-product-research.md | 85% | A | Direct Answer in First 30 Lines |
 
 ## Recommendations
 

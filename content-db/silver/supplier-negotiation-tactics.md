@@ -386,6 +386,14 @@ A: Absolutely—factory visits are prime negotiation opportunities. You've demon
 - [Private Label vs Wholesale](/content-db/silver/private-label-vs-wholesale.md)
 - [China Shipping: Sea vs Air](/content-db/silver/china-shipping-sea-vs-air.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Alibaba.com - Supplier Negotiation Best Practices (accessed July 2026)
 2. Global Sources - Import Buyer Survey 2025/2026 (accessed July 2026)

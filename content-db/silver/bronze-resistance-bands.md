@@ -95,6 +95,14 @@ A: Resistance bands don't require specific certifications for most markets. Howe
 **Q: Can I sell these as "fitness equipment"?**
 A: Yes, but be specific. Use keywords like "resistance bands for exercise," "workout bands," "physical therapy bands." Different audiences: fitness enthusiasts, physical therapy patients, home gym owners.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 - 1688.com (accessed July 24, 2026)
 - Alibaba.com (accessed July 24, 2026)

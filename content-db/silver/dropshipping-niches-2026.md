@@ -464,6 +464,14 @@ A: Yes, many successful dropshippers start part-time. However, it requires consi
 - [Dropshipping from China: Complete Guide 2026](dropshipping-complete-guide-2026)
 - [Amazon FBA from 1688: Complete Workflow](amazon-fba-complete-guide)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Statista - E-commerce worldwide - Statistics & Facts (accessed July 2026)
 2. Oberlo - Dropshipping Statistics and Facts 2026 (accessed July 2026)

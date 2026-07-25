@@ -690,6 +690,14 @@ A: 1688's buyer protection for international users is limited compared to Alibab
 - [Import Taxes Guide](import-taxes-guide.md)
 - [Private Label vs Wholesale](private-label-vs-wholesale.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. 1688.com Official Help Center (accessed July 24, 2026)
 2. Tianyancha Business Registry Database (accessed July 24, 2026)

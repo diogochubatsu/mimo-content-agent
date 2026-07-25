@@ -564,6 +564,14 @@ A: Mercado Livre offers several seller tools:
 - [E-commerce Startup Guide: From Zero to Profit](ecommerce-startup-guide.md)
 - [Product Photography Guide: How to Create Winning Listings](product-photography-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Mercado Livre Official Website - seller.mercadolivre.com.br (accessed July 2026)
 2. Mercado Livre Annual Report 2025 - Investor Relations (accessed July 2026)

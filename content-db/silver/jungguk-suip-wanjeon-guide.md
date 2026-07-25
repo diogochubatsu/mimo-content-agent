@@ -30,6 +30,14 @@ author: "MiMo Content Team"
 reading_time: "20 min"
 word_count: 3500
 schema:
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
   type: FAQPage
   mainEntity:
     - name: "처음 중국에서 수입할 때 가장 먼저 해야 할 것은 무엇인가요?"

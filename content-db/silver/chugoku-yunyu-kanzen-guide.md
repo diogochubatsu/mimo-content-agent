@@ -30,6 +30,14 @@ author: "MiMo Content Team"
 reading_time: "18 min"
 word_count: 3200
 schema:
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
   type: FAQPage
   mainEntity:
     - name: "初めて中国から輸入する際、最初に何をすべきですか？"

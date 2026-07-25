@@ -532,6 +532,14 @@ A: Yes, WooCommerce provides several methods for country-specific pricing: curre
 - [WooCommerce Performance Optimization for Large Catalogs](#)
 - [B2B E-commerce Platform Comparison Guide](#)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. WordPress.org WooCommerce Statistics (accessed July 2026)

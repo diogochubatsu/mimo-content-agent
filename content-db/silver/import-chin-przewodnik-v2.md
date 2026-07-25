@@ -1,6 +1,14 @@
 ---
 title: "Import z Chin do Polski — Prawo, Podatki i Zgodność 2026"
 slug: "import-z-chin-prawo-podatki-zgodnosc-2026"
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 meta_description: "Kompletny przewodnik prawny i podatkowy importu z Chin do Polski 2026. EORI, cła, VAT, BDO, LUCID, CE, GPSR, WEEE, koszty w PLN, FAQ 12+ pytań."
 keywords:
   - import z chin do polski prawo

@@ -355,6 +355,14 @@ Yes, you can switch between FBA and FBM at any time. Many sellers start with FBA
 
 Products to avoid for FBA include: (1) Very heavy items (over 5 lbs) due to high fulfillment fees, (2) Very low-priced items (under $15) where fees eat all profit, (3) Fragile items with high return rates, (4) Seasonal items with unpredictable demand, (5) Oversized items that trigger oversized fees, (6) Products with expiration dates, and (7) Products in highly restricted categories that require approval.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Amazon Seller Central — FBA Fee Schedule 2026. sellercentral.amazon.com

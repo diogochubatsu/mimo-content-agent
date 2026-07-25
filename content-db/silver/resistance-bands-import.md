@@ -462,6 +462,14 @@ A: Resistance bands typically classify under HS Code 9506.91 (articles for gener
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Grand View Research. (2025). "Fitness Accessories Market Size, Share & Trends Analysis Report." (accessed July 2026)

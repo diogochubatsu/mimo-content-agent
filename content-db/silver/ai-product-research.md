@@ -667,6 +667,14 @@ A: Yes, AI product research tools are legal and ethical. They analyze publicly a
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Jungle Scout. (2026). "State of Amazon Seller Report 2026." jungle-scout.com (accessed July 24, 2026)

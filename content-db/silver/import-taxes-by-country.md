@@ -541,6 +541,14 @@ A: Yes, many countries offer free trade zones (FTZs) or bonded warehouses where 
 - [Free Trade Agreements: Complete Directory](./fta-directory.md)
 - [Customs Broker Selection Guide](./customs-broker-selection.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Baker Botts Trade Advisory Team. (2026). *Trump Tariff Tracker - July 2026*. Retrieved from https://www.bakerbotts.com/en/insights/alerts/2026/07/trump-tariff-tracker-july-2026 (Accessed July 21, 2026)

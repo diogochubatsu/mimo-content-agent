@@ -623,6 +623,14 @@ Review supplier performance monthly using metrics like fulfillment rate, shippin
 - [Product Research Guide](/articles/product-research-guide)
 - [Amazon FBA Complete Guide](/articles/amazon-fba-complete-guide)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Shopify. (2026). "Global E-Commerce Statistics 2026." Shopify.com/Blog. https://www.shopify.com/blog/ecommerce-statistics

@@ -331,6 +331,14 @@ A: Calculate total wattage (watts per meter × total meters) and add 20% for saf
 - Energy-Efficient Commercial Lighting Solutions
 - DIY LED Strip Projects for Beginners
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. LED Magazine, "Global LED Strip Market Report 2026" (accessed July 21, 2026)
 2. Energy Star, "LED Lighting Efficiency Standards" (accessed July 21, 2026)

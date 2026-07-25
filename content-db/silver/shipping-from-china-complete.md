@@ -320,6 +320,14 @@ A: Volumetric weight equals (Length × Width × Height in cm) ÷ 6000. Airlines 
 **Q: What insurance do I need for shipping from China?**
 A: Cargo insurance typically covers 110% of CIF (Cost, Insurance, Freight) value at rates of 0.3-0.5% of declared value. Marine cargo insurance covers sea freight; air cargo insurance covers air shipments. Express couriers include basic coverage (usually $100-$200) but recommend additional insurance for high-value goods.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. World Shipping Council. "Container Industry Statistics 2026." world-shipping.org (accessed July 21, 2026)
 2. International Air Transport Association (IATA). "World Air Transport Statistics 2025-2026." iata.org (accessed July 21, 2026)

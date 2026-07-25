@@ -520,6 +520,14 @@ A: Dropshipping is legal in most countries, but regulations vary. You typically 
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Shopify. "The State of E-commerce 2026 Report." shopify.com/research (accessed July 2026)

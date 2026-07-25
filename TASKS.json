@@ -4035,6 +4035,36 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T17:52:00Z"
+    },
+    {
+      "id": "T770",
+      "to": "gcp",
+      "type": "implement",
+      "target": "citation-adder",
+      "description": "BUILD: Script to add external citations/links to articles that lack them (AEO audit shows only 5% have external links). Pulls from sources-registry.json.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T18:00:00Z"
+    },
+    {
+      "id": "T771",
+      "to": "gcp",
+      "type": "review",
+      "target": "verify-site-deploy-status",
+      "description": "Verify: PC-1 marked T610 done. Is site actually live? Check Vercel status.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T18:00:00Z"
+    },
+    {
+      "id": "T772",
+      "to": "gcp",
+      "type": "review",
+      "target": "bronze-collection-progress-v2",
+      "description": "Check: how many Bronze sources collected now? Update extraction counts in registry.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T18:00:00Z"
     }
   ],
   "log": [

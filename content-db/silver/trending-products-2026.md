@@ -351,6 +351,14 @@ A: Minimum stack: Jungle Scout ($49/mo) for product research, Helium 10 ($39/mo)
 - [Best Sourcing Agents Reviewed](/content-db/silver/guide-agents.md)
 - [Top 10 Products to Import from China 2026](/content-db/silver/guide-top10.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Reddit r/AmazonFBA — 20 posts analyzed (July 2026)
 2. Reddit r/dropship — 20 posts analyzed (July 2026)

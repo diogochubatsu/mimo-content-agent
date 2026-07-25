@@ -618,6 +618,14 @@ A: Essential documents include commercial invoice, packing list, bill of lading 
 **Q12: How do peak seasons affect shipping costs?**
 A: Peak season (October-December) sees 20-30% rate increases for air freight and surcharges for sea freight. Plan shipments in advance and consider booking 4-6 weeks ahead during peak periods.
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. Shanghai Containerized Freight Index (SCFI) - 2026 quarterly reports

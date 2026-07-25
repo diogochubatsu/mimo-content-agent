@@ -431,6 +431,14 @@ A: Depends on product category and target market. Common certifications: CE (EU)
 - [Shipping from China: Complete Cost Guide](/articles/shipping-from-china-complete-cost-guide-2026)
 - [Import Taxes by Country](/articles/import-taxes-by-country-us-eu-brazil-japan)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 - Amazon Seller Central: https://sell.amazon.com

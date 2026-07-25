@@ -522,6 +522,14 @@ A: File reports with: the platform where you found the supplier, your national t
 
 ---
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+- [Alibaba Trade Assurance](https://alibaba.com/trade-assurance)
+
+
 ## Sources
 
 1. International Chamber of Commerce (ICC) — Global Trade Fraud Report 2025. https://iccwbo.org

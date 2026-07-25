@@ -792,6 +792,14 @@ A: You must account for referral fees (8-17% depending on category), FBA fulfill
 - [Trending Products 2026](trending-products-2026.md)
 - [Product Validation Guide](product-validation-guide.md)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 1. Jungle Scout. "2026 State of Amazon Seller Report." jungle-scout.com. Accessed July 2026.
 2. Helium 10. "Product Research Trends and Insights 2026." helium10.com. Accessed July 2026.

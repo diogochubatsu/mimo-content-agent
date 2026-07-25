@@ -605,6 +605,14 @@ A: If a payment is delayed: 1) Check the transaction status in your provider's d
 - [Best Sourcing Agents Reviewed 2026](/silver/best-sourcing-agents-review)
 - [Import Taxes by Country Guide](/silver/import-taxes-by-country)
 
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+
 ## Sources
 
 1. SWIFT Annual Report 2025-2026 (accessed July 2026)
