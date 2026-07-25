@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Amazon Listing Optimization Guide (2026)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/amazon-listing-optimization"
+  image: "https://importguide1688.com/og/amazon-listing-optimization.png"
+  site_name: "Import Guide 1688"
 title: "Amazon Listing Optimization Guide (2026)"
 tier: "silver"
 site: "importguide1688.com"

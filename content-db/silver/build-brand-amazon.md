@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "How to Build a Brand on Amazon: Complete Guide (2026)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/build-brand-amazon"
+  image: "https://importguide1688.com/og/build-brand-amazon.png"
+  site_name: "Import Guide 1688"
 title: "How to Build a Brand on Amazon: Complete Guide (2026)"
 tier: "silver"
 site: "importguide1688.com"

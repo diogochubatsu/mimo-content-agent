@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Complete Guide: Ecommerce Marketing Guide 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/ecommerce-marketing-guide"
+  image: "https://importguide1688.com/og/ecommerce-marketing-guide.png"
+  site_name: "Import Guide 1688"
 title: "Complete Guide: Ecommerce Marketing Guide 2026"
 slug: ecommerce-marketing-guide-2026
 meta_description: "Master ecommerce marketing in 2026 with proven channels, strategies, budget allocation frameworks, and real case studies to boost your online revenue."

@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Ecommerce Startup Guide 2026: Complete Step-by-Step Roadmap"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/ecommerce-startup-guide"
+  image: "https://importguide1688.com/og/ecommerce-startup-guide.png"
+  site_name: "Import Guide 1688"
 title: "Ecommerce Startup Guide 2026: Complete Step-by-Step Roadmap"
 slug: ecommerce-startup-guide
 date: 2026-07-24

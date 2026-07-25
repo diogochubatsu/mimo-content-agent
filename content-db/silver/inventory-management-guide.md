@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Complete Guide: Inventory Management for Ecommerce 2026"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/inventory-management-guide"
+  image: "https://importguide1688.com/og/inventory-management-guide.png"
+  site_name: "Import Guide 1688"
 title: "Complete Guide: Inventory Management for Ecommerce 2026"
 slug: inventory-management-ecommerce-guide
 meta_description: "Master inventory management for ecommerce with proven methods, tools, forecasting techniques, and real case studies to optimize stock levels and maximize profits."
