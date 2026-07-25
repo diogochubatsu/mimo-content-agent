@@ -507,9 +507,9 @@
       "id": "T299",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "15 articles collected from Allegro ecosystem (blog.allegro.pl was inaccessible, sources used: help.allegro.com seller help, blog.allegro.tech tech blog, spolecznosc.allegro.pl community). Articles cover: cross-border selling, international delivery, VAT taxation, EPR regulations, Allegro International, B2B sales, tech blog articles on AI/SDD/TDD. Saved to content-db/blogs/allegro-pl/ as individual .md files with frontmatter.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
