@@ -4433,9 +4433,9 @@
       "id": "T296",
       "from": "gcp",
       "to": "pc-1",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Script seo-audit.js criado. Verifica: title length, meta description, H1, schema, internal links.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
