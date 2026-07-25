@@ -138,5 +138,65 @@
     "type": "NEVER_COLLECTED",
     "source": "blog-importlizenz-de",
     "message": "Import Lizenz has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-1688tutorial-zh",
+    "message": "1688 Tutorial Channels extraction at 0% (0/500)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-1688tutorial-zh",
+    "message": "1688 Tutorial Channels has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-alibaba-zh",
+    "message": "Alibaba.com Guides extraction at 0% (0/300)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-alibaba-zh",
+    "message": "Alibaba.com Guides has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-ktrading-ko",
+    "message": "K-Trade Channel extraction at 0% (0/100)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-ktrading-ko",
+    "message": "K-Trade Channel has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-japanimport-ja",
+    "message": "Japan Import Channel extraction at 0% (0/80)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-japanimport-ja",
+    "message": "Japan Import Channel has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-ecommerce-de",
+    "message": "E-Commerce Germany extraction at 0% (0/200)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-ecommerce-de",
+    "message": "E-Commerce Germany has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-junglescout-en",
+    "message": "Jungle Scout extraction at 0% (0/100)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-junglescout-en",
+    "message": "Jungle Scout has never been collected"
   }
 ]

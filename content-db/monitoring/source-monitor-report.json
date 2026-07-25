@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-25T16:18:09.834Z",
-  "total_sources": 16,
+  "timestamp": "2026-07-25T16:21:34.610Z",
+  "total_sources": 22,
   "by_status": {
     "FRESH": 0,
     "STALE": 0,
-    "UNKNOWN": 16
+    "UNKNOWN": 22
   },
   "by_coverage": {
     "GOOD": 0,
     "MEDIUM": 0,
-    "LOW": 16,
+    "LOW": 22,
     "NO_DATA": 0
   },
   "alerts": [
@@ -152,6 +152,66 @@
       "type": "NEVER_COLLECTED",
       "source": "blog-importlizenz-de",
       "message": "Import Lizenz has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-1688tutorial-zh",
+      "message": "1688 Tutorial Channels extraction at 0% (0/500)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-1688tutorial-zh",
+      "message": "1688 Tutorial Channels has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "blog-alibaba-zh",
+      "message": "Alibaba.com Guides extraction at 0% (0/300)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "blog-alibaba-zh",
+      "message": "Alibaba.com Guides has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-ktrading-ko",
+      "message": "K-Trade Channel extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-ktrading-ko",
+      "message": "K-Trade Channel has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-japanimport-ja",
+      "message": "Japan Import Channel extraction at 0% (0/80)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-japanimport-ja",
+      "message": "Japan Import Channel has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "blog-ecommerce-de",
+      "message": "E-Commerce Germany extraction at 0% (0/200)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "blog-ecommerce-de",
+      "message": "E-Commerce Germany has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-junglescout-en",
+      "message": "Jungle Scout extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-junglescout-en",
+      "message": "Jungle Scout has never been collected"
     }
   ],
   "sources": [
@@ -409,6 +469,102 @@
         "pct": 0,
         "extracted": 0,
         "total": 60
+      }
+    },
+    {
+      "source_id": "youtube-1688tutorial-zh",
+      "name": "1688 Tutorial Channels",
+      "language": "zh",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 500
+      }
+    },
+    {
+      "source_id": "blog-alibaba-zh",
+      "name": "Alibaba.com Guides",
+      "language": "zh",
+      "type": "blog",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 300
+      }
+    },
+    {
+      "source_id": "youtube-ktrading-ko",
+      "name": "K-Trade Channel",
+      "language": "ko",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100
+      }
+    },
+    {
+      "source_id": "youtube-japanimport-ja",
+      "name": "Japan Import Channel",
+      "language": "ja",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 80
+      }
+    },
+    {
+      "source_id": "blog-ecommerce-de",
+      "name": "E-Commerce Germany",
+      "language": "de",
+      "type": "blog",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 200
+      }
+    },
+    {
+      "source_id": "youtube-junglescout-en",
+      "name": "Jungle Scout",
+      "language": "en",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100
       }
     }
   ]

@@ -3628,7 +3628,7 @@
       "target": "update-registry-extraction-stats",
       "description": "After agents collect, rescan content-db/raw/ and update extraction counts in registry. Run source-monitor.js.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T16:10:00Z"
     },
     {
@@ -3638,7 +3638,7 @@
       "target": "quality-check-samples",
       "description": "Pick 5 random Bronze items, read them, grade quality. Are transcripts complete? Is metadata accurate?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T16:10:00Z"
     }
   ],
