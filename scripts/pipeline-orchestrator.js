@@ -18,11 +18,14 @@ const PIPELINE = [
     { name: 'Keyword Radar', script: 'keyword-radar.js', depends: 'blog-rss-monitor.js' },
     { name: 'Coverage Report', script: 'coverage-report.js' },
     { name: 'Product Database', script: 'product-database.js' },
+    { name: 'SEO/AEO Pipeline', script: 'seo-aeo-pipeline.js' },
+    { name: 'AEO Audit', script: 'aeo-audit.js' },
+    { name: 'Quality Gate', script: 'quality-gate.js' },
 ];
 
 async function run() {
     console.log('========================================');
-    console.log('  BRONZE DATALAKE PIPELINE');
+    console.log('  BRONZE DATALAKE + SEO/AEO PIPELINE');
     console.log(`  ${new Date().toISOString()}`);
     console.log('========================================\n');
 
