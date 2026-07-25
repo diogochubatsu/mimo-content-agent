@@ -1,6 +1,6 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T20:27:14.112Z
+**Generated:** 2026-07-25T20:28:20.768Z
 **Articles audited:** 263
 
 ## Grade Distribution
