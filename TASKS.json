@@ -4342,7 +4342,7 @@
       "priority": "critical",
       "status": "done",
       "created": "2026-07-25T21:25:00Z",
-      "result": "Collected 13 videos from China Gate Importação YouTube channel (@chinagatebrasil, 470K+ subscribers). Videos cover: import costs (quanto custa importar), container compartilhado costs, importação simplificada, Pindau platform, 7 formas de importar, importação para revender, passo a passo para iniciantes, Radar Siscomex, importadoras examples, modalidades de importação. Saved as individual .md files with frontmatter (title, source, url, date, summary, tags) to content-db/raw/youtube/china-gate/. Videos from 2021-2025, total views: 200K+"
+      "result": "Collected 13 videos from China Gate Importa\u00e7\u00e3o YouTube channel (@chinagatebrasil, 470K+ subscribers). Videos cover: import costs (quanto custa importar), container compartilhado costs, importa\u00e7\u00e3o simplificada, Pindau platform, 7 formas de importar, importa\u00e7\u00e3o para revender, passo a passo para iniciantes, Radar Siscomex, importadoras examples, modalidades de importa\u00e7\u00e3o. Saved as individual .md files with frontmatter (title, source, url, date, summary, tags) to content-db/raw/youtube/china-gate/. Videos from 2021-2025, total views: 200K+"
     },
     {
       "id": "T1122",
@@ -4351,8 +4351,9 @@
       "target": "collect-wholesale-ted-youtube",
       "description": "Collect from Wholesale Ted YouTube (biggest EN dropshipping channel). Extract 10 video transcripts. Save to content-db/blogs/wholesaleted-en/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T21:25:00Z"
+      "status": "done",
+      "created": "2026-07-25T21:25:00Z",
+      "result": "Collected 12 videos from Wholesale Ted YouTube channel (1.48M+ subscribers). Videos cover: dropshipping basics, AI dropshipping 2026, store setup tutorials, product research, print-on-demand tips, ecommerce tools, and common mistakes to avoid. Saved as individual .md files with frontmatter (title, source, url, date, summary, tags) to content-db/raw/youtube/wholesale-ted/ and content-db/blogs/wholesaleted-en/. Videos from 2017-2026, covering dropshipping, shopify, ecommerce, and print-on-demand topics."
     },
     {
       "id": "T1123",
@@ -4383,7 +4384,7 @@
       "priority": "critical",
       "status": "done",
       "created": "2026-07-25T21:30:00Z",
-      "result": "12 videos collected from Jota Fiuza YouTube channel and related sources. Saved to content-db/raw/youtube/jota-fiuza/ as individual .md files with complete frontmatter (title, source, url, channel, date, duration, views, tags, summary). Topics covered: dropshipping, importação da China, comércio exterior, escala, erros fatais, custos de importação, história de sucesso, armazém na China (Wiio), 20 milhões em vendas, primeiro produto R$150k. All videos focus on import/export with China."
+      "result": "12 videos collected from Jota Fiuza YouTube channel and related sources. Saved to content-db/raw/youtube/jota-fiuza/ as individual .md files with complete frontmatter (title, source, url, channel, date, duration, views, tags, summary). Topics covered: dropshipping, importa\u00e7\u00e3o da China, com\u00e9rcio exterior, escala, erros fatais, custos de importa\u00e7\u00e3o, hist\u00f3ria de sucesso, armaz\u00e9m na China (Wiio), 20 milh\u00f5es em vendas, primeiro produto R$150k. All videos focus on import/export with China."
     },
     {
       "id": "T1131",
