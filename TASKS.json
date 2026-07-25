@@ -3609,8 +3609,9 @@
       "target": "find-sources-zh-ko-ja",
       "description": "RESEARCH: Find 5+ authoritative sources for ZH, KO, JA import/ecommerce content. Add to sources-registry.json.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Identified 18 authoritative sources for ZH/KO/JA content: ZH (6 sources - China Customs, Alibaba, China Daily, Made-in-China, MOFCOM, Global Sources), KO (6 sources - Korea Customs, KITA, Coupang, KOTRA, 11st, MOTIE), JA (6 sources - Japan Customs, JETRO, Rakuten, JFTC, METI, Amazon Japan). Saved to content-db/raw/sources-zh-ko-ja.md with URLs, descriptions, and estimated article counts."
     },
     {
       "id": "T630",
