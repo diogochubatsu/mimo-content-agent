@@ -7015,7 +7015,7 @@
       "target": "weekly-progress-report",
       "description": "Generate weekly progress report: tasks completed, articles published, quality scores, agent performance.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:20:00Z"
     },
     {
@@ -7025,7 +7025,7 @@
       "target": "trending-topics-research",
       "description": "Research trending topics in import/export niche. What are people searching for? What content gaps exist?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:20:00Z"
     },
     {
@@ -7035,7 +7035,7 @@
       "target": "source-quality-improvement-plan",
       "description": "Create plan to improve source quality from 52% to 80% A. Identify specific fixes needed.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:20:00Z"
     },
     {
@@ -7045,7 +7045,7 @@
       "target": "multi-language-expansion-plan",
       "description": "Plan for expanding to more languages: Polish, Japanese, Korean content. What sources to add?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:20:00Z"
     },
     {
@@ -7055,7 +7055,7 @@
       "target": "task-archive-cleanup",
       "description": "Archive completed tasks T1-T200 to reduce TASKS.json size. Target: <200 active tasks.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:20:00Z"
     }
   ],
