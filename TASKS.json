@@ -4477,8 +4477,12 @@
       "target": "collect-jotafiuza",
       "description": "Extract 10 videos from Jota Fiuza YouTube. Biggest BR dropshipping channel. Transcribe + extract metadata. Save to content-db/blogs/jotafiuza-pt/",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "11 articles collected from Jota Fiuza ecosystem. Sources: jotafiuza.com (official site), Observatório dos Famosos, O Tempo, Revista Encontro, Tô Na Fama, Cartão de Visita News, 1News Brasil. Content covers: tráfego pago vs orgânico, 3 pilares do dropshipping, 8 mitos e verdades, 7 erros comuns, casos de sucesso, biografia, JF Rocket courses, mercado ecommerce BR, importação China. Saved to content-db/raw/jota-fiuza/ as individual .md files with frontmatter.",
+      "depends_on": [],
+      "blocks": [],
+      "assigned_to": "pc-2"
     },
     {
       "id": "T1154",
