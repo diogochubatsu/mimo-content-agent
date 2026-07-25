@@ -4033,9 +4033,9 @@
       "acceptance": "Dashboard mostra metricas em tempo real",
       "id": "T271",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T22:00:00Z",
-      "result": null,
+      "result": "Script pipeline-metrics.js criado. Mostra m\u00e9tricas: bronze por idioma, silver articles, efficiency.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"

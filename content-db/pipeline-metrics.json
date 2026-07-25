@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-07-25T04:25:49.305Z",
+  "bronze_raw": {
+    "total": 19,
+    "byLanguage": {
+      "zh": 1,
+      "unknown": 18
+    }
+  },
+  "bronze_articles": {
+    "total": 6
+  },
+  "silver": {
+    "total": 112
+  }
+}
