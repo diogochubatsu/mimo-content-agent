@@ -4340,8 +4340,9 @@
       "target": "collect-china-gate-youtube",
       "description": "Collect from China Gate YouTube (biggest BR import channel). Extract 10 video transcripts with full metadata. Save to content-db/blogs/chinagate-pt/.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T21:25:00Z"
+      "status": "done",
+      "created": "2026-07-25T21:25:00Z",
+      "result": "Collected 13 videos from China Gate Importação YouTube channel (@chinagatebrasil, 470K+ subscribers). Videos cover: import costs (quanto custa importar), container compartilhado costs, importação simplificada, Pindau platform, 7 formas de importar, importação para revender, passo a passo para iniciantes, Radar Siscomex, importadoras examples, modalidades de importação. Saved as individual .md files with frontmatter (title, source, url, date, summary, tags) to content-db/raw/youtube/china-gate/. Videos from 2021-2025, total views: 200K+"
     },
     {
       "id": "T1122",
