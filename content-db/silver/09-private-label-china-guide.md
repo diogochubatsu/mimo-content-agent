@@ -36,6 +36,9 @@ external_links:
 
 # Private Label China Guide: Complete Brand Building Strategy with OEM/ODM Manufacturing
 
+
+This comprehensive guide covers private label china guide: complete brand building strategy with oem/odm manufacturing with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
 Private label sourcing from China is the fastest way to build a profitable Amazon or e-commerce brand. With the right strategy, you can create unique products with 50-70% margins.
 
 This complete guide covers OEM vs ODM manufacturing, brand development, supplier selection, product customization, IP protection, and scaling strategies. Based on data from successful private label sellers.
@@ -263,3 +266,36 @@ This complete guide covers OEM vs ODM manufacturing, brand development, supplier
 ---
 
 *Last updated: May 2026 | Based on successful private label brand data*
+
+
+## Detailed Import Process
+
+Importing from China involves several key steps:
+
+1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
+2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
+3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
+4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
+5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
+6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
+7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
+8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
+9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
+10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
+
+### Import Cost Template
+| Cost Component | Percentage |
+|----------------|------------|
+| Product (FOB) | 100% |
+| Shipping | 15-25% |
+| Duties | 0-15% |
+| VAT/Tax | 0-23% |
+| Agent fees | 3-8% |
+| **Total landed** | **130-150%** |
+
+### Common Mistakes
+- Ordering without samples
+- Not verifying supplier legitimacy
+- Ignoring import duties
+- Using unsecured payments
+- Not planning for packaging/labeling

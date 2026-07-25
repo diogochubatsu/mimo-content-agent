@@ -22,6 +22,9 @@ external_links: []
 
 # How to Start Sourcing Suppliers in China Successfully (Complete 2026 Guide)
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 Sourcing suppliers in China is one of the most effective ways to reduce product costs, increase profit margins, and access a massive range of wholesale products. However, the process can be overwhelming for newcomers. This comprehensive 2026 guide covers every method for finding suppliers, from online platforms to in-person visits, with detailed verification and negotiation strategies.
 
 ## Best Methods for Sourcing Suppliers in China

@@ -43,6 +43,9 @@ external_links:
 
 # How to Verify Suppliers: Complete 6-Step System with Anti-Fraud Protocols
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 The fatal error in global procurement is not buying from an obviously bad supplier. The real danger is wiring a deposit to a polished storefront that collapses during mass production.
 
 Our team audited 50 recent factory failures. We used this hard data to build a foolproof six-step verification system. This guide will help you avoid the $25,000+ losses that plague first-time importers.

@@ -34,6 +34,9 @@ external_links:
 
 # Hidden Sourcing Costs: 15 Expenses Most Importers Miss (With Calculation Guide)
 
+
+This comprehensive guide covers hidden sourcing costs: 15 expenses most importers miss (with calculation guide) with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
 Most importers focus only on product cost and freight. They're shocked when their actual landed cost is 30-50% higher than expected.
 
 This guide reveals 15 hidden sourcing costs that eat into margins, with calculation formulas and strategies to minimize each one.

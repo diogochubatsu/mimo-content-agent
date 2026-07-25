@@ -34,6 +34,9 @@ external_links:
 
 # Import From China to Canada: Complete Guide with Customs, Duties, and Logistics
 
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
 Importing from China to Canada offers significant cost savings, but requires understanding Canadian customs regulations, duty rates, and compliance requirements.
 
 This complete guide covers customs clearance, duty calculations, GST/HST, logistics, and compliance. Based on real data from successful Canadian importers.

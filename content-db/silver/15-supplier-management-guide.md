@@ -33,6 +33,9 @@ external_links:
 
 # Supplier Management Guide: Complete Framework for Supplier Relationships and Performance
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 Effective supplier management is the difference between a profitable import business and constant supply chain headaches. Most importers treat suppliers as transactional, missing 20-30% in potential savings.
 
 This complete framework covers relationship building, performance tracking, negotiation strategies, risk management, and long-term partnership development. Based on data from successful import operations.

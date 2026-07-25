@@ -10,6 +10,9 @@ source: bronze-expansion
 
 # What Is Dropshipping and How Does It Work? Complete 2026 Guide
 
+
+Dropshipping from China yields 20-40% profit margins when sourced correctly. The key to profitability is choosing products with high perceived value and low shipping weight.
+
 **Updated:** 2026-07-25 | **Reading time:** 16 min | **Expert reviewed**
 
 ## Table of Contents

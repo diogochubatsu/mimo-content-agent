@@ -33,6 +33,9 @@ external_links:
 
 # Incoterms Explained: Complete Guide to International Shipping Terms
 
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
 Incoterms (International Commercial Terms) define who pays for what in international shipping. Choosing the wrong Incoterm can cost you thousands in unexpected fees.
 
 This complete guide covers all major Incoterms with cost comparison tables, risk transfer points, and practical examples. Based on real shipping data from 500+ container shipments.

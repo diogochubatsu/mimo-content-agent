@@ -21,6 +21,9 @@ external_links: []
 
 # Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 Before paying any Yiwu supplier, use a clear verification checklist to confirm who you are buying from, what stock they really have, how payment should work, and whether the products match your import requirements. This 10-point checklist is your protection against supplier scams, quality failures, and costly mistakes. Every step is designed to reduce risk before you commit your money.
 
 ## Why Supplier Verification Matters in Yiwu Market

@@ -34,6 +34,9 @@ external_links:
 
 # Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization
 
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
 Shipping from China is the most critical step in the import process. The right shipping strategy can save you 30-50% on logistics costs while ensuring timely delivery.
 
 This comprehensive guide covers sea freight, air freight, express courier, customs clearance, freight forwarder selection, and cost optimization strategies. Based on real data from 500+ container shipments.

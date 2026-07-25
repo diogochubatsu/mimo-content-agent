@@ -35,6 +35,9 @@ external_links:
 
 # Amazon FBA Sourcing Guide: Complete China Import Strategy with Landed Cost Calculator
 
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
 Amazon FBA sourcing from China is the most profitable way to build an Amazon business. With the right strategy, you can achieve 40-60% margins while leveraging Amazon's fulfillment network.
 
 This complete guide covers product selection, supplier vetting, landed cost calculation, FBA prep requirements, shipping optimization, and scaling strategies. Based on data from successful FBA sellers.

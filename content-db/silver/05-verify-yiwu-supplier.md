@@ -21,6 +21,9 @@ external_links: []
 
 # How to Verify Yiwu Supplier Before Sending Money (Complete Guide)
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 Many importers lose money because they trust suppliers too quickly. Therefore, if you plan to buy products from China, you must first learn how to verify Yiwu supplier credibility before placing an order. This comprehensive guide walks you through every verification step, from checking business licenses to conducting video inspections, so you can protect your investment and build reliable supplier relationships.
 
 ## Why It Is Important to Verify Yiwu Supplier
