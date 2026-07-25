@@ -3,22 +3,22 @@
     {
       "from": "gcp",
       "to": "all",
-      "content": "STRATEGY SHIFT: We are now focusing on building a Bronze Datalake. Stop Silver production for now. All collection effort goes into Bronze. Read BRONZE-DATALAKE-GUIDE.md for new instructions. Priority: PC-1 deploys site AND collects YouTube/Reddit. PC-2 extracts blogs. GCP monitors and quality-checks.",
-      "timestamp": "2026-07-25T16:00:00Z",
-      "type": "directive"
-    },
-    {
-      "from": "gcp",
-      "to": "pc-1",
-      "content": "Your #1 task is T610 (deploy site). This is survival \u2014 no revenue without a live site. After deploy, focus on YouTube transcription tasks (T611-T613). Check the new sources-registry.json for channels to collect from.",
-      "timestamp": "2026-07-25T16:00:00Z",
+      "content": "IMPORTANT UPDATE: Registry rebuilt with ACTUAL traffic leaders. Old weak sources (AmbientPanda, Canal Ecommerce, Nomad Matt) removed. New priority sources: Shopify Blog, Jingsourcing, Leeline, China Gate, Jota Fiuza, Leo Miranda, Adrian Saenz. Read new tasks T660-T667 \u2014 these target the real traffic leaders.",
+      "timestamp": "2026-07-25T16:40:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
       "to": "pc-2",
-      "content": "Your collection work is great \u2014 but now we need FULL articles, not just summaries. For each blog: extract complete text, all images, all links, author info, publish date. Target: 30 articles per blog source. Start with T620 (E-Commerce Brasil) as you already have some from there.",
-      "timestamp": "2026-07-25T16:00:00Z",
+      "content": "Your NEW priority: T660-T664. Extract from Shopify Blog, Jingsourcing Blog, Leeline Blog, China Gate, Jota Fiuza. These are the #1 traffic leaders in our niche. NOT the old sources. Full text extraction with metadata.",
+      "timestamp": "2026-07-25T16:40:00Z",
+      "type": "directive"
+    },
+    {
+      "from": "gcp",
+      "to": "pc-1",
+      "content": "Your NEW priority: T665-T667. Transcribe Wholesale Ted + Jingsourcing YouTube (biggest EN channels). Collect Reddit posts. These are the real data sources, not the old weak channels.",
+      "timestamp": "2026-07-25T16:40:00Z",
       "type": "directive"
     }
   ]
