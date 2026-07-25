@@ -4308,7 +4308,7 @@
       "description": "COLLECT: Find 5 new Brazilian import blogs. Collect 10 articles from each. Focus on importa\u00e7\u00e3o chinesa, fornecedores, impostos. Use blog-extractor-template.js. Save to content-db/blogs/new-pt-sources/.",
       "priority": "high",
       "status": "done",
-      "result": "Collected 26 articles from 3 new Brazilian PT sources: Yampi Blog (9 articles), Hotmart Blog (10 articles), Sebrae Notícias (7 articles). All articles saved to content-db/blogs/new-pt-sources/ with proper frontmatter (title, source, url, date, summary, tags).",
+      "result": "Collected 26 articles from 3 new Brazilian PT sources: Yampi Blog (9 articles), Hotmart Blog (10 articles), Sebrae Not\u00edcias (7 articles). All articles saved to content-db/blogs/new-pt-sources/ with proper frontmatter (title, source, url, date, summary, tags).",
       "created": "2026-07-25T20:30:00Z"
     },
     {
@@ -4321,6 +4321,56 @@
       "status": "done",
       "created": "2026-07-25T20:30:00Z",
       "result": "Site build verificado: 62 p\u00e1ginas geradas com sucesso. Pronto para deploy Vercel."
+    },
+    {
+      "id": "T1120",
+      "to": "pc-2",
+      "type": "expand",
+      "target": "expand-silver-quality",
+      "description": "Expand 10 B-grade Silver articles to A-grade by adding data tables, expert insights, and 500+ more words each. Run quality-gate.js after each expansion.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T21:25:00Z"
+    },
+    {
+      "id": "T1121",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-china-gate-youtube",
+      "description": "Collect from China Gate YouTube (biggest BR import channel). Extract 10 video transcripts with full metadata. Save to content-db/blogs/chinagate-pt/.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T21:25:00Z"
+    },
+    {
+      "id": "T1122",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-wholesale-ted-youtube",
+      "description": "Collect from Wholesale Ted YouTube (biggest EN dropshipping channel). Extract 10 video transcripts. Save to content-db/blogs/wholesaleted-en/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T21:25:00Z"
+    },
+    {
+      "id": "T1123",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "deploy-site-live",
+      "description": "DEPLOY: Get the site live on Vercel. Verify build passes, check deployment status, add sitemap. This is the #1 blocker for revenue.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T21:25:00Z"
+    },
+    {
+      "id": "T1124",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "add-affiliate-links",
+      "description": "Add Amazon Associates and AliExpress affiliate links to top 20 Silver articles by word count. Insert product links naturally in comparison tables and product recommendations.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T21:25:00Z"
     }
   ],
   "log": [

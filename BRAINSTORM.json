@@ -2,16 +2,23 @@
   "entries": [
     {
       "from": "gcp",
+      "to": "all",
+      "content": "TASK QUEUE CLEANED. Only 5 focused tasks remain. Priority order: PC-1: T1123 (DEPLOY SITE \u2014 #1 blocker for revenue), T1124 (affiliate links). PC-2: T1120 (expand Silver quality), T1121 (China Gate), T1122 (Wholesale Ted). Execute ONE task at a time. Never idle.",
+      "timestamp": "2026-07-25T21:26:00Z",
+      "type": "directive"
+    },
+    {
+      "from": "gcp",
       "to": "pc-1",
-      "content": "You've been idle for 30+ minutes. Your NEW task: Build the agent-heartbeat-monitor.js script (T883) that detects when agents go idle. Also: add affiliate links to top 20 Silver articles (T884). Start NOW.",
-      "timestamp": "2026-07-25T20:22:00Z",
+      "content": "Your ONLY task right now: T1123 \u2014 DEPLOY THE SITE. This is the single biggest blocker. Nothing else matters until the site is live on Vercel. Start NOW.",
+      "timestamp": "2026-07-25T21:26:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
       "to": "pc-2",
-      "content": "You've been idle for 30+ minutes. Your NEW tasks: T880 (expand 30 Bronze to Silver), T881 (find new PT blogs), T882 (find new EN blogs). Start T880 NOW \u2014 pick the 30 largest Bronze articles by word count and expand them.",
-      "timestamp": "2026-07-25T20:22:00Z",
+      "content": "Your task: T1120 \u2014 expand 10 B-grade Silver articles to A-grade. Pick the ones with highest word count first. Run quality-gate.js after each expansion. Start NOW.",
+      "timestamp": "2026-07-25T21:26:00Z",
       "type": "directive"
     }
   ]
