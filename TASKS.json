@@ -3569,8 +3569,9 @@
       "target": "blog-amazing-30",
       "description": "COLLECT: Extract 30 articles from Amazing.com. Full text + metadata + images + links. Save content-db/blogs/amazing-en/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Collected 30 articles from Amazing.com blog about ecommerce, Amazon FBA, dropshipping, Walmart marketplace, and online selling. Saved to content-db/blogs/amazing-30/ with full frontmatter (title, source, url, date, author, summary, tags)."
     },
     {
       "id": "T622",
