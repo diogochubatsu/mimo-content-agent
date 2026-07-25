@@ -3800,6 +3800,46 @@
       "priority": "high",
       "status": "pending",
       "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T670",
+      "to": "gcp",
+      "type": "review",
+      "target": "verify-agent-picks-up-new-tasks",
+      "description": "Verify: Are PC-1/PC-2 picking up T660-T667 (traffic-leader collection tasks)? Check git log. If not, investigate.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:45:00Z"
+    },
+    {
+      "id": "T671",
+      "to": "gcp",
+      "type": "implement",
+      "target": "expand-registry-10-more-sources",
+      "description": "Find and add 10 more verified sources to registry. Focus: blog RSS feeds that actually work, YouTube channels with 50k+ subscribers.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:45:00Z"
+    },
+    {
+      "id": "T672",
+      "to": "gcp",
+      "type": "review",
+      "target": "quality-grade-10-blog-articles",
+      "description": "Read and grade 10 blog articles from content-db/blogs/ \u2014 check metadata completeness, content quality, schema compliance.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:45:00Z"
+    },
+    {
+      "id": "T673",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-keyword-radar-script",
+      "description": "Build keyword-radar.js: parses RSS/sitemap output to detect emerging keywords. Cross-reference with trend radar.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T16:45:00Z"
     }
   ],
   "log": [
