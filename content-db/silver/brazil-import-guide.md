@@ -714,6 +714,7 @@ A: Misclassification can result in penalties of 2-4x the unpaid duty amount, plu
 
 ## Related Articles
 
+- [How to Calculate Import Margins: The Complete Form](/articles/calculate-import-margins)
 - [1688.com Masterclass: The Complete Guide to Sourci](/articles/gold-1688-masterclass)
 - [AliExpress vs 1688: Which is Better for Dropshippi](/articles/aliexpress-comparison)
 - [Advanced Product Sourcing Techniques for 1688 and ](/articles/advanced-product-sourcing)

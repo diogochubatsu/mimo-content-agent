@@ -390,6 +390,7 @@ A: Yes, but customs duties still apply. Most countries allow personal imports up
 
 ## Related Articles
 
+- [How to Calculate Import Margins: The Complete Form](/articles/calculate-import-margins)
 - [The Ultimate Guide to Importing from China: Everyt](/articles/gold-ultimate-import-guide)
 - [1688.com Masterclass: The Complete Guide to Sourci](/articles/gold-1688-masterclass)
 - [AliExpress vs 1688: Which is Better for Dropshippi](/articles/aliexpress-comparison)

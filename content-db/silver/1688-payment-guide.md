@@ -417,6 +417,7 @@ A: 1688.com does not accept cryptocurrency payments. The platform only accepts A
 
 ## Related Articles
 
+- [1688 vs Temu: Which is Better for Sourcing? Comple](/articles/1688-vs-temu)
 - [AliExpress vs 1688: Which is Better for Dropshippi](/articles/aliexpress-comparison)
 - [Advanced Product Sourcing Techniques for 1688 and ](/articles/advanced-product-sourcing)
 - [How to Source Products from 1688: The Complete Ste](/articles/1688-product-sourcing)

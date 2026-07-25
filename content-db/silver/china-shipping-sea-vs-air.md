@@ -633,5 +633,7 @@ A: Contact your freight forwarder immediately. For sea freight, claims are typic
 
 ## Related Articles
 
+- [How to Calculate Import Margins: The Complete Form](/articles/calculate-import-margins)
+- [Amazon FBA Complete Guide 2026](/articles/amazon-fba-complete-guide)
 - [1688.com Masterclass: The Complete Guide to Sourci](/articles/gold-1688-masterclass)
 - [AliExpress vs 1688: Which is Better for Dropshippi](/articles/aliexpress-comparison)

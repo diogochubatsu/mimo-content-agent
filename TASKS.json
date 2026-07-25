@@ -3598,9 +3598,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:15Z",
-      "result": null
+      "result": "Links contextuais adicionados a 86 artigos via add-contextual-links.js"
     },
     {
       "id": "T244",
