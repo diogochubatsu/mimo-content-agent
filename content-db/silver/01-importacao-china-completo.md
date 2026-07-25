@@ -1,4 +1,14 @@
 ---
+
+og:
+  title: "Guia Completo de Importação da China (2026)"
+  description: "keywords: ["guia completo", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
+canonical: "https://importguide1688.com/articles/guia-completo-de-importa-o-da-china-2026"
+---"
+  type: "article"
+  url: "https://importguide1688.com/articles/01-importacao-china-completo"
+  image: "https://importguide1688.com/og/01-importacao-china-completo.png"
+  site_name: "Import Guide 1688"
 title: "Guia Completo de Importação da China (2026)"
 description: "Comprehensive guide to guia completo de importação da china (2026)"
 slug: "guia-completo-de-importao-da-china-2026"
@@ -6,6 +16,7 @@ keywords: [guia, completo, importação, china, (2026)]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
+canonical: "https://importguide1688.com/articles/guia-completo-de-importa-o-da-china-2026"
 ---
 
 # Guia Completo de Importação da China (2026)
@@ -160,3 +171,10 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison
+
+
+## Related Articles
+
+- [01-alibaba-vs-1688](/articles/01-alibaba-vs-1688)
+- [01-fidelizacao-cliente](/articles/01-fidelizacao-cliente)
+- [01-futuro-dropshipping-2026](/articles/01-futuro-dropshipping-2026)

@@ -2,7 +2,9 @@
 
 og:
   title: "I Was Wrong About the Solo Operator Era (And I've Never Been Happier About It)"
-  description: "---"
+  description: "keywords: ["wrong about", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/i-was-wrong-about-the-solo-operator-era-and-i-ve-never-been-happier-about-it"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/i-was-wrong-about-the-solo-operator-era-and-ive-never-been-h"
   image: "https://importguide1688.com/og/i-was-wrong-about-the-solo-operator-era-and-ive-never-been-h.png"

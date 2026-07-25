@@ -2,7 +2,9 @@
 
 og:
   title: "How To Start a Dropshipping Business: 9 Essential Steps (2026)"
-  description: "---"
+  description: "keywords: ["start dropshipping", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
+canonical: "https://importguide1688.com/articles/how-to-start-a-dropshipping-business-9-essential-steps-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/how-to-start-a-dropshipping-business-9-essential-steps-2026"
   image: "https://importguide1688.com/og/how-to-start-a-dropshipping-business-9-essential-steps-2026.png"

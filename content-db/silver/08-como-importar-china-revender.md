@@ -1,4 +1,14 @@
 ---
+
+og:
+  title: "Como importar produtos da China para revender no Brasil"
+  description: "keywords: ["como importar", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/como-importar-produtos-da-china-para-revender-no-brasil"
+---"
+  type: "article"
+  url: "https://importguide1688.com/articles/08-como-importar-china-revender"
+  image: "https://importguide1688.com/og/08-como-importar-china-revender.png"
+  site_name: "Import Guide 1688"
 title: "Como importar produtos da China para revender no Brasil"
 description: "Comprehensive guide to como importar produtos da china para revender no brasil"
 slug: "como-importar-produtos-da-china-para-revender-no-brasil"
@@ -6,6 +16,7 @@ keywords: [como, importar, produtos, china, para]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
+canonical: "https://importguide1688.com/articles/como-importar-produtos-da-china-para-revender-no-brasil"
 ---
 
 # Como importar produtos da China para revender no Brasil
@@ -135,3 +146,10 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison
+
+
+## Related Articles
+
+- [01-fidelizacao-cliente](/articles/01-fidelizacao-cliente)
+- [01-german-customs-rules-regulations-import-export](/articles/01-german-customs-rules-regulations-import-export)
+- [01-how-to-import-from-china](/articles/01-how-to-import-from-china)

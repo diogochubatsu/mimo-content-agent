@@ -1,4 +1,14 @@
 ---
+
+og:
+  title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit"
+  description: "keywords: ["yiwu supplier", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
+canonical: "https://importguide1688.com/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit"
+---"
+  type: "article"
+  url: "https://importguide1688.com/articles/06-yiwu-supplier-verification-checklist"
+  image: "https://importguide1688.com/og/06-yiwu-supplier-verification-checklist.png"
+  site_name: "Import Guide 1688"
 title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit"
 description: "Comprehensive guide to yiwu supplier verification checklist before paying any deposit"
 slug: "yiwu-supplier-verification-checklist-before-paying-any-depos"
@@ -6,11 +16,18 @@ keywords: [yiwu, supplier, verification, checklist, before]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
+canonical: "https://importguide1688.com/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit"
 ---
 
 # Yiwu Supplier Verification Checklist Before Paying Any Deposit
 
 
+
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
@@ -186,3 +203,10 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison
+
+
+## Related Articles
+
+- [07-start-business-amazon](/articles/07-start-business-amazon)
+- [1688-payment-complete](/articles/1688-payment-complete)
+- [1688-payment-guide](/articles/1688-payment-guide)
