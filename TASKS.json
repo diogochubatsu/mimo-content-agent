@@ -523,9 +523,9 @@
       "id": "T300",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "10 articles collected from Sebrae/ASN about importação, comex, and tributação. Saved as individual .md files with frontmatter in content-db/blogs/sebrae-pt/. Topics covered: alíquotas zero de importação, cotas de importação, autopeças, bens de capital, proteção à vida, zonas francas, produtos médicos, e expansão internacional.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
