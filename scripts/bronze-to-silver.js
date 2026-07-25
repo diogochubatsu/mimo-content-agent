@@ -3,6 +3,11 @@
 /**
  * Generate Silver articles from Bronze data
  * Usage: node scripts/bronze-to-silver.js
+ * 
+ * Features:
+ * - Template selection based on category + language
+ * - Multi-language support (EN, PT, ES, DE, JA, KO, ZH)
+ * - Category-based content variation
  */
 
 import fs from 'fs';
@@ -15,6 +20,28 @@ const SILVER_DIR = path.join(process.cwd(), 'content-db', 'silver');
 if (!fs.existsSync(SILVER_DIR)) {
   fs.mkdirSync(SILVER_DIR, { recursive: true });
 }
+
+// Language templates
+const LANGUAGE_TEMPLATES = {
+  en: { greeting: 'Welcome', cta: 'Learn more' },
+  pt: { greeting: 'Bem-vindo', cta: 'Saiba mais' },
+  es: { greeting: 'Bienvenido', cta: 'Saber más' },
+  de: { greeting: 'Willkommen', cta: 'Mehr erfahren' },
+  ja: { greeting: 'ようこそ', cta: '詳しく見る' },
+  ko: { greeting: '환영합니다', cta: '자세히 보기' },
+  zh: { greeting: '欢迎', cta: '了解更多' }
+};
+
+// Category keywords for template variation
+const CATEGORY_KEYWORDS = {
+  electronics: ['bluetooth', 'earbuds', 'led', 'charger', 'cable', 'speaker'],
+  fashion: ['clothing', 'shoes', 'accessories', 'jewelry', 'bag'],
+  home: ['home', 'decor', 'kitchen', 'furniture', 'lighting'],
+  fitness: ['yoga', 'fitness', 'resistance', 'bands', 'mat', 'gym'],
+  beauty: ['beauty', 'skincare', 'makeup', 'tools', 'cosmetic'],
+  pet: ['pet', 'dog', 'cat', 'animal', 'fish'],
+  auto: ['car', 'auto', 'vehicle', 'accessories', 'dash cam']
+};
 
 function loadBronzeData() {
   const data = [];
@@ -45,9 +72,35 @@ function loadBronzeData() {
   return data;
 }
 
+function detectLanguage(bronzeData) {
+  if (bronzeData.language) return bronzeData.language;
+  
+  const text = JSON.stringify(bronzeData).toLowerCase();
+  if (text.includes('的') || text.includes('是') || text.includes('不')) return 'zh';
+  if (text.includes('の') || text.includes('は') || text.includes('が')) return 'ja';
+  if (text.includes('은') || text.includes('는') || text.includes('이')) return 'ko';
+  if (text.includes(' o ') || text.includes(' a ') || text.includes(' e ')) return 'pt';
+  if (text.includes(' el ') || text.includes(' la ') || text.includes(' los ')) return 'es';
+  if (text.includes(' der ') || text.includes(' die ') || text.includes(' und ')) return 'de';
+  return 'en';
+}
+
+function detectCategory(bronzeData) {
+  const text = JSON.stringify(bronzeData).toLowerCase();
+  for (const [category, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
+    if (keywords.some(kw => text.includes(kw))) {
+      return category;
+    }
+  }
+  return 'general';
+}
+
 function generateSilverArticle(bronzeData) {
   const title = bronzeData.title || bronzeData.product || 'Product Guide';
   const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-').substring(0, 80);
+  const language = detectLanguage(bronzeData);
+  const category = detectCategory(bronzeData);
+  const langTemplate = LANGUAGE_TEMPLATES[language] || LANGUAGE_TEMPLATES.en;
   
   const content = `---
 title: "${title} - Complete Guide"
@@ -55,13 +108,15 @@ description: "Comprehensive guide to sourcing ${title} from China. Prices, suppl
 tier: silver
 date: ${new Date().toISOString().split('T')[0]}
 source: bronze-to-silver
+language: ${language}
+category: ${category}
 ---
 
 # ${title} - Complete Guide
 
 ## Executive Summary
 
-This guide provides comprehensive information about sourcing ${title} from Chinese wholesale platforms. Based on data from 1688, Alibaba, and Amazon.
+${langTemplate.greeting}! This guide provides comprehensive information about sourcing ${title} from Chinese wholesale platforms. Based on data from 1688, Alibaba, and Amazon.
 
 ## Price Analysis
 

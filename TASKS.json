@@ -4865,9 +4865,9 @@
       "acceptance": "Script generates 5 silver articles from bronze with images and FAQ",
       "id": "T323",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Script bronze-to-silver.js melhorado: detec\u00e7\u00e3o de idioma, categorias, templates multi-idioma.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
