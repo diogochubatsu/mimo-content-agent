@@ -3508,8 +3508,9 @@
       "target": "deploy-site-vercel",
       "description": "DEPLOY: Get Next.js site live on Vercel. #1 PRIORITY — no revenue without a live site.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Site Next.js buildado com sucesso. Corrigido sitemap.xml.js e article paths. Pronto para deploy Vercel."
     },
     {
       "id": "T611",

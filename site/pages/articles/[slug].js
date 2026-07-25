@@ -226,13 +226,10 @@ Kitchen gadgets are evergreen products with consistent demand. From silicone spa
 }
 
 export async function getStaticPaths() {
-  const paths = Object.keys(articlesData).map((slug) => ({
-    params: { slug },
-  }))
-
+  // Use dynamic rendering to avoid path conflicts
   return {
-    paths,
-    fallback: false,
+    paths: [],
+    fallback: 'blocking',
   }
 }
 
