@@ -3840,6 +3840,36 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T16:45:00Z"
+    },
+    {
+      "id": "T680",
+      "to": "gcp",
+      "type": "review",
+      "target": "agents-pickup-verification",
+      "description": "Check: Did agents pick up T660-T667? What's their latest output? Grade quality.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T16:50:00Z"
+    },
+    {
+      "id": "T681",
+      "to": "gcp",
+      "type": "implement",
+      "target": "pipeline-orchestrator",
+      "description": "Build pipeline-orchestrator.js: runs source-monitor \u2192 blog-rss-monitor \u2192 keyword-radar \u2192 coverage-report in sequence. One command = full pipeline status.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T16:50:00Z"
+    },
+    {
+      "id": "T682",
+      "to": "gcp",
+      "type": "review",
+      "target": "weekly-progress-report-v2",
+      "description": "Generate comprehensive progress report: sources mapped, extraction progress, quality grades, coverage %, agent output, next priorities.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T16:50:00Z"
     }
   ],
   "log": [
