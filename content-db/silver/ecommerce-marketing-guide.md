@@ -2,7 +2,9 @@
 
 og:
   title: "Complete Guide: Ecommerce Marketing Guide 2026"
-  description: "---"
+  description: "keywords: ["complete guide:", "import", "china", "supplier", "1688", "alibaba", "profit"]
+canonical: "https://importguide1688.com/articles/complete-guide-ecommerce-marketing-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/ecommerce-marketing-guide"
   image: "https://importguide1688.com/og/ecommerce-marketing-guide.png"

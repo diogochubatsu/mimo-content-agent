@@ -2,7 +2,9 @@
 
 og:
   title: "Amazon Listing Optimization Guide (2026)"
-  description: "---"
+  description: "keywords: ["amazon listing", "import", "wholesale", "dropship", "1688", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/amazon-listing-optimization-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/amazon-listing-optimization"
   image: "https://importguide1688.com/og/amazon-listing-optimization.png"

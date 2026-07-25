@@ -2,7 +2,9 @@
 
 og:
   title: "Ecommerce Startup Guide 2026: Complete Step-by-Step Roadmap"
-  description: "---"
+  description: "keywords: ["ecommerce startup", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/ecommerce-startup-guide-2026-complete-step-by-step-roadmap"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/ecommerce-startup-guide"
   image: "https://importguide1688.com/og/ecommerce-startup-guide.png"

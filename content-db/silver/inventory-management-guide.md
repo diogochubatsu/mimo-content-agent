@@ -2,7 +2,9 @@
 
 og:
   title: "Complete Guide: Inventory Management for Ecommerce 2026"
-  description: "---"
+  description: "keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/complete-guide-inventory-management-for-ecommerce-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/inventory-management-guide"
   image: "https://importguide1688.com/og/inventory-management-guide.png"

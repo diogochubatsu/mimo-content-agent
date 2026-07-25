@@ -2,7 +2,9 @@
 
 og:
   title: "How to Build a Brand on Amazon: Complete Guide (2026)"
-  description: "---"
+  description: "keywords: ["build brand", "import", "china", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
+canonical: "https://importguide1688.com/articles/how-to-build-a-brand-on-amazon-complete-guide-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/build-brand-amazon"
   image: "https://importguide1688.com/og/build-brand-amazon.png"
