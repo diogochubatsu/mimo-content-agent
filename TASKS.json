@@ -3713,9 +3713,9 @@
       "acceptance": "<10% dos registros sem campo date",
       "id": "T251",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": null,
+      "result": "Datas adicionadas a 6 artigos bronze. Usando timestamp de modifica\u00e7\u00e3o do arquivo.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
