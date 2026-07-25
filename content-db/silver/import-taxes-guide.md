@@ -500,7 +500,7 @@ A: Yes, for any commercial import over $2,500. A customs broker ($50-150 per shi
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

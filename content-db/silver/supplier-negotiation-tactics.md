@@ -4,7 +4,7 @@ title: "Complete Guide: Supplier Negotiation Tactics for Importers ("
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
 slug: "complete-guide-supplier-negotiation-tactics-for-importers-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-supplier-negotiation-tactics-for-importers-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-supplier-negotiation-tactics-for-importers-2026"
 og:
   title: "Complete Guide: Supplier Negotiation Tactics for Importers ("
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -458,8 +458,8 @@ A: Absolutely—factory visits are prime negotiation opportunities. You've demon
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

@@ -4,8 +4,8 @@ og:
   title: "Is Dropshipping Worth It in 2026? Honest Profit Analysis"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/05-is-dropshipping-worth-it"
-  image: "https://importguide1688.com/og/05-is-dropshipping-worth-it.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/05-is-dropshipping-worth-it"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/05-is-dropshipping-worth-it.png"
   site_name: "Import Guide 1688"
 title: "Is Dropshipping Worth It in 2026? Honest Profit Analysis"
 description: "Is dropshipping worth it in 2026? Analyze real profit data, market growth, time investment, and hidden costs. Includes honest pros/cons and a decision framework."
@@ -14,7 +14,7 @@ keywords: [is dropshipping worth it, dropshipping profitability, dropshipping pr
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/is-dropshipping-worth-it-in-2026-honest-profit-analysis"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/is-dropshipping-worth-it-in-2026-honest-profit-analysis"
 ---
 
 # Is Dropshipping Worth It in 2026? Honest Profit Analysis

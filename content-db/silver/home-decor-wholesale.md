@@ -4,7 +4,7 @@ title: "Complete Guide: Home Decor Wholesale Guide 2026"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "supplier", "wholesale", "margin", "profit"]
 slug: "complete-guide-home-decor-wholesale-guide-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-home-decor-wholesale-guide-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-home-decor-wholesale-guide-2026"
 og:
   title: "Complete Guide: Home Decor Wholesale Guide 2026"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
@@ -558,8 +558,8 @@ A: The major trends include: sustainability (73% of consumers under 40 prioritiz
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -601,14 +601,14 @@ A: The major trends include: sustainability (73% of consumers under 40 prioritiz
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.179Z",
   "dateModified": "2026-07-24T04:05:22.179Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/home-decor-wholesale"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/home-decor-wholesale"
   },
   "articleSection": "silver",
   "keywords": [

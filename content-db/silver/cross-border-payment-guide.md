@@ -4,7 +4,7 @@ title: "Cross-Border Payment Guide 2026: Complete Solutions for Inte"
 description: "cross-border payment. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["cross-border payment", "import", "china", "supplier", "1688", "alibaba", "amazon", "margin", "profit"]
 slug: "cross-border-payment-guide-2026-complete-solutions-for-international-buyers"
-canonical: "https://importguide1688.com/articles/cross-border-payment-guide-2026-complete-solutions-for-international-buyers"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/cross-border-payment-guide-2026-complete-solutions-for-international-buyers"
 og:
   title: "Cross-Border Payment Guide 2026: Complete Solutions for Inte"
   description: "cross-border payment. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
@@ -677,8 +677,8 @@ A: If a payment is delayed: 1) Check the transaction status in your provider's d
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

@@ -4,8 +4,8 @@ og:
   title: "Hidden Sourcing Costs: 15 Expenses Most Importers Miss (With Calculation Guide)"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/11-hidden-sourcing-costs"
-  image: "https://importguide1688.com/og/11-hidden-sourcing-costs.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/11-hidden-sourcing-costs"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/11-hidden-sourcing-costs.png"
   site_name: "Import Guide 1688"
 title: "Hidden Sourcing Costs: 15 Expenses Most Importers Miss (With Calculation Guide)"
 source: "Leeline Sourcing Blog"
@@ -38,7 +38,7 @@ internal_links:
 external_links:
   - "https://www.cbp.gov/trade/basic-import-export"
   - "https://hts.usitc.gov/"
-canonical: "https://importguide1688.com/articles/hidden-sourcing-costs-15-expenses-most-importers-miss-with-calculation-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/hidden-sourcing-costs-15-expenses-most-importers-miss-with-calculation-guide"
 ---
 
 # Hidden Sourcing Costs: 15 Expenses Most Importers Miss (With Calculation Guide)
@@ -491,8 +491,8 @@ Product: Bluetooth Earbuds
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

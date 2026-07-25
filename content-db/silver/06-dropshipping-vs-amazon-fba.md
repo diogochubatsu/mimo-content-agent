@@ -3,11 +3,11 @@
 og:
   title: "Dropshipping vs Amazon FBA For Passive Income"
   description: "keywords: ["dropshipping amazon", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide1688.com/articles/dropshipping-vs-amazon-fba-for-passive-income"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/dropshipping-vs-amazon-fba-for-passive-income"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/06-dropshipping-vs-amazon-fba"
-  image: "https://importguide1688.com/og/06-dropshipping-vs-amazon-fba.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/06-dropshipping-vs-amazon-fba"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/06-dropshipping-vs-amazon-fba.png"
   site_name: "Import Guide 1688"
 title: "Dropshipping vs Amazon FBA For Passive Income"
 description: "Comprehensive guide to dropshipping vs amazon fba for passive income"
@@ -16,7 +16,7 @@ keywords: [dropshipping, amazon, passive, income]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/dropshipping-vs-amazon-fba-for-passive-income"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/dropshipping-vs-amazon-fba-for-passive-income"
 ---
 
 # Dropshipping vs Amazon FBA For Passive Income
@@ -254,8 +254,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

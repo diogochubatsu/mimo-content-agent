@@ -4,8 +4,8 @@ og:
   title: "How to Verify Yiwu Supplier Before Sending Money (Complete Guide)"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/05-verify-yiwu-supplier"
-  image: "https://importguide1688.com/og/05-verify-yiwu-supplier.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/05-verify-yiwu-supplier"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/05-verify-yiwu-supplier.png"
   site_name: "Import Guide 1688"
 title: "How to Verify Yiwu Supplier Before Sending Money (Complete Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -26,7 +26,7 @@ internal_links:
   - "https://goldenshiny.com/top-10-china-sourcing-agents/"
 external_links: []
 keywords: ["verify yiwu", "import", "china", "supplier", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/how-to-verify-yiwu-supplier-before-sending-money-complete-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-verify-yiwu-supplier-before-sending-money-complete-guide"
 ---
 
 # How to Verify Yiwu Supplier Before Sending Money (Complete Guide)
@@ -305,8 +305,8 @@ An American importer found a Yiwu supplier offering LED strip lights at 30% belo
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

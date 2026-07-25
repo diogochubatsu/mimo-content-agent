@@ -4,8 +4,8 @@ og:
   title: "What a Useful Yiwu Product Inspection Report Should Include (Complete Guide)"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/03-yiwu-inspection-report"
-  image: "https://importguide1688.com/og/03-yiwu-inspection-report.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/03-yiwu-inspection-report"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/03-yiwu-inspection-report.png"
   site_name: "Import Guide 1688"
 title: "What a Useful Yiwu Product Inspection Report Should Include (Complete Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -26,7 +26,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-supplier-verification-checklist/"
 external_links: []
 keywords: ["what useful", "import", "china", "supplier", "dropship", "amazon"]
-canonical: "https://importguide1688.com/articles/what-a-useful-yiwu-product-inspection-report-should-include-complete-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/what-a-useful-yiwu-product-inspection-report-should-include-complete-guide"
 ---
 
 # What a Useful Yiwu Product Inspection Report Should Include (Complete Guide)
@@ -291,8 +291,8 @@ An Australian importer ordered 10,000 LED light strips from a Yiwu supplier. The
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

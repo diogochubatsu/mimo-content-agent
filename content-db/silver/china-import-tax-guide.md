@@ -4,7 +4,7 @@ title: "China Import Tax Guide 2026: VAT, Customs Duties, FTA Benefits & Complia
 description: "Complete guide to China's import tax system in 2026. Learn about VAT rates, customs duties, FTA benefits, HS code classification, and compliance requirements for importing goods into China."
 keywords: ["China import tax", "China customs duty", "China VAT", "import into China", "China trade policy", "FTA China", "HS code China", "China import regulations 2026"]
 slug: "china-import-tax-guide-2026"
-canonical: "https://importguide1688.com/articles/china-import-tax-guide-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/china-import-tax-guide-2026"
 og:
   title: "China Import Tax Guide 2026: VAT, Customs Duties, FTA Benefits & Compliance"
   description: "Complete guide to China's import tax system in 2026. Learn about VAT rates, customs duties, FTA benefits, HS code classification, and compliance requirements for importing goods into China."
@@ -541,14 +541,14 @@ EuroTech engaged a Chinese customs consultancy to assess FTA eligibility. Throug
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T20:49:03.473Z",
   "dateModified": "2026-07-24T20:49:03.473Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/china-import-tax-guide"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/china-import-tax-guide"
   },
   "articleSection": "silver",
   "keywords": [

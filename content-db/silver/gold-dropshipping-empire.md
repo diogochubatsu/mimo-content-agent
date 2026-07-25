@@ -4,7 +4,7 @@ title: "building dropshipping: Building a Dropshipping Empire in 202"
 description: "building dropshipping. **Updated:** July 24, 2026 | **Reading time:** 45 min | **Based on 400+ data points**"
 keywords: ["building dropshipping", "supplier", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]
 slug: "building-a-dropshipping-empire-in-2026-the-complete-blueprint"
-canonical: "https://importguide1688.com/articles/building-a-dropshipping-empire-in-2026-the-complete-blueprint"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/building-a-dropshipping-empire-in-2026-the-complete-blueprint"
 og:
   title: "building dropshipping: Building a Dropshipping Empire in 202"
   description: "building dropshipping. **Updated:** July 24, 2026 | **Reading time:** 45 min | **Based on 400+ data points**"
@@ -421,7 +421,7 @@ A: Choosing products based on price alone (cheap = high returns) instead of qual
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

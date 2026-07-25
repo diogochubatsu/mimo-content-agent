@@ -4,7 +4,7 @@ title: "Complete Guide: China Shipping Sea vs Air Comparison 2026"
 description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]
 slug: "complete-guide-china-shipping-sea-vs-air-comparison-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-china-shipping-sea-vs-air-comparison-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-china-shipping-sea-vs-air-comparison-2026"
 og:
   title: "Complete Guide: China Shipping Sea vs Air Comparison 2026"
   description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
@@ -497,7 +497,7 @@ A: Contact your freight forwarder immediately. For sea freight, claims are typic
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -623,14 +623,14 @@ A: Contact your freight forwarder immediately. For sea freight, claims are typic
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.148Z",
   "dateModified": "2026-07-24T04:05:22.148Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/china-shipping-sea-vs-air"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/china-shipping-sea-vs-air"
   },
   "articleSection": "silver",
   "keywords": [

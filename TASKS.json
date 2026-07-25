@@ -4230,7 +4230,7 @@
       "description": "RESEARCH: Find 3 new Brazilian import/export blogs. Collect top 10 articles from each. Focus on: importa\u00e7\u00e3o da China, fornecedores chineses, impostos de importa\u00e7\u00e3o. Save to content-db/blogs/ with proper metadata.",
       "priority": "high",
       "status": "done",
-      "result": "Created new-pt-sources.md with 15 new Portuguese blog sources covering: importação/comércio exterior (4), e-commerce Brasil (4), dropshipping/China (4), Amazon FBA Brasil (3). Total estimated articles: 74,500+. Top sources: Sebrae, Nuvemshop, Ecommerce Brasil, CACEX, Amazon Seller Central BR.",
+      "result": "Created new-pt-sources.md with 15 new Portuguese blog sources covering: importa\u00e7\u00e3o/com\u00e9rcio exterior (4), e-commerce Brasil (4), dropshipping/China (4), Amazon FBA Brasil (3). Total estimated articles: 74,500+. Top sources: Sebrae, Nuvemshop, Ecommerce Brasil, CACEX, Amazon Seller Central BR.",
       "created": "2026-07-25T20:18:00Z",
       "completed_at": "2026-07-25T20:40:00Z",
       "completed_by": "pc-2"
@@ -4264,8 +4264,9 @@
       "target": "site-affiliate-links",
       "description": "ADD: Integrate Amazon Associates and AliExpress affiliate links into top 20 Silver articles. Use link patterns in article markdown.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T20:18:00Z"
+      "status": "done",
+      "created": "2026-07-25T20:18:00Z",
+      "result": "Affiliate links adicionados via scripts/add-affiliate-links.js. Links para 1688, Alibaba, Amazon, AliExpress."
     },
     {
       "id": "T885",

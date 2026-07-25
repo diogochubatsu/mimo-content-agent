@@ -4,7 +4,7 @@ title: "Complete Guide to Importing from China 2026"
 description: "complete guide. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
 slug: "complete-guide-to-importing-from-china-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-to-importing-from-china-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-to-importing-from-china-2026"
 og:
   title: "Complete Guide to Importing from China 2026"
   description: "complete guide. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
@@ -383,8 +383,8 @@ A: Yes, but customs duties still apply. Most countries allow personal imports up
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -425,14 +425,14 @@ A: Yes, but customs duties still apply. Most countries allow personal imports up
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.171Z",
   "dateModified": "2026-07-24T04:05:22.171Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/guide-importing-china"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/guide-importing-china"
   },
   "articleSection": "silver",
   "keywords": [

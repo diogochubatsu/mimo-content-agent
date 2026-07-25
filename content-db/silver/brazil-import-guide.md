@@ -4,7 +4,7 @@ title: "Complete Guide to Importing from China to Brazil 2026"
 description: "Learn how to import from China to Brazil: customs, taxes (ICMS, IPI, PIS/COFINS), documentation, logistics, and compliance. Updated July 2026."
 keywords: ["import from china to brazil", "brazil import taxes", "ICMS", "IPI", "PIS COFINS", "brazilian customs", "importação china brasil", "ANVISA", "ANATEL", "INMETRO"]
 slug: "complete-guide-importing-china-to-brazil-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-importing-china-to-brazil-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-importing-china-to-brazil-2026"
 og:
   title: "Complete Guide to Importing from China to Brazil 2026"
   description: "Learn how to import from China to Brazil: customs, taxes (ICMS, IPI, PIS/COFINS), documentation, logistics, and compliance. Updated July 2026."
@@ -704,7 +704,7 @@ A: Misclassification can result in penalties of 2-4x the unpaid duty amount, plu
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -749,14 +749,14 @@ A: Misclassification can result in penalties of 2-4x the unpaid duty amount, plu
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-21T00:00:00.000Z",
   "dateModified": "2026-07-21T00:00:00.000Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/brazil-import-guide"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/brazil-import-guide"
   },
   "articleSection": "silver",
   "keywords": [

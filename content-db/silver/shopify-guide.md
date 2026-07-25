@@ -4,11 +4,11 @@ date: 2026-07-25
 og:
   title: "Complete Guide: Shopify for Import Business 2026"
   description: "keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/complete-guide-shopify-for-import-business-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-shopify-for-import-business-2026"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/shopify-guide"
-  image: "https://importguide1688.com/og/shopify-guide.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/shopify-guide"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/shopify-guide.png"
   site_name: "Import Guide 1688"
 title: "Shopify for Import Business Guide 2026"
 slug: shopify-guide
@@ -26,7 +26,7 @@ tags:
   - 2026 guide
 schema: FAQPage
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/complete-guide-shopify-for-import-business-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-shopify-for-import-business-2026"
 ---
 
 # Complete Guide: Shopify for Import Business 2026
@@ -884,14 +884,14 @@ A: To scale your import business on Shopify: 1) Upgrade your plan as needed to a
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.199Z",
   "dateModified": "2026-07-24T04:05:22.199Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/shopify-guide"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/shopify-guide"
   },
   "articleSection": "silver",
   "keywords": [

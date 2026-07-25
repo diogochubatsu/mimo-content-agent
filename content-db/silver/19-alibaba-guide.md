@@ -345,7 +345,7 @@ Document with photos, contact supplier immediately, request replacement or refun
 ## Sources & References
 
 - [Shopify Blog — Alibaba Guide](https://www.shopify.com/blog/16665772-alibaba-101-how-to-safely-source-products-from-the-worlds-biggest-supplier-directory)
-- [Alibaba.com](https://www.alibaba.com/)
+- [Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)/)
 - [Jingsourcing Blog](https://jingsourcing.com/blog/)
 
 

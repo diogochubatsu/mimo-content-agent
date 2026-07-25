@@ -3,19 +3,19 @@
 og:
   title: "Import z Chin do Polski — Praktyczny przewodnik krok po kroku 2026"
   description: "keywords: ["import chin", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide1688.com/articles/import-z-chin-do-polski-praktyczny-przewodnik-krok-po-kroku-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-do-polski-praktyczny-przewodnik-krok-po-kroku-2026"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/import-z-chin-przewodnik-2026"
-  image: "https://importguide1688.com/og/import-z-chin-przewodnik-2026.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-przewodnik-2026"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/import-z-chin-przewodnik-2026.png"
   site_name: "Import Guide 1688"
 title: "Import z Chin do Polski — Praktyczny przewodnik krok po kroku 2026"
 slug: "import-z-chin-przewodnik-2026"
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -54,10 +54,10 @@ schema:
         text: "Minimalny kapitał startowy to 5 000-15 000 PLN w zależności od kategorii. Obejmuje: koszt próbek (200-500 PLN), pierwsze zamówienie hurtowe (2 000-8 000 PLN FOB), certyfikację (2 000-8 000 PLN jednorazowo) oraz bufor na transport i cło."
     - name: "Jak zweryfikować dostawcę z Chin przed pierwszym zamówieniem?"
       acceptedAnswer:
-        text: "Sprawdź: ocenę 4.8+ na 1688.com, status Gold Supplier na Alibaba.com, historię min. 2 lat na platformie, certyfikaty ISO 9001/BSCI, zamów próbki, sprawdź rejestry handlowe (Tianyancha), poproś o filmy z fabryki."
+        text: "Sprawdź: ocenę 4.8+ na [1688.com](https://www.1688.com), status Gold Supplier na Alibaba.com, historię min. 2 lat na platformie, certyfikaty ISO 9001/BSCI, zamów próbki, sprawdź rejestry handlowe (Tianyancha), poproś o filmy z fabryki."
     - name: "Jakie metody płatności akceptują chińscy dostawcy?"
       acceptedAnswer:
-        text: "Najpopularniejsze: T/T (przelew bankowy) — 30% zaliczka + 70% przed wysyłką, Payoneer — dla zamówień 1688.com i smaller B2B, Alipay — dla mniejszych transakcji, Western Union — dla małych kwot. Escrow na Alibaba.com dla ochrony kupujących."
+        text: "Najpopularniejsze: T/T (przelew bankowy) — 30% zaliczka + 70% przed wysyłką, Payoneer — dla zamówień [1688.com](https://www.1688.com) i smaller B2B, Alipay — dla mniejszych transakcji, Western Union — dla małych kwot. Escrow na Alibaba.com dla ochrony kupujących."
     - name: "Co to jest terminal Małaszewicze i jak działa?"
       acceptedAnswer:
         text: "Terminal Małaszewicze to największy węzeł przeładunkowy w Europie Środkowej na Nowym Jedwabnym Szlaku. Kontenery z Chin przyjeżdżają na torze szerokim (1520 mm), są przeładowywane na tor wąski (1435 mm) i jadą dalej do Polski. Czas z Chin: 15-20 dni."
@@ -85,7 +85,7 @@ schema:
     - name: "Jak sprzedawać importowane produkty na Allegro?"
       acceptedAnswer:
         text: "Załóż konto Firmowe (40 PLN/mies.), dodaj produkty z opisami min. 300 słów i zdjęciami HD, ustaw ceny z marżą 30-50% (prowizja Allegro 4-12%), obsługuj BLIK i przelewy, współpracuj z InPost/DPD dla wysyłki."
-canonical: "https://importguide1688.com/articles/import-z-chin-do-polski-praktyczny-przewodnik-krok-po-kroku-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-do-polski-praktyczny-przewodnik-krok-po-kroku-2026"
 ---
 
 # Import z Chin do Polski — Praktyczny przewodnik krok po kroku 2026
@@ -250,7 +250,7 @@ Zły dostawca to najczęstsza przyczyna strat przy imporcie z Chin. Weryfikacja 
 
 ### Platformy B2B dla polskich importerów
 
-**1688.com — Największa hurtownia w Chinach**
+**[1688.com](https://www.1688.com) — Największa hurtownia w Chinach**
 - Ponad 100 milionów produktów
 - Ceny 30-50% niższe niż AliExpress
 - Polski importer potrzebuje agenta (Superbuy, Sugargoo, CSSBuy)
@@ -373,7 +373,7 @@ Alipay (zhifubao) to chiński system płatności mobilnych. Przydatny dla zamów
 
 **Kiedy używać Alipay:**
 - Zamówienia próbne (poniżej 2 000 PLN)
-- Zakupy na 1688.com przez agenta
+- Zakupy na [1688.com](https://www.1688.com) przez agenta
 - Drobne zakupy na targowiskach (Yiwu, Huaqiangbei)
 
 **Ograniczenia:** Nie da się bezpośrednio z Polski — potrzebujesz agenta z kontem Alipay.
@@ -564,7 +564,7 @@ Po wydaniu decyzji celnej — przelew na konto Urzędu Celnego lub płatność e
 
 | Składnik kosztu | Kwota | Uwagi |
 |---|---|---|
-| Produkt FOB (28 PLN × 500) | 14 000 PLN | Cena hurtowa 1688.com |
+| Produkt FOB (28 PLN × 500) | 14 000 PLN | Cena hurtowa [1688.com](https://www.1688.com) |
 | Transport kolejowy (Małaszewicze) | 3 000 PLN | 3,5 USD/kg × 1,5 kg × 500 szt. |
 | Cło (0% — elektronika) | 0 PLN | Kod HS 8507.60 |
 | VAT 23% (od wartości celnej + transport) | 4 140 PLN | 23% × (14 000 + 3 000) |
@@ -702,7 +702,7 @@ Minimalny kapitał startowy to 5 000-15 000 PLN. Obejmuje: koszt próbek (200-50
 
 ### 2. Jak zweryfikować dostawcę z Chin przed pierwszym zamówieniem?
 
-Sprawdź: ocenę 4.8+ na 1688.com, status Gold Supplier na Alibaba.com, historię min. 2 lat na platformie, certyfikaty ISO 9001/BSCI, zamów próbki, sprawdź rejestry handlowe (Tianyancha), poproś o filmy z fabryki. Nigdy nie zamawiaj bez próbek.
+Sprawdź: ocenę 4.8+ na [1688.com](https://www.1688.com), status Gold Supplier na Alibaba.com, historię min. 2 lat na platformie, certyfikaty ISO 9001/BSCI, zamów próbki, sprawdź rejestry handlowe (Tianyancha), poproś o filmy z fabryki. Nigdy nie zamawiaj bez próbek.
 
 ### 3. Jakie metody płatności akceptują chińscy dostawcy?
 
@@ -754,7 +754,7 @@ Załóż konto Firmowe (40 PLN/mies.), dodaj produkty z opisami min. 300 słów 
 
 **Krok 3:** Przeanalizuj rynek na Allegro, wybierz kategorię produktów
 
-**Krok 4:** Znajdź 3-5 dostawców na 1688.com lub Alibaba.com
+**Krok 4:** Znajdź 3-5 dostawców na [1688.com](https://www.1688.com) lub Alibaba.com
 
 **Krok 5:** Weryfikuj dostawców (ocena, certyfikaty, próbki, Tianyancha)
 
@@ -808,14 +808,14 @@ Import z Chin do Polski to sprawdzona droga do budowy rentownego biznesu e-comme
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.049Z",
   "dateModified": "2026-07-25T17:24:34.049Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-z-chin-przewodnik-2026"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-przewodnik-2026"
   },
   "articleSection": "silver",
   "keywords": [

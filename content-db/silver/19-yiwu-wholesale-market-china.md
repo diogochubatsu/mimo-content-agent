@@ -4,8 +4,8 @@ og:
   title: "Yiwu Wholesale Market China: Complete Sourcing Guide for Importers (2026)"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/19-yiwu-wholesale-market-china"
-  image: "https://importguide1688.com/og/19-yiwu-wholesale-market-china.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/19-yiwu-wholesale-market-china"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/19-yiwu-wholesale-market-china.png"
   site_name: "Import Guide 1688"
 title: "Yiwu Wholesale Market China: Complete Sourcing Guide for Importers (2026)"
 source: "Goldenshiny Sourcing Blog"
@@ -27,7 +27,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-moq-by-product-category/"
 external_links: []
 keywords: ["yiwu wholesale", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "profit"]
-canonical: "https://importguide1688.com/articles/yiwu-wholesale-market-china-complete-sourcing-guide-for-importers-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/yiwu-wholesale-market-china-complete-sourcing-guide-for-importers-2026"
 ---
 
 # Yiwu Wholesale Market China: Complete Sourcing Guide for Importers (2026)
@@ -321,8 +321,8 @@ Most Yiwu sourcing agents offer consolidation services:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

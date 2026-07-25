@@ -4,7 +4,7 @@ title: "Complete Guide: How to Import from China to Australia (2026)"
 description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "alibaba", "margin", "profit"]
 slug: "complete-guide-how-to-import-from-china-to-australia-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-how-to-import-from-china-to-australia-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-how-to-import-from-china-to-australia-2026"
 og:
   title: "Complete Guide: How to Import from China to Australia (2026)"
   description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
@@ -305,8 +305,8 @@ A: The most common categories include electronics and electrical equipment, clot
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -339,14 +339,14 @@ A: The most common categories include electronics and electrical equipment, clot
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T03:38:03.895Z",
   "dateModified": "2026-07-25T03:38:03.895Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-china-to-australia"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-china-to-australia"
   },
   "articleSection": "silver",
   "keywords": [

@@ -4,8 +4,8 @@ og:
   title: "10 Top China Wholesale Websites: Complete Comparison Guide with Factory Verification Protocols"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/02-china-wholesale-websites"
-  image: "https://importguide1688.com/og/02-china-wholesale-websites.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/02-china-wholesale-websites"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/02-china-wholesale-websites.png"
   site_name: "Import Guide 1688"
 title: "10 Top China Wholesale Websites: Complete Comparison Guide with Factory Verification Protocols"
 source: "Leeline Sourcing Blog"
@@ -44,7 +44,7 @@ external_links:
   - "https://www.iso.org/iso-14001-environmental-management.html"
   - "https://www.ipc.org/"
   - "https://www.gsxt.gov.cn/"
-canonical: "https://importguide1688.com/articles/10-top-china-wholesale-websites-complete-comparison-guide-with-factory-verificat"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/10-top-china-wholesale-websites-complete-comparison-guide-with-factory-verificat"
 ---
 
 # 10 Top China Wholesale Websites: Complete Comparison Guide with Factory Verification Protocols
@@ -350,8 +350,8 @@ What's your primary goal?
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

@@ -4,8 +4,8 @@ og:
   title: "Yiwu Market Budget: How Much Money Do You Need to Start? (Complete 2026 Guide)"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/16-yiwu-market-budget"
-  image: "https://importguide1688.com/og/16-yiwu-market-budget.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/16-yiwu-market-budget"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/16-yiwu-market-budget.png"
   site_name: "Import Guide 1688"
 title: "Yiwu Market Budget: How Much Money Do You Need to Start? (Complete 2026 Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -26,7 +26,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-moq-by-product-category/"
 external_links: []
 keywords: ["yiwu market", "import", "china", "supplier", "wholesale", "alibaba", "amazon", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/yiwu-market-budget-how-much-money-do-you-need-to-start-complete-2026-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/yiwu-market-budget-how-much-money-do-you-need-to-start-complete-2026-guide"
 ---
 
 # Yiwu Market Budget: How Much Money Do You Need to Start? (Complete 2026 Guide)
@@ -308,8 +308,8 @@ Use this template to plan your Yiwu Market budget:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

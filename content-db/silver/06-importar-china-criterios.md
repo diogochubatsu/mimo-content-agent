@@ -3,11 +3,11 @@
 og:
   title: "Importar da China: os critérios que definem se a operação compensa"
   description: "keywords: ["importar china:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/importar-da-china-os-crit-rios-que-definem-se-a-opera-o-compensa"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/importar-da-china-os-crit-rios-que-definem-se-a-opera-o-compensa"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/06-importar-china-criterios"
-  image: "https://importguide1688.com/og/06-importar-china-criterios.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/06-importar-china-criterios"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/06-importar-china-criterios.png"
   site_name: "Import Guide 1688"
 title: "Importar da China: os critérios que definem se a operação compensa"
 description: "Comprehensive guide to importar da china: os critérios que definem se a operação compensa"
@@ -16,7 +16,7 @@ keywords: [importar, china:, critérios, definem, operação]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/importar-da-china-os-crit-rios-que-definem-se-a-opera-o-compensa"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/importar-da-china-os-crit-rios-que-definem-se-a-opera-o-compensa"
 ---
 
 # Importar da China: os critérios que definem se a operação compensa
@@ -241,7 +241,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

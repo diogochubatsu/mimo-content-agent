@@ -3,11 +3,11 @@
 og:
   title: "Governo estabelece critérios para importação de produtos para saúde e indústria"
   description: "keywords: ["governo estabelece", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/governo-estabelece-crit-rios-para-importa-o-de-produtos-para-sa-de-e-ind-stria"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/governo-estabelece-crit-rios-para-importa-o-de-produtos-para-sa-de-e-ind-stria"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/02-criterios-importacao-saude-industria"
-  image: "https://importguide1688.com/og/02-criterios-importacao-saude-industria.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/02-criterios-importacao-saude-industria"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/02-criterios-importacao-saude-industria.png"
   site_name: "Import Guide 1688"
 title: "Governo estabelece critérios para importação de produtos para saúde e indústria"
 description: "Comprehensive guide to governo estabelece critérios para importação de produtos para saúde e indústria"
@@ -16,7 +16,7 @@ keywords: [governo, estabelece, critérios, para, importação]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/governo-estabelece-crit-rios-para-importa-o-de-produtos-para-sa-de-e-ind-stria"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/governo-estabelece-crit-rios-para-importa-o-de-produtos-para-sa-de-e-ind-stria"
 ---
 
 # Governo estabelece critérios para importação de produtos para saúde e indústria
@@ -356,8 +356,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

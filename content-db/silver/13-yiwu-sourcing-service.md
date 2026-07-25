@@ -4,8 +4,8 @@ og:
   title: "Yiwu Sourcing Service in 2026: Step-by-Step Process, Pricing & Common Mistakes"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/13-yiwu-sourcing-service"
-  image: "https://importguide1688.com/og/13-yiwu-sourcing-service.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/13-yiwu-sourcing-service"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/13-yiwu-sourcing-service.png"
   site_name: "Import Guide 1688"
 title: "Yiwu Sourcing Service in 2026: Step-by-Step Process, Pricing & Common Mistakes"
 source: "Goldenshiny Sourcing Blog"
@@ -27,7 +27,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-inspection-report/"
 external_links: []
 keywords: ["yiwu sourcing", "import", "china", "supplier", "dropship", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/yiwu-sourcing-service-in-2026-step-by-step-process-pricing-common-mistakes"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/yiwu-sourcing-service-in-2026-step-by-step-process-pricing-common-mistakes"
 ---
 
 # Yiwu Sourcing Service in 2026: Step-by-Step Process, Pricing & Common Mistakes
@@ -347,8 +347,8 @@ A smaller service fee plus reduced commission percentage. This model balances fi
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

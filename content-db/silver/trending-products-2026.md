@@ -355,7 +355,7 @@ A: Minimum stack: Jungle Scout ($49/mo) for product research, Helium 10 ($39/mo)
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

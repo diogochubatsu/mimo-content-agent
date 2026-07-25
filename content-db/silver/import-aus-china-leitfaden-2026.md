@@ -3,11 +3,11 @@
 og:
   title: "Import aus China - Kompletter Leitfaden 2026"
   description: "keywords: ["import china", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "profit"]
-canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-leitfaden-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-kompletter-leitfaden-2026"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/import-aus-china-leitfaden-2026"
-  image: "https://importguide1688.com/og/import-aus-china-leitfaden-2026.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-leitfaden-2026"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/import-aus-china-leitfaden-2026.png"
   site_name: "Import Guide 1688"
 title: "Import aus China - Kompletter Leitfaden 2026: Schritt für Schritt zum erfolgreichen Einkauf"
 slug: "import-aus-china-leitfaden-2026"
@@ -20,8 +20,8 @@ schema:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -35,7 +35,7 @@ schema:
         text: "Die Gesamtkosten setzen sich zusammen aus: Warenwert, Frachtkosten (2-8 USD/kg), Zollgebühren (0-12%), Einfuhrumsatzsteuer (19%), Versicherung und Verwaltungskosten. Für eine 10.000 EUR Bestellung belaufen sich die Gesamtkosten auf ca. 12.500-14.000 EUR."
     - name: "Wie finde ich seriöse Lieferanten in China?"
       acceptedAnswer:
-        text: "Nutzen Sie etablierte Plattformen wie Alibaba.com (Gold Supplier), 1688.com oder Made-in-China.com. Prüfen Sie Bewertungen, Transaktionshistorie, Zertifikate und lassen Sie unabhängige Audits durchführen. Persönliche Besuche sind empfehlenswert."
+        text: "Nutzen Sie etablierte Plattformen wie Alibaba.com (Gold Supplier), [1688.com](https://www.1688.com) oder Made-in-China.com. Prüfen Sie Bewertungen, Transaktionshistorie, Zertifikate und lassen Sie unabhängige Audits durchführen. Persönliche Besuche sind empfehlenswert."
     - name: "Welche Zahlungsmethoden gibt es für Importe aus China?"
       acceptedAnswer:
         text: "Die gängigsten Zahlungsmethoden sind: T/T (Banküberweisung), L/C (Akkreditiv), Alipay/WeChat Pay für kleinere Beträge, PayPal für Musterbestellungen und Akkreditive für größere Bestellungen. T/T mit 30% Anzahlung und 70% vor Versand ist üblich."
@@ -66,7 +66,7 @@ schema:
     - name: "Welche Zollschwellen gibt es für Importe aus China?"
       acceptedAnswer:
         text: "Die EU-Zollschwelle liegt bei 150 EUR. Waren unter diesem Wert sind von der Einfuhrzollgebühr befreit, unterliegen jedoch weiterhin der Einfuhrumsatzsteuer (19%). Ab 150 EUR fallen sowohl Zölle als auch MwSt an."
-canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-leitfaden-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-kompletter-leitfaden-2026"
 ---
 
 # Import aus China - Kompletter Leitfaden 2026
@@ -162,7 +162,7 @@ Dieser Leitfaden zeigt Ihnen praxisnah, wie Sie erfolgreich aus China importiere
 - Verifizierte Lieferanten mit Audit-Berichten
 - Ideal für: Erstkäufer, mittlere Bestellmengen
 
-**1688.com** (nur für chinesische Käufer)
+**[1688.com](https://www.1688.com)** (nur für chinesische Käufer)
 - Niedrigere Preise als Alibaba
 - Größere Auswahl an lokalen Herstellern
 - Benötigt chinesische Sprachkenntnisse oder Agent
@@ -542,7 +542,7 @@ Die Gesamtkosten setzen sich zusammen aus: Warenwert, Frachtkosten (2-8 USD/kg),
 
 ### 3. Wie finde ich seriöse Lieferanten in China?
 
-Nutzen Sie etablierte Plattformen wie Alibaba.com (Gold Supplier), 1688.com oder Made-in-China.com. Prüfen Sie Bewertungen, Transaktionshistorie, Zertifikate und lassen Sie unabhängige Audits durchführen. Persönliche Besuche sind empfehlenswert, aber nicht immer notwendig. Beginnen Sie mit kleinen Bestellungen und steigern Sie das Vertrauen schrittweise.
+Nutzen Sie etablierte Plattformen wie Alibaba.com (Gold Supplier), [1688.com](https://www.1688.com) oder Made-in-China.com. Prüfen Sie Bewertungen, Transaktionshistorie, Zertifikate und lassen Sie unabhängige Audits durchführen. Persönliche Besuche sind empfehlenswert, aber nicht immer notwendig. Beginnen Sie mit kleinen Bestellungen und steigern Sie das Vertrauen schrittweise.
 
 ### 4. Welche Zahlungsmethoden gibt es für Importe aus China?
 
@@ -634,14 +634,14 @@ Mit diesem Leitfaden haben Sie alle Werkzeuge an der Hand, um erfolgreich aus Ch
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.043Z",
   "dateModified": "2026-07-25T17:24:34.043Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-aus-china-leitfaden-2026"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-leitfaden-2026"
   },
   "articleSection": "silver",
   "keywords": [

@@ -4,8 +4,8 @@ og:
   title: "Top 10 China Sourcing Agents to Help You Import Like a Pro (2026 Guide)"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/02-top-10-china-sourcing-agents"
-  image: "https://importguide1688.com/og/02-top-10-china-sourcing-agents.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/02-top-10-china-sourcing-agents"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/02-top-10-china-sourcing-agents.png"
   site_name: "Import Guide 1688"
 title: "Top 10 China Sourcing Agents to Help You Import Like a Pro (2026 Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -26,7 +26,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-sourcing-service-process-pricing-faq/"
 external_links: []
 keywords: ["china sourcing", "import", "china", "supplier", "wholesale", "dropship", "alibaba", "amazon", "profit"]
-canonical: "https://importguide1688.com/articles/top-10-china-sourcing-agents-to-help-you-import-like-a-pro-2026-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/top-10-china-sourcing-agents-to-help-you-import-like-a-pro-2026-guide"
 ---
 
 # Top 10 China Sourcing Agents to Help You Import Like a Pro (2026 Guide)
@@ -279,7 +279,7 @@ Some agents offer value-added services like quality inspection, packaging design
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

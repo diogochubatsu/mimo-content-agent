@@ -3,11 +3,11 @@
 og:
   title: "Import z Chin do Polski — Prawo, Podatki i Zgodność 2026"
   description: "keywords: ["import chin", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide1688.com/articles/import-z-chin-do-polski-prawo-podatki-i-zgodno-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-do-polski-prawo-podatki-i-zgodno-2026"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/import-chin-przewodnik-v2"
-  image: "https://importguide1688.com/og/import-chin-przewodnik-v2.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-chin-przewodnik-v2"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/import-chin-przewodnik-v2.png"
   site_name: "Import Guide 1688"
 title: "Import z Chin do Polski — Prawo, Podatki i Zgodność 2026"
 slug: "import-z-chin-prawo-podatki-zgodnosc-2026"
@@ -33,7 +33,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -106,7 +106,7 @@ schema:
     - name: "Czy mogę importować z Chin jako osoba prywatna?"
       acceptedAnswer:
         text: "Tak, ale jako firma (JDG lub Sp. z o.o.) masz znacznie lepsze warunki: możliwość odliczenia VAT, dostęp do faktur VAT, lepsze warunki u dostawców, możliwość uzyskania EORI. Import prywatny jest opodatkowany VAT 23% bez możliwości odliczenia. Dla wartości powyżej 150 EUR obowiązuje cło."
-canonical: "https://importguide1688.com/articles/import-z-chin-do-polski-prawo-podatki-i-zgodno-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-do-polski-prawo-podatki-i-zgodno-2026"
 ---
 
 # Import z Chin do Polski — Prawo, Podatki i Zgodność 2026
@@ -836,14 +836,14 @@ GPSR (General Product Safety Regulation) to nowa regulacja UE obowiązująca od 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.045Z",
   "dateModified": "2026-07-25T17:24:34.045Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-chin-przewodnik-v2"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-chin-przewodnik-v2"
   },
   "articleSection": "silver",
   "keywords": [

@@ -3,11 +3,11 @@
 og:
   title: "Import & Export Compliance in Germany: Complete Guide"
   description: "keywords: ["import export", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/import-export-compliance-in-germany-complete-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-export-compliance-in-germany-complete-guide"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/05-import-export-compliance-germany-complete-guide"
-  image: "https://importguide1688.com/og/05-import-export-compliance-germany-complete-guide.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/05-import-export-compliance-germany-complete-guide"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/05-import-export-compliance-germany-complete-guide.png"
   site_name: "Import Guide 1688"
 title: "Import & Export Compliance in Germany: Complete Guide"
 description: "Comprehensive guide to import & export compliance in germany: complete guide"
@@ -16,7 +16,7 @@ keywords: [import, export, compliance, germany:, complete]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/import-export-compliance-in-germany-complete-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-export-compliance-in-germany-complete-guide"
 ---
 
 # Import & Export Compliance in Germany: Complete Guide
@@ -416,7 +416,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

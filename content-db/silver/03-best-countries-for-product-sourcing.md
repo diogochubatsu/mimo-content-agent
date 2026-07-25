@@ -4,8 +4,8 @@ og:
   title: "10 Best Countries for Product Sourcing: Complete Comparison with Landed Cost Analysis"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/03-best-countries-for-product-sourcing"
-  image: "https://importguide1688.com/og/03-best-countries-for-product-sourcing.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/03-best-countries-for-product-sourcing"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/03-best-countries-for-product-sourcing.png"
   site_name: "Import Guide 1688"
 title: "10 Best Countries for Product Sourcing: Complete Comparison with Landed Cost Analysis"
 source: "Leeline Sourcing Blog"
@@ -50,7 +50,7 @@ external_links:
   - "https://euratex.eu/"
   - "https://data.worldbank.org/"
   - "https://www.amfori.org/"
-canonical: "https://importguide1688.com/articles/10-best-countries-for-product-sourcing-complete-comparison-with-landed-cost-anal"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/10-best-countries-for-product-sourcing-complete-comparison-with-landed-cost-anal"
 ---
 
 # 10 Best Countries for Product Sourcing: Complete Comparison with Landed Cost Analysis
@@ -431,8 +431,8 @@ What's your primary product category?
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

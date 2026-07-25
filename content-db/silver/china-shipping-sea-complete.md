@@ -4,7 +4,7 @@ title: "Shipping from China by Sea: Complete Guide 2026"
 description: "shipping from. **Updated:** July 24, 2026 | **Reading time:** 20 min | **Expert reviewed**"
 keywords: ["shipping from", "import", "china", "supplier", "dropship", "1688", "amazon", "fba", "margin"]
 slug: "shipping-from-china-by-sea-complete-guide-2026"
-canonical: "https://importguide1688.com/articles/shipping-from-china-by-sea-complete-guide-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/shipping-from-china-by-sea-complete-guide-2026"
 og:
   title: "Shipping from China by Sea: Complete Guide 2026"
   description: "shipping from. **Updated:** July 24, 2026 | **Reading time:** 20 min | **Expert reviewed**"
@@ -648,8 +648,8 @@ A: Reduce transit time by: (1) choosing direct routes instead of transshipment, 
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -774,14 +774,14 @@ A: Reduce transit time by: (1) choosing direct routes instead of transshipment, 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T20:00:00.000Z",
   "dateModified": "2026-07-24T20:00:00.000Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/china-shipping-sea-complete"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/china-shipping-sea-complete"
   },
   "articleSection": "silver",
   "keywords": [

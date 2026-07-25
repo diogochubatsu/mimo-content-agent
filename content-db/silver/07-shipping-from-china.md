@@ -4,8 +4,8 @@ og:
   title: "Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/07-shipping-from-china"
-  image: "https://importguide1688.com/og/07-shipping-from-china.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/07-shipping-from-china"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/07-shipping-from-china.png"
   site_name: "Import Guide 1688"
 title: "Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization"
 source: "Leeline Sourcing Blog"
@@ -38,7 +38,7 @@ external_links:
   - "https://www.cbp.gov/trade/basic-import-export"
   - "https://iccwbo.org/business-solutions/incoterms-rules/"
   - "https://www.iata.org/en/programs/cargo/"
-canonical: "https://importguide1688.com/articles/shipping-from-china-complete-guide-to-freight-logistics-and-cost-optimization"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/shipping-from-china-complete-guide-to-freight-logistics-and-cost-optimization"
 ---
 
 # Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization
@@ -403,8 +403,8 @@ Product: Bluetooth Earbuds
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

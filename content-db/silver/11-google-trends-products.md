@@ -308,7 +308,7 @@ Google Trends is a free tool that tracks what people are searching for, how inte
 
 | Method | Purpose | Tool |
 |--------|---------|------|
-| Amazon Best Sellers | Confirm real purchases | amazon.com/Best-Sellers |
+| Amazon Best Sellers | Confirm real purchases | [Amazon.com](https://www.amazon.com)/Best-Sellers |
 | eBay Trending Deals | Validate demand | ebay.com/deals |
 | Etsy Trending | Check handmade/vintage demand | etsy.com/trending |
 | Instagram hashtags | Social media demand | Instagram search |

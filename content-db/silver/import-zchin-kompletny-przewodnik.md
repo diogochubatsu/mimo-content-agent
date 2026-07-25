@@ -3,11 +3,11 @@
 og:
   title: "Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026"
   description: "keywords: ["import chin", "import", "china", "supplier", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/import-z-chin-na-allegro-kompletny-przewodnik-dla-sprzedawc-w-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-na-allegro-kompletny-przewodnik-dla-sprzedawc-w-2026"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/import-zchin-kompletny-przewodnik"
-  image: "https://importguide1688.com/og/import-zchin-kompletny-przewodnik.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-zchin-kompletny-przewodnik"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/import-zchin-kompletny-przewodnik.png"
   site_name: "Import Guide 1688"
 title: "Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026"
 slug: "import-zchin-kompletny-przewodnik"
@@ -45,8 +45,8 @@ schema:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -82,7 +82,7 @@ schema:
     - name: "Jakie kategorie produktów z Chin są najbardziej opłacalne na Allegro?"
       acceptedAnswer:
         text: "Najlepsze kategorie: akcesoria elektroniczne (kable, etui, powerbanki), organizery biurowe, oświetlenie LED, akcesoria kuchenne, zabawki edukacyjne STEM, pet accessories. Marże 50-80% przy niskiej konkurencji w niszowych podkategoriach."
-canonical: "https://importguide1688.com/articles/import-z-chin-na-allegro-kompletny-przewodnik-dla-sprzedawc-w-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-na-allegro-kompletny-przewodnik-dla-sprzedawc-w-2026"
 ---
 
 # Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026
@@ -218,7 +218,7 @@ Allegro obsługuje wiele metod płatności:
 
 ### Źródła zaopatrzenia
 
-#### 1688.com — Hurtownia nr 1 dla polskich importerów
+#### [1688.com](https://www.1688.com) — Hurtownia nr 1 dla polskich importerów
 
 - Największa platforma B2B w Chinach
 - Ceny 30-50% niższe niż AliExpress
@@ -776,14 +776,14 @@ Zacznij od 10-20 SKU, przetestuj popyt i skaluj po pierwszych sukcesach. Polski 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.049Z",
   "dateModified": "2026-07-25T17:24:34.049Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-zchin-kompletny-przewodnik"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-zchin-kompletny-przewodnik"
   },
   "articleSection": "silver",
   "keywords": [

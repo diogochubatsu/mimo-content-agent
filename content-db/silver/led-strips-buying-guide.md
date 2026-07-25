@@ -4,7 +4,7 @@ title: "Complete Guide: LED Strips Buying Guide 2026"
 description: "led strips. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["led strips", "import", "margin"]
 slug: "complete-guide-led-strips-buying-guide-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-led-strips-buying-guide-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-led-strips-buying-guide-2026"
 og:
   title: "Complete Guide: LED Strips Buying Guide 2026"
   description: "led strips. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
@@ -403,7 +403,7 @@ A: Calculate total wattage (watts per meter × total meters) and add 20% for saf
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -441,14 +441,14 @@ A: Calculate total wattage (watts per meter × total meters) and add 20% for saf
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.189Z",
   "dateModified": "2026-07-24T04:05:22.189Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/led-strips-buying-guide"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/led-strips-buying-guide"
   },
   "articleSection": "silver",
   "keywords": [

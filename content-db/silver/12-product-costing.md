@@ -4,8 +4,8 @@ og:
   title: "Product Costing: Complete Guide to Cost Analysis and Pricing Strategy"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/12-product-costing"
-  image: "https://importguide1688.com/og/12-product-costing.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/12-product-costing"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/12-product-costing.png"
   site_name: "Import Guide 1688"
 title: "Product Costing: Complete Guide to Cost Analysis and Pricing Strategy"
 source: "Leeline Sourcing Blog"
@@ -37,7 +37,7 @@ internal_links:
 external_links:
   - "https://www.investopedia.com/terms/c/costofgoods.asp"
   - "https://www.accountingtools.com/articles/what-is-the-contribution-margin.html"
-canonical: "https://importguide1688.com/articles/product-costing-complete-guide-to-cost-analysis-and-pricing-strategy"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/product-costing-complete-guide-to-cost-analysis-and-pricing-strategy"
 ---
 
 # Product Costing: Complete Guide to Cost Analysis and Pricing Strategy
@@ -333,8 +333,8 @@ Importing from China involves several key steps:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

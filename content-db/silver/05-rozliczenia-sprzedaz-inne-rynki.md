@@ -3,11 +3,11 @@
 og:
   title: "Rozliczenia za sprzedaż na innych rynkach"
   description: "keywords: ["rozliczenia sprzedaż", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/rozliczenia-za-sprzeda-na-innych-rynkach"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/rozliczenia-za-sprzeda-na-innych-rynkach"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/05-rozliczenia-sprzedaz-inne-rynki"
-  image: "https://importguide1688.com/og/05-rozliczenia-sprzedaz-inne-rynki.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/05-rozliczenia-sprzedaz-inne-rynki"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/05-rozliczenia-sprzedaz-inne-rynki.png"
   site_name: "Import Guide 1688"
 title: "Rozliczenia za sprzedaż na innych rynkach"
 description: "Comprehensive guide to rozliczenia za sprzedaż na innych rynkach"
@@ -16,7 +16,7 @@ keywords: [rozliczenia, sprzedaż, innych, rynkach]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/rozliczenia-za-sprzeda-na-innych-rynkach"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/rozliczenia-za-sprzeda-na-innych-rynkach"
 ---
 
 # Rozliczenia za sprzedaż na innych rynkach
@@ -390,8 +390,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

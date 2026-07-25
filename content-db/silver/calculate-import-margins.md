@@ -4,7 +4,7 @@ title: "How to Calculate Import Margins: The Complete Formula Guide"
 description: "Master the exact formulas to calculate import margins, landed costs, and true profitability. Includes working examples, downloadable spreadsheets, and expert-tested methods. **Updated:** July 24, 2026 | **Reading time:** 14 min | **Expert reviewed**"
 keywords: ["calculate import margins", "import margin formula", "landed cost calculator", "import profit margin", "china import costs", "product margin calculator", "fba margin", "ecommerce margin"]
 slug: "calculate-import-margins"
-canonical: "https://importguide1688.com/articles/calculate-import-margins"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/calculate-import-margins"
 og:
   title: "How to Calculate Import Margins: The Complete Formula Guide"
   description: "Master the exact formulas to calculate import margins, landed costs, and true profitability. Includes working examples and expert-tested methods."
@@ -648,14 +648,14 @@ A: Monthly at minimum. Shipping rates, platform fees, duty rates, and currency e
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
 ## Sources
 
-1. Amazon Seller Central Fee Schedule 2026 — sellercentral.amazon.com
+1. Amazon Seller Central Fee Schedule 2026 — sellercentral.[Amazon.com](https://www.amazon.com)
 2. US Harmonized Tariff Schedule — hts.usitc.gov
 3. UK Global Tariff — gov.uk/guidance/check-the-united-kingdom-tariff
 4. Brazil Customs (Receita Federal) — gov.br/receitafederal
@@ -683,14 +683,14 @@ A: Monthly at minimum. Shipping rates, platform fees, duty rates, and currency e
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24T21:30:00Z",
   "dateModified": "2026-07-24T21:30:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/calculate-import-margins"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/calculate-import-margins"
   },
   "articleSection": "silver",
   "keywords": [

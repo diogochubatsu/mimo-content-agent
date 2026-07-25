@@ -521,7 +521,7 @@ A: Functional performance. A product that looks perfect but does not perform its
 1. International Trade Centre — Trade Statistics and Quality Standards (https://www.intracen.org, accessed 7/21/2026)
 2. Alibaba Trade Assurance Program — Buyer Protection Overview (https://tradeassurance.alibaba.com, accessed 7/21/2026)
 3. QIMA Inspection Services — AQL Sampling Standards (https://www.qima.com, accessed 7/21/2026)
-4. Amazon Seller Central — Product Compliance Requirements (https://sellercentral.amazon.com, accessed 7/21/2026)
+4. Amazon Seller Central — Product Compliance Requirements (https://sellercentral.[Amazon.com](https://www.amazon.com), accessed 7/21/2026)
 5. Global Sources — Sourcing from China Best Practices (https://www.globalsources.com, accessed 7/21/2026)
 6. U.S. Consumer Product Safety Commission — CPSIA Requirements (https://www.cpsc.gov, accessed 7/21/2026)
 7. Reddit r/AmazonFBA — Community Sourcing Discussions (https://reddit.com/r/AmazonFBA, accessed 7/21/2026)

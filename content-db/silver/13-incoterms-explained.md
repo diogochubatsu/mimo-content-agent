@@ -4,8 +4,8 @@ og:
   title: "Incoterms Explained: Complete Guide to International Shipping Terms"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/13-incoterms-explained"
-  image: "https://importguide1688.com/og/13-incoterms-explained.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/13-incoterms-explained"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/13-incoterms-explained.png"
   site_name: "Import Guide 1688"
 title: "Incoterms Explained: Complete Guide to International Shipping Terms"
 source: "Leeline Sourcing Blog"
@@ -37,7 +37,7 @@ internal_links:
 external_links:
   - "https://iccwbo.org/business-solutions/incoterms-rules/"
   - "https://www.cbp.gov/trade/basic-import-export"
-canonical: "https://importguide1688.com/articles/incoterms-explained-complete-guide-to-international-shipping-terms"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/incoterms-explained-complete-guide-to-international-shipping-terms"
 ---
 
 # Incoterms Explained: Complete Guide to International Shipping Terms
@@ -431,8 +431,8 @@ Product: Bluetooth Earbuds
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

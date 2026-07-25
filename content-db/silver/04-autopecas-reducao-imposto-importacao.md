@@ -3,11 +3,11 @@
 og:
   title: "Governo amplia lista de autopeças com redução de imposto de importação"
   description: "keywords: ["governo amplia", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/governo-amplia-lista-de-autope-as-com-redu-o-de-imposto-de-importa-o"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/governo-amplia-lista-de-autope-as-com-redu-o-de-imposto-de-importa-o"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/04-autopecas-reducao-imposto-importacao"
-  image: "https://importguide1688.com/og/04-autopecas-reducao-imposto-importacao.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/04-autopecas-reducao-imposto-importacao"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/04-autopecas-reducao-imposto-importacao.png"
   site_name: "Import Guide 1688"
 title: "Governo amplia lista de autopeças com redução de imposto de importação"
 description: "Comprehensive guide to governo amplia lista de autopeças com redução de imposto de importação"
@@ -16,7 +16,7 @@ keywords: [governo, amplia, lista, autopeças, redução]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/governo-amplia-lista-de-autope-as-com-redu-o-de-imposto-de-importa-o"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/governo-amplia-lista-de-autope-as-com-redu-o-de-imposto-de-importa-o"
 ---
 
 # Governo amplia lista de autopeças com redução de imposto de importação
@@ -337,8 +337,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

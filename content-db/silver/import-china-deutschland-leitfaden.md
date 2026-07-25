@@ -3,11 +3,11 @@
 og:
   title: "Import aus China - Kompletter Leitfaden 2026: Lieferantprüfung, Qualitätskontrolle und sichere Beschaffung"
   description: "keywords: ["import china", "import", "china", "supplier", "1688", "alibaba", "profit"]
-canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-leitfaden-2026-lieferantpr-fung-qualit-tskontrolle-u"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-kompletter-leitfaden-2026-lieferantpr-fung-qualit-tskontrolle-u"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/import-china-deutschland-leitfaden"
-  image: "https://importguide1688.com/og/import-china-deutschland-leitfaden.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-china-deutschland-leitfaden"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/import-china-deutschland-leitfaden.png"
   site_name: "Import Guide 1688"
 title: "Import aus China - Kompletter Leitfaden 2026: Lieferantprüfung, Qualitätskontrolle und sichere Beschaffung"
 slug: "import-china-deutschland-leitfaden"
@@ -39,7 +39,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -82,7 +82,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
     - name: "Wie erstelle ich eine Qualitätskontroll-Checkliste für meinen Import?"
       acceptedAnswer:
         text: "Erstellen Sie eine schriftliche Produktspezifikation mit Toleranzen, verlangen Sie Musterbestätigungen, definieren Sie AQL-Stufen (Acceptable Quality Level), planen Sie Pre-shipment Inspections, fordern Sie Materialtestberichte an und dokumentieren Sie alle Abnahmekriterien vorab mit dem Lieferanten."
-canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-leitfaden-2026-lieferantpr-fung-qualit-tskontrolle-u"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-kompletter-leitfaden-2026-lieferantpr-fung-qualit-tskontrolle-u"
 ---
 
 # Import aus China - Kompletter Leitfaden 2026: Lieferantprüfung, Qualitätskontrolle und sichere Beschaffung
@@ -182,7 +182,7 @@ Bevor Sie ein Factory Audit beauftragen, finden Sie die relevanten Lieferanten a
 - Verifizierte Lieferanten mit Audit-Berichten haben höhere Vertrauenswürdigkeit
 - Transaktionshistorie und Kundenbewertungen geben Aufschluss über Erfahrung
 
-**1688.com – Für erfahrene Importeure**
+**[1688.com](https://www.1688.com) – Für erfahrene Importeure**
 - Größere Auswahl an direkten Herstellern
 - Niedrigere Preise als Alibaba (kein internationaler Aufschlag)
 - Erfordert chinesische Sprachkenntnisse oder einen lokalen Agenten
@@ -705,14 +705,14 @@ Mit diesem Leitfaden haben Sie alle Werkzeuge an der Hand, um sicher, qualitäts
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.046Z",
   "dateModified": "2026-07-25T17:24:34.046Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-china-deutschland-leitfaden"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-china-deutschland-leitfaden"
   },
   "articleSection": "silver",
   "keywords": [

@@ -4,7 +4,7 @@ title: "Complete Guide: How to Import from China to UK (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "1688", "alibaba", "margin"]
 slug: "complete-guide-how-to-import-from-china-to-uk-2026"
-canonical: "https://importguide1688.com/articles/complete-guide-how-to-import-from-china-to-uk-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-how-to-import-from-china-to-uk-2026"
 og:
   title: "Complete Guide: How to Import from China to UK (2026)"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
@@ -436,7 +436,7 @@ Selecting the right supplier is critical to the success of your import operation
 **Recommended platforms for finding suppliers:**
 
 - Alibaba.com (larger MOQs, verified suppliers)
-- 1688.com (domestic Chinese platform, lower prices, Chinese language)
+- [1688.com](https://www.1688.com) (domestic Chinese platform, lower prices, Chinese language)
 - Global Sources (trade shows, verified manufacturers)
 - Made-in-China.com (alternative to Alibaba)
 
@@ -590,7 +590,7 @@ A: Most consumer goods do not require a specific import license. However, certai
 A: Sea freight transit times from China to the UK typically range from 28 to 35 days for Full Container Load (FCL) shipments, and 35 to 45 days for Less than Container Load (LCL) shipments. This excludes customs clearance time (typically 1-3 days) and inland transport (1-3 days). Door-to-door delivery from a Chinese factory to a UK warehouse usually takes 35-50 days for sea freight.
 
 **Q: What is the minimum order quantity (MOQ) for importing from China?**
-A: MOQs vary significantly by supplier and product. For Alibaba suppliers, typical MOQs range from 100 to 1,000 units. On 1688.com (Chinese domestic platform), MOQs can be as low as 1-10 units for many products. For custom/private-label products, expect MOQs of 500-5,000 units. Start with small orders to test the market and supplier reliability before committing to larger quantities.
+A: MOQs vary significantly by supplier and product. For Alibaba suppliers, typical MOQs range from 100 to 1,000 units. On [1688.com](https://www.1688.com) (Chinese domestic platform), MOQs can be as low as 1-10 units for many products. For custom/private-label products, expect MOQs of 500-5,000 units. Start with small orders to test the market and supplier reliability before committing to larger quantities.
 
 **Q: Can I reclaim the import VAT I pay when importing from China?**
 A: If you are VAT-registered in the UK, you can reclaim import VAT as input tax on your VAT return, provided the imported goods are for business use. Using Postponed VAT Accounting (PVA), you account for and reclaim the VAT simultaneously on your VAT return, avoiding the need to pay it upfront at the border. If you are not VAT-registered, import VAT is a non-recoverable cost.
@@ -629,8 +629,8 @@ A: Look for suppliers with Gold Supplier status (minimum 3 years), trade assuran
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -676,7 +676,7 @@ A: Look for suppliers with Gold Supplier status (minimum 3 years), trade assuran
       "name": "What is the minimum order quantity (MOQ) for importing from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "MOQs vary significantly by supplier and product. For Alibaba suppliers, typical MOQs range from 100 to 1,000 units. On 1688.com, MOQs can be as low as 1-10 units for many products."
+        "text": "MOQs vary significantly by supplier and product. For Alibaba suppliers, typical MOQs range from 100 to 1,000 units. On [1688.com](https://www.1688.com), MOQs can be as low as 1-10 units for many products."
       }
     },
     {
@@ -755,14 +755,14 @@ A: Look for suppliers with Gold Supplier status (minimum 3 years), trade assuran
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-25T03:38:03.896Z",
   "dateModified": "2026-07-25T03:38:03.896Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide1688.com/articles/import-china-to-uk"
+    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-china-to-uk"
   },
   "articleSection": "silver",
   "keywords": [

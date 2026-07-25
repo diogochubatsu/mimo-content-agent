@@ -341,7 +341,7 @@ This approach optimizes costs while maintaining Prime eligibility where it matte
 
 - **Product:** LED strip lights kit (5m, RGB, remote controlled)
 - **Source:** 1688.com supplier (verified Gold supplier)
-- **Amazon marketplace:** US (amazon.com)
+- **Amazon marketplace:** US ([Amazon.com](https://www.amazon.com))
 - **Launch date:** January 2026
 - **Initial inventory:** 500 units
 
@@ -428,13 +428,13 @@ Products to avoid for FBA include: (1) Very heavy items (over 5 lbs) due to high
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
 ## Sources
 
-1. Amazon Seller Central — FBA Fee Schedule 2026. sellercentral.amazon.com
+1. Amazon Seller Central — FBA Fee Schedule 2026. sellercentral.[Amazon.com](https://www.amazon.com)
 2. Jungle Scout — State of Amazon Seller 2026 Report. junglescout.com/blog
 3. Helium 10 — FBA Cost Calculator and Market Data. helium10.com
 4. eMarketer — Amazon Third-Party Marketplace Report 2026. emarketer.com

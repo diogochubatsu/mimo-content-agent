@@ -4,19 +4,19 @@ date: 2026-07-25
 og:
   title: "Complete Guide: Import Scams and How to Avoid Them (2026)"
   description: "keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide1688.com/articles/complete-guide-import-scams-and-how-to-avoid-them-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-import-scams-and-how-to-avoid-them-2026"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/import-scams-avoidance"
-  image: "https://importguide1688.com/og/import-scams-avoidance.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-scams-avoidance"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/import-scams-avoidance.png"
   site_name: "Import Guide 1688"
 title: "Import Scams and How to Avoid Them: A Complete Protection Guide (2026)"
 tier: "silver"
-site: "importguide1688.com"
+site: "importguide[1688.com](https://www.1688.com)"
 created: "2026-07-24T21:00:00Z"
 keywords: ["import scams", "avoid scams", "supplier fraud", "1688 scam", "alibaba scam", "import protection", "buyer safety", "counterfeit goods", "bait and switch", "wire transfer scam"]
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 16 min | **Expert reviewed**"
-canonical: "https://importguide1688.com/articles/complete-guide-import-scams-and-how-to-avoid-them-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-import-scams-and-how-to-avoid-them-2026"
 ---
 
 # Complete Guide: Import Scams and How to Avoid Them (2026)
@@ -119,7 +119,7 @@ This comprehensive guide covers import scams and how to avoid them: a complete p
 
 Import scams cost international buyers an estimated $4.8 billion annually, according to the International Chamber of Commerce (ICC). The Global Trade Finance Group reports that 1 in 6 new importers encounters some form of fraud within their first year of sourcing from overseas suppliers, with average losses exceeding $12,000 per incident.
 
-The rise of cross-border e-commerce platforms like Alibaba, 1688.com, and Made-in-China has democratized global sourcing. However, this accessibility has also lowered the barrier for fraudulent operators. The most common scams include bait-and-switch tactics, advance fee fraud, counterfeit product schemes, and fake supplier identities. Victims range from solo e-commerce entrepreneurs to established wholesale distributors.
+The rise of cross-border e-commerce platforms like Alibaba, [1688.com](https://www.1688.com), and Made-in-China has democratized global sourcing. However, this accessibility has also lowered the barrier for fraudulent operators. The most common scams include bait-and-switch tactics, advance fee fraud, counterfeit product schemes, and fake supplier identities. Victims range from solo e-commerce entrepreneurs to established wholesale distributors.
 
 Understanding import scams is not about becoming paranoid — it is about building a systematic defense. The difference between an importer who loses $50,000 and one who pays $500 for a pre-shipment inspection comes down to knowledge and process. This guide catalogs the 15 most common import scams, explains the red flags that precede each one, and provides a proven protection framework used by professional sourcing agents worldwide.
 
@@ -594,9 +594,9 @@ A: File reports with: the platform where you found the supplier, your national t
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
-- [Alibaba Trade Assurance](https://alibaba.com/trade-assurance)
+- [Alibaba Trade Assurance](https://[Alibaba.com](https://www.alibaba.com)/trade-assurance)
 
 
 ## Sources
@@ -604,7 +604,7 @@ A: File reports with: the platform where you found the supplier, your national t
 1. International Chamber of Commerce (ICC) — Global Trade Fraud Report 2025. https://iccwbo.org
 2. International Trade Centre (ITC) — SME Competitiveness and Import Risk Analysis 2025. https://intracen.org
 3. Global Trade Finance Group — Annual Import Fraud Statistics 2025. https://gtfg.com
-4. Alibaba Group — Trade Assurance Dispute Resolution Annual Report 2025. https://alibaba.com
+4. Alibaba Group — Trade Assurance Dispute Resolution Annual Report 2025. https://[Alibaba.com](https://www.alibaba.com)
 5. U.S. Federal Trade Commission (FTC) — Cross-Border E-Commerce Fraud Advisory 2025. https://ftc.gov
 6. China Council for the Promotion of International Trade (CCPIT) — Supplier Verification Guidelines 2025. https://ccpit.org
 7. Internet Crime Complaint Center (IC3) — Annual Internet Crime Report 2025. https://ic3.gov
@@ -626,7 +626,7 @@ A: File reports with: the platform where you found the supplier, your national t
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide1688.com/logo.png"
+      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
     }
   },
   "datePublished": "2026-07-24",

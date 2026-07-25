@@ -4,8 +4,8 @@ og:
   title: "Global vs Local Sourcing: Complete Comparison Guide with Decision Framework"
   description: "---"
   type: "article"
-  url: "https://importguide1688.com/articles/14-global-vs-local-sourcing"
-  image: "https://importguide1688.com/og/14-global-vs-local-sourcing.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/14-global-vs-local-sourcing"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/14-global-vs-local-sourcing.png"
   site_name: "Import Guide 1688"
 title: "Global vs Local Sourcing: Complete Comparison Guide with Decision Framework"
 source: "Leeline Sourcing Blog"
@@ -37,7 +37,7 @@ internal_links:
 external_links:
   - "https://www.cbp.gov/trade/basic-import-export"
   - "https://data.worldbank.org/"
-canonical: "https://importguide1688.com/articles/global-vs-local-sourcing-complete-comparison-guide-with-decision-framework"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/global-vs-local-sourcing-complete-comparison-guide-with-decision-framework"
 ---
 
 # Global vs Local Sourcing: Complete Comparison Guide with Decision Framework
@@ -328,8 +328,8 @@ What's your priority?
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://alibaba.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)
