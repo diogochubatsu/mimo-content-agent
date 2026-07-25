@@ -1,36 +1,58 @@
-# Quality Review — 2026-07-25 15:02 UTC
-
-## New Content Review
-
-### Sebrae PT Articles (10 articles, commit ccd3ee6)
-| Article | Words | Grade | Notes |
-|---------|-------|-------|-------|
-| 01-zera-aliquota-informatica-telecom.md | 359 | C | Bronze source, too short for Silver |
-| 02-criterios-importacao-saude-industria.md | 274 | C | Good data, needs expansion |
-| 03-zera-aliquota-importacao-arroz.md | 268 | C | Good data, needs expansion |
-| 04-autopecas-reducao-imposto-importacao.md | 235 | C | Good data, needs expansion |
-| 05-aliqzero-importacao-bens-protecao-vida.md | 282 | C | Good data, needs expansion |
-| 06-aliqzero-importacao-bens-capital.md | 285 | C | Good data, needs expansion |
-| 07-facilita-importacao-produtos-medicos.md | 195 | C | Shortest article, needs major expansion |
-| 08-lei-importacao-materiais-medicos.md | 219 | C | Good data, needs expansion |
-| 09-isencao-zonas-francas-tarifas.md | 217 | C | Good data, needs expansion |
-| 10-expandir-negocios-mercado-internacional.md | 311 | C | Good CTA, needs expansion |
-
-**Verdict:** These are valid BRONZE sources (real government data, NCM codes).
-Not suitable as standalone articles. Use as input for Silver generation.
-
-### Polish Article (ecommerce-polska-pl.md)
-- Words: 1,828
-- Grade: B
-- Strengths: Real market data, BLIK stats, mobile trends
-- Weaknesses: No tables, no FAQ, no internal links
-- Action: Add tables and FAQ to reach A-grade
+# Quality Review — 2026-07-25 15:24 UTC
 
 ## Code Review
-- 33 scripts total
-- 5 minor issues (console.log, short files)
-- No critical bugs found
 
-## Protocol Issue
-- Commit ccd3ee6: Author is PC-1 but message says "pc-2"
-- Agent identification inconsistent — needs standardization
+### New Scripts (this session)
+| Script | Lines | Status | Issues |
+|--------|-------|--------|--------|
+| landed-cost-calculator.js | 64 | FIXED | Was hardcoded to Brazil VAT. Now supports 6 countries |
+| product-database.js | 84 | FIXED | Had case-sensitive language duplication (zh/ZH). Now normalized |
+| checklist-generator.js | 72 | OK | Generates 49-item import checklist |
+
+### Bugs Fixed
+1. Calculator country parameter added (BR/US/EU/UK/JP/AU)
+2. Product database language normalization (12 → 7 unique)
+
+### Code Quality
+- 34 total scripts, 3,448 lines
+- No test suite (HIGH priority)
+- 21/34 scripts missing error handling
+- All scripts use ES modules (correct for project)
+
+## Content Quality
+
+### Silver Articles (111)
+- Grade A: 104 (94%)
+- Grade B: 7 (6%)
+- Grade C: 0 (0%)
+- Average words: 4,312
+
+### Blog Sources (37 articles)
+- Portuguese: 26 articles
+- Spanish: 9 articles
+- Polish: 2 articles
+- Average words: 339 (bronze level, need expansion)
+
+### Source Quality
+- 19 JSON files, 163 records
+- 89% A-grade (17/19)
+- 0% C-grade
+
+## Agent Protocol Compliance
+
+### PC-1
+- Commits arriving (T350, T351)
+- Issue: commit messages say "pc-2:" but author is pc-1
+- Status: PARTIAL COMPLIANCE
+
+### PC-2
+- Collecting actively (T300, T301, T302, T308)
+- 37 articles collected this session
+- All bronze-level (need expansion)
+- Status: COMPLIANT on collection, needs expansion work
+
+## Corrective Actions Taken
+1. Calculator fixed with country parameter
+2. Product database language normalization
+3. BRAINSTORM.json seeded with agent discussion
+4. Feedback tasks created for both agents
