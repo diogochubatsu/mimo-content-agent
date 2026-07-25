@@ -1148,9 +1148,9 @@
       "acceptance": "First Polish article published",
       "id": "T353",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
-      "result": null,
+      "result": "Polish article created: import-chin-kompletny-2026.md — 2850+ words in Polish. Product sourcing strategies guide covering: 1688 vs Alibaba vs AliExpress comparison table, product research methods for Allegro market, sample ordering and quality control process, negotiation tactics with Chinese suppliers, payment methods comparison (T/T, Payoneer, Alipay), shipping logistics via Małaszewicze terminal, customs clearance and documentation, 6 common mistakes Polish importers make, cost calculator with 3 real PLN examples (100/500/2000 units), 12-question FAQ. Differentiates from previous 3 Polish articles by focusing specifically on product sourcing strategies.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
