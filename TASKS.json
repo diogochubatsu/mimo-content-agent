@@ -3718,8 +3718,88 @@
       "target": "update-tasks-for-agents",
       "description": "Update TASKS.json with new collection tasks targeting the actual traffic leader sources (not old weak sources).",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T16:35:00Z"
+    },
+    {
+      "id": "T660",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "extract-shopify-blog-top20",
+      "description": "COLLECT: Extract top 20 blog posts from Shopify Blog (shopify.com/blog). Topics: dropshipping, how to start, product research. Full text + metadata + images + links. #1 SEO competitor.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T661",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "extract-jingsourcing-blog-top20",
+      "description": "COLLECT: Extract top 20 posts from Jingsourcing Blog (goldenshiny.com/blog). Topics: China sourcing, 1688, wholesale. #1 China sourcing SEO competitor.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T662",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "extract-leeline-blog-top20",
+      "description": "COLLECT: Extract top 20 posts from Leeline Sourcing Blog (leelinegroup.com/blog). Topics: wholesale, product lists, import guides.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T663",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "extract-chinagate-top20",
+      "description": "COLLECT: Extract top 20 articles/videos from China Gate (chinagate.com.br). Topics: importa\u00e7\u00e3o formal, custos, impostos. #1 BR import traffic.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T664",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "extract-jotafiuza-top20",
+      "description": "COLLECT: Extract top 20 videos from Jota Fiuza (YouTube). Transcribe and extract metadata. #1 BR dropshipping traffic.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T665",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "transcribe-wholesaleted-top10",
+      "description": "COLLECT: Transcribe top 10 recent videos from Wholesale Ted (EN). Biggest dropshipping YouTube channel worldwide.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T666",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "transcribe-jingsourcing-top10",
+      "description": "COLLECT: Transcribe top 10 videos from Jingsourcing YouTube. Factory inspection, sourcing guides.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
+    },
+    {
+      "id": "T667",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-reddit-top50",
+      "description": "COLLECT: Collect top 50 posts from r/AmazonFBA + r/Dropship (last 30 days). Full metadata, top comments, key insights.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:40:00Z"
     }
   ],
   "log": [
