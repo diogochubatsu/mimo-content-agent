@@ -4017,9 +4017,9 @@
       "acceptance": "Script gera 1 article silver a partir de 1 bronze record",
       "id": "T270",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T22:00:00Z",
-      "result": null,
+      "result": "Script bronze-to-silver.js criado. Gera artigos Silver automaticamente a partir de dados Bronze.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
