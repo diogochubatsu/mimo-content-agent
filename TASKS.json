@@ -4112,7 +4112,7 @@
       "target": "build-bronze-to-silver-converter",
       "description": "BUILD: Script that takes a bronze article (<2000 words) and generates a Silver expansion template with sections, tables, FAQ, citations. Uses blog content + keyword radar data.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:20:00Z"
     },
     {
@@ -4124,6 +4124,36 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T18:20:00Z"
+    },
+    {
+      "id": "T800",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-content-calendar",
+      "description": "BUILD: Content calendar script \u2014 generates a publishing schedule based on Bronze articles with highest Silver expansion potential + keyword priority.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T18:28:00Z"
+    },
+    {
+      "id": "T801",
+      "to": "pc-2",
+      "type": "create",
+      "target": "expand-jingsourcing-to-silver",
+      "description": "EXPAND: Convert top 5 Jingsourcing Blog articles (jingsourcing-en/) to Silver quality. Each must reach 2000+ words and pass quality-gate.js.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T18:28:00Z"
+    },
+    {
+      "id": "T802",
+      "to": "gcp",
+      "type": "review",
+      "target": "full-pipeline-verification",
+      "description": "Run full pipeline-orchestrator.js end-to-end, verify all 8 steps pass. Document any issues.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T18:28:00Z"
     }
   ],
   "log": [
