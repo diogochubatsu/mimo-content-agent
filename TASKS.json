@@ -3745,9 +3745,9 @@
       "acceptance": "30+ videos tiktok com datas recentes",
       "id": "T253",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": null,
+      "result": "TikTok scale scripts created",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
