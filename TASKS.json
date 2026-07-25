@@ -1308,9 +1308,9 @@
       "acceptance": "German article published",
       "id": "T363",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
-      "result": null,
+      "result": "Created import-china-deutschland-2026.md - 3800+ words in German. Logistics and shipping optimization guide covering: shipping methods comparison (sea/air/rail/express), Incoterms (EXW/FOB/CIF/DDP), customs clearance process (ATLAS), documentation requirements checklist, insurance options, freight forwarder selection criteria, cost optimization strategies, risk management, cost calculator with 3 real EUR examples, and 12-question FAQ.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
