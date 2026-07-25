@@ -1,13 +1,13 @@
 # Bronze Datalake Coverage Report
 
-**Generated:** 2026-07-25T18:18:09.111Z
+**Generated:** 2026-07-25T18:31:14.190Z
 
 ## Summary
 
 | Metric | Value |
 |--------|-------|
 | Total sources | 59 |
-| Total extracted | 26 |
+| Total extracted | 46 |
 | Estimated total | 1187750 |
 | Overall coverage | 0.0% |
 
@@ -16,7 +16,7 @@
 | Language | Sources | Extracted | Estimated | Coverage % |
 |----------|---------|-----------|-----------|------------|
 | de | 3 | 0 | 210 | 0.0% |
-| en | 30 | 0 | 574130 | 0.0% |
+| en | 30 | 20 | 574130 | 0.0% |
 | es | 3 | 9 | 850 | 1.1% |
 | ja | 2 | 0 | 130 | 0.0% |
 | ko | 2 | 0 | 150 | 0.0% |
@@ -28,7 +28,7 @@
 
 | Type | Sources | Extracted | Estimated | Coverage % |
 |------|---------|-----------|-----------|------------|
-| blog | 13 | 17 | 2380 | 0.7% |
+| blog | 13 | 37 | 2380 | 1.6% |
 | directory | 1 | 0 | 5000 | 0.0% |
 | forum | 1 | 0 | 5000 | 0.0% |
 | platform | 8 | 0 | 1150000 | 0.0% |

@@ -4132,7 +4132,7 @@
       "target": "build-content-calendar",
       "description": "BUILD: Content calendar script \u2014 generates a publishing schedule based on Bronze articles with highest Silver expansion potential + keyword priority.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:28:00Z"
     },
     {

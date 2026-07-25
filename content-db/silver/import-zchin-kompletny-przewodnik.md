@@ -2,7 +2,9 @@
 
 og:
   title: "Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026"
-  description: "---"
+  description: "keywords: ["import chin", "import", "china", "supplier", "dropship", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/import-z-chin-na-allegro-kompletny-przewodnik-dla-sprzedawc-w-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/import-zchin-kompletny-przewodnik"
   image: "https://importguide1688.com/og/import-zchin-kompletny-przewodnik.png"
@@ -86,6 +88,9 @@ canonical: "https://importguide1688.com/articles/import-z-chin-na-allegro-komple
 # Import z Chin na Allegro — Kompletny przewodnik dla sprzedawców 2026
 
 
+
+
+This comprehensive guide covers import z chin na allegro — kompletny przewodnik dla sprzedawców 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers import z chin na allegro — kompletny przewodnik dla sprzedawców 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

@@ -1,27 +1,22 @@
 {
-  "timestamp": "2026-07-25T16:51:46.397Z",
-  "total_sources": 37,
+  "timestamp": "2026-07-25T18:31:00.131Z",
+  "total_sources": 59,
   "by_status": {
     "FRESH": 0,
     "STALE": 0,
-    "UNKNOWN": 37
+    "UNKNOWN": 59
   },
   "by_coverage": {
     "GOOD": 0,
     "MEDIUM": 0,
-    "LOW": 37,
+    "LOW": 59,
     "NO_DATA": 0
   },
   "alerts": [
     {
       "type": "LOW_COVERAGE",
       "source": "blog-shopify-en",
-      "message": "Shopify Blog extraction at 0% (0/500)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-shopify-en",
-      "message": "Shopify Blog has never been collected"
+      "message": "Shopify Blog extraction at 4% (20/500)"
     },
     {
       "type": "LOW_COVERAGE",
@@ -92,16 +87,6 @@
       "type": "NEVER_COLLECTED",
       "source": "blog-junglescout-en",
       "message": "Jungle Scout Blog has never been collected"
-    },
-    {
-      "type": "LOW_COVERAGE",
-      "source": "blog-bansarchina-en",
-      "message": "BansarChina extraction at 0% (0/100)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-bansarchina-en",
-      "message": "BansarChina has never been collected"
     },
     {
       "type": "LOW_COVERAGE",
@@ -210,11 +195,6 @@
     },
     {
       "type": "LOW_COVERAGE",
-      "source": "blog-sebrae-pt",
-      "message": "Sebrae extraction at 2% (10/500)"
-    },
-    {
-      "type": "LOW_COVERAGE",
       "source": "blog-maino-pt",
       "message": "Maino Blog extraction at 0% (0/100)"
     },
@@ -310,58 +290,298 @@
     },
     {
       "type": "LOW_COVERAGE",
-      "source": "blog-importlizenz-de",
-      "message": "Import Lizenz extraction at 0% (0/60)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-importlizenz-de",
-      "message": "Import Lizenz has never been collected"
-    },
-    {
-      "type": "LOW_COVERAGE",
-      "source": "blog-ecommerce-de",
-      "message": "E-Commerce Germany extraction at 0% (0/200)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-ecommerce-de",
-      "message": "E-Commerce Germany has never been collected"
-    },
-    {
-      "type": "LOW_COVERAGE",
       "source": "blog-ecommercepolska-pl",
       "message": "E-Commerce Polska extraction at 2.5% (2/80)"
     },
     {
       "type": "LOW_COVERAGE",
-      "source": "blog-allegro-pl",
-      "message": "Allegro Blog extraction at 0% (0/100)"
+      "source": "youtube-matt-dabella-en",
+      "message": "Matt Dabella extraction at 0% (0/80)"
     },
     {
       "type": "NEVER_COLLECTED",
-      "source": "blog-allegro-pl",
-      "message": "Allegro Blog has never been collected"
+      "source": "youtube-matt-dabella-en",
+      "message": "Matt Dabella has never been collected"
     },
     {
       "type": "LOW_COVERAGE",
-      "source": "youtube-ktrading-ko",
-      "message": "K-Trade Channel extraction at 0% (0/100)"
+      "source": "youtube-importchina-de",
+      "message": "Import aus China DE extraction at 0% (0/50)"
     },
     {
       "type": "NEVER_COLLECTED",
-      "source": "youtube-ktrading-ko",
-      "message": "K-Trade Channel has never been collected"
+      "source": "youtube-importchina-de",
+      "message": "Import aus China DE has never been collected"
     },
     {
       "type": "LOW_COVERAGE",
-      "source": "youtube-japanimport-ja",
-      "message": "Japan Import Channel extraction at 0% (0/80)"
+      "source": "youtube-importchinapl-pl",
+      "message": "Import z Chin PL extraction at 0% (0/60)"
     },
     {
       "type": "NEVER_COLLECTED",
-      "source": "youtube-japanimport-ja",
+      "source": "youtube-importchinapl-pl",
+      "message": "Import z Chin PL has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "web-1688-wiki-zh",
+      "message": "1688 Wiki extraction at 0% (0/500)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "web-1688-wiki-zh",
+      "message": "1688 Wiki has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "blog-11st-ko",
+      "message": "11Street Blog extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "blog-11st-ko",
+      "message": "11Street Blog has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "blog-rakuten-ja",
+      "message": "Rakuten Commerce Blog extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "blog-rakuten-ja",
+      "message": "Rakuten Commerce Blog has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-luizguilherme-pt",
+      "message": "Luiz Guilherme extraction at 0% (0/200)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-luizguilherme-pt",
+      "message": "Luiz Guilherme has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-nathannazareth-en",
+      "message": "Nathan Nazareth extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-nathannazareth-en",
+      "message": "Nathan Nazareth has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-junglescout-en",
+      "message": "Jungle Scout YouTube extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-junglescout-en",
+      "message": "Jungle Scout YouTube has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "tiktok-shopify-en",
+      "message": "Shopify TikTok extraction at 0% (0/300)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "tiktok-shopify-en",
+      "message": "Shopify TikTok has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "tiktok-cjdropshipping-en",
+      "message": "CJDropshipping TikTok extraction at 0% (0/200)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "tiktok-cjdropshipping-en",
+      "message": "CJDropshipping TikTok has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "tiktok-ecomjack-en",
+      "message": "Ecom_Jack TikTok extraction at 0% (0/150)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "tiktok-ecomjack-en",
+      "message": "Ecom_Jack TikTok has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "x-shopify-en",
+      "message": "Shopify X/Twitter extraction at 0% (0/2000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "x-shopify-en",
+      "message": "Shopify X/Twitter has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "x-ecomjack-en",
+      "message": "Ecom_Jack X/Twitter extraction at 0% (0/500)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "x-ecomjack-en",
+      "message": "Ecom_Jack X/Twitter has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "x-jingsourcing-en",
+      "message": "Jingsourcing X/Twitter extraction at 0% (0/300)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "x-jingsourcing-en",
+      "message": "Jingsourcing X/Twitter has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-florianservus-de",
+      "message": "Florian Servus extraction at 0% (0/100)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-florianservus-de",
+      "message": "Florian Servus has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-dropshipping-de",
+      "message": "Ecommerce DE extraction at 0% (0/60)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-dropshipping-de",
+      "message": "Ecommerce DE has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-importchinapl-pl2",
+      "message": "Import China PL extraction at 0% (0/40)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-importchinapl-pl2",
+      "message": "Import China PL has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-koreansourcing-ko",
+      "message": "Korean Sourcing Channel extraction at 0% (0/50)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-koreansourcing-ko",
+      "message": "Korean Sourcing Channel has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "youtube-japanimport-ja2",
+      "message": "Japan Import Channel extraction at 0% (0/30)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "youtube-japanimport-ja2",
       "message": "Japan Import Channel has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-alibaba",
+      "message": "Alibaba.com extraction at 0% (0/100000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-alibaba",
+      "message": "Alibaba.com has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-1688",
+      "message": "1688.com extraction at 0% (0/500000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-1688",
+      "message": "1688.com has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-dhgate",
+      "message": "DHgate extraction at 0% (0/50000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-dhgate",
+      "message": "DHgate has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-global-sources",
+      "message": "Global Sources extraction at 0% (0/30000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-global-sources",
+      "message": "Global Sources has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-made-in-china",
+      "message": "Made-in-China extraction at 0% (0/20000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-made-in-china",
+      "message": "Made-in-China has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-yiwugo",
+      "message": "Yiwugo extraction at 0% (0/100000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-yiwugo",
+      "message": "Yiwugo has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "blog-goldsupplier",
+      "message": "GoldSupplier Directory extraction at 0% (0/5000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "blog-goldsupplier",
+      "message": "GoldSupplier Directory has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-cjdropshipping",
+      "message": "CJDropshipping extraction at 0% (0/300000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-cjdropshipping",
+      "message": "CJDropshipping has never been collected"
+    },
+    {
+      "type": "LOW_COVERAGE",
+      "source": "platform-banggood",
+      "message": "Banggood extraction at 0% (0/50000)"
+    },
+    {
+      "type": "NEVER_COLLECTED",
+      "source": "platform-banggood",
+      "message": "Banggood has never been collected"
     }
   ],
   "sources": [
@@ -376,8 +596,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
+        "pct": 4,
+        "extracted": 20,
         "total": 500
       }
     },
@@ -491,22 +711,6 @@
         "pct": 0,
         "extracted": 0,
         "total": 300
-      }
-    },
-    {
-      "source_id": "blog-bansarchina-en",
-      "name": "BansarChina",
-      "language": "en",
-      "type": "blog",
-      "freshness": {
-        "status": "UNKNOWN",
-        "days": null
-      },
-      "coverage": {
-        "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
-        "total": 100
       }
     },
     {
@@ -686,22 +890,6 @@
       }
     },
     {
-      "source_id": "blog-sebrae-pt",
-      "name": "Sebrae",
-      "language": "pt",
-      "type": "blog",
-      "freshness": {
-        "status": "UNKNOWN",
-        "days": null
-      },
-      "coverage": {
-        "status": "LOW",
-        "pct": 2,
-        "extracted": 10,
-        "total": 500
-      }
-    },
-    {
       "source_id": "blog-maino-pt",
       "name": "Maino Blog",
       "language": "pt",
@@ -862,38 +1050,6 @@
       }
     },
     {
-      "source_id": "blog-importlizenz-de",
-      "name": "Import Lizenz",
-      "language": "de",
-      "type": "blog",
-      "freshness": {
-        "status": "UNKNOWN",
-        "days": null
-      },
-      "coverage": {
-        "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
-        "total": 60
-      }
-    },
-    {
-      "source_id": "blog-ecommerce-de",
-      "name": "E-Commerce Germany",
-      "language": "de",
-      "type": "blog",
-      "freshness": {
-        "status": "UNKNOWN",
-        "days": null
-      },
-      "coverage": {
-        "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
-        "total": 200
-      }
-    },
-    {
       "source_id": "blog-ecommercepolska-pl",
       "name": "E-Commerce Polska",
       "language": "pl",
@@ -910,9 +1066,73 @@
       }
     },
     {
-      "source_id": "blog-allegro-pl",
-      "name": "Allegro Blog",
+      "source_id": "youtube-matt-dabella-en",
+      "name": "Matt Dabella",
+      "language": "en",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 80
+      }
+    },
+    {
+      "source_id": "youtube-importchina-de",
+      "name": "Import aus China DE",
+      "language": "de",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 50
+      }
+    },
+    {
+      "source_id": "youtube-importchinapl-pl",
+      "name": "Import z Chin PL",
       "language": "pl",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 60
+      }
+    },
+    {
+      "source_id": "web-1688-wiki-zh",
+      "name": "1688 Wiki",
+      "language": "zh",
+      "type": "web-portal",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 500
+      }
+    },
+    {
+      "source_id": "blog-11st-ko",
+      "name": "11Street Blog",
+      "language": "ko",
       "type": "blog",
       "freshness": {
         "status": "UNKNOWN",
@@ -926,9 +1146,41 @@
       }
     },
     {
-      "source_id": "youtube-ktrading-ko",
-      "name": "K-Trade Channel",
-      "language": "ko",
+      "source_id": "blog-rakuten-ja",
+      "name": "Rakuten Commerce Blog",
+      "language": "ja",
+      "type": "blog",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100
+      }
+    },
+    {
+      "source_id": "youtube-luizguilherme-pt",
+      "name": "Luiz Guilherme",
+      "language": "pt",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 200
+      }
+    },
+    {
+      "source_id": "youtube-nathannazareth-en",
+      "name": "Nathan Nazareth",
+      "language": "en",
       "type": "youtube",
       "freshness": {
         "status": "UNKNOWN",
@@ -942,7 +1194,183 @@
       }
     },
     {
-      "source_id": "youtube-japanimport-ja",
+      "source_id": "youtube-junglescout-en",
+      "name": "Jungle Scout YouTube",
+      "language": "en",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100
+      }
+    },
+    {
+      "source_id": "tiktok-shopify-en",
+      "name": "Shopify TikTok",
+      "language": "en",
+      "type": "tiktok",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 300
+      }
+    },
+    {
+      "source_id": "tiktok-cjdropshipping-en",
+      "name": "CJDropshipping TikTok",
+      "language": "en",
+      "type": "tiktok",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 200
+      }
+    },
+    {
+      "source_id": "tiktok-ecomjack-en",
+      "name": "Ecom_Jack TikTok",
+      "language": "en",
+      "type": "tiktok",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 150
+      }
+    },
+    {
+      "source_id": "x-shopify-en",
+      "name": "Shopify X/Twitter",
+      "language": "en",
+      "type": "x-twitter",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 2000
+      }
+    },
+    {
+      "source_id": "x-ecomjack-en",
+      "name": "Ecom_Jack X/Twitter",
+      "language": "en",
+      "type": "x-twitter",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 500
+      }
+    },
+    {
+      "source_id": "x-jingsourcing-en",
+      "name": "Jingsourcing X/Twitter",
+      "language": "en",
+      "type": "x-twitter",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 300
+      }
+    },
+    {
+      "source_id": "youtube-florianservus-de",
+      "name": "Florian Servus",
+      "language": "de",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100
+      }
+    },
+    {
+      "source_id": "youtube-dropshipping-de",
+      "name": "Ecommerce DE",
+      "language": "de",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 60
+      }
+    },
+    {
+      "source_id": "youtube-importchinapl-pl2",
+      "name": "Import China PL",
+      "language": "pl",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 40
+      }
+    },
+    {
+      "source_id": "youtube-koreansourcing-ko",
+      "name": "Korean Sourcing Channel",
+      "language": "ko",
+      "type": "youtube",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 50
+      }
+    },
+    {
+      "source_id": "youtube-japanimport-ja2",
       "name": "Japan Import Channel",
       "language": "ja",
       "type": "youtube",
@@ -954,7 +1382,151 @@
         "status": "LOW",
         "pct": 0,
         "extracted": 0,
-        "total": 80
+        "total": 30
+      }
+    },
+    {
+      "source_id": "platform-alibaba",
+      "name": "Alibaba.com",
+      "language": "en",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100000
+      }
+    },
+    {
+      "source_id": "platform-1688",
+      "name": "1688.com",
+      "language": "zh",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 500000
+      }
+    },
+    {
+      "source_id": "platform-dhgate",
+      "name": "DHgate",
+      "language": "en",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 50000
+      }
+    },
+    {
+      "source_id": "platform-global-sources",
+      "name": "Global Sources",
+      "language": "en",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 30000
+      }
+    },
+    {
+      "source_id": "platform-made-in-china",
+      "name": "Made-in-China",
+      "language": "en",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 20000
+      }
+    },
+    {
+      "source_id": "platform-yiwugo",
+      "name": "Yiwugo",
+      "language": "zh",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 100000
+      }
+    },
+    {
+      "source_id": "blog-goldsupplier",
+      "name": "GoldSupplier Directory",
+      "language": "en",
+      "type": "directory",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 5000
+      }
+    },
+    {
+      "source_id": "platform-cjdropshipping",
+      "name": "CJDropshipping",
+      "language": "en",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 300000
+      }
+    },
+    {
+      "source_id": "platform-banggood",
+      "name": "Banggood",
+      "language": "en",
+      "type": "platform",
+      "freshness": {
+        "status": "UNKNOWN",
+        "days": null
+      },
+      "coverage": {
+        "status": "LOW",
+        "pct": 0,
+        "extracted": 0,
+        "total": 50000
       }
     }
   ]

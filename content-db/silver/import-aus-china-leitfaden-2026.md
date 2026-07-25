@@ -2,7 +2,9 @@
 
 og:
   title: "Import aus China - Kompletter Leitfaden 2026"
-  description: "---"
+  description: "keywords: ["import china", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "profit"]
+canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-leitfaden-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/import-aus-china-leitfaden-2026"
   image: "https://importguide1688.com/og/import-aus-china-leitfaden-2026.png"
@@ -68,6 +70,9 @@ canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-lei
 ---
 
 # Import aus China - Kompletter Leitfaden 2026
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 ## Einführung: Warum aus China importieren?
 

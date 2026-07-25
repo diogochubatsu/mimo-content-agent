@@ -19,8 +19,8 @@ const PIPELINE = [
     { name: 'Coverage Report', script: 'coverage-report.js' },
     { name: 'Product Database', script: 'product-database.js' },
     { name: 'SEO/AEO Pipeline', script: 'seo-aeo-pipeline.js' },
-    { name: 'AEO Audit', script: 'aeo-audit.js' },
-    { name: 'Quality Gate', script: 'quality-gate.js' },
+    { name: 'AEO Audit', script: 'aeo-audit.js', args: 'content-db/silver/' },
+    { name: 'Quality Gate', script: 'quality-gate.js', args: 'content-db/silver/' },
 ];
 
 async function run() {
@@ -37,7 +37,8 @@ async function run() {
         console.log('-'.repeat(50));
         
         try {
-            const output = execSync(`node "${scriptPath}"`, {
+            const args = step.args ? ` ${step.args}` : '';
+            const output = execSync(`node "${scriptPath}"${args}`, {
                 cwd: path.join(scriptsDir, '..'),
                 encoding: 'utf8',
                 timeout: 30000,

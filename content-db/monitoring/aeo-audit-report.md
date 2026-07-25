@@ -1,13 +1,13 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T18:12:42.171Z
-**Articles audited:** 131
+**Generated:** 2026-07-25T18:31:22.700Z
+**Articles audited:** 133
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 126 | 96% |
+| A | 128 | 96% |
 | B | 5 | 4% |
 | C | 0 | 0% |
 | D | 0 | 0% |
@@ -16,22 +16,22 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 35 | 0 | 96 | 27% |
-| Data Tables | 130 | 0 | 1 | 99% |
-| External Links/Citations | 131 | 0 | 0 | 100% |
-| FAQ Section | 131 | 0 | 0 | 100% |
-| Frontmatter/Schema Ready | 131 | 0 | 0 | 100% |
-| Structured Headings | 130 | 1 | 0 | 99% |
-| Word Count | 122 | 8 | 1 | 93% |
-| Numbered Steps | 122 | 4 | 5 | 93% |
+| Direct Answer in First 30 Lines | 36 | 0 | 97 | 27% |
+| Data Tables | 133 | 0 | 0 | 100% |
+| External Links/Citations | 133 | 0 | 0 | 100% |
+| FAQ Section | 133 | 0 | 0 | 100% |
+| Frontmatter/Schema Ready | 133 | 0 | 0 | 100% |
+| Structured Headings | 132 | 1 | 0 | 99% |
+| Word Count | 122 | 8 | 3 | 92% |
+| Numbered Steps | 122 | 5 | 6 | 92% |
 
 ## Worst Articles (need improvement)
 
 | Article | Score | Grade | Key Issues |
 |---------|-------|-------|------------|
+| i-was-wrong-about-the-solo-operator-era- | 65% | B | Direct Answer in First 30 Lines, Word Count, Numbe |
 | bronze-phone-cases.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | chugoku-yunyu-kanzen-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
-| import-chin-pl-final.md | 70% | B | Direct Answer in First 30 Lines, Data Tables |
 | zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | complete-guide-to-test-silver-2026.md | 75% | B | Word Count, Numbered Steps |
 | jungguk-suip-wanjeon-guide.md | 80% | A | Direct Answer in First 30 Lines |

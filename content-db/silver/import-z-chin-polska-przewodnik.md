@@ -2,7 +2,9 @@
 
 og:
   title: "Kompletny przewodnik importu z Chin do Polski — 2026"
-  description: "---"
+  description: "keywords: ["kompletny przewodnik", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/kompletny-przewodnik-importu-z-chin-do-polski-2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/import-z-chin-polska-przewodnik"
   image: "https://importguide1688.com/og/import-z-chin-polska-przewodnik.png"
@@ -119,6 +121,9 @@ canonical: "https://importguide1688.com/articles/kompletny-przewodnik-importu-z-
 # Kompletny przewodnik importu z Chin do Polski — 2026
 
 
+
+
+This comprehensive guide covers kompletny przewodnik importu z chin do polski — 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers kompletny przewodnik importu z chin do polski — 2026 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

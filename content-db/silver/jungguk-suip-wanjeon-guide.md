@@ -2,7 +2,9 @@
 
 og:
   title: "중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설"
-  description: "---"
+  description: "keywords: ["2026: 절차·관세·kc", "import", "china", "supplier", "dropship", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/2026-kc"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/jungguk-suip-wanjeon-guide"
   image: "https://importguide1688.com/og/jungguk-suip-wanjeon-guide.png"
@@ -103,6 +105,9 @@ canonical: "https://importguide1688.com/articles/2026-kc"
 # 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설
 
 
+
+
+This comprehensive guide covers 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·kc 인증 모든 것을 해설 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·kc 인증 모든 것을 해설 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 

@@ -2,7 +2,9 @@
 
 og:
   title: "中国輸入完全ガイド 2026: 日本への輸入手順・関税・節税法すべてを解説"
-  description: "---"
+  description: "keywords: ["中国輸入完全ガイド 2026:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon"]
+canonical: "https://importguide1688.com/articles/2026"
+---"
   type: "article"
   url: "https://importguide1688.com/articles/chugoku-yunyu-kanzen-guide"
   image: "https://importguide1688.com/og/chugoku-yunyu-kanzen-guide.png"
@@ -101,6 +103,9 @@ canonical: "https://importguide1688.com/articles/2026"
 ---
 
 # 中国輸入完全ガイド 2026: 日本への輸入手順・関税・節税法すべてを解説
+
+
+This comprehensive guide covers 中国輸入完全ガイド 2026: 日本への輸入手順・関税・節税法すべてを解説 with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers chugoku-yunyu-kanzen-guide with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
