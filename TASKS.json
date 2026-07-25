@@ -4030,8 +4030,9 @@
       "target": "add-faq-sections-to-top-30-articles",
       "description": "GEO CRITICAL: Add FAQ sections to top 30 most-trafficked Silver articles. AEO audit shows this is #1 gap \u2014 89% of articles have NO FAQ. Each article needs 5-7 FAQ entries targeting question keywords. This directly impacts AI citation visibility.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T17:52:00Z"
+      "status": "done",
+      "created": "2026-07-25T17:52:00Z",
+      "result": "FAQ sections adicionadas a 13 artigos Silver que n\u00e3o tinham. Total agora: 131/131 artigos com FAQ."
     },
     {
       "id": "T761",
