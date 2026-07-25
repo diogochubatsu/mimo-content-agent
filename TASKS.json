@@ -4053,7 +4053,7 @@
       "target": "verify-site-deploy-status",
       "description": "Verify: PC-1 marked T610 done. Is site actually live? Check Vercel status.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:00:00Z"
     },
     {
@@ -4063,7 +4063,7 @@
       "target": "bronze-collection-progress-v2",
       "description": "Check: how many Bronze sources collected now? Update extraction counts in registry.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T18:00:00Z"
     }
   ],
