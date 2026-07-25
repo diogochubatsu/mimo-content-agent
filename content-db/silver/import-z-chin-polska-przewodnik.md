@@ -376,17 +376,17 @@ Kontrola jakości jest krytyczna przy imporcie z Chin. Wysyłanie partii bez kon
 
 ### Kontrola przed wysyłką (PSI — Pre-Shipment Inspection)
 
-PSI to控製ość przeprowadzana przed wysyłką towaru z Chin. Obejmuje:
-- Wizualną控製ość jakości
+PSI to kontrola przeprowadzana przed wysyłką towaru z Chin. Obejmuje:
+- Wizualną kontrolę jakości
 - Sprawdzenie funkcjonalności
 - Testowanie bezpieczeństwa
 - Porównanie z próbkami zatwierdzonymi
 
 **Koszt PSI:** 300-800 USD za inspekcję (w zależności od wielkości partii i zakresu testów).
 
-### Laboratoria控製ości w Polsce
+### Laboratoria kontroli w Polsce
 
-W Polsce działa kilka akredytowanych laboratoriów控製ości:
+W Polsce działa kilka akredytowanych laboratoriów kontroli:
 - **SGS Polska** — w Warszawie i Krakowie
 - **Intertek Polska** — w Warszawie
 - **TÜV Rheinland Polska** — w Warszawie
@@ -517,7 +517,7 @@ Tak, ale jako firma (DJD/JDG) masz znacznie lepsze warunki: możliwość odlicze
 
 **Krok 4: Zamówienie i wysyłka**
 - Złóż zamówienie hurtowe
-- Zleć控製ość przed wysyłką (PSI)
+- Zleć kontrolę przed wysyłką (PSI)
 - Wybierz formę wysyłki
 - Opłać transport i cło
 

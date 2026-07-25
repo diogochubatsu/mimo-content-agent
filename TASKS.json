@@ -781,7 +781,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": "First Polish Silver article created: 3678 words. File: content-db/silver/import-z-chin-polska-przewodnik.md. Includes market overview, Allegro, BLIK, customs, EORI, VAT 23%, certyfikacje CE/GPSR/REACH/WEEE, shipping comparison (sea/air/rail), case studies, 12 FAQ questions.",
+      "result": "First Polish Silver article created: 3678 words. File: content-db/silver/import-z-chin-polska-przewodnik.md. Includes market overview, Allegro, BLIK, customs, EORI, VAT 23%, certyfikacje CE/GPSR/REACH/WEEE, shipping comparison (sea/air/rail), case studies, 12 FAQ questions. [PC-2 FIX] Fixed encoding issues: replaced garbled '控製ść' characters with proper Polish 'kontrola' (5 instances fixed).",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2",
