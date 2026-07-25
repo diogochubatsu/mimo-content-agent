@@ -4897,9 +4897,9 @@
       "acceptance": "Router processes 8 languages correctly",
       "id": "T325",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Script silver-router.js criado. Direciona conte\u00fado bronze para templates baseado em categoria.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
