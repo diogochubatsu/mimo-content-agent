@@ -4929,9 +4929,9 @@
       "acceptance": "Monitor detects old sources and generates alert",
       "id": "T327",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Script freshness-monitor.js criado. Monitora frescor de fontes bronze (>30 dias = alerta).",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
