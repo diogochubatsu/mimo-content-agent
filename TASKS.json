@@ -3626,9 +3626,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:16Z",
-      "result": null
+      "result": "RSS feed gerado com 117 artigos via generate-rss.js"
     },
     {
       "id": "T246",
