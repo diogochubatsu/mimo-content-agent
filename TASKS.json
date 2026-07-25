@@ -3857,9 +3857,9 @@
       "acceptance": "15+ artigos da Allegro blog com datas, URLs, topics",
       "id": "T260",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:50:00Z",
-      "result": null,
+      "result": "Allegro blog PL created",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
