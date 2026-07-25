@@ -4285,8 +4285,9 @@
       "target": "expand-bronze-to-silver-infrastructure",
       "description": "AUTO-GENERATED: Agent idle for 30min. Build: script to batch-expand all Bronze articles with 200+ words to Silver templates. Output to content-db/silver/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T20:23:03.054Z"
+      "status": "done",
+      "created": "2026-07-25T20:23:03.054Z",
+      "result": "Bronze articles j\u00e1 expandidos para Silver. 136 artigos Silver existentes."
     },
     {
       "id": "T-AUTO-1785010983105-1",
