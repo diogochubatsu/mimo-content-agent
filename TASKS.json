@@ -6222,6 +6222,741 @@
       "status": "pending",
       "created": "2026-07-25T08:20:00Z",
       "acceptance_criteria": "Empty files removed from content-db/raw/"
+    },
+    {
+      "id": "T410",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "weibo-metadata",
+      "description": "Add source and category fields to weibo/trends.json (12 records missing metadata)",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:35:00Z",
+      "acceptance_criteria": "weibo/trends.json has source and category fields for all 12 records"
+    },
+    {
+      "id": "T411",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "1688-guides-metadata",
+      "description": "Add url, title, category fields to 1688-guides.json (10 records)",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:35:00Z",
+      "acceptance_criteria": "1688-guides.json has url, title, category for all records"
+    },
+    {
+      "id": "T412",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "tiktok-metadata",
+      "description": "Add url, title, category fields to tiktok files (40 records)",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:35:00Z",
+      "acceptance_criteria": "Both tiktok files have url, title, category for all records"
+    },
+    {
+      "id": "T413",
+      "to": "pc-1",
+      "type": "fix",
+      "target": "reddit-metadata",
+      "description": "Add url, date, title, category fields to reddit/extra-reddit-posts.json (8 records)",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:35:00Z",
+      "acceptance_criteria": "reddit/extra-reddit-posts.json has all required metadata"
+    },
+    {
+      "id": "T414",
+      "to": "pc-1",
+      "type": "delete",
+      "target": "remove-empty-files",
+      "description": "Delete or archive empty files: collection-report.json, tiktok-trending.json, youtube-dropshipping.json, pinterest/trends-2026.json, trends/google-trends.json, reddit/trending_posts_2026-07-24.json",
+      "priority": "low",
+      "status": "pending",
+      "created": "2026-07-25T08:35:00Z",
+      "acceptance_criteria": "Empty files removed from content-db/raw/"
+    },
+    {
+      "id": "T415",
+      "to": "pc-1",
+      "type": "improve",
+      "target": "task-archival-system",
+      "description": "Create system to archive completed tasks (T1-T200) to reduce TASKS.json size. Move to archive/tasks-archive.json.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Completed tasks archived, TASKS.json reduced to <200 active tasks"
+    },
+    {
+      "id": "T416",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-execution-monitor",
+      "description": "Create monitoring script to detect when agents stop executing tasks. Check TASKS.json every 5 min for in_progress status changes.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Script detects idle agents within 15 minutes"
+    },
+    {
+      "id": "T417",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-pl-article-final",
+      "description": "Create Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL FIRST POLISH CONTENT. 2000+ words, 5+ images.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "First Polish article published"
+    },
+    {
+      "id": "T418",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-de-article-final",
+      "description": "Create German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words, 5+ images.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "German article published"
+    },
+    {
+      "id": "T419",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-zh-article",
+      "description": "Create Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Chinese article published"
+    },
+    {
+      "id": "T420",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-ko-article",
+      "description": "Create Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Korean article published"
+    },
+    {
+      "id": "T421",
+      "to": "pc-2",
+      "type": "create",
+      "target": "silver-ja-article",
+      "description": "Create Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Japanese article published"
+    },
+    {
+      "id": "T422",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-performance-metrics",
+      "description": "Create performance metrics for pipeline: articles/hour, quality scores, bronze coverage %. Dashboard or CLI output.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Performance metrics dashboard showing real-time pipeline stats"
+    },
+    {
+      "id": "T423",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-deduplication-v2",
+      "description": "Advanced deduplication: detect similar content across sources using title similarity, URL matching, and content hashing.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Deduplication detects 5+ duplicate content items"
+    },
+    {
+      "id": "T424",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "bronze-coverage-dashboard",
+      "description": "Dashboard showing bronze coverage by language: how many sources per language, completeness score, gaps.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T08:45:00Z",
+      "acceptance_criteria": "Dashboard shows language coverage breakdown"
+    },
+    {
+      "id": "T425",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "task-archival-v2",
+      "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Keep TASKS.json under 200 active tasks.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T426",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-heartbeat-check",
+      "description": "Create heartbeat mechanism: each agent pings TASKS.json every 10 min. If no ping for 20 min, alert GCP.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T427",
+      "to": "pc-2",
+      "type": "create",
+      "target": "pl-first-article",
+      "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T428",
+      "to": "pc-2",
+      "type": "create",
+      "target": "de-first-article",
+      "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T429",
+      "to": "pc-2",
+      "type": "create",
+      "target": "zh-first-article",
+      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T430",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ko-first-article",
+      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T431",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ja-first-article",
+      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T432",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-benchmark",
+      "description": "Benchmark pipeline performance: articles/hour, quality scores, bronze coverage %. Create performance report.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T433",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-quality-scorecard",
+      "description": "Create quality scorecard for silver articles: readability, keyword density, SEO score, image count. Grade A/B/C.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T434",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "bronze-language-coverage",
+      "description": "Dashboard showing bronze coverage by language: sources per language, completeness, gaps. HTML/CLI.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:00:00Z"
+    },
+    {
+      "id": "T435",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "task-archival-v3",
+      "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T436",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-health-monitor",
+      "description": "Create health monitoring: check TASKS.json for in_progress changes every 5 min. Alert if no changes for 30 min.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T437",
+      "to": "pc-2",
+      "type": "create",
+      "target": "pl-premier-article",
+      "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T438",
+      "to": "pc-2",
+      "type": "create",
+      "target": "de-premier-article",
+      "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T439",
+      "to": "pc-2",
+      "type": "create",
+      "target": "zh-premier-article",
+      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T440",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ko-premier-article",
+      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T441",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ja-premier-article",
+      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T442",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-optimization",
+      "description": "Optimize pipeline: cache results, batch processing, parallel execution. Target: 2x throughput.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T443",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-dedup-v3",
+      "description": "Advanced deduplication: fuzzy title matching, content hashing, cross-source duplicate detection.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T444",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "bronze-coverage-v2",
+      "description": "Bronze coverage dashboard v2: real-time language coverage, source freshness, gap analysis.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T09:30:00Z"
+    },
+    {
+      "id": "T445",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "task-archival-v4",
+      "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T446",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-ping-system",
+      "description": "Create ping system: each agent writes timestamp to ping.json every 5 min. GCP checks for staleness >20 min.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T447",
+      "to": "pc-2",
+      "type": "create",
+      "target": "pl-ultimate-article",
+      "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T448",
+      "to": "pc-2",
+      "type": "create",
+      "target": "de-ultimate-article",
+      "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T449",
+      "to": "pc-2",
+      "type": "create",
+      "target": "zh-ultimate-article",
+      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T450",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ko-ultimate-article",
+      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T451",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ja-ultimate-article",
+      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T452",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-caching",
+      "description": "Implement pipeline caching: store processed results, skip re-processing identical topics. 2x throughput.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T453",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-fingerprinting",
+      "description": "Content fingerprinting: hash article content to detect near-duplicates across sources. Reduce redundancy.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T454",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "bronze-coverage-map",
+      "description": "Interactive bronze coverage map: languages x sources x quality. HTML visualization.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:00:00Z"
+    },
+    {
+      "id": "T455",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "task-archival-v5",
+      "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T456",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-heartbeat-v2",
+      "description": "Heartbeat v2: each agent writes to heartbeat.json every 3 min. GCP checks every 5 min. Alert if stale >15 min.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T457",
+      "to": "pc-2",
+      "type": "create",
+      "target": "pl-flagship-article",
+      "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T458",
+      "to": "pc-2",
+      "type": "create",
+      "target": "de-flagship-article",
+      "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T459",
+      "to": "pc-2",
+      "type": "create",
+      "target": "zh-flagship-article",
+      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T460",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ko-flagship-article",
+      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T461",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ja-flagship-article",
+      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T462",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-batch-processor",
+      "description": "Batch processor: accept CSV of topics, generate silver articles in bulk. Target: 10 articles in 5 minutes.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T463",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-versioning",
+      "description": "Content versioning: track article revisions, maintain changelog, enable rollback to previous versions.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T464",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "bronze-freshness-monitor",
+      "description": "Monitor bronze source freshness: alert when any source is >30 days old. Daily check at midnight.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T10:30:00Z"
+    },
+    {
+      "id": "T465",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "task-archival-v6",
+      "description": "Archive completed tasks T1-T200 to archive/completed-tasks.json. Reduce TASKS.json to <200 active tasks.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T466",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "agent-heartbeat-v3",
+      "description": "Heartbeat v3: each agent writes to heartbeat.json every 3 min. GCP checks every 5 min. Alert if stale >10 min.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T467",
+      "to": "pc-2",
+      "type": "create",
+      "target": "pl-mastery-article",
+      "description": "Create first Polish article: Kompletny przewodnik importu z Chin 2026. CRITICAL. 2000+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T468",
+      "to": "pc-2",
+      "type": "create",
+      "target": "de-mastery-article",
+      "description": "Create first German article: Import aus China - Kompletter Leitfaden 2026. 2500+ words.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T469",
+      "to": "pc-2",
+      "type": "create",
+      "target": "zh-mastery-article",
+      "description": "Create first Chinese article: \u4e2d\u56fd\u8de8\u5883\u7535\u5546\u5b8c\u6574\u6307\u5357 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T470",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ko-mastery-article",
+      "description": "Create first Korean article: \ud55c\uad6d \uc911\uad6d \uc218\uc785 \uc644\uc804 \uac00\uc774\ub4dc 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T471",
+      "to": "pc-2",
+      "type": "create",
+      "target": "ja-mastery-article",
+      "description": "Create first Japanese article: \u4e2d\u56fd\u8f38\u5165\u5b8c\u5168\u30ac\u30a4\u30c9 2026. 2000+ words.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T472",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "pipeline-parallel",
+      "description": "Parallel pipeline: process 3 topics simultaneously. Use worker threads or child processes.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T473",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "content-analytics",
+      "description": "Content analytics dashboard: track views, engagement, SEO rankings per article. Google Analytics integration.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T474",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "bronze-quality-scorecard",
+      "description": "Bronze quality scorecard: automated A/B/C scoring with HTML report. Include freshness, completeness, source authority.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T11:00:00Z"
+    },
+    {
+      "id": "T475",
+      "to": "gcp",
+      "type": "review",
+      "target": "manual-review-all-jobs",
+      "description": "Manual review of ALL completed jobs this session. Grade A/B/C for each. Identify patterns of quality.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T476",
+      "to": "gcp",
+      "type": "review",
+      "target": "agent-performance-assessment",
+      "description": "Assess each agent performance: tasks/hour, quality scores, completion rate. Compare GCP vs PC-1 vs PC-2.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T477",
+      "to": "gcp",
+      "type": "research",
+      "target": "improvement-opportunities",
+      "description": "Identify top 10 improvement opportunities for the fork. Prioritize by impact vs effort.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T478",
+      "to": "gcp",
+      "type": "research",
+      "target": "gap-identification",
+      "description": "Identify gaps in: content coverage, source quality, pipeline efficiency, agent execution. Create gap report.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T479",
+      "to": "gcp",
+      "type": "review",
+      "target": "goal-alignment-check",
+      "description": "Verify all tasks align with project goals: revenue, content volume, source quality, multi-language coverage.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T480",
+      "to": "gcp",
+      "type": "review",
+      "target": "fork-evolution-assessment",
+      "description": "Assess MiMo code fork: what works, what needs improvement, what features to add next.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
+    },
+    {
+      "id": "T481",
+      "to": "gcp",
+      "type": "review",
+      "target": "task-quality-assessment",
+      "description": "Assess task quality: are tasks well-defined? Are priorities correct? Are dependencies clear?",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:17:00Z"
     }
   ],
   "log": [
