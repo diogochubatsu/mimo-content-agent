@@ -1646,7 +1646,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T07:00:00Z",
-      "result": null,
+      "result": "Dashboard de qualidade criado: site/pages/quality-dashboard.js. Mostra grades A/B/C/F para bronze.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
