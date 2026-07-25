@@ -1,18 +1,15 @@
 ---
-
 og:
   title: "Como importar produtos da China para revender no Brasil"
-  description: "keywords: ["como importar", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/como-importar-produtos-da-china-para-revender-no-brasil"
----"
+  description: "Guia completo passo a passo para importar produtos da China e revender no Brasil. Cálculo de custos, impostos, documentação e estratégias para maximizar lucro."
   type: "article"
   url: "https://importguide1688.com/articles/08-como-importar-china-revender"
   image: "https://importguide1688.com/og/08-como-importar-china-revender.png"
   site_name: "Import Guide 1688"
 title: "Como importar produtos da China para revender no Brasil"
-description: "Comprehensive guide to como importar produtos da china para revender no brasil"
+description: "Guia completo passo a passo para importar produtos da China e revender no Brasil. Cálculo de custos, impostos, documentação e estratégias para maximizar lucro."
 slug: "como-importar-produtos-da-china-para-revender-no-brasil"
-keywords: [como, importar, produtos, china, para]
+keywords: [como importar, produtos china, revender brasil, alibaba, 1688, impostos importação, despachante aduaneiro]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
@@ -21,234 +18,319 @@ canonical: "https://importguide1688.com/articles/como-importar-produtos-da-china
 
 # Como importar produtos da China para revender no Brasil
 
+**Updated:** 2026-07-25 | **Reading time:** 20 min | **Expert reviewed**
 
-Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
-
-**Updated:** 2026-07-25 | **Reading time:** 15 min | **Expert reviewed**
+Importar produtos da China para revender no Brasil é uma das estratégias mais lucrativas do e-commerce brasileiro. Com margens que variam de 30% a 60%, dependendo do produto e canal de venda, o processo de importação direta permite oferecer preços competitivos enquanto mantém boa rentabilidade. Este guia completo cobre tudo o que você precisa saber: desde a seleção de fornecedores até o desembaraço aduaneiro.
 
 ## Table of Contents
+
 - [Executive Summary](#executive-summary)
-- [Platform Overview](#platform-overview)
-- [Price Comparison](#price-comparison)
-- [Step-by-Step Guide](#step-by-step-guide)
-- [Best Practices](#best-practices)
-- [Comparison Tables](#comparison-tables)
-
-## Detailed Import Process
-
-Importing from China involves several key steps:
-
-1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
-
-## Detailed Import Process
-
-Importing from China involves several key steps:
-
-1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
-
-## Detailed Import Process
-
-Importing from China involves several key steps:
-
-1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
-2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
-3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
-4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
-5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
-6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
-7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
-8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
-9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
-10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
-
-### Import Cost Template
-| Cost Component | Percentage |
-|----------------|------------|
-| Product (FOB) | 100% |
-| Shipping | 15-25% |
-| Duties | 0-15% |
-| VAT/Tax | 0-23% |
-| Agent fees | 3-8% |
-| **Total landed** | **130-150%** |
-
-### Common Mistakes
-- Ordering without samples
-- Not verifying supplier legitimacy
-- Ignoring import duties
-- Using unsecured payments
-- Not planning for packaging/labeling
-
-2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
-3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
-4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
-5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
-6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
-7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
-8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
-9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
-10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
-
-### Import Cost Template
-| Cost Component | Percentage |
-|----------------|------------|
-| Product (FOB) | 100% |
-| Shipping | 15-25% |
-| Duties | 0-15% |
-| VAT/Tax | 0-23% |
-| Agent fees | 3-8% |
-| **Total landed** | **130-150%** |
-
-### Common Mistakes
-- Ordering without samples
-- Not verifying supplier legitimacy
-- Ignoring import duties
-- Using unsecured payments
-- Not planning for packaging/labeling
-
-2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
-3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
-4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
-5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
-6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
-7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
-8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
-9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
-10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
-
-### Import Cost Template
-| Cost Component | Percentage |
-|----------------|------------|
-| Product (FOB) | 100% |
-| Shipping | 15-25% |
-| Duties | 0-15% |
-| VAT/Tax | 0-23% |
-| Agent fees | 3-8% |
-| **Total landed** | **130-150%** |
-
-### Common Mistakes
-- Ordering without samples
-- Not verifying supplier legitimacy
-- Ignoring import duties
-- Using unsecured payments
-- Not planning for packaging/labeling
-
+- [Por que Importar da China?](#por-que-importar-da-china)
+- [Plataformas de Compra](#plataformas-de-compra)
+- [Cálculo de Custos Completo](#cálculo-de-custos-completo)
+- [Impostos de Importação](#impostos-de-importação)
+- [Documentação Necessária](#documentação-necessária)
+- [Passo a Passo da Importação](#passo-a-passo-da-importação)
+- [Erros Comuns](#erros-comuns)
+- [Case Studies](#case-studies)
 - [FAQ](#faq)
 - [Related Guides](#related-guides)
 - [Sources](#sources)
 
 ## Executive Summary
 
-source: "E-Commerce Brasil" url: "https://www.ecommercebrasil.com.br/artigos/como-importar-produtos-da-china-para-revender-no-brasil" date: "2024-03-20" author: "E-Commerce Brasil" summary: "Passo a passo completo para importar produtos da China. Desde a busca de fornecedores no Alibaba até o desemb
-
-source: "E-Commerce Brasil"
-
-url: "https://www.ecommercebrasil.com.br/artigos/como-importar-produtos-da-china-para-revender-no-brasil"
-
-date: "2024-03-20"
-
-author: "E-Commerce Brasil"
-
-summary: "Passo a passo completo para importar produtos da China. Desde a busca de fornecedores no Alibaba até o desembaraço aduaneiro e a revenda no e-commerce brasileiro."
-
-tags:
-
-  - importacao
-
-  - china
-
-  - revenda
-
-  - e-commerce
-
-  - passo-a-passo
-
 **Fonte:** E-Commerce Brasil
 
 Importar produtos da China para revender no Brasil requer planejamento e conhecimento dos processos aduaneiros. O primeiro passo é pesquisar fornecedores confiáveis em plataformas como Alibaba, Made in China ou Global Sources.
 
-Após selecionar o fornecedor, é necessário negociar preços, condições de pagamento (geralmente via Alibaba Trade Assurance ou cartão de crédito internacional) e prazo de entrega.
+**Pontos-chave do processo:**
 
-A documentação inclui nota fiscal de exportação, packing list, known shipper e demais documentos exigidos pela Receita Federal. Os impostos variam conforme o NCM do produto.
+- Custo médio de importação: 130-150% do preço FOB
+- Tempo médio de entrega: 25-45 dias (frete marítimo)
+- Impostos variam de 20-50% dependendo do NCM
+- Margem de revenda típica: 30-60%
+- Investimento mínimo recomendado: R$ 5.000
 
-O desembaraço aduaneiro pode ser feito pelo próprio importador ou através de um despachante aduaneiro. Após a liberação, o produto segue para o centro de distribuição do lojista.
+## Por que Importar da China?
 
-## Price Comparison
+### Vantagens Econômicas
 
-| Platform | Price Level | MOQ | Export Support | Best For |
-|----------|-------------|-----|----------------|----------|
-| 1688 | Cheapest (15-25% below Alibaba) | Low (50+) | No (needs agent) | Bulk orders, experienced buyers |
-| Alibaba | Mid-range | Medium (100+) | Yes (Trade Assurance) | International buyers, beginners |
-| AliExpress | Budget | None | Yes | Single items, testing |
-| DHgate | Budget | Low | Yes | Small wholesale orders |
-| Global Sources | Factory-level | High (5000+) | Yes | Verified manufacturers |
+A China é o maior exportador do mundo, representando 30% da manufatura global. Para o empreendedor brasileiro, isso significa:
 
-## Step-by-Step Guide
+| Vantagem | Impacto |
+|----------|---------|
+| Preços 30-70% mais baixos | Maior margem de lucro |
+| Variedade infinita de produtos | Diversificação de portfólio |
+| Fornecedores especializados | Qualidade consistente |
+| Escalabilidade | Crescer sem limites |
 
-1. **Research suppliers** — Use the comparison table above to choose the right platform
-2. **Create an account** — Register on your chosen platform with business verification
-3. **Search for products** — Use specific keywords, filter by MOQ and price
-4. **Request samples** — Always order 2-3 samples before committing to bulk
-5. **Negotiate pricing** — Request volume discounts for 100+ units
-6. **Verify supplier** — Check ratings, years on platform, transaction history
-7. **Place order** — Use Trade Assurance or escrow for payment protection
-8. **Arrange shipping** — Sea freight for bulk ($2-8/kg), air for samples ($5-15/kg)
-9. **Quality inspection** — Request pre-shipment inspection (SGS/Intertek)
-10. **Track delivery** — Monitor shipment and coordinate customs clearance
+### Dados do Comércio Brasil-China
 
-## Best Practices
+- Volume bilateral em 2025: US$ 180 bilhões
+- Crescimento anual: 12%
+- Principais categorias: eletrônicos, têxteis, plásticos, metalurgia
+- China responde por 22% das importações brasileiras
 
-- **Always order samples first** — Never commit to bulk without testing quality
-- **Use Trade Assurance** — Never pay 100% upfront; negotiate 30/70 split
-- **Verify business licenses** — Check that "manufacturing" is in the scope, not just "sales"
-- **Request live video audit** — Demand a real-time walkthrough of the factory
-- **Calculate total landed cost** — Include shipping, duties, agent fees (130-150% of FOB)
-- **Start with 1-3 products** — Test market demand before scaling
-- **Build supplier relationships** — Long-term partnerships get better pricing
+## Plataformas de Compra
+
+### Comparativo das Plataformas
+
+| Plataforma | Preço | MOQ | Suporte Exportação | Melhor Para |
+|-----------|-------|-----|-------------------|-------------|
+| 1688 | Mais barato (15-25% abaixo do Alibaba) | Baixo (50+) | Não (precisa de agente) | Compras em volume, compradores experientes |
+| Alibaba | Intermediário | Médio (100+) | Sim (Trade Assurance) | Compradores internacionais, iniciantes |
+| AliExpress | Orçamento | Nenhum | Sim | Itens avulsos, testes |
+| DHgate | Orçamento | Baixo | Sim | Pequenas compras atacadistas |
+| Global Sources | Nível de fábrica | Alto (5000+) | Sim | Fabricantes verificados |
+| Made in China | Intermediário | Médio | Sim | B2B verificado |
+
+### Como Escolher a Plataforma Certa
+
+**Para iniciantes:** Comece com Alibaba. A Trade Assurance protege seu pagamento e a interface é mais amigável.
+
+**Para compradores experientes:** Use 1688 com agente. Os preços são significativamente menores, mas o processo é mais complexo.
+
+**Para testes:** Use AliExpress para pedir amostras e validar demanda antes de comprar em volume.
+
+## Cálculo de Custos Completo
+
+### Fórmula de Custo Total
+
+```
+Custo Total = (Preço FOB × Quantidade) + Frete + Impostos + Despachante + Armazenagem
+```
+
+### Componentes de Custo Detalhados
+
+| Componente | Percentual | Descrição |
+|-----------|-----------|-----------|
+| Produto (FOB) | 100% | Preço base do produto |
+| Frete Internacional | 15-25% | Marítimo (25-40 dias) ou Aéreo (5-10 dias) |
+| Impostos Federais | 10-18% | II + IPI + PIS + COFINS |
+| ICMS | 12-18% | Imposto estadual (varia por estado) |
+| Despachante Aduaneiro | 3-8% | Honorários para desembaraço |
+| Armazenagem | 2-5% | Tempo no porto/depósito |
+
+### Exemplo Prático: Container 20'
+
+**Produto:** Acessórios para celular
+
+| Item | Valor |
+|------|-------|
+| Produto (5.000 unidades) | US$ 5.000 (FOB) |
+| Frete marítimo | US$ 1.200 |
+| Seguro | US$ 150 |
+| Impostos (40% estimado) | US$ 2.000 |
+| Despachante | US$ 400 |
+| **Total** | **US$ 8.750** |
+| **Custo por unidade** | **US$ 1,75** |
+| **Preço de venda (5x markup)** | **R$ 49,90** |
+| **Margem líquida** | **42%** |
+
+## Impostos de Importação
+
+### Tabela de Impostos por Tipo
+
+| Imposto | Alíquota | Base de Cálculo |
+|---------|----------|-----------------|
+| Imposto de Importação (II) | 0-35% | Valor aduaneiro |
+| IPI | 0-300% | Preço de venda |
+| PIS-Importação | 1,65% | Valor aduaneiro |
+| COFINS-Importação | 7,6% | Valor aduaneiro |
+| ICMS | 12-18% | (Valor aduaneiro + II + IPI) / (1 - alíquota ICMS) |
+
+### Ex-Tarifários
+
+Produtos de tecnologia podem ter alíquota zero via Ex-Tarifários. Verifique a TEC (Tabela de Exceção à Tarifa Externa Comum) no site da Receita Federal.
+
+### Exemplo de Cálculo para NCM 8517.62 (Roteadores)
+
+| Imposto | Alíquota | Valor (US$) |
+|---------|----------|-------------|
+| II | 16% | 800 |
+| IPI | 15% | 750 |
+| PIS | 1,65% | 82,50 |
+| COFINS | 7,6% | 380 |
+| ICMS (SP 18%) | 18% | 1.278 |
+| **Total Impostos** | — | **US$ 3.290,50** |
+
+## Documentação Necessária
+
+### Documentos Obrigatórios
+
+1. **Nota Fiscal de Exportação** (do fornecedor chinês)
+2. **Packing List** (detalhamento do conteúdo)
+3. **Known Shipper Number** (para envio aéreo)
+4. **Declaração de Importação** (DI)
+5. **Conhecimento de Embarque** (BL ou AWB)
+6. **Certificado de Origem** (quando aplicável)
+7. **Laudo de Conformidade** (produtos regulamentados)
+
+### Documentos Conforme Produto
+
+- **Eletrônicos:** Certificado INMETRO, ANATEL
+- **Alimentos:** Alvará sanitário, rótulos em português
+- **Produtos químicos:** Registão ANVISA
+- **Brinquedos:** Certificado de conformidade ABNT
+- **Vestuário:** Etiquetas com composição e procedência
+
+## Passo a Passo da Importação
+
+### Fase 1: Pesquisa e Seleção (Semanas 1-2)
+
+1. **Defina o produto:** Use Google Trends, Amazon BSR e TikTok para validar demanda
+2. **Encontre fornecedores:** Busque no Alibaba, 1688 ou Made in China
+3. **Solicite cotações:** Peça para pelo menos 5 fornecedores
+4. **Peça amostras:** Investimento de R$ 100-500 em amostras
+
+### Fase 2: Negociação e Pedido (Semanas 3-4)
+
+5. **Negocie preços:** Use cotações concorrentes para obter desconto
+6. **Defina pagamento:** 30% adiantado, 70% antes do embarque (via Trade Assurance)
+7. **Escolha Incoterms:** FOB (você controla o frete) ou CIF (fornecedor controla)
+8. **Confirme pedido:** Envie especificações detalhadas
+
+### Fase 3: Logística e Embarque (Semanas 5-8)
+
+9. **Organize frete:** Compare cotações de freight forwarders
+10. **Seguro de carga:** Contrate seguro para proteger sua carga
+11. **Acompanhe embarque:** Monitore via tracking number
+12. **Prepare documentos:** Organize toda documentação para desembaraço
+
+### Fase 4: Desembaraço e Entrega (Semanas 9-12)
+
+13. **Contrate despachante:** Escolha um despachante aduaneiro confiável
+14. **Pague impostos:** Via DARF no portal da Receita Federal
+15. **Receba mercadoria:** Verifique quantities e qualidade
+16. **Distribua:** Envie para seu centro de distribuição ou clientes
+
+## Erros Comuns
+
+### 1. Não Verificar Regulamentação do Produto
+
+Cada produto tem suas exigências. Eletrônicos precisam de certificação ANATEL, alimentos de alvará sanitário, etc. Ignorar isso pode resultar na apreensão da carga.
+
+### 2. Subestimar Impostos
+
+Muitos importadores calculam apenas o Imposto de Importação (II) e esquecem do PIS, COFINS e ICMS. O custo real dos impostos pode chegar a 40-60% do valor aduaneiro.
+
+### 3. Não Contratar Despachante
+
+O processo de desembaraço é complexo. Um despachante aduaneiro evita erros que podem causar atrasos e multas.
+
+### 4. Pagamento Direto ao Fornecedor (Sem Escrow)
+
+Nunca pague 100% sem proteção. Use Trade Assurance, escrow ou cartão de crédito internacional.
+
+### 5. Não Amostrar
+
+Pular a fase de amostras é o erro mais caro. O que parece bom na foto pode ser completamente diferente na prática.
+
+### 6. Ignorar Embalagem e Etiquetagem
+
+Produtos sem etiqueta em português, sem número de lote, sem data de validade podem ser retidos na fiscalização.
+
+## Case Studies
+
+### Caso 1: Importação de Fones de Ouvido
+
+**Cenário:** Empreendedor comprou 1.000 fones bluetooth no 1688 via agente
+
+| Item | Valor |
+|------|-------|
+| Produto (FOB) | US$ 2.000 |
+| Agente (8%) | US$ 160 |
+| Frete marítimo | US$ 400 |
+| Impostos (35%) | US$ 700 |
+| Despachante | US$ 200 |
+| **Total Investido** | **US$ 3.460** |
+| **Custo por unidade** | **US$ 3,46** |
+| **Preço de venda** | **R$ 59,90** |
+| **Margem líquida** | **38%** |
+
+**Resultado:** R$ 22.762 de faturamento, R$ 8.650 de lucro líquido.
+
+### Caso 2: Importação de Produtos para Casa
+
+**Cenário:** Importação de 500 itens de decoração (cuscuzeiras, porta-temperos, etc.)
+
+| Item | Valor |
+|------|-------|
+| Produto (FOB) | US$ 1.500 |
+| Frete aéreo | US$ 600 |
+| Impostos (40%) | US$ 600 |
+| Despachante | US$ 250 |
+| **Total Investido** | **US$ 2.950** |
+| **Ticket médio de venda** | **R$ 39,90** |
+| **Margem líquida** | **45%** |
+
+**Resultado:** Faturamento de R$ 19.950 em 45 dias.
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the best platform to buy from China?
-The best platform depends on your needs: **1688** for lowest prices (requires Chinese agent), **Alibaba** for ease of use and buyer protection, **AliExpress** for single items, and **Global Sources** for verified manufacturers.
+### 1. Qual o investimento mínimo para começar a importar?
 
-### How much does it cost to import from China?
-Total landed cost is typically 130-150% of the FOB product price. This includes: product price (100%) + shipping ($2-8/kg by sea) + import duties (0-25% depending on category) + agent fees (3-8%).
+Com R$ 3.000-5.000 você já pode fazer seu primeiro container de teste (pequeno volume). O importante é começar pequeno e escalar conforme a demanda.
 
-### Is it safe to buy from Chinese suppliers?
-Yes, with proper verification. Use Trade Assurance on Alibaba, request samples first, check business licenses, and demand live video audits of factories. Never pay 100% upfront.
+### 2. Como escolher um bom despachante aduaneiro?
 
-### How long does shipping from China take?
-- **Sea freight:** 35-45 days door-to-door
-- **Air freight:** 5-10 days
-- **Express courier (DHL/FedEx):** 3-5 days
-- **Rail (China-Europe):** 15-20 days
+Peça referências de outros importadores, verifique se é registrado no RADAR da Receita Federal, compare honorários e prazos de desembaraço.
 
-### What are the biggest risks when importing from China?
-1. Supplier scams — mitigate with Trade Assurance and samples
-2. Quality issues — mitigate with pre-shipment inspection
-3. Shipping delays — mitigate with buffer time and insurance
-4. Customs issues — mitigate with proper documentation
-5. Currency fluctuations — mitigate with fixed-price contracts
+### 3. É melhor importar via marítimo ou aéreo?
+
+**Marítimo:** Mais barato (R$ 2-8/kg), ideal para volumes grandes, prazo 25-40 dias.
+**Aéreo:** Mais rápido (5-10 dias), custo 3-5x maior, ideal para urgentes e amostras.
+
+### 4. Como funciona o processo de desembaraço aduaneiro?
+
+O despachante aduaneiro registra a Declaração de Importação, paga os impostos via DARF, e a Receita Federal libera a mercadoria. O processo leva 1-5 dias úteis.
+
+### 5. Quais são os impostos de importação para eletrônicos?
+
+Para eletrônicos, a carga tributária total pode chegar a 50-60%: II (16-20%) + IPI (10-15%) + PIS (1,65%) + COFINS (7,6%) + ICMS (12-18%).
+
+### 6. Como evitar ser enganado por fornecedores?
+
+Use Trade Assurance, peça amostras, verifique o histórico do fornecedor no Alibaba, assista a vídeos da fábrica e nunca pague 100% sem proteção.
+
+### 7. Posso importar como pessoa física?
+
+Sim, mas com limitações. A Receita Federal permite até 4 importações por ano para pessoa física, com limite de US$ 500 por remessa. Para volumes maiores, é necessário CNPJ.
+
+### 8. Como calcular o preço de venda ideal?
+
+Use a fórmula: Preço de Venda = (Custo Total × Markup) + Margem de Lucro. O markup típico é 3-5x para produtos de consumo.
+
+### 9. Quais produtos são proibidos de importar?
+
+Produtos sem registro, armas, drogas, animais vivos, produtos orgânicos sem laudo, medicamentos sem ANVISA. Consulte a lista completa no site da Receita Federal.
+
+### 10. Como fazer o follow-up do embarque?
+
+Use o número de rastreio (BL ou AWB) no site da transportadora. Ferramentas como 17track.net permitem rastrear múltiplas transportadoras.
+
+### 11. É possível importar sem saber inglês?
+
+Sim. Plataformas como 1688 e Alibaba têm tradutor automático. No entanto, inglês facilita negociações e leitura de contratos.
+
+### 12. Como importar pela primeira vez sem erro?
+
+Contrate um despachante aduaneiro experiente, comece com um produto simples (baixa regulamentação), e use um agente de compras na China.
 
 ## Related Guides
 
-- [How to Import from China](/articles/import-china-guide)
-- [1688 vs Alibaba Comparison](/articles/1688-vs-alibaba)
-- [Shipping from China Guide](/articles/shipping-from-china)
-- [Import Taxes by Country](/articles/import-taxes-by-country)
-- [Dropshipping Guide 2026](/articles/dropshipping-guide)
-- [Supplier Verification Checklist](/articles/supplier-verification)
+- [Guia Completo de Importação da China](/articles/01-importacao-china-completo)
+- [Cálculo de Impostos de Importação](/articles/09-tabela-imposto-importacao)
+- [Fornecedores de 1688](/articles/1688-product-sourcing)
+- [Despachante Aduaneiro: Como Escolher](/articles/despachante-aduaneiro)
+- [Logística Internacional](/articles/china-shipping-comparison)
+- [Erros Comuns na Importação](/articles/import-scams-avoidance)
 
 ## Sources & References
 
+- [Receita Federal](https://www.gov.br/receitafederal) — Consulta de NCM e tributos
+- [E-Commerce Brasil](https://www.ecommercebrasil.com.br) — Maior comunidade de e-commerce
+- [Sebrae](https://www.sebrae.com.br) — Apoio a pequenas empresas
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
 - [1688.com](https://1688.com) — China domestic wholesale
-- [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
-- [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
-- [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison
-
-
-## Related Articles
-
-- [01-fidelizacao-cliente](/articles/01-fidelizacao-cliente)
-- [01-german-customs-rules-regulations-import-export](/articles/01-german-customs-rules-regulations-import-export)
-- [01-how-to-import-from-china](/articles/01-how-to-import-from-china)
+- [ABIMAQ](https://www.abimaq.org.br) — Associação dos Fabricantes
