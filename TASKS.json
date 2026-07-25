@@ -194,7 +194,7 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T01:24:56Z",
       "result": null
     },
@@ -525,7 +525,7 @@
       "to": "pc-2",
       "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": "10 articles collected from Sebrae/ASN about importação, comex, and tributação. Saved as individual .md files with frontmatter in content-db/blogs/sebrae-pt/. Topics covered: alíquotas zero de importação, cotas de importação, autopeças, bens de capital, proteção à vida, zonas francas, produtos médicos, e expansão internacional.",
+      "result": "10 articles collected from Sebrae/ASN about importa\u00e7\u00e3o, comex, and tributa\u00e7\u00e3o. Saved as individual .md files with frontmatter in content-db/blogs/sebrae-pt/. Topics covered: al\u00edquotas zero de importa\u00e7\u00e3o, cotas de importa\u00e7\u00e3o, autope\u00e7as, bens de capital, prote\u00e7\u00e3o \u00e0 vida, zonas francas, produtos m\u00e9dicos, e expans\u00e3o internacional.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
