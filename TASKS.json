@@ -781,7 +781,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": "First Polish Silver article created: 3678 words. File: content-db/silver/import-z-chin-polska-przewodnik.md. Includes market overview, Allegro, BLIK, customs, EORI, VAT 23%, certyfikacje CE/GPSR/REACH/WEEE, shipping comparison (sea/air/rail), case studies, 12 FAQ questions. [PC-2 FIX] Fixed encoding issues: replaced garbled '控製ść' characters with proper Polish 'kontrola' (5 instances fixed).",
+      "result": "First Polish Silver article created: 3678 words. File: content-db/silver/import-z-chin-polska-przewodnik.md. Includes market overview, Allegro, BLIK, customs, EORI, VAT 23%, certyfikacje CE/GPSR/REACH/WEEE, shipping comparison (sea/air/rail), case studies, 12 FAQ questions. [PC-2 FIX] Fixed encoding issues: replaced garbled '\u63a7\u88fd\u015b\u0107' characters with proper Polish 'kontrola' (5 instances fixed).",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2",
@@ -3600,6 +3600,46 @@
       "priority": "high",
       "status": "pending",
       "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T630",
+      "to": "gcp",
+      "type": "review",
+      "target": "check-agent-output",
+      "description": "Check what PC-1 and PC-2 produced this cycle. Grade quality. Give feedback via BRAINSTORM.json.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:10:00Z"
+    },
+    {
+      "id": "T631",
+      "to": "gcp",
+      "type": "implement",
+      "target": "expand-registry-new-sources",
+      "description": "Find and add 5 new sources to registry. Focus on gaps: ZH, KO, JA, DE. Update sources-registry.json.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:10:00Z"
+    },
+    {
+      "id": "T632",
+      "to": "gcp",
+      "type": "review",
+      "target": "update-registry-extraction-stats",
+      "description": "After agents collect, rescan content-db/raw/ and update extraction counts in registry. Run source-monitor.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:10:00Z"
+    },
+    {
+      "id": "T633",
+      "to": "gcp",
+      "type": "review",
+      "target": "quality-check-samples",
+      "description": "Pick 5 random Bronze items, read them, grade quality. Are transcripts complete? Is metadata accurate?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T16:10:00Z"
     }
   ],
   "log": [
