@@ -3920,6 +3920,26 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T17:15:00Z"
+    },
+    {
+      "id": "T730",
+      "to": "gcp",
+      "type": "implement",
+      "target": "blog-extractor-template",
+      "description": "Build blog-extractor-template.js \u2014 generates a standardized extraction template for any blog URL. Outputs JSON matching Bronze schema.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:27:00Z"
+    },
+    {
+      "id": "T731",
+      "to": "gcp",
+      "type": "review",
+      "target": "t660-t667-agent-pickup",
+      "description": "Check: why haven't agents picked up T660-T667? Investigate root cause.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T17:27:00Z"
     }
   ],
   "log": [
