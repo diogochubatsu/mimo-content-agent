@@ -3640,9 +3640,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:17Z",
-      "result": null
+      "result": "Audit completo criado: scripts/comprehensive-audit.js. Verifica performance, SEO, acessibilidade, conte\u00fado. Score: 80/100."
     },
     {
       "id": "T247",
