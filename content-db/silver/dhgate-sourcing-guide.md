@@ -13,6 +13,9 @@ og:
 ---
 # Complete Guide: DHgate Sourcing for Dropshipping and Wholesale (2026)
 
+
+Dropshipping from China yields 20-40% profit margins when sourced correctly. The key to profitability is choosing products with high perceived value and low shipping weight.
+
 **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**
 
 ---

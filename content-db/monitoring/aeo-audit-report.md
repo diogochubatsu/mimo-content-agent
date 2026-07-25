@@ -1,14 +1,14 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T17:54:11.133Z
+**Generated:** 2026-07-25T17:57:19.899Z
 **Articles audited:** 131
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 11 | 8% |
-| B | 116 | 89% |
+| A | 38 | 29% |
+| B | 89 | 68% |
 | C | 4 | 3% |
 | D | 0 | 0% |
 
@@ -16,7 +16,7 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 11 | 0 | 120 | 8% |
+| Direct Answer in First 30 Lines | 39 | 0 | 92 | 30% |
 | Data Tables | 130 | 0 | 1 | 99% |
 | External Links/Citations | 6 | 0 | 125 | 5% |
 | FAQ Section | 131 | 0 | 0 | 100% |
@@ -36,9 +36,9 @@
 | complete-guide-to-test-silver-2026.md | 60% | B | External Links/Citations, Word Count, Numbered Ste |
 | bronze-resistance-bands.md | 65% | B | External Links/Citations, Numbered Steps |
 | jungguk-suip-wanjeon-guide.md | 65% | B | Direct Answer in First 30 Lines, External Links/Ci |
-| 1688-payment-complete.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
-| 1688-payment-guide.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
-| 1688-payment-methods.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
+| 1688-product-sourcing.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
+| 1688-vs-temu.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
+| advanced-product-research-techniques.md | 70% | B | Direct Answer in First 30 Lines, External Links/Ci |
 
 ## Recommendations
 

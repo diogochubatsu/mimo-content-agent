@@ -13,6 +13,9 @@ og:
 ---
 # Complete Guide: How to Pay on 1688 - Payment Methods for International Buyers (2024)
 
+
+1688 payments require RMB via Alipay or bank transfer. International buyers need a Chinese payment agent (fees: 2-5% of order value) or can use platforms like CJDropshipping that handle payments.
+
 **Updated:** July 2024 | **Reading time:** 12 min | **Expert reviewed**
 
 ## Table of Contents

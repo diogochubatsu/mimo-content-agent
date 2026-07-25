@@ -13,6 +13,9 @@ og:
 ---
 # Complete Guide: Alibaba Gold Supplier Explained 2026
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 **Updated:** January 15, 2026 | **Reading time:** 18 min | **Expert reviewed**
 
 ## Table of Contents

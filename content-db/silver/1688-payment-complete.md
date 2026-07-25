@@ -25,6 +25,9 @@ canonical: "https://importguide1688.com/articles/1688-payment-methods-complete-g
 
 # 1688 Payment Methods Complete Guide: How to Pay on China's Biggest Wholesale Platform (2026)
 
+
+1688 payments require RMB via Alipay or bank transfer. International buyers need a Chinese payment agent (fees: 2-5% of order value) or can use platforms like CJDropshipping that handle payments.
+
 **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**
 
 ## Table of Contents

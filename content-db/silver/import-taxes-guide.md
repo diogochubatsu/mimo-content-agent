@@ -13,6 +13,9 @@ og:
 ---
 # Import Taxes Guide: EU €3 Duty, US Tariffs, Brazil Regulations 2026
 
+
+Import duties range from 0-25% depending on product category and destination country. Electronics often have 0% duty; clothing typically 12-15%. Always calculate total landed cost before pricing.
+
 **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**
 
 ## Table of Contents

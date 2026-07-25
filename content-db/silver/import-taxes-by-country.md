@@ -13,6 +13,9 @@ og:
 ---
 # Complete Guide: Import Taxes by Country (US, EU, Brazil, Japan) (2026)
 
+
+Import duties range from 0-25% depending on product category and destination country. Electronics often have 0% duty; clothing typically 12-15%. Always calculate total landed cost before pricing.
+
 **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**
 
 ## Table of Contents

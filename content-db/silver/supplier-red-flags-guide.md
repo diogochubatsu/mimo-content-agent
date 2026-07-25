@@ -13,6 +13,9 @@ og:
 ---
 # Complete Guide: Supplier Red Flags to Avoid When Importing (2026)
 
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
 **Updated:** July 2026 | **Reading time:** 14 min | **Expert reviewed**
 
 **Meta description:** Learn to identify supplier red flags when importing from China, including 25 warning signs, scam types, verification methods, and a step-by-step due diligence checklist for importers.

@@ -13,6 +13,9 @@ og:
 ---
 # Complete Guide: How to Import from China to Australia (2026)
 
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
 **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**
 
 ## Table of Contents
