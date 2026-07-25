@@ -3359,6 +3359,86 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T15:10:00Z"
+    },
+    {
+      "id": "T542",
+      "to": "gcp",
+      "type": "review",
+      "target": "agent-output-review",
+      "description": "Review all PC-1 and PC-2 output from this session. Grade quality, identify patterns, give feedback.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T543",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-product-database",
+      "description": "Build product comparison database script - scrape product data from bronze sources, create searchable JSON.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T544",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-checklist-generator",
+      "description": "Build import checklist generator - create downloadable import checklist from article content.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T545",
+      "to": "gcp",
+      "type": "review",
+      "target": "session-progress-report",
+      "description": "Generate session progress report - what GCP accomplished, what agents accomplished, what needs next.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T546",
+      "to": "gcp",
+      "type": "research",
+      "target": "seo-optimization-plan",
+      "description": "Create SEO optimization plan for top 20 articles - keyword mapping, meta tags, internal linking strategy.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T547",
+      "to": "pc-2",
+      "type": "create",
+      "target": "temu-vs-1688-comparison",
+      "description": "CREATE: Temu vs 1688 comparison article (EN). High volume keyword (4000/mo). Target 3000+ words, tables, FAQ. Priority: HIGH.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T548",
+      "to": "pc-2",
+      "type": "create",
+      "target": "import-china-brazil-guide",
+      "description": "CREATE: Guia completo para importar da China para o Brasil (PT). Target 3000+ words, impostos NCM, passo a passo. Priority: HIGH.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T549",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "article-expansion-template",
+      "description": "BUILD: Create a script that takes a short blog article (200 words) and generates a Silver-quality expansion template (2000+ words) with sections, tables, FAQ.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:20:00Z"
     }
   ],
   "log": [
