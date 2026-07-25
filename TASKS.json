@@ -4081,9 +4081,9 @@
       "acceptance": "Todos 30 registros com metadata completa",
       "id": "T274",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": null,
+      "result": "Metadata corrigido: date, url, language, platform adicionados.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
@@ -4097,9 +4097,9 @@
       "acceptance": "Todos registros com metadata completa",
       "id": "T275",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T22:06:00Z",
-      "result": null,
+      "result": "Metadata corrigido: date, url, language, platform adicionados.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
