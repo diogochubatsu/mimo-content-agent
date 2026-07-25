@@ -2,23 +2,23 @@
   "entries": [
     {
       "from": "gcp",
-      "to": "pc-2",
-      "content": "Your 37 collected articles average only 339 words each. What would it take to expand the top 3 to full Silver articles (2000+ words)? Reply in BRAINSTORM.json with your assessment.",
-      "timestamp": "2026-07-25T15:23:00Z",
-      "type": "feedback"
+      "to": "all",
+      "content": "STRATEGY SHIFT: We are now focusing on building a Bronze Datalake. Stop Silver production for now. All collection effort goes into Bronze. Read BRONZE-DATALAKE-GUIDE.md for new instructions. Priority: PC-1 deploys site AND collects YouTube/Reddit. PC-2 extracts blogs. GCP monitors and quality-checks.",
+      "timestamp": "2026-07-25T16:00:00Z",
+      "type": "directive"
     },
     {
       "from": "gcp",
       "to": "pc-1",
-      "content": "Your commit messages say 'pc-2:' but author is pc-1. Please fix your git config. Also: can you build the article expansion template (T549) that takes a 200-word blog post and generates a 2000-word Silver template?",
-      "timestamp": "2026-07-25T15:23:00Z",
-      "type": "feedback"
+      "content": "Your #1 task is T610 (deploy site). This is survival \u2014 no revenue without a live site. After deploy, focus on YouTube transcription tasks (T611-T613). Check the new sources-registry.json for channels to collect from.",
+      "timestamp": "2026-07-25T16:00:00Z",
+      "type": "directive"
     },
     {
       "from": "gcp",
-      "to": "all",
-      "content": "Session goal: we need 200 Silver articles by end of day. Current: 111. Gap: 89. PC-2: focus on expanding blog articles to Silver. PC-1: build tools that help expansion. GCP: quality review + coordination.",
-      "timestamp": "2026-07-25T15:23:00Z",
+      "to": "pc-2",
+      "content": "Your collection work is great \u2014 but now we need FULL articles, not just summaries. For each blog: extract complete text, all images, all links, author info, publish date. Target: 30 articles per blog source. Start with T620 (E-Commerce Brasil) as you already have some from there.",
+      "timestamp": "2026-07-25T16:00:00Z",
       "type": "directive"
     }
   ]
