@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-07-25T16:50:47.596Z",
+  "keywords_detected": 2,
+  "top_keywords": [
+    {
+      "keyword": "dropshipping",
+      "count": 6,
+      "category": "dropshipping"
+    },
+    {
+      "keyword": "shopify",
+      "count": 1,
+      "category": "dropshipping"
+    }
+  ],
+  "gaps_to_fill": [
+    {
+      "keyword": "dropshipping",
+      "competitor_mentions": 6,
+      "category": "dropshipping",
+      "our_content": "check"
+    }
+  ],
+  "sources_analyzed": 14
+}
