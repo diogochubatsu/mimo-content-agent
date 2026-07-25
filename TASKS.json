@@ -3597,8 +3597,10 @@
       "target": "blog-junglescout-30",
       "description": "COLLECT: Extract 30 articles from Jungle Scout Blog. Full text + metadata + links. Save content-db/blogs/junglescout-en/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T15:50:00Z"
+      "status": "done",
+      "created": "2026-07-25T15:50:00Z",
+      "result": "Collected 35 articles from Jungle Scout (junglescout.com) blog. Topics cover: Amazon FBA, product research, pricing strategies, brand protection, competitor monitoring, ecommerce trends, supplier sourcing, restricted categories, product launches, Amazon Ads, and enterprise analytics. Saved to content-db/blogs/junglescout-30/ as individual .md files with frontmatter.",
+      "completed_at": "2026-07-25T18:00:00Z"
     },
     {
       "id": "T627",
