@@ -7335,7 +7335,7 @@
       "target": "documentation-completeness",
       "description": "Check documentation completeness: is everything documented? What gaps exist?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:34:00Z"
     },
     {
@@ -7345,7 +7345,7 @@
       "target": "community-engagement",
       "description": "Research community engagement: how to build audience, get feedback, create loyalty.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:34:00Z"
     },
     {
@@ -7355,7 +7355,7 @@
       "target": "long-term-vision",
       "description": "Define long-term vision: where do we want to be in 1 year? 3 years? Create roadmap.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:34:00Z"
     },
     {
@@ -7365,7 +7365,7 @@
       "target": "performance-benchmarking",
       "description": "Benchmark performance: compare our metrics against industry standards. Where do we excel? Where do we lag?",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:35:00Z"
     },
     {
@@ -7375,7 +7375,7 @@
       "target": "automation-opportunities",
       "description": "Research automation opportunities: what manual tasks could be automated? What processes could be streamlined?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:35:00Z"
     },
     {
@@ -7407,6 +7407,56 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T14:35:00Z"
+    },
+    {
+      "id": "T527",
+      "to": "gcp",
+      "type": "review",
+      "target": "data-quality-audit",
+      "description": "Audit data quality: check all raw source files for completeness, accuracy, freshness. Create quality report.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:36:00Z"
+    },
+    {
+      "id": "T528",
+      "to": "gcp",
+      "type": "research",
+      "target": "content-distribution-channels",
+      "description": "Research content distribution channels: social media, email, partnerships, syndication. Maximize reach.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:36:00Z"
+    },
+    {
+      "id": "T529",
+      "to": "gcp",
+      "type": "review",
+      "target": "technical-debt-assessment",
+      "description": "Assess technical debt: what code needs refactoring? What tests are missing? What documentation is outdated?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:36:00Z"
+    },
+    {
+      "id": "T530",
+      "to": "gcp",
+      "type": "research",
+      "target": "growth-strategy",
+      "description": "Growth strategy: how to 10x traffic in 90 days? Content, SEO, partnerships, paid acquisition.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:36:00Z"
+    },
+    {
+      "id": "T531",
+      "to": "gcp",
+      "type": "review",
+      "target": "team-alignment-check",
+      "description": "Team alignment check: are all agents working toward same goals? Any misalignment? Create alignment report.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:36:00Z"
     }
   ],
   "log": [
