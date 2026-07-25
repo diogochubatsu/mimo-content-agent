@@ -763,9 +763,9 @@
       "acceptance": "Article published in German with 2500+ words",
       "id": "T329",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Article created with 4087 words in German, covering all required topics: EU customs framework, EORI, duties, VAT, ATLAS, documentation, shipping options, CBAM, product compliance, comparison table, and 30 FAQ questions.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
