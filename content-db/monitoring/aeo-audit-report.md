@@ -1,6 +1,6 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T21:38:47.267Z
+**Generated:** 2026-07-25T21:41:56.509Z
 **Articles audited:** 294
 
 ## Grade Distribution
@@ -22,7 +22,7 @@
 | FAQ Section | 294 | 0 | 0 | 100% |
 | Frontmatter/Schema Ready | 294 | 0 | 0 | 100% |
 | Structured Headings | 294 | 0 | 0 | 100% |
-| Word Count | 249 | 45 | 0 | 85% |
+| Word Count | 255 | 39 | 0 | 87% |
 | Numbered Steps | 278 | 8 | 8 | 95% |
 
 ## Worst Articles (need improvement)
@@ -38,7 +38,7 @@
 | 01-alibaba-vs-1688.md | 80% | A | Direct Answer in First 30 Lines |
 | 02-openai-ecommerce.md | 80% | A | Direct Answer in First 30 Lines |
 | 04-yiwu-inspection-defect-classification | 80% | A | Direct Answer in First 30 Lines |
-| 05-swiss-entrepreneur-groundbreaking-bus | 80% | A | Direct Answer in First 30 Lines |
+| 09-customs-clearance-process-germany.md | 80% | A | Direct Answer in First 30 Lines |
 
 ## Recommendations
 

@@ -4781,6 +4781,56 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T22:15:00Z"
+    },
+    {
+      "id": "T1200",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-11street-articles",
+      "description": "Extract top 10 articles from 11Street (Korean e-commerce platform). Focus on China sourcing and cross-border topics. Save to content-db/blogs/11street-ko/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:20:00Z"
+    },
+    {
+      "id": "T1201",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "collect-rakuten-articles",
+      "description": "Extract top 10 articles from Rakuten Commerce Blog (Japanese import market). Save to content-db/blogs/rakuten-ja/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:20:00Z"
+    },
+    {
+      "id": "T1202",
+      "to": "pc-1",
+      "type": "expand",
+      "target": "expand-silver-batch8",
+      "description": "Expand 5 more B-grade Silver articles to A-grade. Use batch-silver-expander.js + smart-silver-expander.js. Run quality-gate.js.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T22:20:00Z"
+    },
+    {
+      "id": "T1203",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-importlizenz-de",
+      "description": "Extract top 10 articles from Import Lizenz (German import regulations). Save to content-db/blogs/importlizenz-de/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:20:00Z"
+    },
+    {
+      "id": "T1204",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "collect-allegro-blog-pl",
+      "description": "Extract top 10 articles from Allegro Blog (Polish ecommerce). Save to content-db/blogs/allegro-pl/",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T22:20:00Z"
     }
   ],
   "log": [
