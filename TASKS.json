@@ -7085,7 +7085,7 @@
       "target": "agent-execution-investigation",
       "description": "Investigate why agents are not executing tasks. Check: are they connected to repo? Do they have cron jobs? Process issue?",
       "priority": "critical",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:27:00Z"
     },
     {
@@ -7095,7 +7095,7 @@
       "target": "content-repurpose-strategy",
       "description": "Research content repurposing: how to turn 1 article into 10+ pieces of content across platforms.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:27:00Z"
     },
     {
@@ -7105,7 +7105,7 @@
       "target": "next-quarter-planning",
       "description": "Plan next quarter: goals, metrics, resource allocation, milestone targets.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:27:00Z"
     },
     {
@@ -7115,7 +7115,7 @@
       "target": "source-quality-action-plan",
       "description": "Create action plan to improve source quality from 52% to 80% A. Specific steps, timeline, resources needed.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:28:00Z"
     },
     {
@@ -7125,7 +7125,7 @@
       "target": "content-distribution-strategy",
       "description": "Research content distribution: social media, email, partnerships. How to get 10x more traffic?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:28:00Z"
     },
     {
@@ -7157,6 +7157,56 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T14:28:00Z"
+    },
+    {
+      "id": "T502",
+      "to": "gcp",
+      "type": "review",
+      "target": "project-milestone-review",
+      "description": "Review project milestones: are we on track? What needs adjustment? Create milestone report.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:29:00Z"
+    },
+    {
+      "id": "T503",
+      "to": "gcp",
+      "type": "research",
+      "target": "technology-stack-review",
+      "description": "Review technology stack: is Next.js still the best choice? What\u65b0\u6280\u672f could improve our pipeline?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:29:00Z"
+    },
+    {
+      "id": "T504",
+      "to": "gcp",
+      "type": "review",
+      "target": "team-performance-review",
+      "description": "Review team performance: GCP, PC-1, PC-2. What worked, what didnt, how to improve.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:29:00Z"
+    },
+    {
+      "id": "T505",
+      "to": "gcp",
+      "type": "research",
+      "target": "user-feedback-analysis",
+      "description": "Analyze user feedback: what do users want? What are their pain points? How can we better serve them?",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:29:00Z"
+    },
+    {
+      "id": "T506",
+      "to": "gcp",
+      "type": "review",
+      "target": "next-session-preparation",
+      "description": "Prepare for next session: what tasks to prioritize, what to research, what to implement.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:29:00Z"
     }
   ],
   "log": [
