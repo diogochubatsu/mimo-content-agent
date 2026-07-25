@@ -1516,9 +1516,9 @@
       "acceptance": "Optimizer processes 10 articles",
       "id": "T376",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:30:00Z",
-      "result": null,
+      "result": "SEO pipeline executado em todos os artigos Silver via optimize-all-seo.js.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"

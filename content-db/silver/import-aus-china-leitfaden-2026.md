@@ -48,6 +48,7 @@ schema:
     - name: "Welche Zollschwellen gibt es für Importe aus China?"
       acceptedAnswer:
         text: "Die EU-Zollschwelle liegt bei 150 EUR. Waren unter diesem Wert sind von der Einfuhrzollgebühr befreit, unterliegen jedoch weiterhin der Einfuhrumsatzsteuer (19%). Ab 150 EUR fallen sowohl Zölle als auch MwSt an."
+canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-leitfaden-2026"
 ---
 
 # Import aus China - Kompletter Leitfaden 2026
@@ -526,3 +527,45 @@ Mit diesem Leitfaden haben Sie alle Werkzeuge an der Hand, um erfolgreich aus Ch
 ---
 
 *Letzte Aktualisierung: Juli 2026*
+
+
+## Related Articles
+
+- [1688-payment-complete](/articles/1688-payment-complete)
+- [1688-payment-methods](/articles/1688-payment-methods)
+- [1688-product-sourcing](/articles/1688-product-sourcing)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Import aus China - Kompletter Leitfaden 2026",
+  "description": "---",
+  "author": {
+    "@type": "Organization",
+    "name": "Import Guide 1688"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Import Guide 1688",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://importguide1688.com/logo.png"
+    }
+  },
+  "datePublished": "2026-07-25T17:24:34.043Z",
+  "dateModified": "2026-07-25T17:24:34.043Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://importguide1688.com/articles/import-aus-china-leitfaden-2026"
+  },
+  "articleSection": "silver",
+  "keywords": [
+    "import",
+    "china",
+    "1688",
+    "alibaba",
+    "supplier"
+  ]
+}
+</script>
