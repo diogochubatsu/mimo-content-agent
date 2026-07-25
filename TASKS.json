@@ -3439,6 +3439,46 @@
       "priority": "high",
       "status": "pending",
       "created": "2026-07-25T15:20:00Z"
+    },
+    {
+      "id": "T550",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-supplier-scorecard",
+      "description": "Build supplier scorecard tool - rate suppliers on response time, MOQ, price, reliability from bronze data.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T15:23:00Z"
+    },
+    {
+      "id": "T551",
+      "to": "gcp",
+      "type": "review",
+      "target": "bronze-to-silver-mapper",
+      "description": "Map all bronze articles to Silver potential. Which 20 bronze articles have highest expansion potential? Create priority list.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:23:00Z"
+    },
+    {
+      "id": "T552",
+      "to": "pc-2",
+      "type": "create",
+      "target": "import-china-to-japan-silver",
+      "description": "CREATE Silver article: Complete Guide to Importing from China to Japan (EN). 3000+ words. Include customs, duties, shipping, suppliers. High priority - Japanese market untapped.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:23:00Z"
+    },
+    {
+      "id": "T553",
+      "to": "pc-2",
+      "type": "create",
+      "target": "korean-beauty-import-guide",
+      "description": "CREATE Silver article: How to Import Korean Beauty Products (EN). 3000+ words. K-beauty trend, suppliers, regulations, shipping. Growing market.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T15:23:00Z"
     }
   ],
   "log": [
