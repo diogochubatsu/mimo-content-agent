@@ -3407,7 +3407,7 @@
       "target": "seo-optimization-plan",
       "description": "Create SEO optimization plan for top 20 articles - keyword mapping, meta tags, internal linking strategy.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:20:00Z"
     },
     {
