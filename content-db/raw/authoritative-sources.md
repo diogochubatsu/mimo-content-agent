@@ -139,3 +139,29 @@ Mapeamento de fontes CONFIAVEIS para bronze layer. Estas são as autoridades rea
 | ZH | 1688 Wiki + China Daily | Alta | Parcialmente feito |
 | KO | Coupang Seller | Média | Coletar agora |
 | JA | Rakuten Seller + Amazon JP | Média | Coletar agora |
+
+
+## YouTube Channels (Adicionados em 2026-07-25)
+
+### Brasil (PT-BR)
+| Canal | Inscritos | Tipo | Autoridade |
+|-------|-----------|------|------------|
+| China Gate | ~500k+ | YouTube | ✅ Alta |
+| China Link | ~200k+ | YouTube | ✅ Alta |
+| Web Techmundo | ~150k+ | YouTube | ✅ Alta |
+| Sandro Ferreira | ~100k+ | YouTube | ✅ Alta |
+| Luccas e Gi | ~300k+ | YouTube | ✅ Alta |
+
+### US (EN)
+| Canal | Inscritos | Tipo | Autoridade |
+|-------|-----------|------|------------|
+| Jungle Scout | ~200k+ | YouTube | ✅ Alta |
+| Wholesale Ted | ~150k+ | YouTube | ✅ Alta |
+| Kevin David | ~500k+ | YouTube | ✅ Alta |
+| MyWifeQuitHerJob | ~100k+ | YouTube | ✅ Alta |
+
+### Espanhol (ES)
+| Canal | Inscritos | Tipo | Autoridade |
+|-------|-----------|------|------------|
+| Yomi Denzel | ~500k+ | YouTube | ✅ Alta |
+| Ecommerce Latino | ~100k+ | YouTube | ✅ Alta |

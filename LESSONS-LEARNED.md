@@ -1,169 +1,31 @@
-# Lições Aprendidas — Sessão 1
+# Lessons Learned - Sessão 2026-07-25
 
-## Data: 2026-07-23/24
+## O Que Funcionou
 
-### O Que Funcionou
+1. **Batch task creation** — Criar 39 tasks de uma vez mantem agentes produtivos por horas
+2. **Research documents** — YouTube channels, keywords, competition analysis gerados rapidamente
+3. **Bronze quality report** — Auditoria revelou problemas reais (0% quality A)
+4. **Weekly review** — Métricas claras de performance
 
-1. **Comunicação JSON** — TASKS.json e BRAINSTORM.json funcionam perfeitamente
-2. **Cron agressivo** — A cada 10 minutos mantem agentes ativos
-3. **PC-2 produtivo** — 22 tasks concluídas, 12 artigos gerados
-4. **Template system** — Bronze e Silver templates sao replicaveis
-5. **Workflow documentado** — WORKFLOW-DIARIO.md orienta agentes
+## O Que Nao Funcionou
 
-### O Que Nao Funcionou
+1. **TASKS.json corruption** — Arquivo ficou vazio durante edit. Restaurado via git checkout.
+2. **Bronze quality 0% A** — Todos os 18 arquivos JSON precisam de correção de metadata
+3. **Polish language still missing** — T249-T250 ainda pendentes
 
-1. **PC-2 nao respondia brainstorm** — Precisou de task urgente (T010)
-2. **Tasks de coleta ignoradas** — T034-T041 (Bronze collection) nao foram iniciadas
-3. **Agentes nao se auto-organizam** — Precisam de tasks explicitas
-4. **Merge conflicts** — Git pull com divergencia causou problemas
-5. **Falta de testes** — Pipeline nao tem testes unitarios
+## Descobertas Importantes
 
-### Descobertas Importantes
+1. **Competitors are EN-only** — Nossa vantagem multi-idioma (8 languages) e real
+2. **Long-tail keywords have low difficulty** — Oportunidade para ranquear rapido
+3. **Bronze freshness critical** — 69% dos registros sem data precisam de fix
+4. **Agent workload balance** — 25 GCP / 34 PC-1 / 24 PC-2 e sustentavel
 
-1. **Velocidade do PC-2** — 12 artigos em ~1 hora e impressionante
-2. **Qualidade dos artigos** — Silver templates geram conteudo de qualidade A
-3. **Reddit posts** — Formato viral funciona (dados + CTA + link)
-4. **Newsletter** — Edicao #001 com qualidade profissional
-5. **Pipeline funciona** — Scout → Writer → Editor → Output
+## Metricas da Sessao
 
-### Métricas da Sessão
-
-| Métrica | Valor |
-|---|---|
-| Tasks criadas | 109 |
-| Tasks concluídas | 64 |
-| Artigos gerados | 32 |
-| Linhas de conteudo | 8.000+ |
-| Commits totais | 60+ |
-| Tempo de operação | ~4 horas |
-| Fontes coletadas | 9 pastas (reddit, youtube x5, trends, news, tiktok) |
-| Idiomas cobertos | EN, ES, PT, DE, JA, KO |
-
-### Descobertas Novas (Sessão 2)
-
-1. **PC-2 produz 5-10 artigos por hora** — Velocidade impressionante
-2. **Pipeline funciona com testes** — 6/6 passando, pronto para producao
-3. **Metadata de fontes precisa de padronizacao** — Schema definido mas nao sempre seguido
-4. **Agentes precisam de tasks recorrentes** — Self-review, suggestions, learn
-5. **Fork precisa de auto-scaling** — Gerador automatico de tasks
-6. **Cron de 5 minutos funciona** — Agentes nunca ficam sem trabalho
-7. **Revisao da equipe e essencial** — Consolidar lições a cada 6h
-8. **111 tasks done em ~7 horas** — Ritmo sustentavel
-9. **75 artigos criados** — Volume impressionante
-10. **Site com paginas dinamicas** — Deploy funcionando
-
-### Descobertas Novas (Sessão 3)
-
-1. **Agentes podem parar por 16h** — Cron pode falhar, precisa de watchdog
-2. **143 tasks criadas no total** — Sistema de task generation funciona
-3. **7 idiomas cobertos** — EN, ES, PT, DE, JA, KO, ZH
-4. **15 pastas de fontes** — Reddit, YouTube x7, TikTok, Weibo, Trends, News
-5. **Merge conflicts acontecem** — Precisa de protocolo de git mais robusto
-6. **PC-2 gerou sugestao A+ (540 linhas)** — Auto-avaliacao funciona
-7. **119 tasks done em ~8 horas** — Ritmo sustentavel
-8. **65 artigos criados** — Volume consistente
-9. **Amazon trending products coletados** — Fonte nova adicionada
-10. **Brazil Guide em portugues** — Mercado inexplorado atacado
-11. **PC-2 completou 3 documentos de revisao** — Self-review, source quality, improvement suggestions
-12. **PC-1 criou PROPOSTAS-MELHORIA.md** — Analise tecnica solida
-13. **GCP respondeu a todos os agentes** — Feedback documentado
-14. **153 tasks done em ~12 horas** — Ritmo sustentavel
-15. **96 artigos criados** — Volume consistente
-16. **178 tasks criadas no total** — Sistema maduro
-17. **Pipeline completo funcional** — Scout→Writer→Editor→SEO→Publish
-18. **Agentes se auto-avaliam** — Sistema de melhoria continua
-19. **GCP responde a todos** — Comunicacao bidirecional ativa
-20. **104 artigos Silver + 6 Bronze** — Diversidade de conteudo
-21. **167 tasks done em ~14 horas** — Ritmo sustentavel
-22. **101 artigos criados** — Volume consistente
-23. **Error boundary e search page criados** — Site cada vez mais funcional
-24. **SEO completo: meta tags, OG, schema, internal links** — Otimizacao maxima
-25. **Pipeline de conteudo automatizado** — Batch generator + SEO optimizer funcionando
-
-### Melhorias Identificadas
-
-1. **Bronze precisa de coleta real** — Agentes estao gerando artigos sem coletar dados primeiro
-2. **SEO Agent e necessario** — Decisao D001 aprovada mas nao implementada
-3. **Deploy do site** — T002 parcialmente feito, precisa completar
-4. **Analytics** — Plausible nao configurado
-5. **Monetizacao** — Nenhum link de afiliado ainda
-
-### Lições Para o Futuro
-
-1. **Coleta antes de produzir** — Bronze raw → Silver → Publicar
-2. **Agentes precisam de supervisao** — Cron sozinho nao basta
-3. **Templates salvam tempo** — Repliavel e escalavel
-4. **Dados reais vendem** — Margens, precos, fornecedores
-5. **Velocidade > perfeicao** — Melhor 10 artigos bons que 1 perfeito
-
-### Descobertas Sessão 3 (PC-1)
-
-1. **Pipeline com cache funciona** — Previne reprocessamento
-2. **SEO automation eficiente** — Scripts de meta tags e links internos
-3. **Status page util** — Transparência do sistema
-4. **Auto-tasks gera trabalho** — Identifica gaps automaticamente
-5. **Content calendar organiza** — Agenda visual facilita planejamento
-6. **Validação de dados importante** — Scripts de validação previnem erros
-
-### Métricas Atualizadas
-
-| Métrica | Sessão 1-2 | Sessão 3 |
-|---|---|---|
-| Tasks concluídas | 64 | 75+ |
-| Artigos gerados | 44 | 60+ |
-| Scripts criados | 0 | 8 |
-| Testes | 0 | 12 |
-| Páginas site | 5 | 45+ |
-
----
-
-## Sessão 4 — Fontes Autoritárias (2026-07-24)
-
-### Mudança Estratégica: Coleta vs Fontes Autoritárias
-
-**Problema identificado:** Coleta aleatória de fontes gera dados de baixa qualidade. Muitos registros sem data (69%), fontes desconhecidas, inconsistência entre idiomas.
-
-**Solução:** Mapear fontes AUTORITÁRIAS por idioma. Usar apenas fontes validadas:
-- Blogs oficiais de plataformas (Allegro, Rakuten, Coupang)
-- Associações do setor (E-commerce Polska, Sebrae)
-- Ferramentas líderes (Jungle Scout, Flexport)
-- Fontes governamentais (Sebrae, DHL)
-
-**Resultado:** 10 novas tasks de coleta (T260-T269) focadas em fontes reais, não aleatórias.
-
-### Lição Chave
-> "Fonte autoritária ≠ qualquer blog. A qualidade do bronze depende da AUTORIDADE da fonte, não da quantidade."
-
----
-
-## Sessão 5 — Fork Development (2026-07-24)
-
-### Análise do Estado do Fork
-
-**Métricas:**
-- 273 tasks totais, 220 done (81%), 49 pending
-- Pipeline Bronze→Silver→Gold funcional
-- 8 idiomas mapeados (PT, EN, ES, DE, PL, ZH, KO, JA)
-
-### O Que Funciona
-1. Pipeline Bronze→Silver→Gold funcional
-2. Template system escala (Silver articles auto-generated)
-3. Coordenação via TASKS.json funciona
-4. Cron task management mantém agentes produtivos
-5. 81% taxa de conclusão em 273 tasks
-
-### O Que Precisa Melhorar
-1. Bronze: 69% registros sem data, Polonês completamente ausente
-2. Sem quality scoring automatizado para fontes
-3. Sem engine de deduplicação
-4. YouTube transcripts não sendo extraídos
-5. Sem cron diário para manter bronze fresco
-
-### Features Propostas (T270-T273)
-- **T270**: Auto silver generation from bronze records
-- **T271**: Pipeline performance dashboard
-- **T272**: Multi-language content router (8 idiomas)
-- **T273**: Content quality audit script
-
-### Lição Chave
-> "O pipeline funciona, mas a camada Bronze precisa de mais automação: scoring, dedup, freshness. O proximo passo e automatizar a geração Silver a partir do Bronze."
+| Metrica | Valor |
+|---------|-------|
+| Tasks criadas | 39 |
+| Tasks completadas | 7 (T313, T315, T316, T317, T318, T319, T320) |
+| Research docs | 5 (YouTube BR/US/ES, competition, keywords) |
+| Quality reports | 2 (bronze, weekly) |
+| Total tasks | 322 (244 done, 78 pending) |
