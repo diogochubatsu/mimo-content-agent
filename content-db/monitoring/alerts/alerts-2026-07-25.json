@@ -1,0 +1,142 @@
+[
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-ambientpanda-pt",
+    "message": "AmbientPanda extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-ambientpanda-pt",
+    "message": "AmbientPanda has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-canalecommerce-pt",
+    "message": "Canal Ecommerce extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-canalecommerce-pt",
+    "message": "Canal Ecommerce has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-wholesaleted-en",
+    "message": "Wholesale Ted extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-wholesaleted-en",
+    "message": "Wholesale Ted has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-importdojo-en",
+    "message": "ImportDojo extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-importdojo-en",
+    "message": "ImportDojo has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-nomadmatt-en",
+    "message": "Nomad Matt extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "youtube-nomadmatt-en",
+    "message": "Nomad Matt has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "youtube-yomidenzel-es",
+    "message": "Yomi Denzel extraction at 0% (9/0)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-ecommercebrasil-pt",
+    "message": "E-Commerce Brasil extraction at 0% (15/0)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-sebrae-pt",
+    "message": "Sebrae extraction at 0% (10/0)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-amazing-en",
+    "message": "Amazing.com extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-amazing-en",
+    "message": "Amazing.com has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-nichedropshipping-en",
+    "message": "NicheDropshipping extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-nichedropshipping-en",
+    "message": "NicheDropshipping has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-junglescout-en",
+    "message": "Jungle Scout Blog extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-junglescout-en",
+    "message": "Jungle Scout Blog has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "reddit-amazonfba-en",
+    "message": "r/AmazonFBA extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "reddit-amazonfba-en",
+    "message": "r/AmazonFBA has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "reddit-dropship-en",
+    "message": "r/Dropship extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "reddit-dropship-en",
+    "message": "r/Dropship has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-ecommercepolska-pl",
+    "message": "E-Commerce Polska extraction at 0% (2/0)"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-allegro-pl",
+    "message": "Allegro Blog extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-allegro-pl",
+    "message": "Allegro Blog has never been collected"
+  },
+  {
+    "type": "LOW_COVERAGE",
+    "source": "blog-importlizenz-de",
+    "message": "Import Lizenz extraction at 0% (0/0)"
+  },
+  {
+    "type": "NEVER_COLLECTED",
+    "source": "blog-importlizenz-de",
+    "message": "Import Lizenz has never been collected"
+  }
+]

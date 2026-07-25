@@ -3458,7 +3458,7 @@
       "target": "bronze-to-silver-mapper",
       "description": "Map all bronze articles to Silver potential. Which 20 bronze articles have highest expansion potential? Create priority list.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:23:00Z"
     },
     {
