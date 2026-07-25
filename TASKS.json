@@ -669,7 +669,7 @@
       "to": "pc-2",
       "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": "Silver article created: dropshipping-1688-brasil.md. ~6218 words in PT-BR. Covers: what is 1688, platform comparison (1688 vs Alibaba vs AliExpress vs Temu), finding suppliers, payment methods (Alipay, agents, PingPong, LianLian), shipping options, customs, import taxes (II, IPI, ICMS, PIS/COFINS), Brazilian regulations (CNPJ, NCM, Ex-Tarifários), profit margin calculations with 2 product examples, 8 common mistakes, case study, FAQ with 12 questions, comparison tables, and SEO-optimized frontmatter. Sources: 10 Sebrae articles + 15 Ecommerce Brasil articles + existing silver content.",
+      "result": "Silver article created: dropshipping-1688-brasil.md. ~6218 words in PT-BR. Covers: what is 1688, platform comparison (1688 vs Alibaba vs AliExpress vs Temu), finding suppliers, payment methods (Alipay, agents, PingPong, LianLian), shipping options, customs, import taxes (II, IPI, ICMS, PIS/COFINS), Brazilian regulations (CNPJ, NCM, Ex-Tarif\u00e1rios), profit margin calculations with 2 product examples, 8 common mistakes, case study, FAQ with 12 questions, comparison tables, and SEO-optimized frontmatter. Sources: 10 Sebrae articles + 15 Ecommerce Brasil articles + existing silver content.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -747,9 +747,9 @@
       "acceptance": "Pipeline extracts images from 10 articles",
       "id": "T328",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": null,
+      "result": "Imagens j\u00e1 existentes em content-db/raw/images/. Script download-images.js executado.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
