@@ -1020,9 +1020,9 @@
       "acceptance": "German article published",
       "id": "T345",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
-      "result": null,
+      "result": "Silver article created: import-aus-china-leitfaden-2026.md. ~3200 words in German. Practical import guide covering: supplier selection criteria (10 evaluation criteria), sample ordering and quality control process, negotiation tactics for German buyers, payment methods comparison (T/T, L/C, Alipay, PayPal, Escrow), shipping logistics (FCL, LCL, air freight, express), customs clearance checklist, common mistakes and how to avoid them, cost calculator with 3 real examples (2K, 10K, 50K EUR orders), 12 FAQ questions. Differentiates from T329 article by focusing on practical step-by-step import process rather than regulatory framework.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
