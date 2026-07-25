@@ -7385,7 +7385,7 @@
       "target": "cost-optimization",
       "description": "Cost optimization: where are we spending money? What could be reduced? ROI analysis for each cost center.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:35:00Z"
     },
     {
@@ -7395,7 +7395,7 @@
       "target": "competitive-intelligence",
       "description": "Competitive intelligence: what are competitors doing? New features, new content, new markets. Stay ahead.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:35:00Z"
     },
     {
@@ -7405,7 +7405,7 @@
       "target": "team-morale-check",
       "description": "Team morale check: are agents performing well? Any signs of burnout? Adjust workload if needed.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:35:00Z"
     },
     {
@@ -7415,7 +7415,7 @@
       "target": "data-quality-audit",
       "description": "Audit data quality: check all raw source files for completeness, accuracy, freshness. Create quality report.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:36:00Z"
     },
     {
@@ -7425,7 +7425,7 @@
       "target": "content-distribution-channels",
       "description": "Research content distribution channels: social media, email, partnerships, syndication. Maximize reach.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:36:00Z"
     },
     {
@@ -7457,6 +7457,56 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T14:36:00Z"
+    },
+    {
+      "id": "T532",
+      "to": "gcp",
+      "type": "review",
+      "target": "revenue-analysis",
+      "description": "Revenue analysis: what revenue streams are working? Which need optimization? Create revenue report.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:37:00Z"
+    },
+    {
+      "id": "T533",
+      "to": "gcp",
+      "type": "research",
+      "target": "new-market-analysis",
+      "description": "New market analysis: what new markets could we enter? LatAm, Asia, Europe. Opportunity sizing.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:37:00Z"
+    },
+    {
+      "id": "T534",
+      "to": "gcp",
+      "type": "review",
+      "target": "compliance-check",
+      "description": "Compliance check: are we following all regulations? GDPR, copyright, data privacy. Create compliance report.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:37:00Z"
+    },
+    {
+      "id": "T535",
+      "to": "gcp",
+      "type": "research",
+      "target": "content-format-innovation",
+      "description": "Content format innovation: what new formats could we use? Video, podcast, interactive tools, calculators.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T14:37:00Z"
+    },
+    {
+      "id": "T536",
+      "to": "gcp",
+      "type": "review",
+      "target": "final-quality-check",
+      "description": "Final quality check: review all deliverables, verify completeness, ensure nothing is broken. Sign-off.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T14:37:00Z"
     }
   ],
   "log": [
