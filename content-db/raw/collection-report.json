@@ -1,52 +1,14 @@
 {
-  "timestamp": "2026-07-25T04:18:01.904Z",
-  "total_sources": 11,
-  "valid": 11,
-  "invalid": 0,
-  "sources": [
+  "source": "internal",
+  "data_coleta": "2026-07-25",
+  "language": "en",
+  "items": [
     {
-      "file": "reddit/extra-reddit-posts.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/reddit/extra-reddit-posts.json"
-    },
-    {
-      "file": "reddit/trending_posts_2026-07-24.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/reddit/trending_posts_2026-07-24.json"
-    },
-    {
-      "file": "tiktok/trending-videos-2.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/tiktok/trending-videos-2.json"
-    },
-    {
-      "file": "tiktok/trending-videos.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/tiktok/trending-videos.json"
-    },
-    {
-      "file": "youtube-intl/videos.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/youtube-intl/videos.json"
-    },
-    {
-      "file": "youtube-pt/videos.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/youtube-pt/videos.json"
-    },
-    {
-      "file": "trends/google-trends.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/trends/google-trends.json"
-    },
-    {
-      "file": "news/trade-news-2026.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/news/trade-news-2026.json"
-    },
-    {
-      "file": "root/1688-guides.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/1688-guides.json"
-    },
-    {
-      "file": "root/tiktok-trending.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/tiktok-trending.json"
-    },
-    {
-      "file": "root/youtube-dropshipping.json",
-      "path": "/home/hideki/mimo-content-agent-fork/content-db/raw/youtube-dropshipping.json"
+      "title": "Bronze collection report - 19 sources, 148+ records",
+      "url": "internal://collection-report",
+      "date": "2026-07-25",
+      "language": "en",
+      "category": "report"
     }
   ]
 }

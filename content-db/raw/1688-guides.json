@@ -1,153 +1,42 @@
 {
-  "source": "wiki.1688.com",
+  "source": "1688.com",
+  "data_coleta": "2026-07-25",
   "language": "zh",
-  "collected_at": "2026-07-24T02:45:00Z",
-  "guides": [
+  "items": [
     {
-      "id": "guide-001",
-      "title": "1688\u65b0\u624b\u6307\u5357\uff1a\u5982\u4f55\u5f00\u59cb\u91c7\u8d2d",
-      "title_en": "1688 Beginner Guide: How to Start Sourcing",
-      "url": "https://wiki.1688.com/ beginner-guide",
-      "category": "getting-started",
-      "key_points": [
-        "Como criar conta no 1688",
-        "Como buscar produtos",
-        "Como verificar fornecedores",
-        "Como fazer pagamentos"
-      ],
-      "relevance": "high"
+      "title": "1688买家采购指南",
+      "url": "https://www.1688.com/zt/buyerGuide",
+      "date": "2026-07-01",
+      "language": "zh",
+      "category": "sourcing-guide"
     },
     {
-      "id": "guide-002",
-      "title": "1688 vs Alibaba\u5bf9\u6bd4\u5206\u6790",
-      "title_en": "1688 vs Alibaba Comparison Analysis",
-      "url": "https://wiki.1688.com/ comparison",
-      "category": "comparison",
-      "key_points": [
-        "Diferen\u00e7as de pre\u00e7o",
-        "MOQ comparison",
-        "Payment methods",
-        "Buyer protection"
-      ],
-      "relevance": "high"
+      "title": "1688新手入门教程",
+      "url": "https://www.1688.com/zt/beginner",
+      "date": "2026-06-15",
+      "language": "zh",
+      "category": "tutorial"
     },
     {
-      "id": "guide-003",
-      "title": "\u5982\u4f55\u627e\u5230\u53ef\u9760\u7684\u4f9b\u5e94\u5546",
-      "title_en": "How to Find Reliable Suppliers",
-      "url": "https://wiki.1688.com/ reliable-suppliers",
-      "category": "suppliers",
-      "key_points": [
-        "Verifica\u00e7\u00e3o de fornecedor",
-        "Red flags to avoid",
-        "Trade assurance",
-        "Communication tips"
-      ],
-      "relevance": "high"
+      "title": "1688供应商筛选技巧",
+      "url": "https://www.1688.com/zt/supplier",
+      "date": "2026-07-10",
+      "language": "zh",
+      "category": "supplier-verification"
     },
     {
-      "id": "guide-004",
-      "title": "1688\u91c7\u8d2d\u7269\u6d41\u6307\u5357",
-      "title_en": "1688 Sourcing Logistics Guide",
-      "url": "https://wiki.1688.com/ logistics",
-      "category": "shipping",
-      "key_points": [
-        "Shipping options",
-        "Customs and duties",
-        "Freight forwarders",
-        "Tracking orders"
-      ],
-      "relevance": "medium"
+      "title": "1688采购谈判策略",
+      "url": "https://www.1688.com/zt/negotiation",
+      "date": "2026-05-20",
+      "language": "zh",
+      "category": "negotiation"
     },
     {
-      "id": "guide-005",
-      "title": "\u7535\u5b50\u4ea7\u54c1\u91c7\u8d2d\u6280\u5de7",
-      "title_en": "Electronics Sourcing Tips",
-      "url": "https://wiki.1688.com/ electronics",
-      "category": "electronics",
-      "key_points": [
-        "Certification requirements",
-        "Quality testing",
-        "Sample orders",
-        "Negotiation tactics"
-      ],
-      "relevance": "high"
-    },
-    {
-      "id": "guide-006",
-      "title": "\u670d\u88c5\u91c7\u8d2d\u5b8c\u5168\u6307\u5357",
-      "title_en": "Complete Clothing Sourcing Guide",
-      "url": "https://wiki.1688.com/ clothing",
-      "category": "fashion",
-      "key_points": [
-        "Fabric selection",
-        "MOQ for clothing",
-        "Custom manufacturing",
-        "Quality control"
-      ],
-      "relevance": "medium"
-    },
-    {
-      "id": "guide-007",
-      "title": "\u5bb6\u5c45\u7528\u54c1\u91c7\u8d2d\u653b\u7565",
-      "title_en": "Home Goods Sourcing Strategy",
-      "url": "https://wiki.1688.com/ home-goods",
-      "category": "home",
-      "key_points": [
-        "Trending products",
-        "Seasonal items",
-        "Bulk pricing",
-        "Packaging options"
-      ],
-      "relevance": "medium"
-    },
-    {
-      "id": "guide-008",
-      "title": "\u5982\u4f55\u8c08\u52241688\u4ef7\u683c",
-      "title_en": "How to Negotiate 1688 Prices",
-      "url": "https://wiki.1688.com/ negotiation",
-      "category": "negotiation",
-      "key_points": [
-        "Price negotiation tactics",
-        "Bulk discount strategies",
-        "Sample order leverage",
-        "Long-term relationship building"
-      ],
-      "relevance": "high"
-    },
-    {
-      "id": "guide-009",
-      "title": "1688\u652f\u4ed8\u65b9\u5f0f\u8be6\u89e3",
-      "title_en": "1688 Payment Methods Explained",
-      "url": "https://wiki.1688.com/ payment",
-      "category": "payment",
-      "key_points": [
-        "Alipay setup",
-        "International payments",
-        "Escrow protection",
-        "Currency conversion"
-      ],
-      "relevance": "medium"
-    },
-    {
-      "id": "guide-010",
-      "title": "\u907f\u514d1688\u91c7\u8d2d\u9677\u9631",
-      "title_en": "Avoiding 1688 Sourcing Pitfalls",
-      "url": "https://wiki.1688.com/ pitfalls",
-      "category": "safety",
-      "key_points": [
-        "Common scams",
-        "Quality verification",
-        "Contract basics",
-        "Dispute resolution"
-      ],
-      "relevance": "high"
+      "title": "1688付款方式详解",
+      "url": "https://www.1688.com/zt/payment",
+      "date": "2026-06-01",
+      "language": "zh",
+      "category": "payment"
     }
-  ],
-  "translation_needed": true,
-  "canal": "1688_wiki",
-  "cat_produto": "general",
-  "date": "2026-07-24",
-  "url": "https://1688.com",
-  "title": "1688 Guides"
+  ]
 }

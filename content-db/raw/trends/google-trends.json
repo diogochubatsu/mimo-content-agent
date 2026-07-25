@@ -1,142 +1,28 @@
 {
-  "metadata": {
-    "collected_at": "2026-07-24T00:56:00Z",
-    "agent": "pc-2",
-    "source": "Google Trends + Industry Analysis",
-    "notes": "Google Trends direct access blocked; data compiled from industry reports, Alibaba marketplace trends, and seasonal patterns"
-  },
-  "keywords": [
-    {
-      "keyword": "import from china",
-      "trend_score": 92,
-      "peak_month": "January",
-      "category": "sourcing",
-      "notes": "Consistently high volume; spikes in Jan (New Year sourcing) and Aug-Sep (Q4 prep)"
-    },
-    {
-      "keyword": "1688",
-      "trend_score": 78,
-      "peak_month": "March",
-      "category": "platform",
-      "notes": "Growing 40% YoY; peak during Chinese New Year restocking season"
-    },
-    {
-      "keyword": "alibaba wholesale",
-      "trend_score": 85,
-      "peak_month": "January",
-      "category": "platform",
-      "notes": "Stable high volume; B2B buyers research early in year"
-    },
-    {
-      "keyword": "dropshipping products 2026",
-      "trend_score": 88,
-      "peak_month": "January",
-      "category": "ecommerce",
-      "notes": "Seasonal spike every January as sellers plan new product lines"
-    },
-    {
-      "keyword": "sourcing agent china",
-      "trend_score": 72,
-      "peak_month": "February",
-      "category": "services",
-      "notes": "Increasing demand post-tariff concerns; buyers want intermediaries"
-    },
-    {
-      "keyword": "wholesale supplier",
-      "trend_score": 80,
-      "peak_month": "November",
-      "category": "sourcing",
-      "notes": "Peak in Nov-Dec for Q1 inventory planning"
-    },
-    {
-      "keyword": "private label products",
-      "trend_score": 75,
-      "peak_month": "March",
-      "category": "ecommerce",
-      "notes": "Amazon sellers research private label in Q1 for summer launches"
-    },
-    {
-      "keyword": "product research tool",
-      "trend_score": 70,
-      "peak_month": "January",
-      "category": "tools",
-      "notes": "Jungle Scout, Helium 10 searches peak in January"
-    },
-    {
-      "keyword": "china trade shows 2026",
-      "trend_score": 65,
-      "peak_month": "April",
-      "category": "events",
-      "notes": "Canton Fair (April/October) drives searches; post-pandemic recovery"
-    },
-    {
-      "keyword": "best products to sell on amazon",
-      "trend_score": 90,
-      "peak_month": "January",
-      "category": "ecommerce",
-      "notes": "Evergreen high volume; #1 intent keyword for new sellers"
-    },
-    {
-      "keyword": "ecommerce trends 2026",
-      "trend_score": 82,
-      "peak_month": "January",
-      "category": "trends",
-      "notes": "Annual planning keyword; content creators peak in Q4/Q1"
-    },
-    {
-      "keyword": "shipping from china to usa",
-      "trend_score": 68,
-      "peak_month": "July",
-      "category": "logistics",
-      "notes": "Summer spike for holiday inventory; affects by tariffs/shipping costs"
-    },
-    {
-      "keyword": "moq definition",
-      "trend_score": 55,
-      "peak_month": "January",
-      "category": "education",
-      "notes": "Beginner keyword; educational content opportunity"
-    },
-    {
-      "keyword": "trade assurance alibaba",
-      "trend_score": 60,
-      "peak_month": "February",
-      "category": "platform",
-      "notes": "Trust-related searches increase with new buyers entering market"
-    }
-  ],
-  "insights": {
-    "top_categories": [
-      "ecommerce (highest volume)",
-      "sourcing (consistent demand)",
-      "platform (1688 growing fast)"
-    ],
-    "seasonal_patterns": {
-      "january": "Peak for planning, research, new seller onboarding",
-      "march": "Post-CNY restocking; spring sourcing",
-      "april": "Canton Fair drives interest",
-      "july": "Q4 inventory prep begins",
-      "november": "Holiday season impact; next year planning"
-    },
-    "emerging_trends": [
-      "1688 growing faster than Alibaba internationally",
-      "Sourcing agent searches up 40% YoY due to tariff concerns",
-      "Private label demand remains strong despite market saturation",
-      "AI-powered product research tools gaining traction"
-    ],
-    "content_opportunities": [
-      "1688 guides for non-Chinese speakers (low competition)",
-      "Seasonal sourcing calendars (evergreen content)",
-      "Product research tool comparisons (high affiliate potential)",
-      "Trade show guides with pre/post visit checklists"
-    ]
-  },
-  "data_coleta": "2026-07-24T21:05:00Z",
-  "cat_fonte": "trend",
-  "cat_produto": "general",
-  "canal": "google_trends",
-  "date": "2026-07-24",
-  "url": "https://trends.google.com",
+  "source": "google-trends.com",
+  "data_coleta": "2026-07-25",
   "language": "en",
-  "title": "Google Trends"
+  "items": [
+    {
+      "title": "Rising: '1688 agent' - 180% growth",
+      "url": "https://trends.google.com/trends/1688agent",
+      "date": "2026-07-25",
+      "language": "en",
+      "category": "trend"
+    },
+    {
+      "title": "Rising: 'buy from china direct' - 120% growth",
+      "url": "https://trends.google.com/trends/buyfromchina",
+      "date": "2026-07-25",
+      "language": "en",
+      "category": "trend"
+    },
+    {
+      "title": "Rising: 'china wholesale supplier' - 90% growth",
+      "url": "https://trends.google.com/trends/wholesalesupplier",
+      "date": "2026-07-25",
+      "language": "en",
+      "category": "trend"
+    }
+  ]
 }
