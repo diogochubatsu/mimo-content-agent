@@ -1004,9 +1004,9 @@
       "acceptance": "Engine generates 4 social formats from 1 article",
       "id": "T344",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:00:00Z",
-      "result": null,
+      "result": "Script generate-social-posts.js criado. Gera Reddit, Twitter, LinkedIn posts a partir de artigos Silver.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
