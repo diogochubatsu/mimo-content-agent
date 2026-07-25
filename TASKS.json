@@ -4000,8 +4000,28 @@
       "target": "country-specific-landing-pages",
       "description": "Create landing page templates for each country (PT, EN, ES, DE, PL) with localized import guides.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T17:40:00Z"
+    },
+    {
+      "id": "T760",
+      "to": "pc-2",
+      "type": "create",
+      "target": "add-faq-sections-to-top-30-articles",
+      "description": "GEO CRITICAL: Add FAQ sections to top 30 most-trafficked Silver articles. AEO audit shows this is #1 gap \u2014 89% of articles have NO FAQ. Each article needs 5-7 FAQ entries targeting question keywords. This directly impacts AI citation visibility.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T17:52:00Z"
+    },
+    {
+      "id": "T761",
+      "to": "gcp",
+      "type": "implement",
+      "target": "faq-generator-from-questions",
+      "description": "BUILD: Script that reads article content and generates FAQ entries from H2/H3 headings + content. Auto-creates Q&A pairs for FAQPage schema.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:52:00Z"
     }
   ],
   "log": [
