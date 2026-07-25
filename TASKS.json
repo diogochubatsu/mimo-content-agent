@@ -765,7 +765,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T04:05:00Z",
-      "result": "Article created with 4087 words in German, covering all required topics: EU customs framework, EORI, duties, VAT, ATLAS, documentation, shipping options, CBAM, product compliance, comparison table, and 30 FAQ questions. [PC-2 FIX] Fixed Chinese character artifacts: 碳-intensive replaced with kohlenstoffintensiv on lines 427 and 752.",
+      "result": "Article created with 4087 words in German, covering all required topics: EU customs framework, EORI, duties, VAT, ATLAS, documentation, shipping options, CBAM, product compliance, comparison table, and 30 FAQ questions. [PC-2 FIX] Fixed Chinese character artifacts: \u78b3-intensive replaced with kohlenstoffintensiv on lines 427 and 752.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -3480,6 +3480,126 @@
       "priority": "medium",
       "status": "pending",
       "created": "2026-07-25T15:23:00Z"
+    },
+    {
+      "id": "T600",
+      "to": "gcp",
+      "type": "review",
+      "target": "weekly-source-assessment",
+      "description": "WEEKLY: Review source registry, assess coverage gaps, reprioritize collection targets.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T601",
+      "to": "gcp",
+      "type": "review",
+      "target": "bronze-quality-review",
+      "description": "WEEKLY: Sample 20 Bronze items, grade A/B/C, check schema compliance.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T610",
+      "to": "pc-1",
+      "type": "implement",
+      "target": "deploy-site-vercel",
+      "description": "DEPLOY: Get Next.js site live on Vercel. #1 PRIORITY \u2014 no revenue without a live site.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T611",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "youtube-pt-transcribe",
+      "description": "COLLECT: Transcribe top 5 videos from AmbientPanda (PT). Use transcribe-youtube.js. Save content-db/raw/youtube/pt/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T612",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "youtube-en-transcribe",
+      "description": "COLLECT: Transcribe top 5 videos from Wholesale Ted + ImportDojo (EN). Save content-db/raw/youtube/en/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T613",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "youtube-es-transcribe",
+      "description": "COLLECT: Transcribe top 5 videos from Yomi Denzel (ES). Save content-db/raw/youtube/es/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T614",
+      "to": "pc-1",
+      "type": "collect",
+      "target": "reddit-collect-top40",
+      "description": "COLLECT: Collect top 20 posts from r/AmazonFBA + r/Dropship (last 30 days). Save content-db/raw/reddit/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T620",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "blog-ecommercebrasil-30",
+      "description": "COLLECT: Extract 30 articles from E-Commerce Brasil. Full text + metadata + images + links. Save content-db/blogs/ecommerce-brasil-pt/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T621",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "blog-amazing-30",
+      "description": "COLLECT: Extract 30 articles from Amazing.com. Full text + metadata + images + links. Save content-db/blogs/amazing-en/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T622",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "blog-nichedrop-30",
+      "description": "COLLECT: Extract 30 articles from NicheDropshipping. Full text + metadata + links. Save content-db/blogs/nichedropshipping-en/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T623",
+      "to": "pc-2",
+      "type": "collect",
+      "target": "blog-junglescout-30",
+      "description": "COLLECT: Extract 30 articles from Jungle Scout Blog. Full text + metadata + links. Save content-db/blogs/junglescout-en/.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
+    },
+    {
+      "id": "T627",
+      "to": "pc-2",
+      "type": "research",
+      "target": "find-sources-zh-ko-ja",
+      "description": "RESEARCH: Find 5+ authoritative sources for ZH, KO, JA import/ecommerce content. Add to sources-registry.json.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T15:50:00Z"
     }
   ],
   "log": [
