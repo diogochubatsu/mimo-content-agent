@@ -1,7 +1,7 @@
 # Source Evaluation Report
 
 **Date:** 2026-07-25
-**Session:** Source Evaluation Cron
+**Session:** Source Evaluation Cron (08:33 UTC)
 
 ## Summary
 
