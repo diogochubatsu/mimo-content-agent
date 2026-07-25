@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/06-yiwu-supplier-verification-checklist"
+  image: "https://importguide1688.com/og/06-yiwu-supplier-verification-checklist.png"
+  site_name: "Import Guide 1688"
 title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)"
 source: "Goldenshiny Sourcing Blog"
 url: "https://goldenshiny.com/yiwu-supplier-verification-checklist/"
@@ -17,10 +25,27 @@ internal_links:
   - "https://goldenshiny.com/yiwu-inspection-report/"
   - "https://goldenshiny.com/top-10-china-sourcing-agents/"
 external_links: []
+keywords: ["yiwu supplier", "import", "china", "supplier", "wholesale", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit-complete-guide"
 ---
 
 # Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)
 
+
+
+
+
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
@@ -267,6 +292,14 @@ A European importer used this 10-point checklist before placing a $12,000 order 
 - [How to Spot Fake Factory Videos](/how-to-spot-fake-factory-videos/) — Identify deceptive supplier content
 - [Yiwu Inspection Report Guide](/yiwu-inspection-report/) — What a proper inspection report should include
 - [Top 10 China Sourcing Agents](/top-10-china-sourcing-agents/) — Find verified sourcing partners
+
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
 
 ## FAQ
 

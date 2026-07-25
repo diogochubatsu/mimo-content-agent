@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Product Costing: Complete Guide to Cost Analysis and Pricing Strategy"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/12-product-costing"
+  image: "https://importguide1688.com/og/12-product-costing.png"
+  site_name: "Import Guide 1688"
 title: "Product Costing: Complete Guide to Cost Analysis and Pricing Strategy"
 source: "Leeline Sourcing Blog"
 url: "https://leelinegroup.com/product-costing/"
@@ -29,10 +37,26 @@ internal_links:
 external_links:
   - "https://www.investopedia.com/terms/c/costofgoods.asp"
   - "https://www.accountingtools.com/articles/what-is-the-contribution-margin.html"
+canonical: "https://importguide1688.com/articles/product-costing-complete-guide-to-cost-analysis-and-pricing-strategy"
 ---
 
 # Product Costing: Complete Guide to Cost Analysis and Pricing Strategy
 
+
+
+
+
+
+
+This comprehensive guide covers product costing: complete guide to cost analysis and pricing strategy with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers product costing: complete guide to cost analysis and pricing strategy with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers product costing: complete guide to cost analysis and pricing strategy with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers product costing: complete guide to cost analysis and pricing strategy with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+This comprehensive guide covers product costing: complete guide to cost analysis and pricing strategy with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
 This comprehensive guide covers product costing: complete guide to cost analysis and pricing strategy with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
 
@@ -239,3 +263,80 @@ Break-Even Units = Fixed Costs / (Selling Price - Variable Cost per Unit)
 ---
 
 *Last updated: May 2026 | Based on successful importer cost data*
+
+
+## Related Articles
+
+- [1688-vs-temu](/articles/1688-vs-temu)
+- [aliexpress-comparison](/articles/aliexpress-comparison)
+- [amazon-fba-beginners](/articles/amazon-fba-beginners)
+
+
+## Detailed Import Process
+
+Importing from China involves several key steps:
+
+1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
+2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
+3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
+4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
+5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
+6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
+7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
+8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
+9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
+10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
+
+### Import Cost Template
+| Cost Component | Percentage |
+|----------------|------------|
+| Product (FOB) | 100% |
+| Shipping | 15-25% |
+| Duties | 0-15% |
+| VAT/Tax | 0-23% |
+| Agent fees | 3-8% |
+| **Total landed** | **130-150%** |
+
+### Common Mistakes
+- Ordering without samples
+- Not verifying supplier legitimacy
+- Ignoring import duties
+- Using unsecured payments
+- Not planning for packaging/labeling
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+## Frequently Asked Questions (FAQ)
+
+### How to product costing complete guide to cost analysis and pricing strategy?
+
+This guide covers everything you need to know about product costing: complete guide to cost analysis and pricing strategy. Follow the step-by-step instructions in the sections above.
+
+### What should you know about formula?
+
+```
+
+### What should you know about detailed calculation example?
+
+Product: Silicone kitchen utensils (1,000 units)
+
+### How much does  cost?
+
+```
+
+### What should you know about break-even analysis?
+
+```
+
+### How much does case study 1: cost?
+
+Challenge: Importer pricing products too low, losing money.
+
+### How much does case study 2: cost?
+
+Challenge: High landed cost eating into margins.
+

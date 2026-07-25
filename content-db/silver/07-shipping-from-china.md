@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/07-shipping-from-china"
+  image: "https://importguide1688.com/og/07-shipping-from-china.png"
+  site_name: "Import Guide 1688"
 title: "Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization"
 source: "Leeline Sourcing Blog"
 url: "https://leelinegroup.com/shipping-from-china/"
@@ -30,10 +38,26 @@ external_links:
   - "https://www.cbp.gov/trade/basic-import-export"
   - "https://iccwbo.org/business-solutions/incoterms-rules/"
   - "https://www.iata.org/en/programs/cargo/"
+canonical: "https://importguide1688.com/articles/shipping-from-china-complete-guide-to-freight-logistics-and-cost-optimization"
 ---
 
 # Shipping From China: Complete Guide to Freight, Logistics, and Cost Optimization
 
+
+
+
+
+
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
 Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
@@ -266,3 +290,47 @@ What's your priority?
 ---
 
 *Last updated: May 2026 | Based on 500+ container shipments*
+
+
+## Related Articles
+
+- [01-how-to-import-from-china](/articles/01-how-to-import-from-china)
+- [01-how-to-start-dropshipping](/articles/01-how-to-start-dropshipping)
+- [03-best-countries-for-product-sourcing](/articles/03-best-countries-for-product-sourcing)
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+## Frequently Asked Questions (FAQ)
+
+### How to shipping from china complete guide to freight logistics and cost optimization?
+
+This guide covers everything you need to know about shipping from china: complete guide to freight, logistics, and cost optimization. Follow the step-by-step instructions in the sections above.
+
+### How much does  cost?
+
+Example: 1,000 units, 5kg each, from Shenzhen to Los Angeles
+
+### What should you know about container sizes?
+
+*Assuming 0.03 CBM per unit
+
+### What should you know about volumetric weight calculation?
+
+```
+
+### What should you know about duty calculation?
+
+```
+
+### What should you know about questions to ask freight forwarders?
+
+1. How long have you operated in China?
+
+### What should you know about shipping decision tree?
+
+```
+

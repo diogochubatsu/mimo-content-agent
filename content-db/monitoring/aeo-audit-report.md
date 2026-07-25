@@ -1,14 +1,14 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T18:59:07.614Z
-**Articles audited:** 224
+**Generated:** 2026-07-25T20:25:51.769Z
+**Articles audited:** 263
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 215 | 96% |
-| B | 9 | 4% |
+| A | 256 | 97% |
+| B | 7 | 3% |
 | C | 0 | 0% |
 | D | 0 | 0% |
 
@@ -16,29 +16,29 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 60 | 0 | 164 | 27% |
-| Data Tables | 224 | 0 | 0 | 100% |
-| External Links/Citations | 224 | 0 | 0 | 100% |
-| FAQ Section | 224 | 0 | 0 | 100% |
-| Frontmatter/Schema Ready | 224 | 0 | 0 | 100% |
-| Structured Headings | 223 | 1 | 0 | 100% |
-| Word Count | 123 | 84 | 17 | 55% |
-| Numbered Steps | 213 | 5 | 6 | 95% |
+| Direct Answer in First 30 Lines | 61 | 0 | 202 | 23% |
+| Data Tables | 263 | 0 | 0 | 100% |
+| External Links/Citations | 263 | 0 | 0 | 100% |
+| FAQ Section | 263 | 0 | 0 | 100% |
+| Frontmatter/Schema Ready | 263 | 0 | 0 | 100% |
+| Structured Headings | 263 | 0 | 0 | 100% |
+| Word Count | 164 | 99 | 0 | 62% |
+| Numbered Steps | 245 | 9 | 9 | 93% |
 
 ## Worst Articles (need improvement)
 
 | Article | Score | Grade | Key Issues |
 |---------|-------|-------|------------|
-| i-was-wrong-about-the-solo-operator-era- | 65% | B | Direct Answer in First 30 Lines, Word Count, Numbe |
 | bronze-phone-cases.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | chugoku-yunyu-kanzen-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| i-was-wrong-about-the-solo-operator-era- | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
-| 02-sprzedaz-za-granice-przewodnik.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 02-wholesale-suppliers-guide.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 07-allegro-pomoc-sprzedajacych-start.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 07-varejo-online-faturar-65-bilhoes.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| complete-guide-to-test-silver-2026.md | 75% | B | Word Count, Numbered Steps |
+| 07-low-moq-products-in-yiwu.md | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| 10-yiwu-landed-cost.md | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| 15-how-to-compare-yiwu-product-suppliers | 75% | B | Direct Answer in First 30 Lines, Numbered Steps |
+| 01-alibaba-vs-1688.md | 80% | A | Direct Answer in First 30 Lines |
 | 01-fidelizacao-cliente.md | 80% | A | Direct Answer in First 30 Lines |
+| 01-german-customs-rules-regulations-impo | 80% | A | Direct Answer in First 30 Lines |
 
 ## Recommendations
 

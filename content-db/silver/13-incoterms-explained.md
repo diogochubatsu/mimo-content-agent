@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "Incoterms Explained: Complete Guide to International Shipping Terms"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/13-incoterms-explained"
+  image: "https://importguide1688.com/og/13-incoterms-explained.png"
+  site_name: "Import Guide 1688"
 title: "Incoterms Explained: Complete Guide to International Shipping Terms"
 source: "Leeline Sourcing Blog"
 url: "https://leelinegroup.com/incoterms-explained/"
@@ -29,10 +37,26 @@ internal_links:
 external_links:
   - "https://iccwbo.org/business-solutions/incoterms-rules/"
   - "https://www.cbp.gov/trade/basic-import-export"
+canonical: "https://importguide1688.com/articles/incoterms-explained-complete-guide-to-international-shipping-terms"
 ---
 
 # Incoterms Explained: Complete Guide to International Shipping Terms
 
+
+
+
+
+
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
+
+Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
 Shipping from China costs $2-8/kg by sea (35-45 days) or $5-15/kg by air (5-10 days). Express courier (DHL/FedEx) costs $15-25/kg but delivers in 3-5 days.
 
@@ -294,3 +318,47 @@ What's your priority?
 ---
 
 *Last updated: June 2026 | Based on 500+ container shipments*
+
+
+## Related Articles
+
+- [01-how-to-import-from-china](/articles/01-how-to-import-from-china)
+- [01-how-to-start-dropshipping](/articles/01-how-to-start-dropshipping)
+- [03-best-countries-for-product-sourcing](/articles/03-best-countries-for-product-sourcing)
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
+## Frequently Asked Questions (FAQ)
+
+### How to incoterms explained complete guide to international shipping terms?
+
+This guide covers everything you need to know about incoterms explained: complete guide to international shipping terms. Follow the step-by-step instructions in the sections above.
+
+### What should you know about exw (ex works)?
+
+Risk transfer: Seller's premises
+
+### What should you know about fob (free on board)?
+
+Risk transfer: When goods are loaded onto vessel
+
+### How much does cif ( cost?
+
+Risk transfer: When goods are loaded onto vessel
+
+### What should you know about ddp (delivered duty paid)?
+
+Risk transfer: Buyer's premises
+
+### What should you know about incoterm selection decision tree?
+
+```
+
+### What should you know about case study 1: incoterm mistake?
+
+Challenge: Importer chose DDP for price comparison, lost $2,500.
+

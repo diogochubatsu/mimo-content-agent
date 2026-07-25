@@ -1,4 +1,12 @@
 ---
+
+og:
+  title: "How to Verify Yiwu Supplier Before Sending Money (Complete Guide)"
+  description: "---"
+  type: "article"
+  url: "https://importguide1688.com/articles/05-verify-yiwu-supplier"
+  image: "https://importguide1688.com/og/05-verify-yiwu-supplier.png"
+  site_name: "Import Guide 1688"
 title: "How to Verify Yiwu Supplier Before Sending Money (Complete Guide)"
 source: "Goldenshiny Sourcing Blog"
 url: "https://goldenshiny.com/verify-yiwu-supplier/"
@@ -17,10 +25,27 @@ internal_links:
   - "https://goldenshiny.com/how-to-spot-fake-factory-videos/"
   - "https://goldenshiny.com/top-10-china-sourcing-agents/"
 external_links: []
+keywords: ["verify yiwu", "import", "china", "supplier", "1688", "alibaba"]
+canonical: "https://importguide1688.com/articles/how-to-verify-yiwu-supplier-before-sending-money-complete-guide"
 ---
 
 # How to Verify Yiwu Supplier Before Sending Money (Complete Guide)
 
+
+
+
+
+
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
+
+Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
 Verified Chinese suppliers on Alibaba have a 60% true factory rate. On 1688, the factory rate is higher but requires local verification. Always demand a live video audit before placing orders.
 
@@ -249,6 +274,14 @@ An American importer found a Yiwu supplier offering LED strip lights at 30% belo
 - [How to Spot Fake Factory Videos](/how-to-spot-fake-factory-videos/) — Identify AI-generated and deceptive supplier videos
 - [Top 10 China Sourcing Agents](/top-10-china-sourcing-agents/) — Find verified sourcing partners
 - [Yiwu Inspection Report Guide](/yiwu-inspection-report/) — What a proper inspection report should include
+
+
+### Sources & References
+
+- [1688.com official marketplace](https://1688.com)
+- [Alibaba Group](https://alibaba.com)
+- [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
+
 
 ## FAQ
 

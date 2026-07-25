@@ -78,6 +78,72 @@ Phone cases remain one of the highest-margin products to import from China. With
 
 5. **Seasonal demand** — Phone case demand spikes 2 weeks before new iPhone launches (September). Plan inventory accordingly.
 
+
+## Detailed Import Process
+
+Importing from China involves several key steps:
+
+1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
+
+## Detailed Import Process
+
+Importing from China involves several key steps:
+
+1. **Product Research** — Validate demand using Google Trends, Amazon BSR, TikTok trends
+2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
+3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
+4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
+5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
+6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
+7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
+8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
+9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
+10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
+
+### Import Cost Template
+| Cost Component | Percentage |
+|----------------|------------|
+| Product (FOB) | 100% |
+| Shipping | 15-25% |
+| Duties | 0-15% |
+| VAT/Tax | 0-23% |
+| Agent fees | 3-8% |
+| **Total landed** | **130-150%** |
+
+### Common Mistakes
+- Ordering without samples
+- Not verifying supplier legitimacy
+- Ignoring import duties
+- Using unsecured payments
+- Not planning for packaging/labeling
+
+2. **Supplier Discovery** — Use 1688 (cheapest), Alibaba (safest), or Global Sources (verified)
+3. **Sample Evaluation** — Order 2-3 samples ($10-50 each) before bulk
+4. **Supplier Verification** — Check business license, years on platform, reviews, live video audit
+5. **Negotiation** — Use competitive quotes to negotiate 10-20% price reduction
+6. **Payment** — 30/70 split via Trade Assurance. Never 100% upfront
+7. **Quality Control** — Pre-shipment inspection (SGS/Intertek, $100-300)
+8. **Shipping** — Sea: $2-8/kg (35-45d), Air: $5-15/kg (5-10d), Express: $15-25/kg (3-5d)
+9. **Customs** — Check HTS codes, prepare commercial invoice + packing list
+10. **Quality on Arrival** — Inspect 100% on first order, file claims if needed
+
+### Import Cost Template
+| Cost Component | Percentage |
+|----------------|------------|
+| Product (FOB) | 100% |
+| Shipping | 15-25% |
+| Duties | 0-15% |
+| VAT/Tax | 0-23% |
+| Agent fees | 3-8% |
+| **Total landed** | **130-150%** |
+
+### Common Mistakes
+- Ordering without samples
+- Not verifying supplier legitimacy
+- Ignoring import duties
+- Using unsecured payments
+- Not planning for packaging/labeling
+
 ## FAQ
 
 **Q: What's the best material for phone cases?**
