@@ -1388,9 +1388,9 @@
       "acceptance": "Validator checks 10 articles and generates report",
       "id": "T368",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
-      "result": null,
+      "result": "Valida\u00e7\u00e3o Silver: Word count 4 OK 128 viola\u00e7\u00f5es. Readability 92 artigos Very Difficult.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
