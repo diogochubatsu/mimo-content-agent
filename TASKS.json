@@ -1580,9 +1580,9 @@
       "acceptance": "German article published",
       "id": "T380",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T07:00:00Z",
-      "result": null,
+      "result": "3215 words - import-china-deutschland-advanced.md - Advanced guide covering multi-supplier strategy, demand forecasting, automation, scaling, case studies, and 12 FAQ questions",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
