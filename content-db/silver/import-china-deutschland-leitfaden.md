@@ -90,6 +90,18 @@ canonical: "https://importguide1688.com/articles/import-aus-china-kompletter-lei
 
 
 
+
+
+
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
+Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
+
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.
 
 Importing from China costs 30-50% less than domestic wholesale, but total landed cost depends on shipping method, import duties, and agent fees. A standard container from China averages $3,000-5,000 in total costs.

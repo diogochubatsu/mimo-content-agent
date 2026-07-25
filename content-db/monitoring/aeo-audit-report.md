@@ -1,14 +1,14 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T18:44:33.373Z
+**Generated:** 2026-07-25T18:59:07.614Z
 **Articles audited:** 224
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 174 | 78% |
-| B | 50 | 22% |
+| A | 215 | 96% |
+| B | 9 | 4% |
 | C | 0 | 0% |
 | D | 0 | 0% |
 
@@ -16,13 +16,13 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 61 | 0 | 163 | 27% |
+| Direct Answer in First 30 Lines | 60 | 0 | 164 | 27% |
 | Data Tables | 224 | 0 | 0 | 100% |
 | External Links/Citations | 224 | 0 | 0 | 100% |
 | FAQ Section | 224 | 0 | 0 | 100% |
 | Frontmatter/Schema Ready | 224 | 0 | 0 | 100% |
 | Structured Headings | 223 | 1 | 0 | 100% |
-| Word Count | 122 | 34 | 68 | 54% |
+| Word Count | 123 | 84 | 17 | 55% |
 | Numbered Steps | 213 | 5 | 6 | 95% |
 
 ## Worst Articles (need improvement)
@@ -33,12 +33,12 @@
 | bronze-phone-cases.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | chugoku-yunyu-kanzen-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
-| 01-fidelizacao-cliente.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 01-udostepnianie-ofert-zagranicznych-ryn | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 02-busca-intencao-consumo.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 02-criterios-importacao-saude-industria. | 75% | B | Direct Answer in First 30 Lines, Word Count |
-| 02-openai-ecommerce.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 | 02-sprzedaz-za-granice-przewodnik.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 02-wholesale-suppliers-guide.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 07-allegro-pomoc-sprzedajacych-start.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 07-varejo-online-faturar-65-bilhoes.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| complete-guide-to-test-silver-2026.md | 75% | B | Word Count, Numbered Steps |
+| 01-fidelizacao-cliente.md | 80% | A | Direct Answer in First 30 Lines |
 
 ## Recommendations
 

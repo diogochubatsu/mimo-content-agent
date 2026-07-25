@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T18:31:00.131Z",
+  "timestamp": "2026-07-25T18:55:20.386Z",
   "total_sources": 59,
   "by_status": {
     "FRESH": 0,
@@ -21,22 +21,12 @@
     {
       "type": "LOW_COVERAGE",
       "source": "blog-jingsourcing-en",
-      "message": "Jingsourcing Blog extraction at 0% (0/200)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-jingsourcing-en",
-      "message": "Jingsourcing Blog has never been collected"
+      "message": "Jingsourcing Blog extraction at 10% (20/200)"
     },
     {
       "type": "LOW_COVERAGE",
       "source": "blog-leeline-en",
-      "message": "Leeline Sourcing Blog extraction at 0% (0/150)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-leeline-en",
-      "message": "Leeline Sourcing Blog has never been collected"
+      "message": "Leeline Sourcing Blog extraction at 14% (21/150)"
     },
     {
       "type": "LOW_COVERAGE",
@@ -71,22 +61,12 @@
     {
       "type": "LOW_COVERAGE",
       "source": "blog-nichedropshipping-en",
-      "message": "NicheDropshipping extraction at 0% (0/200)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-nichedropshipping-en",
-      "message": "NicheDropshipping has never been collected"
+      "message": "NicheDropshipping extraction at 15% (30/200)"
     },
     {
       "type": "LOW_COVERAGE",
       "source": "blog-junglescout-en",
-      "message": "Jungle Scout Blog extraction at 0% (0/300)"
-    },
-    {
-      "type": "NEVER_COLLECTED",
-      "source": "blog-junglescout-en",
-      "message": "Jungle Scout Blog has never been collected"
+      "message": "Jungle Scout Blog extraction at 11.7% (35/300)"
     },
     {
       "type": "LOW_COVERAGE",
@@ -191,7 +171,7 @@
     {
       "type": "LOW_COVERAGE",
       "source": "blog-ecommercebrasil-pt",
-      "message": "E-Commerce Brasil extraction at 7.5% (15/200)"
+      "message": "E-Commerce Brasil extraction at 15% (30/200)"
     },
     {
       "type": "LOW_COVERAGE",
@@ -226,7 +206,7 @@
     {
       "type": "LOW_COVERAGE",
       "source": "youtube-yomidenzel-es",
-      "message": "Yomi Denzel extraction at 6% (9/150)"
+      "message": "Yomi Denzel extraction at 6.7% (10/150)"
     },
     {
       "type": "LOW_COVERAGE",
@@ -291,7 +271,7 @@
     {
       "type": "LOW_COVERAGE",
       "source": "blog-ecommercepolska-pl",
-      "message": "E-Commerce Polska extraction at 2.5% (2/80)"
+      "message": "E-Commerce Polska extraction at 18.8% (15/80)"
     },
     {
       "type": "LOW_COVERAGE",
@@ -612,8 +592,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
+        "pct": 10,
+        "extracted": 20,
         "total": 200
       }
     },
@@ -628,8 +608,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
+        "pct": 14,
+        "extracted": 21,
         "total": 150
       }
     },
@@ -692,8 +672,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
+        "pct": 15,
+        "extracted": 30,
         "total": 200
       }
     },
@@ -708,8 +688,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 0,
-        "extracted": 0,
+        "pct": 11.7,
+        "extracted": 35,
         "total": 300
       }
     },
@@ -884,8 +864,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 7.5,
-        "extracted": 15,
+        "pct": 15,
+        "extracted": 30,
         "total": 200
       }
     },
@@ -948,8 +928,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 6,
-        "extracted": 9,
+        "pct": 6.7,
+        "extracted": 10,
         "total": 150
       }
     },
@@ -1060,8 +1040,8 @@
       },
       "coverage": {
         "status": "LOW",
-        "pct": 2.5,
-        "extracted": 2,
+        "pct": 18.8,
+        "extracted": 15,
         "total": 80
       }
     },

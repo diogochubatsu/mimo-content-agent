@@ -1,4 +1,14 @@
 ---
+
+og:
+  title: "Dropshipping vs Amazon FBA For Passive Income"
+  description: "keywords: ["dropshipping amazon", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
+canonical: "https://importguide1688.com/articles/dropshipping-vs-amazon-fba-for-passive-income"
+---"
+  type: "article"
+  url: "https://importguide1688.com/articles/06-dropshipping-vs-amazon-fba"
+  image: "https://importguide1688.com/og/06-dropshipping-vs-amazon-fba.png"
+  site_name: "Import Guide 1688"
 title: "Dropshipping vs Amazon FBA For Passive Income"
 description: "Comprehensive guide to dropshipping vs amazon fba for passive income"
 slug: "dropshipping-vs-amazon-fba-for-passive-income"
@@ -6,6 +16,7 @@ keywords: [dropshipping, amazon, passive, income]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
+canonical: "https://importguide1688.com/articles/dropshipping-vs-amazon-fba-for-passive-income"
 ---
 
 # Dropshipping vs Amazon FBA For Passive Income
@@ -149,3 +160,10 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison
+
+
+## Related Articles
+
+- [1688-payment-complete](/articles/1688-payment-complete)
+- [1688-product-sourcing](/articles/1688-product-sourcing)
+- [1688-vs-alibaba-2026](/articles/1688-vs-alibaba-2026)
