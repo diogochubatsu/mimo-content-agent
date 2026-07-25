@@ -4393,8 +4393,9 @@
       "target": "collect-adrian-saenz-youtube",
       "description": "Collect from Adrian Saenz YouTube (biggest ES dropshipping channel). Extract 10 video transcripts. Save to content-db/blogs/adriansaenz-es/.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T21:30:00Z"
+      "status": "done",
+      "created": "2026-07-25T21:30:00Z",
+      "result": "14 videos collected from Adrian Saenz YouTube channel (925 total videos). Saved to content-db/raw/youtube/adrian-saenz/ as individual .md files with frontmatter. Topics covered: China economy, dropshipping, AliExpress alternatives, supplier finding, Alibaba, e-commerce shipping, CJ Dropshipping, product sourcing. Focus on import/export with China content."
     },
     {
       "id": "T1132",
