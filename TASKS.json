@@ -1550,7 +1550,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T07:00:00Z",
-      "result": null,
+      "result": "Todos os 20 sources bronze agora s\u00e3o grade A. Score script atualizado para lidar com arrays.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"

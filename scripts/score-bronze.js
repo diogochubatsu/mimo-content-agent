@@ -20,6 +20,14 @@ function scoreSource(filepath) {
     return { file: path.relative(process.cwd(), filepath), score: 'F', reason: 'Invalid JSON' };
   }
   
+  // Handle arrays - check first item
+  if (Array.isArray(data)) {
+    if (data.length === 0) {
+      return { file: path.relative(process.cwd(), filepath), score: 'F', reason: 'Empty array' };
+    }
+    data = data[0]; // Check first item
+  }
+  
   let score = 100;
   const issues = [];
   

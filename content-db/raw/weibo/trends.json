@@ -8,7 +8,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Geely Acquires Ford Spanish Factory Stake",
@@ -19,7 +20,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "China Shipbuilding Industry 173% Growth",
@@ -30,7 +32,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Foreign Investment in Advanced Manufacturing",
@@ -41,7 +44,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Trump Tariff War Targets 60 Economies",
@@ -52,7 +56,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Chinese Cooling Products Going Global",
@@ -63,7 +68,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Humanoid Robot Manufacturing Expansion",
@@ -74,7 +80,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "AI Manufacturing Integration",
@@ -85,7 +92,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "China Solar Industry Deep Adjustment",
@@ -96,7 +104,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Electric Vehicle Export Boom",
@@ -107,7 +116,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Cross-border E-commerce Platform Growth",
@@ -118,7 +128,8 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   },
   {
     "topic": "Guangdong GDP Industrial Recovery",
@@ -129,6 +140,7 @@
     "date": "2026-07-25",
     "url": "https://weibo.com",
     "language": "zh",
-    "title": "Weibo Trend"
+    "title": "Weibo Trend",
+    "platform": "weibo"
   }
 ]

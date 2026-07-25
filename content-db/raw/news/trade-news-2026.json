@@ -1,14 +1,15 @@
 [
   {
-    "title": "EU introduces €3 customs charge on small parcels to curb cheap Chinese imports",
+    "title": "EU introduces \u20ac3 customs charge on small parcels to curb cheap Chinese imports",
     "url": "https://www.theguardian.com/business/2026/jun/29/eu-introduces-3-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports",
     "date": "2026-06-29",
     "source": "The Guardian",
-    "summary": "EU implemented €3 duty fee on low-value imports from platforms like SHEIN, Temu, and AliExpress to protect local businesses from cheap Chinese goods.",
+    "summary": "EU implemented \u20ac3 duty fee on low-value imports from platforms like SHEIN, Temu, and AliExpress to protect local businesses from cheap Chinese goods.",
     "category": "taxes",
     "region": "EU",
     "impact": "high",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
     "title": "Trump tariff tracker - July 2026",
@@ -19,7 +20,8 @@
     "category": "taxes",
     "region": "US",
     "impact": "high",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
     "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
@@ -30,7 +32,8 @@
     "category": "taxes",
     "region": "US",
     "impact": "high",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
     "title": "UK accelerates plan to end low-value parcel tariff loophole",
@@ -41,7 +44,8 @@
     "category": "taxes",
     "region": "UK",
     "impact": "medium",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
     "title": "China's monthly car exports top 1m for first time as overall trade soars",
@@ -52,7 +56,8 @@
     "category": "trade",
     "region": "China",
     "impact": "medium",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
     "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports",
@@ -63,10 +68,11 @@
     "category": "trade",
     "region": "US-China",
     "impact": "high",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
-    "title": "EU slaps €3 duty fee on SHEIN, Temu and AliExpress imports",
+    "title": "EU slaps \u20ac3 duty fee on SHEIN, Temu and AliExpress imports",
     "url": "https://www.euronews.com/business/2026/06/30/eu-slaps-3-duty-fee-on-shein-temu-and-aliexpress-imports",
     "date": "2026-06-30",
     "source": "Euronews",
@@ -74,7 +80,8 @@
     "category": "taxes",
     "region": "EU",
     "impact": "high",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   },
   {
     "title": "Brazil-China trade relations 2026",
@@ -85,6 +92,7 @@
     "category": "trade",
     "region": "Brazil-China",
     "impact": "medium",
-    "language": "en"
+    "language": "en",
+    "platform": "news"
   }
 ]
