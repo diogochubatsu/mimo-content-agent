@@ -3825,9 +3825,9 @@
       "acceptance": "Script detecta duplicatas entre reddit e tiktok",
       "id": "T258",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:45:00Z",
-      "result": null,
+      "result": "Script deduplicate-bronze.js criado. Detecta duplicatas por URL e similaridade de t\u00edtulo.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
