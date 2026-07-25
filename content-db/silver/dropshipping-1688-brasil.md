@@ -2,7 +2,26 @@
 date: 2026-07-25
 title: "Como Fazer Dropshipping do 1688 para o Brasil: Guia Completo 2026"
 
-### Sources & References
+#
+
+## FAQ
+
+**Q: What is the best platform to buy ?**
+A: 1688 offers the lowest prices, but Alibaba is easier for international buyers.
+
+**Q: What is the typical MOQ?**
+A: Usually 50-100 units for most suppliers.
+
+**Q: How long does shipping take?**
+A: Air: 7-15 days. Sea: 25-40 days.
+
+**Q: How do I verify suppliers?**
+A: Check Trade Assurance, years on platform, and transaction history.
+
+**Q: What payment methods are accepted?**
+A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
+
+## Sources & References
 
 - [1688.com official marketplace](https://1688.com)
 - [Alibaba Group](https://alibaba.com)
