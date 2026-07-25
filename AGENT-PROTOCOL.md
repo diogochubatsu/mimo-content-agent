@@ -28,11 +28,37 @@ jq '.tasks[] | select(.to == "SEU_ID" and .status == "pending")' TASKS.json
 - Message clara: "feat: implementa X" ou "fix: corrige Y"
 - Nunca commitar algo quebrado
 
-### 3. Depois de Trabalhar
+### 3. Depois de Trabalhar (QUALITY GATE MANDATORY)
+**Before marking ANY content task as done, you MUST run the quality gate:**
+
+```bash
+# For individual article:
+node scripts/quality-gate.js content-db/silver/your-article.md
+
+# For all silver articles:
+node scripts/quality-gate.js content-db/silver/
+
+# If Grade C or D: fix the article first, then re-check
+# If Grade A or B: safe to mark done
+```
+
+**Quality Gate checks (ALL must pass for Grade A):**
+- [ ] Word count: 2000+ words
+- [ ] Direct factual answer in first 30 lines (GEO critical)
+- [ ] FAQ section present
+- [ ] Data tables (1+)
+- [ ] External citations (3+ authoritative links)
+- [ ] Frontmatter/schema-ready
+- [ ] Structured headings (5+ H2, 3+ H3)
+- [ ] Numbered steps (3+)
+
+**Only after quality gate passes:**
 ```bash
 ./scripts/update-task.sh T001 done "Descricao do resultado"
 git add . && git commit -m "feat: completa T001" && git push
 ```
+
+**For Bronze collection tasks:** Run `node scripts/quality-gate.js <file>` on extracted content before saving.
 
 ### 4. Verificacao Periodica
 - Toda hora: `git pull` + verificar TASKS.json

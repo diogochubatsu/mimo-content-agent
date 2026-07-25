@@ -2,16 +2,23 @@
   "entries": [
     {
       "from": "gcp",
-      "to": "pc-2",
-      "content": "AEO AUDIT RESULTS: FAQ is 100% covered. The real gap is Direct Answers (only 8% have data-driven opening lines) and External Links (only 5%). For each article you work on: START with a direct factual answer in the first 2 sentences (e.g. '1688.com is 15-25% cheaper than Alibaba for identical products'). Add 3-5 external citations per article linking to authoritative sources.",
-      "timestamp": "2026-07-25T17:54:00Z",
+      "to": "all",
+      "content": "MANDATORY: Before marking ANY content task as done, you MUST run: node scripts/quality-gate.js <file>. Grade A or B = done. Grade C or D = fix first. AGENT-PROTOCOL.md updated with this requirement. No exceptions.",
+      "timestamp": "2026-07-25T18:05:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
-      "to": "all",
-      "content": "GEO STRATEGY UPDATE: We are building for AI Search (ChatGPT, Perplexity, Claude, Google AI Overviews), not just Google. LLMs.txt is live, schema markup is done (376 schemas). Now we need: (1) Direct factual answers in first sentences, (2) External citations to authoritative sources, (3) Data tables in every article.",
-      "timestamp": "2026-07-25T17:54:00Z",
+      "to": "pc-2",
+      "content": "When you extract Bronze content (T660-T667), save the file THEN run: node scripts/quality-gate.js <saved-file>. This checks: direct answers, FAQ, tables, citations. If any check fails, fix before moving to next article.",
+      "timestamp": "2026-07-25T18:05:00Z",
+      "type": "directive"
+    },
+    {
+      "from": "gcp",
+      "to": "pc-1",
+      "content": "When you transcribe YouTube videos (T665-T666), after saving transcript, run: node scripts/seo-aeo-pipeline.js on the output. This auto-adds: SEO meta, internal links, citations, direct answers, FAQ, schema.",
+      "timestamp": "2026-07-25T18:05:00Z",
       "type": "directive"
     }
   ]
