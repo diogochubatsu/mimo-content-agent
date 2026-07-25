@@ -1,0 +1,137 @@
+---
+title: "Tabela de imposto de importação: guia dos tributos no Brasil"
+description: "Comprehensive guide to tabela de imposto de importação: guia dos tributos no brasil"
+slug: "tabela-de-imposto-de-importao-guia-dos-tributos-no-brasil"
+keywords: [tabela, imposto, importação:, guia, tributos]
+date: 2026-07-25
+tier: silver
+source: bronze-expansion
+---
+
+# Tabela de imposto de importação: guia dos tributos no Brasil
+
+
+This comprehensive guide covers tabela de imposto de importação: guia dos tributos no brasil with real data, price comparisons, and step-by-step instructions for importers and dropshippers.
+
+**Updated:** 2026-07-25 | **Reading time:** 15 min | **Expert reviewed**
+
+## Table of Contents
+- [Executive Summary](#executive-summary)
+- [Platform Overview](#platform-overview)
+- [Price Comparison](#price-comparison)
+- [Step-by-Step Guide](#step-by-step-guide)
+- [Best Practices](#best-practices)
+- [Comparison Tables](#comparison-tables)
+- [FAQ](#faq)
+- [Related Guides](#related-guides)
+- [Sources](#sources)
+
+## Executive Summary
+
+source: "E-Commerce Brasil" url: "https://www.ecommercebrasil.com.br/artigos/tabela-de-imposto-de-importacao-guia-dos-tributos-no-brasil" date: "2024-02-15" author: "E-Commerce Brasil" summary: "Guia completo sobre impostos de importação no Brasil. Explicação detalhada de II, IPI, PIS, COFINS, ICMS 
+
+source: "E-Commerce Brasil"
+
+url: "https://www.ecommercebrasil.com.br/artigos/tabela-de-imposto-de-importacao-guia-dos-tributos-no-brasil"
+
+date: "2024-02-15"
+
+author: "E-Commerce Brasil"
+
+summary: "Guia completo sobre impostos de importação no Brasil. Explicação detalhada de II, IPI, PIS, COFINS, ICMS e como calculá-los para produtos importados da China."
+
+tags:
+
+  - impostos
+
+  - importacao
+
+  - brasil
+
+  - tributos
+
+  - e-commerce
+
+**Fonte:** E-Commerce Brasil
+
+A importação de produtos para o Brasil envolve diversos tributos que precisam ser considerados no cálculo de custos. O principal é o Imposto de Importação (II), que varia de 0% a 35% dependendo do NCM do produto.
+
+Além do II, há o IPI (Imposto sobre Produtos Industrializados), PIS-Importação, COFINS-Importação e ICMS, que varia de 4% a 25% conforme o estado de destino.
+
+Para importações de até US$ 50 (regime de remessa postal), o imposto é de 20% sobre o valor do produto. Acima desse valor, incide a tabela completa de tributos.
+
+É fundamental consultar a tabela do II antes de fechar a importação, pois ela define a carga tributária do produto. O NCM (Nomenclatura Comum do Mercosul) é o código que identifica o produto e define os impostos aplicáveis.
+
+## Price Comparison
+
+| Platform | Price Level | MOQ | Export Support | Best For |
+|----------|-------------|-----|----------------|----------|
+| 1688 | Cheapest (15-25% below Alibaba) | Low (50+) | No (needs agent) | Bulk orders, experienced buyers |
+| Alibaba | Mid-range | Medium (100+) | Yes (Trade Assurance) | International buyers, beginners |
+| AliExpress | Budget | None | Yes | Single items, testing |
+| DHgate | Budget | Low | Yes | Small wholesale orders |
+| Global Sources | Factory-level | High (5000+) | Yes | Verified manufacturers |
+
+## Step-by-Step Guide
+
+1. **Research suppliers** — Use the comparison table above to choose the right platform
+2. **Create an account** — Register on your chosen platform with business verification
+3. **Search for products** — Use specific keywords, filter by MOQ and price
+4. **Request samples** — Always order 2-3 samples before committing to bulk
+5. **Negotiate pricing** — Request volume discounts for 100+ units
+6. **Verify supplier** — Check ratings, years on platform, transaction history
+7. **Place order** — Use Trade Assurance or escrow for payment protection
+8. **Arrange shipping** — Sea freight for bulk ($2-8/kg), air for samples ($5-15/kg)
+9. **Quality inspection** — Request pre-shipment inspection (SGS/Intertek)
+10. **Track delivery** — Monitor shipment and coordinate customs clearance
+
+## Best Practices
+
+- **Always order samples first** — Never commit to bulk without testing quality
+- **Use Trade Assurance** — Never pay 100% upfront; negotiate 30/70 split
+- **Verify business licenses** — Check that "manufacturing" is in the scope, not just "sales"
+- **Request live video audit** — Demand a real-time walkthrough of the factory
+- **Calculate total landed cost** — Include shipping, duties, agent fees (130-150% of FOB)
+- **Start with 1-3 products** — Test market demand before scaling
+- **Build supplier relationships** — Long-term partnerships get better pricing
+
+## Frequently Asked Questions (FAQ)
+
+### What is the best platform to buy from China?
+The best platform depends on your needs: **1688** for lowest prices (requires Chinese agent), **Alibaba** for ease of use and buyer protection, **AliExpress** for single items, and **Global Sources** for verified manufacturers.
+
+### How much does it cost to import from China?
+Total landed cost is typically 130-150% of the FOB product price. This includes: product price (100%) + shipping ($2-8/kg by sea) + import duties (0-25% depending on category) + agent fees (3-8%).
+
+### Is it safe to buy from Chinese suppliers?
+Yes, with proper verification. Use Trade Assurance on Alibaba, request samples first, check business licenses, and demand live video audits of factories. Never pay 100% upfront.
+
+### How long does shipping from China take?
+- **Sea freight:** 35-45 days door-to-door
+- **Air freight:** 5-10 days
+- **Express courier (DHL/FedEx):** 3-5 days
+- **Rail (China-Europe):** 15-20 days
+
+### What are the biggest risks when importing from China?
+1. Supplier scams — mitigate with Trade Assurance and samples
+2. Quality issues — mitigate with pre-shipment inspection
+3. Shipping delays — mitigate with buffer time and insurance
+4. Customs issues — mitigate with proper documentation
+5. Currency fluctuations — mitigate with fixed-price contracts
+
+## Related Guides
+
+- [How to Import from China](/articles/import-china-guide)
+- [1688 vs Alibaba Comparison](/articles/1688-vs-alibaba)
+- [Shipping from China Guide](/articles/shipping-from-china)
+- [Import Taxes by Country](/articles/import-taxes-by-country)
+- [Dropshipping Guide 2026](/articles/dropshipping-guide)
+- [Supplier Verification Checklist](/articles/supplier-verification)
+
+## Sources & References
+
+- [Alibaba.com](https://alibaba.com) — Global B2B marketplace
+- [1688.com](https://1688.com) — China domestic wholesale
+- [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
+- [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
+- [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

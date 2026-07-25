@@ -1,14 +1,14 @@
 # AEO Audit Report
 
-**Generated:** 2026-07-25T18:31:22.700Z
-**Articles audited:** 133
+**Generated:** 2026-07-25T18:41:04.656Z
+**Articles audited:** 224
 
 ## Grade Distribution
 
 | Grade | Count | % |
 |-------|-------|---|
-| A | 128 | 96% |
-| B | 5 | 4% |
+| A | 167 | 75% |
+| B | 57 | 25% |
 | C | 0 | 0% |
 | D | 0 | 0% |
 
@@ -16,14 +16,14 @@
 
 | Check | PASS | PARTIAL | FAIL | Pass Rate |
 |-------|------|---------|------|----------|
-| Direct Answer in First 30 Lines | 36 | 0 | 97 | 27% |
-| Data Tables | 133 | 0 | 0 | 100% |
-| External Links/Citations | 133 | 0 | 0 | 100% |
-| FAQ Section | 133 | 0 | 0 | 100% |
-| Frontmatter/Schema Ready | 133 | 0 | 0 | 100% |
-| Structured Headings | 132 | 1 | 0 | 99% |
-| Word Count | 122 | 8 | 3 | 92% |
-| Numbered Steps | 122 | 5 | 6 | 92% |
+| Direct Answer in First 30 Lines | 61 | 0 | 163 | 27% |
+| Data Tables | 224 | 0 | 0 | 100% |
+| External Links/Citations | 224 | 0 | 0 | 100% |
+| FAQ Section | 224 | 0 | 0 | 100% |
+| Frontmatter/Schema Ready | 224 | 0 | 0 | 100% |
+| Structured Headings | 223 | 1 | 0 | 100% |
+| Word Count | 122 | 27 | 75 | 54% |
+| Numbered Steps | 213 | 5 | 6 | 95% |
 
 ## Worst Articles (need improvement)
 
@@ -33,12 +33,12 @@
 | bronze-phone-cases.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | chugoku-yunyu-kanzen-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
 | zhongguo-kuajing-chukou-guide.md | 70% | B | Direct Answer in First 30 Lines, Numbered Steps |
-| complete-guide-to-test-silver-2026.md | 75% | B | Word Count, Numbered Steps |
-| jungguk-suip-wanjeon-guide.md | 80% | A | Direct Answer in First 30 Lines |
-| 1688-product-sourcing.md | 85% | A | Direct Answer in First 30 Lines |
-| 1688-vs-temu.md | 85% | A | Direct Answer in First 30 Lines |
-| advanced-product-research-techniques.md | 85% | A | Direct Answer in First 30 Lines |
-| ai-product-research.md | 85% | A | Direct Answer in First 30 Lines |
+| 01-fidelizacao-cliente.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 01-udostepnianie-ofert-zagranicznych-ryn | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 01-yomi-denzel-tudo-que-precisa-saber-pt | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 02-busca-intencao-consumo.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 02-criterios-importacao-saude-industria. | 75% | B | Direct Answer in First 30 Lines, Word Count |
+| 02-openai-ecommerce.md | 75% | B | Direct Answer in First 30 Lines, Word Count |
 
 ## Recommendations
 

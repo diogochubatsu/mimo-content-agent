@@ -4154,6 +4154,26 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T18:28:00Z"
+    },
+    {
+      "id": "T810",
+      "to": "gcp",
+      "type": "implement",
+      "target": "batch-silver-expander",
+      "description": "BUILD: Script that reads a Bronze article, expands it to 2000+ words Silver quality using content templates and keyword data. Outputs to content-db/silver/.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T18:37:00Z"
+    },
+    {
+      "id": "T811",
+      "to": "gcp",
+      "type": "review",
+      "target": "check-new-content-quality",
+      "description": "Check: what new content appeared since last check? Run quality gate on any new Silver articles.",
+      "priority": "medium",
+      "status": "pending",
+      "created": "2026-07-25T18:37:00Z"
     }
   ],
   "log": [
