@@ -3680,6 +3680,46 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T16:15:00Z"
+    },
+    {
+      "id": "T650",
+      "to": "gcp",
+      "type": "review",
+      "target": "agent-output-check-cycle",
+      "description": "Check: what did PC-1 and PC-2 produce since strategy shift? Count blog articles, check quality, grade samples.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T16:35:00Z"
+    },
+    {
+      "id": "T651",
+      "to": "gcp",
+      "type": "implement",
+      "target": "fix-rss-feed-urls",
+      "description": "Fix blog-rss-monitor.js \u2014 9/12 feeds failed. Discover correct RSS URLs for Shopify, Jingsourcing, Leeline, AutoDS, AliDropship, CJ, Ecom Brasil, Ecom Polska, ImportLizenz.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T16:35:00Z"
+    },
+    {
+      "id": "T652",
+      "to": "gcp",
+      "type": "review",
+      "target": "trend-radar-analysis",
+      "description": "Analyze trend radar output. What topics are competitors writing about? What keywords should we target first?",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T16:35:00Z"
+    },
+    {
+      "id": "T653",
+      "to": "gcp",
+      "type": "implement",
+      "target": "update-tasks-for-agents",
+      "description": "Update TASKS.json with new collection tasks targeting the actual traffic leader sources (not old weak sources).",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T16:35:00Z"
     }
   ],
   "log": [

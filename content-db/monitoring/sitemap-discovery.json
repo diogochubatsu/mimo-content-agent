@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-07-25T16:45:25.771Z",
+  "sources": {
+    "blog-shopify-en": {
+      "status": "ok",
+      "sitemap_url": "https://shopify.com/sitemap.xml",
+      "total_urls": 885,
+      "blog_urls": 10,
+      "sample_urls": [
+        "https://www.shopify.com/blog/email-marketing",
+        "https://www.shopify.com/blog/latest",
+        "https://www.shopify.com/blog/markets",
+        "https://www.shopify.com/blog/topics",
+        "https://www.shopify.com/blog/topics/guides"
+      ]
+    },
+    "blog-jingsourcing-en": {
+      "status": "failed",
+      "urls": 0,
+      "blog_urls": 0
+    },
+    "blog-leeline-en": {
+      "status": "failed",
+      "urls": 0,
+      "blog_urls": 0
+    },
+    "blog-autods-en": {
+      "status": "ok",
+      "sitemap_url": "https://autods.com/sitemap.xml",
+      "total_urls": 14,
+      "blog_urls": 0,
+      "sample_urls": []
+    },
+    "blog-alidropship-en": {
+      "status": "ok",
+      "sitemap_url": "https://alidropship.com/sitemap.xml",
+      "total_urls": 12,
+      "blog_urls": 0,
+      "sample_urls": []
+    },
+    "blog-cjdropshipping-en": {
+      "status": "failed",
+      "urls": 0,
+      "blog_urls": 0
+    },
+    "blog-nichedropshipping-en": {
+      "status": "ok",
+      "sitemap_url": "https://nichedropshipping.com/sitemap.xml",
+      "total_urls": 4,
+      "blog_urls": 0,
+      "sample_urls": []
+    },
+    "blog-junglescout-en": {
+      "status": "ok",
+      "sitemap_url": "https://junglescout.com/sitemap.xml",
+      "total_urls": 18,
+      "blog_urls": 0,
+      "sample_urls": []
+    },
+    "blog-ecommercebrasil-pt": {
+      "status": "failed",
+      "urls": 0,
+      "blog_urls": 0
+    },
+    "blog-sebrae-pt": {
+      "status": "ok",
+      "sitemap_url": "https://agenciasebrae.com.br/sitemap.xml",
+      "total_urls": 15,
+      "blog_urls": 0,
+      "sample_urls": []
+    }
+  },
+  "total_urls": 948,
+  "total_blog_urls": 10
+}
