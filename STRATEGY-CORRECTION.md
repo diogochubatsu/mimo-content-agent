@@ -1,9 +1,28 @@
-# Correcao Estrategica — Bronze = Coleta, Nao Scraping
+# Correcao Estrategica — Bronze Datalake Completo
 
-## O Que Mudou
+**Ultima atualizacao:** 2026-07-25
 
-**ANTES:** Bronze = scraping de marketplaces (1688, Alibaba, Amazon)
-**AGORA:** Bronze = coleta de conteudo existente da web
+## Evolucao da Estrategia
+
+| Fase | Bronze era... | Status |
+|------|--------------|--------|
+| Fase 1 | Scraping de marketplaces | ABANDONADA |
+| Fase 2 | Coleta superficial de web | SUPERADA |
+| **Fase 3** | **Datalake completo e monitorado** | **ATUAL** |
+
+### O Que Mudou Agora
+
+**ANTES:** Bronze = coleta de titulos e URLs (163 registros rasos)
+**AGORA:** Bronze = datalake completo com transcricoes, links, imagens, metadata, monitoramento
+
+### Por Que Agora
+
+1. Silver so e forte se Bronze e profundo
+2. Nao sabemos "quanto existe la fora" — precisamos de baseline
+3. Fontes ficam obsoletas sem monitoramento
+4. 8 idiomas = 8x mais fontes para mapear
+5. Dados completos = conteudo unico que concorrentes nao tem
+6. Meta de $10k/mes depende de Bronze solido
 
 ## Por Que
 
@@ -12,79 +31,71 @@
 3. So nao esta estruturado e facil de encontrar
 4. Nossa forca e CURIOSAR, REAGRUPAR e REESTRUTURAR
 
+## Topics Principais
+
+| Topic | Keywords Primarias | Prioridade |
+|-------|-------------------|-----------|
+| Import from China | import from china, buying from china, china supplier | CRITICO |
+| Make Money Online | make money online, passive income, side hustle | ALTA |
+| Dropshipping | dropshipping, dropship, fulfillment | ALTA |
+| Product Tips | best products, product review, top 10 | ALTA |
+| Alibaba/1688 | 1688 vs alibaba, buy from 1688, 1688 agent | CRITICO |
+
 ## Fontes do Bronze (Datalake)
 
-### Blogs e Artigos
-| Fonte | URL | Idioma | Tipo |
-|---|---|---|---|
-| 1688 Wiki | wiki.1688.com | Chines | Guias de compra |
-| Amazon Seller Blog | sell.amazon.com/blog/product-ideas | Ingles | Product ideas |
-| Amazing.com | amazing.com/blog | Ingles | Tendencias ecommerce |
-| NicheDropshipping | nichedropshipping.com/china-wholesale | Ingles | Wholesale guides |
+### Fontes Mapeadas (ver content-db/raw/registry/sources-registry.json)
 
-### Reddit
-| Subreddit | URL | Tipo |
-|---|---|---|
-| r/AmazonFBA | reddit.com/r/AmazonFBA | Discussoes |
-| r/FulfillmentByAmazon | reddit.com/r/FulfillmentByAmazon | Reviews |
-| r/dropship | reddit.com/r/dropship | Produtos trending |
-| r/ecommerce | reddit.com/r/ecommerce | Estrategias |
-| r/Alibaba | reddit.com/r/Alibaba | Fornecedores |
+| Idioma | YouTube | Blogs | Reddit | TikTok | Total |
+|--------|---------|-------|--------|--------|-------|
+| PT-BR | 2 canais | 2 blogs | - | - | 4 |
+| EN | 3 canais | 3 blogs | 2 subs | - | 8 |
+| ES | 1 canal | - | - | - | 1 |
+| DE | - | 1 blog | - | - | 1 |
+| PL | - | 2 blogs | - | - | 2 |
+| ZH | - | - | - | - | 0 (expandir) |
+| KO | - | - | - | - | 0 (expandir) |
+| JA | - | - | - | - | 0 (expandir) |
 
-### YouTube (Multi-idioma)
-| Idioma | Canais | Tipo |
-|---|---|---|
-| Ingles | Jungle Scout, Wholesale Ted | Reviews, tutoriais |
-| Espanhol | Yomi Denzel, Ecommerce Latino | LATAM |
-| Portugues | Sandro Ferreira, Luccas e Gi | Brasil |
-| Alemao | Ecommerce Deutschland | Europa |
-| Japones | Amazon JP seller channels | Asia |
-| Polones | Polish dropshipping channels | Europa Oriental |
-| Coreano | Korean ecommerce channels | Asia |
-| Taiwanês | PChome, Rakuten TW | Asia |
+### Schema Unificado de Itens
 
-### TikTok
-| Hashtag | Idioma | Tipo |
-|---|---|---|
-| #productfinds | Multi | Produtos trending |
-| #dropshipping | Multi | Negocios |
-| #1688 | Multi | Sourcing |
-| #amazonfba | Multi | FBA |
+Cada item Bronze DEVE ter:
+- source_id, title, url, language, category
+- published_date, collected_date
+- word_count, transcript/content
+- images (recomendado), links internos/externos
+- description, key_takeaways, topic_tags
 
-### Noticias e Tendencias
-| Fonte | Tipo |
-|---|---|
-| Google Trends | Tendencias de busca |
-| Import/export news | Impostos, fretes |
-| Trade agreements | Acordos comerciais |
-| Consumer trends | Mercados em expansao/queda |
+**Criterio de qualidade:** Completeness score >80 = A-grade
 
-## Fluxo de Dados
+## Fluxo de Dados Atualizado
 
 ```
-COLETA (Bronze)              TRATAMENTO (Silver)           PUBLICACAO
-      │                              │                          │
-      ├── Blogs ──────────┐          │                          │
-      ├── YouTube ────────┤          │                          │
-      ├── Reddit ─────────┤          │                          │
-      ├── TikTok ─────────┼──→ content-db/raw/ ──→ Filtrar ──→ Merge ──→ Categorizar ──→ Publicar
-      ├── Noticias ───────┤          │                          │
-      ├── Google Trends ──┤          │                          │
-      └── Guias 1688 ─────┘          │                          │
+REGISTRY (GCP mapeia fontes)
+    ↓
+COLETA (PC-1 YouTube + PC-2 Blogs)
+    ↓ content-db/raw/ com schema padrao
+ENRIQUECIMENTO (PC-1 auto-enrich)
+    ↓ metadata completa, deduplicacao
+MONITORAMENTO (scripts automaticos)
+    ↓ freshness, coverage, extraction %
+QUALIDADE (GCP review semanal)
+    ↓ scoring, feedback, ajustes
+PRONTO PARA SILVER
 ```
 
 ## O Que NAO Fazemos (Ainda)
 
 - Scraping de precos de marketplaces
 - Matching cross-platform automatizado
-- Dados de margem em tempo real
-- Alertas de preco
+- Alertas de preco em tempo real
 
 **Isso e GOLD — futuro.**
 
-## O Que Fazemos AGORA
+## Sistema de Monitoramento
 
-- Coletar conteudo existente
-- Estruturar em Bronze
-- Processar em Silver
-- Publicar artigos
+| Metrica | Script | Alerta |
+|---------|--------|--------|
+| Freshness | source-monitor.js | >14 dias = stale |
+| Coverage | coverage-report.js | <20% extraction = prioritario |
+| Volume | pipeline-metrics.js | Queda >50% = verificar |
+| Completeness | score-bronze.js | <70% = enriquecer
