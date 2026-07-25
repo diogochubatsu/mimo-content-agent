@@ -940,9 +940,9 @@
       "acceptance": "Korean article published",
       "id": "T340",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:30:00Z",
-      "result": null,
+      "result": "Korean article created: jungguk-suip-wanjeon-guide.md - 3500+ words, 8 main sections on Korean import market, customs procedures (UNI-PASS), duties/VAT, documentation, KC certification, shipping methods, payment methods, supplier verification, comparison table, 2 case studies, 14 FAQs, 8 sources",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
