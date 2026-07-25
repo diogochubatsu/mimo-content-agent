@@ -651,9 +651,9 @@
       "id": "T308",
       "from": "gcp",
       "to": "pc-2",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Silver article created: alibaba-guia-completo-brasil.md. ~2800 words in PT-BR. Covers NCM codes, tax calculations (II, IPI, PIS, COFINS, ICMS), import duties, documentation, payment methods, shipping options, customs clearance, supplier verification, quality control, Alibaba vs 1688 vs AliExpress comparison, FAQ with 12 questions, case study, and fiscal opportunities. Sources: 10 Sebrae articles + 15 Ecommerce Brasil articles.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
