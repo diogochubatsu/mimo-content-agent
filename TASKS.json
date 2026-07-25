@@ -3612,9 +3612,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:16Z",
-      "result": null
+      "result": "Valida\u00e7\u00e3o de fontes: 3 v\u00e1lidas, 15 com warnings. Script validate-sources.js executado."
     },
     {
       "id": "T245",
