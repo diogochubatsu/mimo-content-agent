@@ -3740,8 +3740,10 @@
       "target": "extract-shopify-blog-top20",
       "description": "COLLECT: Extract top 20 blog posts from Shopify Blog (shopify.com/blog). Topics: dropshipping, how to start, product research. Full text + metadata + images + links. #1 SEO competitor.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T16:40:00Z"
+      "status": "done",
+      "created": "2026-07-25T16:40:00Z",
+      "completed": "2026-07-25T17:16:00Z",
+      "result": "Extracted 20 Shopify Blog articles covering dropshipping, product research, and ecommerce. Files saved to content-db/blogs/shopify-top20/. Total size: 88KB. Articles include frontmatter with title, source, url, date, author, summary, tags, word_count, images, internal_links, and external_links. Key topics: how to start dropshipping, what is dropshipping, trending products, suppliers, niches, AliExpress, Google Trends, POD vs dropshipping, legal requirements, success stories."
     },
     {
       "id": "T661",
