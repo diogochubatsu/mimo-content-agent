@@ -3257,7 +3257,7 @@
       "target": "team-alignment-check",
       "description": "Team alignment check: are all agents working toward same goals? Any misalignment? Create alignment report.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:36:00Z"
     },
     {
@@ -3267,7 +3267,7 @@
       "target": "revenue-analysis",
       "description": "Revenue analysis: what revenue streams are working? Which need optimization? Create revenue report.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:37:00Z"
     },
     {
@@ -3277,7 +3277,7 @@
       "target": "new-market-analysis",
       "description": "New market analysis: what new markets could we enter? LatAm, Asia, Europe. Opportunity sizing.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:37:00Z"
     },
     {
