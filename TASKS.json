@@ -1164,9 +1164,9 @@
       "acceptance": "German article published",
       "id": "T354",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
-      "result": null,
+      "result": "Created import-china-deutschland-leitfaden.md - 4051 words, supplier verification & quality control focus, 12 FAQ questions, 3 cost calculator scenarios",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
