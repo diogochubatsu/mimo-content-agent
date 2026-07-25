@@ -1,7 +1,14 @@
 # Source Evaluation Report
 
 **Date:** 2026-07-25
-**Evaluated:** 19 files, 148 records
+**Session:** Source Evaluation Cron
+
+## Summary
+
+- **Total:** 148 records across 19 files
+- **Quality A:** 8 sources (42%) — Complete metadata
+- **Quality B:** 4 sources (21%) — Partial metadata
+- **Quality C:** 7 sources (36%) — Empty or no metadata
 
 ## Quality Distribution
 
@@ -11,52 +18,49 @@
 | B | 4 | 58 | 21% |
 | C | 7 | 12 | 36% |
 
-## A-Quality Sources (Complete Metadata)
+## A-Quality Sources (Complete)
 
-These sources have all required metadata fields:
+| Source | Records | Status |
+|--------|---------|--------|
+| amazon/trending-products-2026.json | 30 | Complete |
+| youtube-intl/videos.json | 15 | Complete |
+| news/trade-news-2026.json | 8 | Complete |
+| youtube-pt/videos.json | 5 | Complete |
+| youtube-es/videos.json | 5 | Complete |
+| youtube-ja/videos.json | 5 | Complete |
+| youtube-ko/videos.json | 5 | Complete |
+| youtube-de/videos.json | 5 | Complete |
 
-1. **youtube-pt/videos.json** - 5 records
-2. **youtube-es/videos.json** - 5 records
-3. **youtube-intl/videos.json** - 15 records
-4. **youtube-ja/videos.json** - 5 records
-5. **youtube-ko/videos.json** - 5 records
-6. **youtube-de/videos.json** - 5 records
-7. **amazon/trending-products-2026.json** - 30 records
-8. **news/trade-news-2026.json** - 8 records
+## B-Quality Sources (Partial)
 
-## B-Quality Sources (Partial Metadata)
+| Source | Records | Missing Fields |
+|--------|---------|----------------|
+| tiktok/trending-videos.json | 20 | url, title, category |
+| tiktok/trending-videos-2.json | 20 | url, title, category |
+| 1688-guides.json | 10 | url, title, category |
+| reddit/extra-reddit-posts.json | 8 | date, url, title, category |
 
-These sources have some metadata but are missing fields:
+## C-Quality Sources (Empty/Broken)
 
-1. **1688-guides.json** - 10 records
-   - Missing: url, title, category
-2. **tiktok/trending-videos.json** - 20 records
-   - Missing: url, title, category
-3. **tiktok/trending-videos-2.json** - 20 records
-   - Missing: url, title, category
-4. **reddit/extra-reddit-posts.json** - 8 records
-   - Missing: url, date, title, category
+| Source | Records | Issue |
+|--------|---------|-------|
+| weibo/trends.json | 12 | Missing source, category |
+| collection-report.json | 0 | Empty file |
+| tiktok-trending.json | 0 | Empty file |
+| youtube-dropshipping.json | 0 | Empty file |
+| pinterest/trends-2026.json | 0 | Empty file |
+| trends/google-trends.json | 0 | Empty file |
+| reddit/trending_posts_2026-07-24.json | 0 | Empty file |
 
-## C-Quality Sources (Empty or No Metadata)
+## Action Items
 
-These sources are empty or missing critical metadata:
+1. **Fix weibo/trends.json** — Add source, category fields (12 records)
+2. **Enrich 1688-guides.json** — Add url, title, category (10 records)
+3. **Enrich tiktok files** — Add url, title, category (40 records)
+4. **Fix reddit/extra-reddit-posts.json** — Add date, url, title, category (8 records)
+5. **Remove or fix empty files** — 6 empty files to handle
 
-1. **collection-report.json** - 0 records (empty file)
-2. **tiktok-trending.json** - 0 records (empty file)
-3. **youtube-dropshipping.json** - 0 records (empty file)
-4. **pinterest/trends-2026.json** - 0 records (empty file)
-5. **weibo/trends.json** - 12 records but missing source, category
-6. **trends/google-trends.json** - 0 records (empty file)
-7. **reddit/trending_posts_2026-07-24.json** - 0 records (empty file)
+## Target
 
-## Recommendations
-
-### Immediate Actions
-1. **Fix C-quality sources**: Add metadata to weibo/trends.json (source, category fields)
-2. **Delete empty files**: Remove collection-report.json, tiktok-trending.json, youtube-dropshipping.json, pinterest/trends-2026.json, trends/google-trends.json, reddit/trending_posts_2026-07-24.json
-3. **Enrich B-quality sources**: Add url, title, category to 1688-guides.json, tiktok files, reddit/extra-reddit-posts.json
-
-### Next Steps
-1. Run metadata enrichment scripts on B-quality sources
-2. Collect new A-quality sources from identified gaps
-3. Target: 80% A-quality by end of session
+- Current: 42% A-quality
+- Target: 80% A-quality by end of session
