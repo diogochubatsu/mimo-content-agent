@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Bluetooth Earbuds: Complete Sourcing Guide from China 2026"
 description: "bluetooth. **Updated:** July 24, 2026 | **Reading time:** 9 min"
 keywords: ["bluetooth", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

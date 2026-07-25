@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Alibaba Gold Supplier Explained 2026"
 description: "complete guide:. **Updated:** January 15, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "margin", "profit"]

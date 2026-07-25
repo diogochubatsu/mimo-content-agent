@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: WooCommerce for Import Business (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "1688", "alibaba"]

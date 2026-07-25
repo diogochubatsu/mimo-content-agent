@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "How to Source Products from 1688: The Complete Step-by-Step Guide (2026)"
 description: "Master 1688 product sourcing with this step-by-step guide. Learn account setup, product research, supplier negotiation, quality control, and shipping for international buyers."
 keywords: ["1688 sourcing", "buy from 1688", "1688 guide", "product sourcing china", "wholesale china", "1688 for beginners", "import from 1688", "1688 product research"]

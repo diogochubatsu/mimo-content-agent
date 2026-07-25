@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Sea vs Air vs Express: Complete China Shipping Methods Comparison 2026"
 description: "Compare sea freight, air freight, and express courier shipping from China. Real costs, transit times, and expert recommendations for importers in 2026."
 keywords: ["china shipping", "sea freight", "air freight", "express shipping", "shipping comparison", "import from china", "freight cost", "transit time", "1688", "alibaba"]

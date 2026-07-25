@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Import Taxes by Country (US, EU, Brazil, Jap"
 description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "margin", "profit"]

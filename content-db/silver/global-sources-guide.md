@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Global Sources Sourcing Guide 2026"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 25 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "margin"]

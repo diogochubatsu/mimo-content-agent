@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Fitness Equipment Import Guide 2026"
 description: "fitness equipment. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["fitness equipment", "import", "china", "supplier", "wholesale", "alibaba", "amazon", "margin", "profit"]

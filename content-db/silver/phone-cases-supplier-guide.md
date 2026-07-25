@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Phone Cases Supplier Guide 2026"
 description: "phone cases. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["phone cases", "import", "china", "supplier", "wholesale", "alibaba", "amazon", "fba", "margin", "profit"]

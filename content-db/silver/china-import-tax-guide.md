@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "China Import Tax Guide 2026: VAT, Customs Duties, FTA Benefits & Compliance"
 description: "Complete guide to China's import tax system in 2026. Learn about VAT rates, customs duties, FTA benefits, HS code classification, and compliance requirements for importing goods into China."
 keywords: ["China import tax", "China customs duty", "China VAT", "import into China", "China trade policy", "FTA China", "HS code China", "China import regulations 2026"]

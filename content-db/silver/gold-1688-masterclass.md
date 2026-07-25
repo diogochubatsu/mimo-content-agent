@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "1688.com Masterclass: The Complete Guide to Sourcing Direct "
 description: "1688.com masterclass:. **Updated:** July 2026 | **Reading time:** 70 min | **Tier:** Gold | **Based on 2,800+ data points**"
 keywords: ["1688.com masterclass:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

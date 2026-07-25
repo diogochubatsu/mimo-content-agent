@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Best Amazon Research Tools 2026: Complete Guide for Sellers"
 description: "best amazon. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["best amazon", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: LED Strips Buying Guide 2026"
 description: "led strips. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["led strips", "import", "margin"]

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 og:
   title: "How to Start Dropshipping in 2026: Complete Beginner's Guide"
   description: "Learn how to start dropshipping in 2026 with this step-by-step guide covering business setup, platform selection, supplier sourcing, marketing, and real profit examples."

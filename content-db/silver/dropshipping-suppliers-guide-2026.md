@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 og:
   title: "Best Dropshipping Suppliers Guide 2026: Verified & Compared"
   description: "Compare 20+ top dropshipping suppliers for 2026: pricing, shipping times, reliability ratings, product range, and profit margins. Find the best suppliers for your niche."

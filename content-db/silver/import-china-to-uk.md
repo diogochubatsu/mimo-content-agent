@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: How to Import from China to UK (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "1688", "alibaba", "margin"]

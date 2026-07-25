@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide to Importing from China to Brazil 2026"
 description: "Learn how to import from China to Brazil: customs, taxes (ICMS, IPI, PIS/COFINS), documentation, logistics, and compliance. Updated July 2026."
 keywords: ["import from china to brazil", "brazil import taxes", "ICMS", "IPI", "PIS COFINS", "brazilian customs", "importação china brasil", "ANVISA", "ANATEL", "INMETRO"]

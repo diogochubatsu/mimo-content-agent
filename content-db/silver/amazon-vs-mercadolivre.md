@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Amazon vs Mercado Livre in 2026: Which Platform is Better for Sellers? Complete Guide"
 description: "Amazon vs Mercado Livre 2026: Updated fees, audience size, logistics, and seller tools comparison. Find out which platform maximizes your profits in Brazil."
 keywords: ["amazon vs mercadolivre", "amazon brazil vs mercadolivre", "mercado livre vs amazon", "vender no amazon ou mercado livre", "amazon seller brazil", "mercado livre seller fees", "which platform better brazil sellers"]

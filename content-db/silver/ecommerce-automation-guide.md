@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "Ecommerce Automation Guide 2026"

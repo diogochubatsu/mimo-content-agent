@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: How to Verify Chinese Suppliers on 1688 (202"
 description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba"]

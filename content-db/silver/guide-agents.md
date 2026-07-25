@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Best Sourcing Agents Reviewed 2026"
 description: "best sourcing. **Updated:** July 24, 2026 | **Reading time:** 16 min | **Expert reviewed**"
 keywords: ["best sourcing", "import", "china", "supplier", "1688", "alibaba", "amazon", "margin"]

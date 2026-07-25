@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Advanced Product Sourcing Techniques for 1688 and Alibaba (2"
 description: "advanced product. **Updated:** July 21, 2026 | **Reading time:** 22 min | **Expert reviewed**"
 keywords: ["advanced product", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

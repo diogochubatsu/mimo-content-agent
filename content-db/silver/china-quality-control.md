@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "China Quality Control Guide: Inspection Methods, Services & Best Practices"
 description: "Complete guide to quality control when importing from China: inspection methods, third-party services, common defects, and strategies to protect your business. **Updated:** July 21, 2026 | **Reading time:** 25 min | **Expert reviewed**"
 keywords: ["quality control china", "product inspection china", "third party inspection", "pre shipment inspection", "defect prevention", "import quality", "supplier quality", "QC methods"]

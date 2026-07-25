@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Product Photography for Ecommerce (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "amazon"]

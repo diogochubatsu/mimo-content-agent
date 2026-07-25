@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Best Sourcing Agents Reviewed: 2026 Market Update"
 description: "best sourcing. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["best sourcing", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

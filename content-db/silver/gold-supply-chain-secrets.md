@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Supply Chain Secrets: How Top Importers Save 50% 2026"
 description: "supply chain. **Updated:** July 24, 2026 | **Reading time:** 40 min | **Based on 300+ data points**"
 keywords: ["supply chain", "import", "china", "supplier", "1688", "alibaba", "margin", "profit"]

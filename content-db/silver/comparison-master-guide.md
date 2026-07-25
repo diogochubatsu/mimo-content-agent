@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Master Comparison Guide: 1688 vs Alibaba vs AliExpress vs DHgate (2026)"
 description: "Complete comparison of 1688, Alibaba, AliExpress, and DHgate: prices, MOQs, buyer protection, and best platform for each use case. Updated July 2026."
 keywords: ["1688 vs Alibaba", "AliExpress vs DHgate", "platform comparison", "wholesale china", "importing china", "price comparison", "MOQ comparison"]

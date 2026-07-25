@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "1688 vs Temu: Which is Better for Sourcing? Complete Comparison Guide 2026"
 description: "1688 vs Temu:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["1688 vs temu", "import", "china", "supplier", "wholesale", "1688", "temu", "sourcing", "comparison"]

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "aliexpress 1688:: AliExpress vs 1688: Which is Better for Dr"
 description: "aliexpress 1688:. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed"
 keywords: ["aliexpress 1688:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

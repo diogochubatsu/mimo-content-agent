@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "How to Import from China to Europe: Complete Guide 2026"
 description: "Master importing from China to the EU. Learn customs procedures, VAT obligations, required documentation, logistics options, and compliance requirements. **Updated:** July 2026 | **Reading time:** 20 min | **Expert reviewed**"
 keywords: ["import china europe", "EU customs", "EORI number", "CE marking", "REACH compliance", "import VAT", "china to europe shipping", "customs duties EU"]

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Best Ecommerce Platforms for Import Business 2026"
 description: "best ecommerce. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["best ecommerce", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]

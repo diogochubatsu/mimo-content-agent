@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Top 10 LED Strip Lights to Import from China (2026)"
 description: "strip lights. **Updated:** July 24, 2026 | **Reading time:** 10 min | **Based on 50+ reviews**"
 keywords: ["strip lights", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

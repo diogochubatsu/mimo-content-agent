@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "How to Build a Brand on Amazon: Complete Guide (2026)"

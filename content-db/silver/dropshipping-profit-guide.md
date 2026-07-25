@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Dropshipping Profit Calculation Guide 2026"
 description: "Master dropshipping profit formulas, cost breakdowns, and margin optimization strategies. **Updated:** July 21, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["dropshipping profit", "profit calculation", "profit margin", "cost breakdown", "dropshipping", "ecommerce", "shopify", "aliexpress"]

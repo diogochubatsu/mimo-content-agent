@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "LED Strip Lights: Price, MOQ, Suppliers Guide 2026"
 description: "strip lights:. **Updated:** July 24, 2026 | **Reading time:** 8 min"
 keywords: ["strip lights:", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

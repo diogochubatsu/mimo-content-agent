@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "How to Calculate Import Margins: The Complete Formula Guide"
 description: "Master the exact formulas to calculate import margins, landed costs, and true profitability. Includes working examples, downloadable spreadsheets, and expert-tested methods. **Updated:** July 24, 2026 | **Reading time:** 14 min | **Expert reviewed**"
 keywords: ["calculate import margins", "import margin formula", "landed cost calculator", "import profit margin", "china import costs", "product margin calculator", "fba margin", "ecommerce margin"]

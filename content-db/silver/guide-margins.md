@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "How to Calculate Import Margins 2026"
 description: "calculate import. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["calculate import", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

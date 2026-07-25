@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Import Guide 2026: How to Import Products from Chin"
 description: "complete import. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete import", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin"]

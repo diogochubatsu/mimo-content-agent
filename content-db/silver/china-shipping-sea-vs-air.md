@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: China Shipping Sea vs Air Comparison 2026"
 description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]

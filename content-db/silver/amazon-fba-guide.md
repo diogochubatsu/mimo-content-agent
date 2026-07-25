@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "amazon complete: Amazon FBA Complete Guide 2026"
 description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["amazon complete", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]

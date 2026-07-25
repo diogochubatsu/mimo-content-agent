@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Resistance Bands: Import from China Guide 2026"
 description: "resistance bands:. **Updated:** July 24, 2026 | **Reading time:** 7 min"
 keywords: ["resistance bands:", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Kitchen Gadgets: 1688 Best Deals Guide 2026"
 description: "kitchen gadgets. **Updated:** July 24, 2026 | **Reading time:** 8 min"
 keywords: ["kitchen gadgets", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

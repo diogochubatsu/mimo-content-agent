@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "How to Source from China for Beginners: Complete 2026 Guide"
 description: "Learn how to source products from China step by step. Platforms, first order, common mistakes, case study, and expert tips. **Updated:** July 24, 2026 | **Reading time:** 16 min | **Expert reviewed**"
 keywords: ["source from china", "sourcing china beginners", "alibaba", "1688", "first order china", "buy from china", "import products beginners"]

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "Amazon FBA Pros and Cons 2026: Is It Worth It?"

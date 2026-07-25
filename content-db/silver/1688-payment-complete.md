@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "1688 Payment Methods Complete Guide: How to Pay on China's Biggest Wholesale Platform (2026)"

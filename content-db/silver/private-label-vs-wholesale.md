@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Private Label vs Wholesale: Which Model is Better in 2026?"
 description: "private label. **Updated:** July 24, 2026 | **Reading time:** 20 min | **Expert reviewed**"
 keywords: ["private label", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]

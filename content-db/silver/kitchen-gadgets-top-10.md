@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Kitchen Gadgets Top 10 (2026)"
 description: "kitchen gadgets. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["kitchen gadgets", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]

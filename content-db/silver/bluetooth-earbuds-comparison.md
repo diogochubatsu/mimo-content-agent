@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Bluetooth Earbuds Comparison 2026"
 description: "bluetooth. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["bluetooth", "import", "china", "1688", "alibaba", "margin"]

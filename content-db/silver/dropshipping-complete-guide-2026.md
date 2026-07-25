@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "Dropshipping in 2026: Complete Guide to Building a Profitable Business"

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "Product Validation Before Ordering Guide (2026)"

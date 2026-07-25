@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Resistance Bands Import 2026"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "alibaba", "margin", "profit"]

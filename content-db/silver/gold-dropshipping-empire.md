@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "building dropshipping: Building a Dropshipping Empire in 202"
 description: "building dropshipping. **Updated:** July 24, 2026 | **Reading time:** 45 min | **Based on 400+ data points**"
 keywords: ["building dropshipping", "supplier", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]

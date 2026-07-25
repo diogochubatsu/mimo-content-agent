@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "amazon complete: Amazon FBA Complete Business Blueprint 2026"
 description: "amazon complete. **Updated:** July 24, 2026 | **Reading time:** 45 min | **Based on 500+ data points**"
 keywords: ["amazon complete", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]

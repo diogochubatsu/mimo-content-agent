@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Ecommerce Trends 2026: The Complete Guide to What's Next"
 description: "Discover the top ecommerce trends shaping 2026 — from AI-powered shopping to social commerce and cross-border growth. Data-driven insights for sellers and importers."
 keywords: ["ecommerce trends 2026", "online retail trends", "social commerce", "cross-border ecommerce", "AI ecommerce", "dropshipping trends", "import trends", "ecommerce market analysis"]

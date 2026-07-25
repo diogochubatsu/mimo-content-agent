@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: How to Pay on 1688 - Payment Methods for Int"
 description: "complete guide:. **Updated:** July 2024 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]

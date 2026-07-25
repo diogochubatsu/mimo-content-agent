@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Supplier Comparison Guide: 1688 vs Alibaba vs AliExpress 202"
 description: "supplier comparison. **Updated:** July 24, 2026 | **Reading time:** 20 min | **Expert reviewed**"
 keywords: ["supplier comparison", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

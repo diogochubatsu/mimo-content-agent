@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Temu Sourcing Guide 2026: Everything You Need to Know"
 description: "temu sourcing. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["temu sourcing", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "margin"]

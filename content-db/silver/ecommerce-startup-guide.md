@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "Ecommerce Startup Guide 2026: Complete Step-by-Step Roadmap"

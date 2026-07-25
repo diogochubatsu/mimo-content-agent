@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Import Taxes Guide: EU €3 Duty, US Tariffs, Brazil Regulatio"
 description: "import taxes. **Updated:** July 24, 2026 | **Reading time:** 22 min | **Expert reviewed**"
 keywords: ["import taxes", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

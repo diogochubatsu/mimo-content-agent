@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "1688 alibaba:: 1688 vs Alibaba: Real Price Comparison 2026"
 description: "1688 alibaba:. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["1688 alibaba:", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "margin", "profit"]

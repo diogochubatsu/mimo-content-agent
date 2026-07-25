@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "amazon complete: Amazon FBA Complete Cost Breakdown 2026: Ev"
 description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["amazon complete", "import", "china", "supplier", "wholesale", "dropship", "1688", "amazon", "fba", "margin"]

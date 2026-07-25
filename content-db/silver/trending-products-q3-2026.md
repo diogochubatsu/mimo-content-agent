@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Trending Products to Import from China Q3 2026"
 description: "trending products. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["trending products", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

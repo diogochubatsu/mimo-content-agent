@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: How to Use AI for Product Research (2026)"
 description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]

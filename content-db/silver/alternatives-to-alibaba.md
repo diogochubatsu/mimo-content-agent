@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "alternatives alibaba: 10 Alternatives to Alibaba for Sourcin"
 description: "alternatives alibaba. **Updated:** July 24, 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["alternatives alibaba", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

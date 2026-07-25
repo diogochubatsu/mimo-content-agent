@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "products import: Top 10 Products to Import from China 2026"
 description: "products import. **Updated:** July 24, 2026 | **Reading time:** 14 min | **Expert reviewed**"
 keywords: ["products import", "import", "china", "supplier", "1688", "alibaba", "amazon", "margin", "profit"]

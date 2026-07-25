@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "How to Start Selling on Amazon in 2026: Complete Beginner's "
 description: "start selling. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["start selling", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

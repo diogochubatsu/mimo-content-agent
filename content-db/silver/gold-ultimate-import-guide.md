@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "The Ultimate Guide to Importing from China: Everything You N"
 description: "ultimate guide. **Updated:** July 2026 | **Reading time:** 75 min | **Tier:** Gold | **Based on 3,200+ data points**"
 keywords: ["ultimate guide", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

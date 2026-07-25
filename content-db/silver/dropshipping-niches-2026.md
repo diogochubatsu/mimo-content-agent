@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Best Dropshipping Niches 2026"
 description: "complete guide:. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]

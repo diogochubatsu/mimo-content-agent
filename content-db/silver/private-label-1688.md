@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Private Label Products from 1688: Complete Guide to Sourcing, Branding & Selling in 2026"
 description: "private label. **Updated:** July 21, 2026 | **Reading time:** 22 min | **Expert reviewed**"
 keywords: ["private label", "1688", "private label products", "branding", "sourcing", "supplier", "import", "china", "amazon", "fba", "custom packaging", "OEM", "ODM", "margin"]

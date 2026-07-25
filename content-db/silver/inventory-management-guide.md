@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 
 og:
   title: "Complete Guide: Inventory Management for Ecommerce 2026"

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Phone Cases: 1688 vs Alibaba vs Amazon Price Comparison 2026"
 description: "phone cases. **Updated:** July 24, 2026 | **Reading time:** 7 min"
 keywords: ["phone cases", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]

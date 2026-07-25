@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Complete Guide: Advanced Product Research Techniques for Imp"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 22 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]

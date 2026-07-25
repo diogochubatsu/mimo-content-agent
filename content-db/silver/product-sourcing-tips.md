@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Product Sourcing Tips from China: Expert Strategies for 2026"
 description: "Proven product sourcing tips from China's top suppliers. Learn supplier negotiation, quality control, logistics, and cost optimization strategies. **Updated:** July 21, 2026 | **Reading time:** 24 min | **Expert reviewed**"
 keywords: ["product sourcing", "china sourcing", "1688", "alibaba", "supplier tips", "import from china", "sourcing agent", "quality control", "wholesale", "dropship"]

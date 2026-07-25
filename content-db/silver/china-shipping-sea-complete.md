@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Shipping from China by Sea: Complete Guide 2026"
 description: "shipping from. **Updated:** July 24, 2026 | **Reading time:** 20 min | **Expert reviewed**"
 keywords: ["shipping from", "import", "china", "supplier", "dropship", "1688", "amazon", "fba", "margin"]

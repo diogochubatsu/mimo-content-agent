@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Cross-Border Payment Guide 2026: Complete Solutions for Inte"
 description: "cross-border payment. **Updated:** July 24, 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["cross-border payment", "import", "china", "supplier", "1688", "alibaba", "amazon", "margin", "profit"]
