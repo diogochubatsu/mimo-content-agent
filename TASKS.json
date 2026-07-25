@@ -1150,7 +1150,7 @@
       "from": "gcp",
       "status": "done",
       "created": "2026-07-25T05:30:00Z",
-      "result": "Polish article created: import-chin-kompletny-2026.md — 2850+ words in Polish. Product sourcing strategies guide covering: 1688 vs Alibaba vs AliExpress comparison table, product research methods for Allegro market, sample ordering and quality control process, negotiation tactics with Chinese suppliers, payment methods comparison (T/T, Payoneer, Alipay), shipping logistics via Małaszewicze terminal, customs clearance and documentation, 6 common mistakes Polish importers make, cost calculator with 3 real PLN examples (100/500/2000 units), 12-question FAQ. Differentiates from previous 3 Polish articles by focusing specifically on product sourcing strategies.",
+      "result": "Polish article created: import-chin-kompletny-2026.md \u2014 2850+ words in Polish. Product sourcing strategies guide covering: 1688 vs Alibaba vs AliExpress comparison table, product research methods for Allegro market, sample ordering and quality control process, negotiation tactics with Chinese suppliers, payment methods comparison (T/T, Payoneer, Alipay), shipping logistics via Ma\u0142aszewicze terminal, customs clearance and documentation, 6 common mistakes Polish importers make, cost calculator with 3 real PLN examples (100/500/2000 units), 12-question FAQ. Differentiates from previous 3 Polish articles by focusing specifically on product sourcing strategies.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
@@ -1260,9 +1260,9 @@
       "acceptance": "All 3 tiktok files become A-quality",
       "id": "T360",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T06:00:00Z",
-      "result": null,
+      "result": "Tiktok files j\u00e1 est\u00e3o com metadata correto.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
