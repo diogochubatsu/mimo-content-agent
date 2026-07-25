@@ -3297,7 +3297,7 @@
       "target": "content-format-innovation",
       "description": "Content format innovation: what new formats could we use? Video, podcast, interactive tools, calculators.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:37:00Z"
     },
     {
@@ -3307,7 +3307,7 @@
       "target": "final-quality-check",
       "description": "Final quality check: review all deliverables, verify completeness, ensure nothing is broken. Sign-off.",
       "priority": "high",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:37:00Z"
     },
     {
