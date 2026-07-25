@@ -1,74 +1,90 @@
 [
   {
     "title": "I ran my $500K Amazon wholesale business out of a storage unit",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1uufavr/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/UriahUrus",
-    "date": "2026-07-12",
+    "date": "2026-07-24",
     "key_insight": "Storage unit as middle step between home and warehouse. Costs: $267/mo storage, $41/mo insurance, $699 power station.",
-    "category": "business_model"
+    "category": "business_model",
+    "language": "en",
+    "platform": "reddit"
   },
   {
     "title": "$80k to $142k/mo - Claude Automations",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1uy5yhm/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/Working_Attention_66",
-    "date": "2026-07-16",
+    "date": "2026-07-24",
     "key_insight": "Split multi-SKU campaigns into single-SKU with max 10 keywords per ad group. Top SKU eats all spend in multi-SKU campaigns.",
-    "category": "ppc_strategy"
+    "category": "ppc_strategy",
+    "language": "en",
+    "platform": "reddit"
   },
   {
     "title": "$350k/year - 200% YoY Growth - Claude Automations",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1umpxme/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/Working_Attention_66",
-    "date": "2026-07-03",
+    "date": "2026-07-24",
     "key_insight": "Target misspellings of competitors, set up brand defense portfolio early, optimize when needed not on schedule.",
-    "category": "ppc_strategy"
+    "category": "ppc_strategy",
+    "language": "en",
+    "platform": "reddit"
   },
   {
     "title": "Just 14 Months After Launch, Crossed $2.7M in Revenue With just 7% TACOS",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1uee9f7/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/Smart-Presence",
-    "date": "2026-06-24",
+    "date": "2026-07-24",
     "key_insight": "7 ASINs doing $330K+ MRR. Focus on improving existing products, not adding more. 7% TACOS is achievable.",
-    "category": "success_story"
+    "category": "success_story",
+    "language": "en",
+    "platform": "reddit"
   },
   {
     "title": "How does a $4 product become a $19.99 Amazon FBA sale?",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1v2yevv/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/naveen_prepmktplc",
-    "date": "2026-07-21",
-    "key_insight": "Cost buildup: $4 product → $8.10 landed → $16.30 after fees/PPC → $3.69 profit. Tariffs and advertising add significant costs.",
-    "category": "cost_analysis"
+    "date": "2026-07-24",
+    "key_insight": "Cost buildup: $4 product \u2192 $8.10 landed \u2192 $16.30 after fees/PPC \u2192 $3.69 profit. Tariffs and advertising add significant costs.",
+    "category": "cost_analysis",
+    "language": "en",
+    "platform": "reddit"
   },
   {
     "title": "1 Week Into Amazon FBA",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1uvtcst/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/Far-Abrocoma-5162",
-    "date": "2026-07-14",
+    "date": "2026-07-24",
     "key_insight": "New seller finding 20-35% margins on reselling. Main challenge: sourcing profitable products consistently.",
-    "category": "beginner"
+    "category": "beginner",
+    "language": "en",
+    "platform": "reddit"
   },
   {
     "title": "The downside of FBA... going 100% FBM now",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1ug9mho/",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/jbibler",
-    "date": "2026-06-26",
+    "date": "2026-07-24",
     "key_insight": "Amazon lost $179 item, reimbursed $14.97. Returns resold damaged. FBA issues with inspection and reimbursement.",
-    "category": "pain_point"
+    "category": "pain_point",
+    "language": "en",
+    "platform": "reddit"
   },
   {
-    "title": "Hit £200k in Amazon FBA revenue in the UK - Handmade category",
-    "url": "https://www.reddit.com/r/AmazonFBA/comments/1v0rm6o/",
+    "title": "Hit \u00a3200k in Amazon FBA revenue in the UK - Handmade category",
+    "url": "https://reddit.com",
     "subreddit": "r/AmazonFBA",
     "author": "u/Electronic_Branch_13",
-    "date": "2026-07-19",
-    "key_insight": "Handmade products can scale on Amazon. £200k in 12 months with 52% YoY growth. Inventory management is key.",
-    "category": "success_story"
+    "date": "2026-07-24",
+    "key_insight": "Handmade products can scale on Amazon. \u00a3200k in 12 months with 52% YoY growth. Inventory management is key.",
+    "category": "success_story",
+    "language": "en",
+    "platform": "reddit"
   }
 ]
