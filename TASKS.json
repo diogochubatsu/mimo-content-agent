@@ -924,9 +924,9 @@
       "acceptance": "Chinese article published",
       "id": "T339",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T04:30:00Z",
-      "result": null,
+      "result": "Created zhongguo-kuajing-chukou-guide.md - 6735 words (6547 Chinese chars + 188 English words). Comprehensive guide covering market overview, regulations, platforms, logistics, tax, payments, compliance, case studies, and 12 FAQ questions.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-2"
