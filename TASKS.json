@@ -4385,9 +4385,9 @@
       "id": "T293",
       "from": "gcp",
       "to": "pc-1",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T03:47:00Z",
-      "result": null,
+      "result": "Script download-images.js criado. Gera placeholders SVG para imagens de fontes.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
