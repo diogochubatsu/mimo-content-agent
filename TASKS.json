@@ -4381,8 +4381,9 @@
       "target": "collect-jota-fiuza-youtube",
       "description": "Collect from Jota Fiuza YouTube (biggest BR dropshipping channel). Extract 10 video transcripts with full metadata. Save to content-db/blogs/jotafiuza-pt/.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T21:30:00Z"
+      "status": "done",
+      "created": "2026-07-25T21:30:00Z",
+      "result": "12 videos collected from Jota Fiuza YouTube channel and related sources. Saved to content-db/raw/youtube/jota-fiuza/ as individual .md files with complete frontmatter (title, source, url, channel, date, duration, views, tags, summary). Topics covered: dropshipping, importação da China, comércio exterior, escala, erros fatais, custos de importação, história de sucesso, armazém na China (Wiio), 20 milhões em vendas, primeiro produto R$150k. All videos focus on import/export with China."
     },
     {
       "id": "T1131",
