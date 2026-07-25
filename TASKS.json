@@ -3387,7 +3387,7 @@
       "target": "build-checklist-generator",
       "description": "Build import checklist generator - create downloadable import checklist from article content.",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T15:20:00Z"
     },
     {
