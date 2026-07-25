@@ -1131,9 +1131,9 @@
       "acceptance": "Pipeline enriches 10 sources from C to A quality",
       "id": "T352",
       "from": "gcp",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T05:30:00Z",
-      "result": null,
+      "result": "Auto-enrich executado: 17 arquivos bronze enriquecidos com date, language, platform, url.",
       "depends_on": [],
       "blocks": [],
       "assigned_to": "pc-1"
