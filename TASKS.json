@@ -4094,6 +4094,36 @@
       "priority": "medium",
       "status": "done",
       "created": "2026-07-25T18:12:00Z"
+    },
+    {
+      "id": "T790",
+      "to": "pc-2",
+      "type": "create",
+      "target": "expand-shopify-bronze-to-silver",
+      "description": "EXPAND: Convert top 5 Shopify Blog bronze articles (shopify-top20/) to Silver quality. Each must reach 2000+ words, pass quality-gate.js (Grade A/B). Add: direct answers, FAQ, data tables, citations, steps.",
+      "priority": "critical",
+      "status": "pending",
+      "created": "2026-07-25T18:20:00Z"
+    },
+    {
+      "id": "T791",
+      "to": "gcp",
+      "type": "implement",
+      "target": "build-bronze-to-silver-converter",
+      "description": "BUILD: Script that takes a bronze article (<2000 words) and generates a Silver expansion template with sections, tables, FAQ, citations. Uses blog content + keyword radar data.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T18:20:00Z"
+    },
+    {
+      "id": "T792",
+      "to": "gcp",
+      "type": "review",
+      "target": "daily-progress-report",
+      "description": "Generate comprehensive daily progress report: total content (silver + bronze), quality scores, collection progress, agent performance, pipeline status.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T18:20:00Z"
     }
   ],
   "log": [
