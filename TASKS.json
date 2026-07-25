@@ -3237,7 +3237,7 @@
       "target": "technical-debt-assessment",
       "description": "Assess technical debt: what code needs refactoring? What tests are missing? What documentation is outdated?",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-25T14:36:00Z"
     },
     {
