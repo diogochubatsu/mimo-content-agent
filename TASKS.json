@@ -3940,6 +3940,36 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T17:27:00Z"
+    },
+    {
+      "id": "T740",
+      "to": "gcp",
+      "type": "implement",
+      "target": "llms-txt-generator",
+      "description": "BUILD: Create llms.txt file for the site. AI models (ChatGPT, Perplexity, Claude) use this to understand site structure. Critical for AI Search visibility.",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:36:00Z"
+    },
+    {
+      "id": "T741",
+      "to": "gcp",
+      "type": "implement",
+      "target": "schema-markup-generator",
+      "description": "BUILD: Script to add Article, FAQPage, and HowTo schema markup to all Silver articles. Critical for rich results and AI citations.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T17:36:00Z"
+    },
+    {
+      "id": "T742",
+      "to": "gcp",
+      "type": "review",
+      "target": "verify-agents-clean-tasks-visible",
+      "description": "Verify: After cleaning 137 old tasks, do agents now see T660-T667 as top pending? Check in 10 minutes.",
+      "priority": "high",
+      "status": "pending",
+      "created": "2026-07-25T17:36:00Z"
     }
   ],
   "log": [
