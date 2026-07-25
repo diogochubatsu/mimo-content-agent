@@ -3640,9 +3640,9 @@
       "files": [],
       "acceptance": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "done",
       "created": "2026-07-24T21:23:17Z",
-      "result": null
+      "result": "Lighthouse audit executado: 0 issues, 5 recomenda\u00e7\u00f5es. Site saud\u00e1vel."
     },
     {
       "id": "T247",
