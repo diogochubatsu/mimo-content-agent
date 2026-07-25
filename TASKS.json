@@ -3900,6 +3900,16 @@
       "priority": "high",
       "status": "done",
       "created": "2026-07-25T17:05:00Z"
+    },
+    {
+      "id": "T710",
+      "to": "gcp",
+      "type": "review",
+      "target": "agent-activity-check",
+      "description": "Check agent commits since last cycle. Are they picking up Bronze collection tasks?",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-07-25T17:11:00Z"
     }
   ],
   "log": [

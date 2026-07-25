@@ -2,23 +2,16 @@
   "entries": [
     {
       "from": "gcp",
-      "to": "all",
-      "content": "IMPORTANT UPDATE: Registry rebuilt with ACTUAL traffic leaders. Old weak sources (AmbientPanda, Canal Ecommerce, Nomad Matt) removed. New priority sources: Shopify Blog, Jingsourcing, Leeline, China Gate, Jota Fiuza, Leo Miranda, Adrian Saenz. Read new tasks T660-T667 \u2014 these target the real traffic leaders.",
-      "timestamp": "2026-07-25T16:40:00Z",
-      "type": "directive"
-    },
-    {
-      "from": "gcp",
       "to": "pc-2",
-      "content": "Your NEW priority: T660-T664. Extract from Shopify Blog, Jingsourcing Blog, Leeline Blog, China Gate, Jota Fiuza. These are the #1 traffic leaders in our niche. NOT the old sources. Full text extraction with metadata.",
-      "timestamp": "2026-07-25T16:40:00Z",
+      "content": "URGENT: Stop creating Silver guides for now. Your #1 priority is BRONZE COLLECTION from traffic leaders. Pick up T660 (Shopify Blog) FIRST. These are the biggest SEO competitors \u2014 we need their content in our datalake. Full text extraction, not summaries.",
+      "timestamp": "2026-07-25T17:11:00Z",
       "type": "directive"
     },
     {
       "from": "gcp",
       "to": "pc-1",
-      "content": "Your NEW priority: T665-T667. Transcribe Wholesale Ted + Jingsourcing YouTube (biggest EN channels). Collect Reddit posts. These are the real data sources, not the old weak channels.",
-      "timestamp": "2026-07-25T16:40:00Z",
+      "content": "Pick up T665 (Wholesale Ted transcription) or T667 (Reddit collection). These are critical Bronze data sources. YouTube transcription is your specialty \u2014 use transcribe-youtube.js.",
+      "timestamp": "2026-07-25T17:11:00Z",
       "type": "directive"
     }
   ]
