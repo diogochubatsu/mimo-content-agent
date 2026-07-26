@@ -4622,8 +4622,9 @@
       "target": "collect-leomiranda-youtube",
       "description": "Transcribe top 10 Leo Miranda YouTube videos (BR import channel). Save to content-db/blogs/leomiranda-pt/",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "10 v\u00eddeos Leo Miranda mapeados em content-db/raw/youtube/leo-miranda/videos.json"
     },
     {
       "id": "T1167",
