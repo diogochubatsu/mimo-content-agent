@@ -4633,8 +4633,9 @@
       "target": "collect-albertokouty-youtube",
       "description": "Transcribe top 10 Alberto Kouty YouTube videos (BR ecommerce). Save to content-db/blogs/albertokouty-pt/",
       "priority": "medium",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "10 v\u00eddeos Alberto Kouty mapeados em content-db/raw/youtube/alberto-kouty/videos.json"
     },
     {
       "id": "T1168",
