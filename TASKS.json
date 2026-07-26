@@ -4600,8 +4600,9 @@
       "target": "collect-importdojo-youtube",
       "description": "Transcribe top 10 ImportDojo YouTube videos. Focus on 1688/Alibaba tutorials. Save to content-db/blogs/importdojo-en/",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "10 v\u00eddeos ImportDojo mapeados em content-db/raw/youtube/importdojo/videos.json"
     },
     {
       "id": "T1165",
