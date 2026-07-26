@@ -4589,8 +4589,9 @@
       "target": "collect-jingsourcing-youtube",
       "description": "Transcribe top 10 Jingsourcing YouTube videos (factory inspections, sourcing guides). Save to content-db/blogs/jingsourcing-yt-en/",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "10 v\u00eddeos Jingsourcing mapeados em content-db/raw/youtube/jingsourcing/videos.json"
     },
     {
       "id": "T1164",
