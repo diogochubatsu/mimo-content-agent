@@ -3,11 +3,11 @@
 og:
   title: "Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026"
   description: "keywords: ["guia completo", "import", "china", "supplier", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/guia-completo-para-comprar-no-alibaba-no-brasil-impostos-documentos-e-estrat-gia"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/guia-completo-para-comprar-no-alibaba-no-brasil-impostos-documentos-e-estrat-gia"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/alibaba-guia-completo-brasil"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/alibaba-guia-completo-brasil.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/alibaba-guia-completo-brasil"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/alibaba-guia-completo-brasil.png"
   site_name: "Import Guide 1688"
 title: "Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026"
 slug: "guia-completo-comprar-alibaba-brasil"
@@ -57,7 +57,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -94,7 +94,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
     - name: "É possível isentar o imposto de importação?"
       acceptedAnswer:
         text: "Sim, em alguns casos. Produtos de informática, telecomunicação e bens de capital podem ter II zerado via Ex-Tarifários. Empresas em Zonas Francas (Manaus, Belém, Natal) também têm isenções."
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/guia-completo-para-comprar-no-alibaba-no-brasil-impostos-documentos-e-estrat-gia"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/guia-completo-para-comprar-no-alibaba-no-brasil-impostos-documentos-e-estrat-gia"
 ---
 
 # Guia Completo para Comprar no Alibaba no Brasil: Impostos, Documentos e Estratégias 2026
@@ -556,14 +556,14 @@ Comece pequeno, teste com amostras, aprenda o processo e escale gradualmente. O 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.020Z",
   "dateModified": "2026-07-25T17:24:34.020Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/alibaba-guia-completo-brasil"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/alibaba-guia-completo-brasil"
   },
   "articleSection": "silver",
   "keywords": [

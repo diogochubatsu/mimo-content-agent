@@ -3,8 +3,8 @@ og:
   title: "Dropshipping Nacional: Plano Estratégico Completo 2026"
   description: "Guia estratégico para montar um negócio de dropshipping nacional no Brasil. Planejamento financeiro, marketing, operações e crescimento sustentável."
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/03-dropshipping-nacional-plano-estrategico"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/03-dropshipping-nacional-plano-estrategico.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/03-dropshipping-nacional-plano-estrategico"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/03-dropshipping-nacional-plano-estrategico.png"
   site_name: "Import Guide 1688"
 title: "Dropshipping Nacional: Plano Estratégico Completo 2026"
 description: "Guia estratégico para montar um negócio de dropshipping nacional no Brasil. Planejamento financeiro, marketing, operações e crescimento sustentável."
@@ -13,7 +13,7 @@ keywords: [dropshipping nacional, plano estratégico, business plan, empreendedo
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/dropshipping-nacional-plano-estrategico-completo-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/dropshipping-nacional-plano-estrategico-completo-2026"
 ---
 
 # Dropshipping Nacional: Plano Estratégico Completo 2026

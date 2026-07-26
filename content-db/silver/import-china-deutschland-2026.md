@@ -3,11 +3,11 @@
 og:
   title: "Import aus China - Kompletter Leitfaden 2026: Logistik, Versandoptimierung und Zollabwicklung"
   description: "keywords: ["import china", "import", "china", "supplier", "wholesale", "1688", "alibaba", "fba", "profit"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-aus-china-kompletter-leitfaden-2026-logistik-versandoptimierung-und-zolla"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-aus-china-kompletter-leitfaden-2026-logistik-versandoptimierung-und-zolla"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-china-deutschland-2026"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/import-china-deutschland-2026.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-china-deutschland-2026"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/import-china-deutschland-2026.png"
   site_name: "Import Guide 1688"
 title: "Import aus China - Kompletter Leitfaden 2026: Logistik, Versandoptimierung und Zollabwicklung"
 slug: "import-china-deutschland-2026"
@@ -20,8 +20,8 @@ schema:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -63,7 +63,7 @@ schema:
     - name: "Wie berechne ich die Gesamtkosten eines Imports aus China?"
       acceptedAnswer:
         text: "Gesamtkosten = Warenwert + Frachtkosten + Versicherung + Zollgebühren + Einfuhrumsatzsteuer + innerdeutscher Transport + Zollagenturkosten + Lagerkosten. Beispiel: 10.000 EUR Warenwert ergibt ca. 14.500-16.000 EUR Gesamtkosten. Nutzen Sie unseren Kostenrechner unten für eine detaillierte Berechnung."
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-aus-china-kompletter-leitfaden-2026-logistik-versandoptimierung-und-zolla"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-aus-china-kompletter-leitfaden-2026-logistik-versandoptimierung-und-zolla"
 ---
 
 # Import aus China - Kompletter Leitfaden 2026: Logistik, Versandoptimierung und Zollabwicklung
@@ -798,14 +798,14 @@ Mit den in diesem Leitfaden vermittelten Kenntnissen sind Sie bestens gerüstet,
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.045Z",
   "dateModified": "2026-07-25T17:24:34.045Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-china-deutschland-2026"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-china-deutschland-2026"
   },
   "articleSection": "silver",
   "keywords": [

@@ -23,15 +23,15 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
-description: "Guia completo e definitivo sobre como fazer dropshipping do [1688.com](https://www.[1688.com](https://www.1688.com)) para o Brasil. Inclui: o que é 1688, como encontrar fornecedores, métodos de pagamento (Alipay, agentes), opções de frete, impostos brasileiros (II, IPI, ICMS, PIS/COFINS), regularização fiscal, cálculo de margens de lucro, erros comuns e FAQ completo com 12 perguntas."
-keywords: ["dropshipping 1688 brasil", "[1688.com](https://www.[1688.com](https://www.1688.com)) como usar", "fornecedores 1688 brasil", "dropshipping china brasil 2026", "importar 1688 brasil", "Alipay Brasil", "agente 1688", "imposto importação brasil", "1688 vs aliexpress", "dropshipping lucro brasil"]
+description: "Guia completo e definitivo sobre como fazer dropshipping do [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) para o Brasil. Inclui: o que é 1688, como encontrar fornecedores, métodos de pagamento (Alipay, agentes), opções de frete, impostos brasileiros (II, IPI, ICMS, PIS/COFINS), regularização fiscal, cálculo de margens de lucro, erros comuns e FAQ completo com 12 perguntas."
+keywords: ["dropshipping 1688 brasil", "[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) como usar", "fornecedores 1688 brasil", "dropshipping china brasil 2026", "importar 1688 brasil", "Alipay Brasil", "agente 1688", "imposto importação brasil", "1688 vs aliexpress", "dropshipping lucro brasil"]
 slug: "como-fazer-dropshipping-1688-brasil-2026"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/como-fazer-dropshipping-1688-brasil-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/como-fazer-dropshipping-1688-brasil-2026"
 og:
   title: "Como Fazer Dropshipping do 1688 para o Brasil: Guia Completo 2026"
   description: "Guia completo: dropshipping do 1688 para o Brasil com cálculos de impostos, opções de pagamento e comparação de plataformas. Atualizado julho 2026."
@@ -189,9 +189,9 @@ Dropshipping from China yields 20-40% profit margins when sourced correctly. The
 
 ## Resumo Executivo
 
-O dropshipping do [1688.com](https://www.[1688.com](https://www.1688.com)) para o Brasil representa uma das oportunidades mais lucrativas do e-commerce brasileiro em 2026. O mercado global de dropshipping deve ultrapassar US$ 1,25 trilhão até 2030, com o Brasil projetado para atingir US$ 19,4 bilhões no mesmo período, segundo a Grand View Research e a Precedence Research.
+O dropshipping do [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) para o Brasil representa uma das oportunidades mais lucrativas do e-commerce brasileiro em 2026. O mercado global de dropshipping deve ultrapassar US$ 1,25 trilhão até 2030, com o Brasil projetado para atingir US$ 19,4 bilhões no mesmo período, segundo a Grand View Research e a Precedence Research.
 
-O [1688.com](https://www.[1688.com](https://www.1688.com)), a plataforma doméstica de atacado da Alibaba Group, oferece preços 30-50% inferiores aos do Alibaba.com para produtos idênticos. Isso significa que um brasileiro que domina o processo de compra, frete e tributação pode obter margens de lucro significativamente maiores do que quem compra no AliExpress ou Alibaba.
+O [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))), a plataforma doméstica de atacado da Alibaba Group, oferece preços 30-50% inferiores aos do Alibaba.com para produtos idênticos. Isso significa que um brasileiro que domina o processo de compra, frete e tributação pode obter margens de lucro significativamente maiores do que quem compra no AliExpress ou Alibaba.
 
 **Principais conclusões:**
 - **Preços no 1688:** 30-50% mais baixos que o Alibaba para o mesmo produto
@@ -204,9 +204,9 @@ O [1688.com](https://www.[1688.com](https://www.1688.com)), a plataforma domést
 
 ## Seção 1: O que é o 1688 e por que usar para dropshipping
 
-### 1.1 O que é o [1688.com](https://www.[1688.com](https://www.1688.com))?
+### 1.1 O que é o [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))?
 
-O [1688.com](https://www.[1688.com](https://www.1688.com)) é a maior plataforma B2B (business-to-business) de comércio atacadista da China, operada pelo Alibaba Group. Enquanto o Alibaba.com é voltado para compradores internacionais, o 1688 foi projetado para empresas chinesas comprarem de fábricas e distribuidores chineses.
+O [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) é a maior plataforma B2B (business-to-business) de comércio atacadista da China, operada pelo Alibaba Group. Enquanto o Alibaba.com é voltado para compradores internacionais, o 1688 foi projetado para empresas chinesas comprarem de fábricas e distribuidores chineses.
 
 **Estatísticas do 1688 em julho de 2026:**
 - Fornecedores ativos: mais de 50 milhões
@@ -301,7 +301,7 @@ A pesquisa foi realizada com 100 produtos idênticos em todas as quatro platafor
 Para usar o 1688, você precisa criar uma conta. Como a plataforma é voltada para o mercado chinês, o processo é diferente do Alibaba:
 
 **Passo a passo:**
-1. Acesse [1688.com](https://www.[1688.com](https://www.1688.com)) ou baixe o aplicativo
+1. Acesse [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) ou baixe o aplicativo
 2. Clique em "注册" (Registrar)
 3. Use um número de telefone chinês (ou solicite a um agente)
 4. Complete a verificação de identidade (实名认证)
@@ -858,7 +858,7 @@ R: O tempo total varia conforme o modal de frete: Marítimo (FCL): 35-45 dias + 
 
 ## Fontes
 
-1. [1688.com](https://www.[1688.com](https://www.1688.com)) — Estatísticas da plataforma (julho 2026)
+1. [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) — Estatísticas da plataforma (julho 2026)
 2. Alibaba.com — Relatórios oficiais Q2 2026
 3. Grand View Research — Mercado global de dropshipping (2026)
 4. Precedence Research — Previsão de mercado dropshipping (2026)
@@ -890,19 +890,19 @@ R: O tempo total varia conforme o modal de frete: Marítimo (FCL): 35-45 dias + 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-25T00:00:00.000Z",
   "dateModified": "2026-07-25T00:00:00.000Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/dropshipping-1688-brasil-2026"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/dropshipping-1688-brasil-2026"
   },
   "articleSection": "silver",
   "keywords": [
     "dropshipping 1688 brasil",
-    "[1688.com](https://www.[1688.com](https://www.1688.com)) como usar",
+    "[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) como usar",
     "fornecedores 1688 brasil",
     "dropshipping china brasil 2026",
     "importar 1688 brasil",

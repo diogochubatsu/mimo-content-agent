@@ -3,11 +3,11 @@
 og:
   title: "What Is Dropshipping and How Does It Work? Complete 2026 Guide"
   description: "keywords: ["what dropshipping", "import", "china", "supplier", "wholesale", "dropship", "amazon", "fba", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/what-is-dropshipping-and-how-does-it-work-complete-2026-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/what-is-dropshipping-and-how-does-it-work-complete-2026-guide"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/02-what-is-dropshipping"
-  image: "https://importguide1688.com/og/02-what-is-dropshipping.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/02-what-is-dropshipping"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/02-what-is-dropshipping.png"
   site_name: "Import Guide 1688"
 title: "What Is Dropshipping and How Does It Work? Complete 2026 Guide"
 description: "Understand the dropshipping business model: how it works, the supply chain, profit margins, supplier roles, and whether it's right for you in 2026."
@@ -16,7 +16,7 @@ keywords: [what is dropshipping, dropshipping explained, dropshipping business m
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/what-is-dropshipping-and-how-does-it-work-complete-2026-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/what-is-dropshipping-and-how-does-it-work-complete-2026-guide"
 ---
 
 # What Is Dropshipping and How Does It Work? Complete 2026 Guide

@@ -3,11 +3,11 @@
 og:
   title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)"
   description: "keywords: ["yiwu supplier", "import", "china", "supplier", "wholesale", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit-complete-guide"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit-complete-guide"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/06-yiwu-supplier-verification-checklist"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/06-yiwu-supplier-verification-checklist.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/06-yiwu-supplier-verification-checklist"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/06-yiwu-supplier-verification-checklist.png"
   site_name: "Import Guide 1688"
 title: "Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -28,7 +28,7 @@ internal_links:
   - "https://goldenshiny.com/top-10-china-sourcing-agents/"
 external_links: []
 keywords: ["yiwu supplier", "import", "china", "supplier", "wholesale", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit-complete-guide"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/yiwu-supplier-verification-checklist-before-paying-any-deposit-complete-guide"
 ---
 
 # Yiwu Supplier Verification Checklist Before Paying Any Deposit (Complete Guide)
@@ -355,8 +355,8 @@ A European importer used this 10-point checklist before placing a $12,000 order 
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

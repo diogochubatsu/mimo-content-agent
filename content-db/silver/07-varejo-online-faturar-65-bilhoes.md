@@ -3,11 +3,11 @@
 og:
   title: "Varejo online brasileiro deve faturar R$ 65 bilhões no 2º semestre"
   description: "keywords: ["varejo online", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/varejo-online-brasileiro-deve-faturar-r-65-bilh-es-no-2-semestre"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/varejo-online-brasileiro-deve-faturar-r-65-bilh-es-no-2-semestre"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/07-varejo-online-faturar-65-bilhoes"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/07-varejo-online-faturar-65-bilhoes.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/07-varejo-online-faturar-65-bilhoes"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/07-varejo-online-faturar-65-bilhoes.png"
   site_name: "Import Guide 1688"
 title: "Varejo online brasileiro deve faturar R$ 65 bilhões no 2º semestre"
 description: "Comprehensive guide to varejo online brasileiro deve faturar r$ 65 bilhões no 2º semestre"
@@ -16,7 +16,7 @@ keywords: [varejo, online, brasileiro, deve, faturar]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/varejo-online-brasileiro-deve-faturar-r-65-bilh-es-no-2-semestre"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/varejo-online-brasileiro-deve-faturar-r-65-bilh-es-no-2-semestre"
 ---
 
 # Varejo online brasileiro deve faturar R$ 65 bilhões no 2º semestre
@@ -392,8 +392,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

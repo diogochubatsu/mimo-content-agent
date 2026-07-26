@@ -311,7 +311,7 @@ We compared 50 identical products across all three platforms, measuring:
 ### Step 2: Create Your Account
 
 **Alibaba setup:**
-1. Visit [Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))
+1. Visit [Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 2. Click "Join Free"
 3. Verify email and phone
 4. Complete business verification (optional but recommended)
@@ -325,7 +325,7 @@ We compared 50 identical products across all three platforms, measuring:
 5. Set up Alipay account (or use sourcing agent)
 
 **AliExpress setup:**
-1. Visit [AliExpress](https://www.[AliExpress](https://www.aliexpress.com))
+1. Visit [AliExpress](https://www.[AliExpress](https://www.[AliExpress](https://www.aliexpress.com)))
 2. Click "Register"
 3. Enter email and password
 4. Verify email
@@ -483,7 +483,7 @@ A: Absolutely. A common strategy: 1) Use AliExpress to test products (small orde
 ### Sources & References
 
 - [1688.com official marketplace](https://1688.com)
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

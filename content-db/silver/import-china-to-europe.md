@@ -4,7 +4,7 @@ title: "How to Import from China to Europe: Complete Guide 2026"
 description: "Master importing from China to the EU. Learn customs procedures, VAT obligations, required documentation, logistics options, and compliance requirements. **Updated:** July 2026 | **Reading time:** 20 min | **Expert reviewed**"
 keywords: ["import china europe", "EU customs", "EORI number", "CE marking", "REACH compliance", "import VAT", "china to europe shipping", "customs duties EU"]
 slug: "how-to-import-from-china-to-europe"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-import-from-china-to-europe"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/how-to-import-from-china-to-europe"
 og:
   title: "How to Import from China to Europe: Complete Guide 2026"
   description: "Master importing from China to the EU. Learn customs procedures, VAT obligations, required documentation, logistics options, and compliance requirements."
@@ -749,8 +749,8 @@ A: Penalties vary by member state and violation severity, ranging from warnings 
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -834,14 +834,14 @@ A: Penalties vary by member state and violation severity, ranging from warnings 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-21T00:00:00.000Z",
   "dateModified": "2026-07-21T00:00:00.000Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-import-from-china-to-europe"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/how-to-import-from-china-to-europe"
   },
   "articleSection": "silver",
   "keywords": [

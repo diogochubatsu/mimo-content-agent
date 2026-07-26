@@ -3,11 +3,11 @@
 og:
   title: "Kompletny przewodnik importu z Chin do Polski — 2026"
   description: "keywords: ["kompletny przewodnik", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/kompletny-przewodnik-importu-z-chin-do-polski-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/kompletny-przewodnik-importu-z-chin-do-polski-2026"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-z-chin-polska-przewodnik"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/import-z-chin-polska-przewodnik.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-z-chin-polska-przewodnik"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/import-z-chin-polska-przewodnik.png"
   site_name: "Import Guide 1688"
 title: "Kompletny przewodnik importu z Chin do Polski — 2026"
 slug: "kompletny-przewodnik-importu-z-chin-do-polski"
@@ -78,7 +78,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -108,14 +108,14 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
         text: "Zdecydowanie zalecane, szczególnie dla początkujących importerów. Agencja celna przeprowadzi procedurę celną, obliczy należności i zapewni zgodność z przepisami. Koszt: 300-800 PLN."
     - name: "Jak znaleźć wiarygodnego dostawcę w Chinach?"
       acceptedAnswer:
-        text: "Weryfikuj dostawców po: ocenie 4.8+ ([1688.com](https://www.[1688.com](https://www.1688.com))), statusie Gold Supplier (Alibaba.com), historii transakcji (min. 2 lata), certyfikatach (ISO 9001, BSCI). Zawsze zamawiaj próbki."
+        text: "Weryfikuj dostawców po: ocenie 4.8+ ([1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))), statusie Gold Supplier (Alibaba.com), historii transakcji (min. 2 lata), certyfikatach (ISO 9001, BSCI). Zawsze zamawiaj próbki."
     - name: "Jakie są najlepsze kategorie do importu z Chin do Polski?"
       acceptedAnswer:
         text: "Najpopularniejsze: elektronika i akcesoria, tekstylia i odzież, meble i dekoracje, narzędzia, zabawki, kosmetyki, produkty do domu."
     - name: "Jakie są ryzyka importu z Chin i jak im zapobiegać?"
       acceptedAnswer:
         text: "Główne ryzyka: zła jakość (kontrole PSI, próbkowanie), oszustwa dostawców (weryfikacja, Escrow), problemy celne (agencja celna, certyfikaty), opóźnienia (bufor czasowy, ubezpieczenie)."
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/kompletny-przewodnik-importu-z-chin-do-polski-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/kompletny-przewodnik-importu-z-chin-do-polski-2026"
 ---
 
 # Kompletny przewodnik importu z Chin do Polski — 2026
@@ -246,12 +246,12 @@ Jednocześnie polski rynek e-commerce oferuje idealne warunki do sprzedaży spro
 
 Wybór odpowiedniego dostawcy to fundament udanego importu. Zły dostawca oznacza problemy z jakością, opóźnienia i straty finansowe. Oto sprawdzone źródła zaopatrzenia dla polskich importerów.
 
-### [1688.com](https://www.[1688.com](https://www.1688.com)) — Platforma B2B nr 1
+### [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) — Platforma B2B nr 1
 
-[1688.com](https://www.[1688.com](https://www.1688.com)) to największa platforma hurtowa w Chinach, obsługująca ponad 100 milionów produktów. Ceny na [1688.com](https://www.[1688.com](https://www.1688.com)) są o 30-50% niższe niż na AliExpress, ponieważ platforma obsługuje sprzedaż hurtową B2B.
+[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) to największa platforma hurtowa w Chinach, obsługująca ponad 100 milionów produktów. Ceny na [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) są o 30-50% niższe niż na AliExpress, ponieważ platforma obsługuje sprzedaż hurtową B2B.
 
 **Wymagania dla polskich importerów:**
-- [1688.com](https://www.[1688.com](https://www.1688.com)) nie obsługuje bezpośrednio zagranicznych kupujących — potrzebujesz agenta (np. Superbuy, Sugargoo, CSSBuy)
+- [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) nie obsługuje bezpośrednio zagranicznych kupujących — potrzebujesz agenta (np. Superbuy, Sugargoo, CSSBuy)
 - Weryfikuj dostawców po ocenie 4.8+, minimum 2 lata na platformie i weryfikacji "TrustPass"
 - Zamawiaj próbki przed hurtowym zakupem — koszt próbki to zazwyczaj 50-200 PLN za sztukę plus wysyłka
 
@@ -579,7 +579,7 @@ Zawsze zamawiaj próbki przed hurtowym zakupem:
 
 **Marek, 32 lata, Warszawa** — zaczął importować akcesoria elektroniczne (kable USB, etui na telefony, powerbanki) z Shenzhen w 2024 roku. Jego strategia:
 
-1. **Źródło zaopatrzenia:** [1688.com](https://www.[1688.com](https://www.1688.com)) + agent (Superbuy)
+1. **Źródło zaopatrzenia:** [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) + agent (Superbuy)
 2. **Wartość pierwszego zamówienia:** 15 000 PLN (FOB)
 3. **Forma wysyłki:** Transport kolejowy (Małaszewicze), 18 dni
 4. **Koszty łącznie:** 24 000 PLN (160% ceny FOB)
@@ -650,7 +650,7 @@ Zdecydowanie zalecane, szczególnie dla początkujących importerów. Agencja ce
 
 ### 8. Jak znaleźć wiarygodnego dostawcę w Chinach?
 
-Weryfikuj dostawców po: ocenie 4.8+ ([1688.com](https://www.[1688.com](https://www.1688.com))), statusie Gold Supplier (Alibaba.com), historii transakcji (min. 2 lata), certyfikatach (ISO 9001, BSCI). Zawsze zamawiaj próbki przed hurtowym zakupem.
+Weryfikuj dostawców po: ocenie 4.8+ ([1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))), statusie Gold Supplier (Alibaba.com), historii transakcji (min. 2 lata), certyfikatach (ISO 9001, BSCI). Zawsze zamawiaj próbki przed hurtowym zakupem.
 
 ### 9. Jakie są najlepsze kategorie do importu z Chin do Polski?
 
@@ -666,7 +666,7 @@ Tak, ale jako firma (DJD/JDG) masz znacznie lepsze warunki: możliwość odlicze
 
 ### 12. Jak zacząć od małych zamówień?
 
- Zacznij od [1688.com](https://www.[1688.com](https://www.1688.com)) z agentem — MOQ od 50-100 sztuk. Zamawiaj próbki przed hurtowym zakupem. Wybieraj produkty z niskim ryzykiem (akcesoria, dekoracje). Buduj relacje z dostawcami stopniowo.
+ Zacznij od [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))) z agentem — MOQ od 50-100 sztuk. Zamawiaj próbki przed hurtowym zakupem. Wybieraj produkty z niskim ryzykiem (akcesoria, dekoracje). Buduj relacje z dostawcami stopniowo.
 
 ---
 
@@ -679,7 +679,7 @@ Tak, ale jako firma (DJD/JDG) masz znacznie lepsze warunki: możliwość odlicze
 
 **Krok 2: Wybór produktu i dostawcy**
 - Przestudiuj rynek (Allegro, Google Trends)
-- Znajdź dostawcę ([1688.com](https://www.[1688.com](https://www.1688.com)), Alibaba.com)
+- Znajdź dostawcę ([1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))), Alibaba.com)
 - Zamów próbki
 - Negocjuj warunki
 
@@ -735,14 +735,14 @@ Import z Chin do Polski to sprawdzona droga do budowy rentownego biznesu e-comme
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.048Z",
   "dateModified": "2026-07-25T17:24:34.048Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-z-chin-polska-przewodnik"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-z-chin-polska-przewodnik"
   },
   "articleSection": "silver",
   "keywords": [

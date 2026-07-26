@@ -3,16 +3,16 @@
 og:
   title: "Businesses - Import (Zoll Online)"
   description: "keywords: ["businesses import", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/businesses-import-zoll-online"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/businesses-import-zoll-online"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/06-zoll-businesses-import-overview"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/06-zoll-businesses-import-overview.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/06-zoll-businesses-import-overview"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/06-zoll-businesses-import-overview.png"
   site_name: "Import Guide 1688"
 title: "Businesses - Import (Zoll Online)"
 description: "Comprehensive guide to businesses - import (zoll online)"
 slug: "businesseskeywords: ["businesses import", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/businesses-import-zoll-online"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/businesses-import-zoll-online"
 ---import-zoll-online"
 keywords: [businesses, import, (zoll, online)]
 date: 2026-07-25
@@ -406,7 +406,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

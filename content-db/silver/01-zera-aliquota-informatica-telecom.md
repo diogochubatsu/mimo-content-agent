@@ -3,11 +3,11 @@
 og:
   title: "Ministério da Economia zera alíquota de importação para produtos de informática e telecomunicações"
   description: "keywords: ["ministério economia", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/minist-rio-da-economia-zera-al-quota-de-importa-o-para-produtos-de-inform-tica-e"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/minist-rio-da-economia-zera-al-quota-de-importa-o-para-produtos-de-inform-tica-e"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/01-zera-aliquota-informatica-telecom"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/01-zera-aliquota-informatica-telecom.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/01-zera-aliquota-informatica-telecom"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/01-zera-aliquota-informatica-telecom.png"
   site_name: "Import Guide 1688"
 title: "Ministério da Economia zera alíquota de importação para produtos de informática e telecomunicações"
 description: "Comprehensive guide to ministério da economia zera alíquota de importação para produtos de informática e telecomunicações"
@@ -16,7 +16,7 @@ keywords: [ministério, economia, zera, alíquota, importação]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/minist-rio-da-economia-zera-al-quota-de-importa-o-para-produtos-de-inform-tica-e"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/minist-rio-da-economia-zera-al-quota-de-importa-o-para-produtos-de-inform-tica-e"
 ---
 
 # Ministério da Economia zera alíquota de importação para produtos de informática e telecomunicações
@@ -279,8 +279,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

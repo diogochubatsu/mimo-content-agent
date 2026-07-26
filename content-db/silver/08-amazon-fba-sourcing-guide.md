@@ -3,11 +3,11 @@
 og:
   title: "Amazon FBA Sourcing Guide: Complete China Import Strategy with Landed Cost Calculator"
   description: "keywords: ["amazon sourcing", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/amazon-fba-sourcing-guide-complete-china-import-strategy-with-landed-cost-calcul"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/amazon-fba-sourcing-guide-complete-china-import-strategy-with-landed-cost-calcul"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/08-amazon-fba-sourcing-guide"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/08-amazon-fba-sourcing-guide.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/08-amazon-fba-sourcing-guide"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/08-amazon-fba-sourcing-guide.png"
   site_name: "Import Guide 1688"
 title: "Amazon FBA Sourcing Guide: Complete China Import Strategy with Landed Cost Calculator"
 source: "Leeline Sourcing Blog"
@@ -39,9 +39,9 @@ internal_links:
   - "/private-label-service/"
   - "/types-of-packaging-materials/"
 external_links:
-  - "https://sellercentral.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com))"
-  - "https://www.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com))/gp/help/customer/display.html"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/amazon-fba-sourcing-guide-complete-china-import-strategy-with-landed-cost-calcul"
+  - "https://sellercentral.[Amazon.com](https://www.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com)))"
+  - "https://www.[Amazon.com](https://www.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com)))/gp/help/customer/display.html"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/amazon-fba-sourcing-guide-complete-china-import-strategy-with-landed-cost-calcul"
 ---
 
 # Amazon FBA Sourcing Guide: Complete China Import Strategy with Landed Cost Calculator
@@ -442,8 +442,8 @@ Product: Bluetooth Earbuds
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

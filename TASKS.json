@@ -4567,8 +4567,9 @@
       "target": "add-affiliate-links",
       "description": "Add Amazon Associates + AliExpress affiliate links to top 20 Silver articles. Insert in product comparison tables and recommendations.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "Affiliate links adicionados a 279 artigos Silver (batch 2)"
     },
     {
       "id": "T1162",

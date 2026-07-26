@@ -3,11 +3,11 @@
 og:
   title: "How to Import From China: Complete 10-Step Guide with Landed Cost Calculations and Supplier Vetting"
   description: "keywords: ["import from", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-import-from-china-complete-10-step-guide-with-landed-cost-calculations-an"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-import-from-china-complete-10-step-guide-with-landed-cost-calculations-an"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/01-how-to-import-from-china"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/01-how-to-import-from-china.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/01-how-to-import-from-china"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/01-how-to-import-from-china.png"
   site_name: "Import Guide 1688"
 title: "How to Import From China: Complete 10-Step Guide with Landed Cost Calculations and Supplier Vetting"
 source: "Leeline Sourcing Blog"
@@ -55,7 +55,7 @@ external_links:
   - "https://www.iso.org/certification.html"
   - "https://www.cantonfair.org.cn/en-US"
   - "https://www.iata.org/en/programs/cargo/"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-import-from-china-complete-10-step-guide-with-landed-cost-calculations-an"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/how-to-import-from-china-complete-10-step-guide-with-landed-cost-calculations-an"
 ---
 
 # How to Import From China: Complete 10-Step Guide with Landed Cost Calculations and Supplier Vetting
@@ -548,8 +548,8 @@ Build a supplier scorecard. Track quality, communication speed, lead-time accura
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

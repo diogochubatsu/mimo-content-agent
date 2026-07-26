@@ -4,7 +4,7 @@ title: "Best Ecommerce Platforms for Import Business 2026"
 description: "best ecommerce. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["best ecommerce", "import", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin", "profit"]
 slug: "best-ecommerce-platforms-for-import-business-2026"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/best-ecommerce-platforms-for-import-business-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/best-ecommerce-platforms-for-import-business-2026"
 og:
   title: "Best Ecommerce Platforms for Import Business 2026"
   description: "best ecommerce. **Updated:** January 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -514,8 +514,8 @@ A: Import businesses face elevated security risks due to cross-border transactio
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -638,14 +638,14 @@ A: Import businesses face elevated security risks due to cross-border transactio
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-24T20:49:03.476Z",
   "dateModified": "2026-07-24T20:49:03.476Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/ecommerce-platforms-comparison"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/ecommerce-platforms-comparison"
   },
   "articleSection": "silver",
   "keywords": [

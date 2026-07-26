@@ -3,16 +3,16 @@
 og:
   title: "Germany - Import Requirements and Documentation"
   description: "keywords: ["germany import", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/germany-import-requirements-and-documentation"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/germany-import-requirements-and-documentation"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/08-germany-import-requirements-documentation-trade-gov"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/08-germany-import-requirements-documentation-trade-gov.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/08-germany-import-requirements-documentation-trade-gov"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/08-germany-import-requirements-documentation-trade-gov.png"
   site_name: "Import Guide 1688"
 title: "Germany - Import Requirements and Documentation"
 description: "Comprehensive guide to germany - import requirements and documentation"
 slug: "germanykeywords: ["germany import", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/germany-import-requirements-and-documentation"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/germany-import-requirements-and-documentation"
 ---import-requirements-and-documentation"
 keywords: [germany, import, requirements, documentation]
 date: 2026-07-25
@@ -412,8 +412,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

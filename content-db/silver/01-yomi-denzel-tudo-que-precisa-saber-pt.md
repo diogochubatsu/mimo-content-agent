@@ -3,11 +3,11 @@
 og:
   title: "Yomi Denzel: Tudo o que você precisa saber"
   description: "keywords: ["yomi denzel:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/yomi-denzel-tudo-o-que-voc-precisa-saber"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/yomi-denzel-tudo-o-que-voc-precisa-saber"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/01-yomi-denzel-tudo-que-precisa-saber-pt"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/01-yomi-denzel-tudo-que-precisa-saber-pt.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/01-yomi-denzel-tudo-que-precisa-saber-pt"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/01-yomi-denzel-tudo-que-precisa-saber-pt.png"
   site_name: "Import Guide 1688"
 title: "Yomi Denzel: Tudo o que você precisa saber"
 description: "Comprehensive guide to yomi denzel: tudo o que você precisa saber"
@@ -16,7 +16,7 @@ keywords: [yomi, denzel:, tudo, você, precisa]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/yomi-denzel-tudo-o-que-voc-precisa-saber"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/yomi-denzel-tudo-o-que-voc-precisa-saber"
 ---
 
 # Yomi Denzel: Tudo o que você precisa saber
@@ -130,7 +130,7 @@ Importing from China involves several key steps that most guides oversimplify:
 
 1. **Product Research Phase** — Before contacting any supplier, validate market demand using tools like Google Trends, Jungle Scout, or Helium 10. Check Amazon BSR rankings, eBay sold listings, and AliExpress order counts.
 
-2. **Supplier Verification** — On [1688.com](https://www.[1688.com](https://www.1688.com)), check the store's years in business (minimum 3 years), transaction volume, and buyer reviews. On Alibaba, use Trade Assurance verification and request business license copies.
+2. **Supplier Verification** — On [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))), check the store's years in business (minimum 3 years), transaction volume, and buyer reviews. On Alibaba, use Trade Assurance verification and request business license copies.
 
 3. **Sample Ordering** — Always order 2-3 samples from different suppliers. Budget $10-50 per sample. Test quality, packaging, and shipping speed.
 
@@ -383,7 +383,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

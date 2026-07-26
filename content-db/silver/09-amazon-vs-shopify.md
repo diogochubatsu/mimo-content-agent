@@ -3,11 +3,11 @@
 og:
   title: "Selling on Amazon vs Shopify: Which is a Better Business to Start?"
   description: "keywords: ["selling amazon", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/selling-on-amazon-vs-shopify-which-is-a-better-business-to-start"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/selling-on-amazon-vs-shopify-which-is-a-better-business-to-start"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/09-amazon-vs-shopify"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/09-amazon-vs-shopify.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/09-amazon-vs-shopify"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/09-amazon-vs-shopify.png"
   site_name: "Import Guide 1688"
 title: "Selling on Amazon vs Shopify: Which is a Better Business to Start?"
 description: "Comprehensive guide to selling on amazon vs shopify: which is a better business to start?"
@@ -16,7 +16,7 @@ keywords: [selling, amazon, shopify:, which, better]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/selling-on-amazon-vs-shopify-which-is-a-better-business-to-start"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/selling-on-amazon-vs-shopify-which-is-a-better-business-to-start"
 ---
 
 # Selling on Amazon vs Shopify: Which is a Better Business to Start?
@@ -382,7 +382,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

@@ -3,11 +3,11 @@
 og:
   title: "Types of Product Sourcing: Complete Guide to Sourcing Models and Strategies"
   description: "keywords: ["types product", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/types-of-product-sourcing-complete-guide-to-sourcing-models-and-strategies"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/types-of-product-sourcing-complete-guide-to-sourcing-models-and-strategies"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/10-types-of-product-sourcing"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/10-types-of-product-sourcing.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/10-types-of-product-sourcing"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/10-types-of-product-sourcing.png"
   site_name: "Import Guide 1688"
 title: "Types of Product Sourcing: Complete Guide to Sourcing Models and Strategies"
 source: "Leeline Sourcing Blog"
@@ -41,7 +41,7 @@ internal_links:
 external_links:
   - "https://www.gsxt.gov.cn/"
   - "https://www.iso.org/iso-9001-quality-management.html"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/types-of-product-sourcing-complete-guide-to-sourcing-models-and-strategies"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/types-of-product-sourcing-complete-guide-to-sourcing-models-and-strategies"
 ---
 
 # Types of Product Sourcing: Complete Guide to Sourcing Models and Strategies
@@ -573,8 +573,8 @@ Product: Bluetooth Earbuds
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

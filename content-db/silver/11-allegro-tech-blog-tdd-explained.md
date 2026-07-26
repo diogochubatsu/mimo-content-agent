@@ -3,11 +3,11 @@
 og:
   title: "Dwie szkoły TDD wyjaśnione"
   description: "keywords: ["dwie szkoły", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/dwie-szko-y-tdd-wyja-nione"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/dwie-szko-y-tdd-wyja-nione"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/11-allegro-tech-blog-tdd-explained"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/11-allegro-tech-blog-tdd-explained.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/11-allegro-tech-blog-tdd-explained"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/11-allegro-tech-blog-tdd-explained.png"
   site_name: "Import Guide 1688"
 title: "Dwie szkoły TDD wyjaśnione"
 description: "Comprehensive guide to dwie szkoły tdd wyjaśnione"
@@ -16,7 +16,7 @@ keywords: [dwie, szkoły, wyjaśnione]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/dwie-szko-y-tdd-wyja-nione"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/dwie-szko-y-tdd-wyja-nione"
 ---
 
 # Dwie szkoły TDD wyjaśnione
@@ -341,8 +341,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

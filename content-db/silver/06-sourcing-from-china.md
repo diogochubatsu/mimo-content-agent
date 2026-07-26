@@ -3,11 +3,11 @@
 og:
   title: "Sourcing From China: Complete Guide with Cost Analysis and Supplier Strategies"
   description: "keywords: ["sourcing from", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
-canonical: "https://importguide1688.com/articles/sourcing-from-china-complete-guide-with-cost-analysis-and-supplier-strategies"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/sourcing-from-china-complete-guide-with-cost-analysis-and-supplier-strategies"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/06-sourcing-from-china"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/06-sourcing-from-china.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/06-sourcing-from-china"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/06-sourcing-from-china.png"
   site_name: "Import Guide 1688"
 title: "Sourcing From China: Complete Guide with Cost Analysis and Supplier Strategies"
 source: "Leeline Sourcing Blog"
@@ -42,7 +42,7 @@ external_links:
   - "https://www.cbp.gov/trade/basic-import-export"
   - "https://iccwbo.org/business-solutions/incoterms-rules/"
   - "https://hts.usitc.gov/"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/sourcing-from-china-complete-guide-with-cost-analysis-and-supplier-strategies"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/sourcing-from-china-complete-guide-with-cost-analysis-and-supplier-strategies"
 ---
 
 # Sourcing From China: Complete Guide with Cost Analysis and Supplier Strategies
@@ -375,7 +375,7 @@ Importing from China involves several key steps:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

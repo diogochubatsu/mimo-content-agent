@@ -3,11 +3,11 @@
 og:
   title: "What Business Should I Start?"
   description: "keywords: ["what business", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "profit"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/what-business-should-i-start"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/what-business-should-i-start"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/08-what-business-should-i-start"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/08-what-business-should-i-start.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/08-what-business-should-i-start"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/08-what-business-should-i-start.png"
   site_name: "Import Guide 1688"
 title: "What Business Should I Start?"
 description: "Comprehensive guide to what business should i start?"
@@ -16,7 +16,7 @@ keywords: [what, business, should, start?]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/what-business-should-i-start"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/what-business-should-i-start"
 ---
 
 # What Business Should I Start?
@@ -399,7 +399,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

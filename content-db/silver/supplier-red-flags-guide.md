@@ -4,7 +4,7 @@ title: "Complete Guide: Supplier Red Flags to Avoid When Importing ("
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 14 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
 slug: "complete-guide-supplier-red-flags-to-avoid-when-importing-2026"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-supplier-red-flags-to-avoid-when-importing-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/complete-guide-supplier-red-flags-to-avoid-when-importing-2026"
 og:
   title: "Complete Guide: Supplier Red Flags to Avoid When Importing ("
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 14 min | **Expert reviewed**"
@@ -624,8 +624,8 @@ A: IP protection requires proactive steps before manufacturing begins: (1) Regis
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

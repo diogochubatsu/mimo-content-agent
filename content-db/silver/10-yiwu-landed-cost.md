@@ -3,11 +3,11 @@
 og:
   title: "How to Calculate Yiwu Landed Cost (Complete Import Cost Guide 2026)"
   description: "keywords: ["calculate yiwu", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-calculate-yiwu-landed-cost-complete-import-cost-guide-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-calculate-yiwu-landed-cost-complete-import-cost-guide-2026"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/10-yiwu-landed-cost"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/10-yiwu-landed-cost.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/10-yiwu-landed-cost"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/10-yiwu-landed-cost.png"
   site_name: "Import Guide 1688"
 title: "How to Calculate Yiwu Landed Cost (Complete Import Cost Guide 2026)"
 source: "Goldenshiny Sourcing Blog"
@@ -29,7 +29,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-moq-by-product-category/"
 external_links: []
 keywords: ["calculate yiwu", "import", "china", "supplier", "amazon", "fba", "margin", "profit"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-calculate-yiwu-landed-cost-complete-import-cost-guide-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/how-to-calculate-yiwu-landed-cost-complete-import-cost-guide-2026"
 ---
 
 # How to Calculate Yiwu Landed Cost (Complete Import Cost Guide 2026)
@@ -351,7 +351,7 @@ Use this template to calculate your Yiwu landed cost:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

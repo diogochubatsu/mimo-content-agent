@@ -3,11 +3,11 @@
 og:
   title: "Import z Chin — Kompletny Przewodnik Marketingu i Sprzedaży 2026"
   description: "keywords: ["import chin", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-z-chin-kompletny-przewodnik-marketingu-i-sprzeda-y-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-z-chin-kompletny-przewodnik-marketingu-i-sprzeda-y-2026"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-chin-final-2026"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/import-chin-final-2026.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-chin-final-2026"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/import-chin-final-2026.png"
   site_name: "Import Guide 1688"
 title: "Import z Chin — Kompletny Przewodnik Marketingu i Sprzedaży 2026"
 slug: "import-z-chin-marketing-sprzedaz-2026"
@@ -33,7 +33,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -65,7 +65,7 @@ tier: silver
 date: 2026-07-25
 author: MiMo PC-2
 word_count: 2800+
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-z-chin-kompletny-przewodnik-marketingu-i-sprzeda-y-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-z-chin-kompletny-przewodnik-marketingu-i-sprzeda-y-2026"
 ---
 
 # Import z Chin — Kompletny Przewodnik Marketingu i Sprzedaży 2026
@@ -622,14 +622,14 @@ Import z Chin to połowa sukcesu. Drugą połowę wygrywa marketing i strategia 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.044Z",
   "dateModified": "2026-07-25T17:24:34.044Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-chin-final-2026"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-chin-final-2026"
   },
   "articleSection": "silver",
   "keywords": [

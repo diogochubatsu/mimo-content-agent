@@ -4,7 +4,7 @@ title: "Sea vs Air vs Express Freight from China: Complete Comparison Guide 2026
 description: "Comprehensive comparison of sea freight, air freight, express courier, and rail freight from China. Real shipping rates, transit times, and decision framework for importers."
 keywords: ["sea freight china", "air freight china", "express freight china", "shipping from china", "china freight comparison", "sea vs air freight", "DHL china", "FedEx china", "FCL LCL shipping", "china europe rail freight"]
 slug: "sea-vs-air-vs-express-freight-china-complete-comparison"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/sea-vs-air-vs-express-freight-china-complete-comparison"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/sea-vs-air-vs-express-freight-china-complete-comparison"
 category: "silver"
 tier: "silver"
 og:
@@ -720,8 +720,8 @@ A: Peak season (October-December) sees 20-30% rate increases for air freight and
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
-- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -759,14 +759,14 @@ A: Peak season (October-December) sees 20-30% rate increases for air freight and
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.052Z",
   "dateModified": "2026-07-25T17:24:34.052Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/sea-vs-air-vs-express-freight-china"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/sea-vs-air-vs-express-freight-china"
   },
   "articleSection": "silver",
   "keywords": [

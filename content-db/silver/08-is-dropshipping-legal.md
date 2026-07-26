@@ -3,11 +3,11 @@
 og:
   title: "Is Dropshipping Legal? Complete Rules, Risks & Compliance Guide (2026)"
   description: "keywords: ["dropshipping legal?", "import", "china", "supplier", "wholesale", "dropship", "amazon", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/is-dropshipping-legal-complete-rules-risks-compliance-guide-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/is-dropshipping-legal-complete-rules-risks-compliance-guide-2026"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/08-is-dropshipping-legal"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/08-is-dropshipping-legal.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/08-is-dropshipping-legal"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/08-is-dropshipping-legal.png"
   site_name: "Import Guide 1688"
 title: "Is Dropshipping Legal? Complete Rules, Risks & Compliance Guide (2026)"
 description: "Understand the legal requirements for dropshipping in 2026. Covers tax laws, consumer protection, platform rules, product safety, data privacy, and country-specific regulations."
@@ -16,7 +16,7 @@ keywords: [is dropshipping legal, dropshipping laws, dropshipping legal requirem
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/is-dropshipping-legal-complete-rules-risks-compliance-guide-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/is-dropshipping-legal-complete-rules-risks-compliance-guide-2026"
 ---
 
 # Is Dropshipping Legal? Complete Rules, Risks & Compliance Guide (2026)

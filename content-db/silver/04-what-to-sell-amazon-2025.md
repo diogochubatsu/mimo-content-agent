@@ -3,11 +3,11 @@
 og:
   title: "What to Sell on Amazon: The 10 Best Profitable Products to Sell in 2025"
   description: "keywords: ["what sell", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/what-to-sell-on-amazon-the-10-best-profitable-products-to-sell-in-2025"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/what-to-sell-on-amazon-the-10-best-profitable-products-to-sell-in-2025"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/04-what-to-sell-amazon-2025"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/04-what-to-sell-amazon-2025.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/04-what-to-sell-amazon-2025"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/04-what-to-sell-amazon-2025.png"
   site_name: "Import Guide 1688"
 title: "What to Sell on Amazon: The 10 Best Profitable Products to Sell in 2025"
 description: "Comprehensive guide to what to sell on amazon: the 10 best profitable products to sell in 2025"
@@ -16,7 +16,7 @@ keywords: [what, sell, amazon:, best, profitable]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/what-to-sell-on-amazon-the-10-best-profitable-products-to-sell-in-2025"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/what-to-sell-on-amazon-the-10-best-profitable-products-to-sell-in-2025"
 ---
 
 # What to Sell on Amazon: The 10 Best Profitable Products to Sell in 2025
@@ -389,8 +389,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

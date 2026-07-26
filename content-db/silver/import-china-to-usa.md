@@ -4,7 +4,7 @@ title: "Complete Guide: How to Import from China to USA (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
 slug: "complete-guide-how-to-import-from-china-to-usa-2026"
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-how-to-import-from-china-to-usa-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/complete-guide-how-to-import-from-china-to-usa-2026"
 og:
   title: "Complete Guide: How to Import from China to USA (2026)"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
@@ -536,7 +536,7 @@ After 6 months of operation:
 ## FAQ
 
 **Q: What is the minimum order quantity (MOQ) for importing from China?**
-A: MOQs vary significantly by supplier and product. For most consumer goods, expect MOQs of 100-1,000 units. Some suppliers on Alibaba offer MOQs as low as 50 units for first-time buyers, though prices will be 20-40% higher. For [1688.com](https://www.[1688.com](https://www.1688.com)), MOQs are typically lower (50-200 units) because the platform targets domestic buyers.
+A: MOQs vary significantly by supplier and product. For most consumer goods, expect MOQs of 100-1,000 units. Some suppliers on Alibaba offer MOQs as low as 50 units for first-time buyers, though prices will be 20-40% higher. For [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))), MOQs are typically lower (50-200 units) because the platform targets domestic buyers.
 
 **Q: How much does it cost to import a container from China to the US?**
 A: A 20-foot container (FCL) typically costs $2,500-$6,000, depending on the port of origin and destination. A 40-foot container costs $4,000-$10,000. These rates include ocean freight but not customs duties, insurance, or inland transportation. LCL (Less than Container Load) rates are $80-$200 per CBM.
@@ -579,7 +579,7 @@ A: The top mistakes include: (1) Not calculating total landed cost before pricin
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -611,14 +611,14 @@ A: The top mistakes include: (1) Not calculating total landed cost before pricin
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/logo.png"
     }
   },
   "datePublished": "2026-07-25T03:38:03.896Z",
   "dateModified": "2026-07-25T03:38:03.896Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-china-to-usa"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/import-china-to-usa"
   },
   "articleSection": "silver",
   "keywords": [
@@ -641,7 +641,7 @@ A: The top mistakes include: (1) Not calculating total landed cost before pricin
       "name": "What is the minimum order quantity (MOQ) for importing from China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "MOQs vary significantly by supplier and product. For most consumer goods, expect MOQs of 100-1,000 units. Some suppliers on Alibaba offer MOQs as low as 50 units for first-time buyers, though prices will be 20-40% higher. For [1688.com](https://www.[1688.com](https://www.1688.com)), MOQs are typically lower (50-200 units) because the platform targets domestic buyers."
+        "text": "MOQs vary significantly by supplier and product. For most consumer goods, expect MOQs of 100-1,000 units. Some suppliers on Alibaba offer MOQs as low as 50 units for first-time buyers, though prices will be 20-40% higher. For [1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com))), MOQs are typically lower (50-200 units) because the platform targets domestic buyers."
       }
     },
     {

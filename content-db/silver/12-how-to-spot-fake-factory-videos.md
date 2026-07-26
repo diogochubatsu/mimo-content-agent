@@ -3,11 +3,11 @@
 og:
   title: "How to Spot Fake Factory Videos From China Suppliers (Complete Guide)"
   description: "keywords: ["spot fake", "import", "china", "supplier", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-spot-fake-factory-videos-from-china-suppliers-complete-guide"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-spot-fake-factory-videos-from-china-suppliers-complete-guide"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/12-how-to-spot-fake-factory-videos"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/12-how-to-spot-fake-factory-videos.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/12-how-to-spot-fake-factory-videos"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/12-how-to-spot-fake-factory-videos.png"
   site_name: "Import Guide 1688"
 title: "How to Spot Fake Factory Videos From China Suppliers (Complete Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -28,7 +28,7 @@ internal_links:
   - "https://goldenshiny.com/top-10-china-sourcing-agents/"
 external_links: []
 keywords: ["spot fake", "import", "china", "supplier", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-spot-fake-factory-videos-from-china-suppliers-complete-guide"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-spot-fake-factory-videos-from-china-suppliers-complete-guide"
 ---
 
 # How to Spot Fake Factory Videos From China Suppliers (Complete Guide)
@@ -305,7 +305,7 @@ Videos are just one verification method. For comprehensive supplier verification
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

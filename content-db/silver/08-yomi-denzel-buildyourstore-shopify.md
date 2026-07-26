@@ -3,16 +3,16 @@
 og:
   title: "Yomi Denzel - BuildYourStore.ai"
   description: "keywords: ["yomi denzel", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/yomi-denzel-buildyourstore-ai"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/yomi-denzel-buildyourstore-ai"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/08-yomi-denzel-buildyourstore-shopify"
-  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/08-yomi-denzel-buildyourstore-shopify.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/08-yomi-denzel-buildyourstore-shopify"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/og/08-yomi-denzel-buildyourstore-shopify.png"
   site_name: "Import Guide 1688"
 title: "Yomi Denzel - BuildYourStore.ai"
 description: "Comprehensive guide to yomi denzel - buildyourstore.ai"
 slug: "yomi-denzelkeywords: ["yomi denzel", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/yomi-denzel-buildyourstore-ai"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))/articles/yomi-denzel-buildyourstore-ai"
 ---buildyourstoreai"
 keywords: [yomi, denzel, buildyourstore.ai]
 date: 2026-07-25
@@ -419,8 +419,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

@@ -367,7 +367,7 @@ Critical. Professional product photos increase conversion rates by 25–40%. Use
 
 - [Shopify Blog — Trending Products](https://www.shopify.com/blog/trending-products)
 - [Google Trends](https://trends.google.com/)
-- [Amazon Best Sellers](https://www.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com))/Best-Sellers/zgbs)
+- [Amazon Best Sellers](https://www.[Amazon.com](https://www.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com)))/Best-Sellers/zgbs)
 - [Grand View Research — Market Reports](https://www.grandviewresearch.com/)
 
 

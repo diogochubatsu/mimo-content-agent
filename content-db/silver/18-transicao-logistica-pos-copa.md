@@ -3,11 +3,11 @@
 og:
   title: "O dia seguinte: como operar a transição logística e de consumo pós-copa"
   description: "keywords: ["seguinte: como", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/o-dia-seguinte-como-operar-a-transi-o-log-stica-e-de-consumo-p-s-copa"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/o-dia-seguinte-como-operar-a-transi-o-log-stica-e-de-consumo-p-s-copa"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/18-transicao-logistica-pos-copa"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/18-transicao-logistica-pos-copa.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/18-transicao-logistica-pos-copa"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/18-transicao-logistica-pos-copa.png"
   site_name: "Import Guide 1688"
 title: "O dia seguinte: como operar a transição logística e de consumo pós-copa"
 description: "Comprehensive guide to o dia seguinte: como operar a transição logística e de consumo pós-copa"
@@ -16,7 +16,7 @@ keywords: [seguinte:, como, operar, transição, logística]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/o-dia-seguinte-como-operar-a-transi-o-log-stica-e-de-consumo-p-s-copa"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/o-dia-seguinte-como-operar-a-transi-o-log-stica-e-de-consumo-p-s-copa"
 ---
 
 # O dia seguinte: como operar a transição logística e de consumo pós-copa
@@ -281,7 +281,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.[1688.com](https://www.1688.com)))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

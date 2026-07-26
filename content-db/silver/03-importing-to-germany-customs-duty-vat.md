@@ -3,11 +3,11 @@
 og:
   title: "Importing to Germany"
   description: "keywords: ["importing germany", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide1688.com/articles/importing-to-germany"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/importing-to-germany"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/03-importing-to-germany-customs-duty-vat"
-  image: "https://importguide1688.com/og/03-importing-to-germany-customs-duty-vat.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/03-importing-to-germany-customs-duty-vat"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/03-importing-to-germany-customs-duty-vat.png"
   site_name: "Import Guide 1688"
 title: "Importing to Germany"
 description: "Comprehensive guide to importing to germany"
@@ -16,7 +16,7 @@ keywords: [importing, germany]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/importing-to-germany"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/importing-to-germany"
 ---
 
 # Importing to Germany
@@ -439,7 +439,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

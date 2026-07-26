@@ -387,7 +387,7 @@ Focus on 3–5 winning products, scale Facebook/Instagram ads, build an email li
 ## Sources & References
 
 - [Shopify Blog — AliExpress Dropshipping](https://www.shopify.com/blog/117607173-the-definitive-guide-to-dropshipping-with-aliexpress)
-- [AliExpress.com](https://www.[AliExpress](https://www.[AliExpress](https://www.aliexpress.com))/)
+- [AliExpress.com](https://www.[AliExpress](https://www.[AliExpress](https://www.[AliExpress](https://www.aliexpress.com)))/)
 - [DSers — Official AliExpress Partner](https://dsers.com/)
 
 
