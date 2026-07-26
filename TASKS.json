@@ -4578,8 +4578,9 @@
       "target": "collect-reddit-50",
       "description": "Extract top 50 posts from r/AmazonFBA + r/Dropship. Full text + comments + metadata. Save to content-db/raw/reddit/",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "Reddit posts j\u00e1 coletados em content-db/raw/reddit/"
     },
     {
       "id": "T1163",
