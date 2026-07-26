@@ -286,7 +286,7 @@ Alibaba. Private label products, custom packaging, and custom branding are only 
 ## Sources & References
 
 - [Shopify Blog — AliExpress vs Alibaba](https://www.shopify.com/blog/aliexpress-vs-alibaba)
-- [AliExpress.com](https://www.[AliExpress](https://www.aliexpress.com)/)
+- [AliExpress.com](https://www.[AliExpress](https://www.[AliExpress](https://www.aliexpress.com))/)
 - [Alibaba.com](https://www.alibaba.com/)
 
 

@@ -2,11 +2,11 @@
 date: 2026-07-25
 title: "Phone Cases: Complete Import Guide from China 2026"
 tier: "silver"
-site: "importguide1688.com"
+site: "importguide[1688.com](https://www.1688.com)"
 created: "2026-07-24T03:15:37.855Z"
 keywords: ["phone cases import", "wholesale phone cases china", "1688 phone accessories", "alibaba phone cases", "import phone cases", "phone case supplier", "dropship phone cases", "custom phone cases wholesale", "iPhone cases china", "phone accessories sourcing"]
 description: "Complete guide to importing phone cases from China. Compare 1688 vs Alibaba prices, find verified suppliers, calculate margins, and learn import regulations. Updated July 2026."
-canonical: "https://importguide1688.com/articles/phone-cases-1688-vs-alibaba-vs-amazon-price-comparison-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/phone-cases-1688-vs-alibaba-vs-amazon-price-comparison-2026"
 slug: "phone-cases-1688-vs-alibaba-vs-amazon-price-comparison-2026"
 og:
   title: "Phone Cases: Complete Import Guide from China 2026"
@@ -60,7 +60,7 @@ The global phone cases market reached $28.5 billion in 2025 and is projected to 
 
 ## Detailed Platform Comparison
 
-### 1688.com — Best Prices
+### [1688.com](https://www.1688.com) — Best Prices
 
 1688 offers the lowest prices for phone cases, with 50-70% savings compared to Alibaba. However, it requires Chinese language skills or a sourcing agent.
 
@@ -415,8 +415,8 @@ A: MOQs vary by product and supplier. Basic TPU: 100-500 units. Custom design: 5
 
 ## Sources & References
 
-- [1688.com marketplace analysis (July 2026)](https://www.1688.com)
-- [Alibaba.com Gold Supplier directory](https://www.alibaba.com)
+- [1688.com marketplace analysis (July 2026)](https://www.[1688.com](https://www.1688.com))
+- [Alibaba.com Gold Supplier directory](https://www.[Alibaba.com](https://www.alibaba.com))
 - Phone Cases Market Report 2025-2026
 - Jingsourcing 1688 guide — [jingsourcing.com/blog](https://jingsourcing.com/blog/)
 - Reddit r/AmazonFBA — phone accessory discussions

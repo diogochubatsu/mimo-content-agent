@@ -4,7 +4,7 @@ title: "Air Freight from China: Complete Guide 2026"
 description: "freight from. **Updated:** July 21, 2026 | **Reading time:** 24 min | **Expert reviewed**"
 keywords: ["freight from", "import", "china", "supplier", "dropship", "1688", "amazon", "fba", "profit"]
 slug: "air-freight-from-china-complete-guide-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/air-freight-from-china-complete-guide-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/air-freight-from-china-complete-guide-2026"
 og:
   title: "Air Freight from China: Complete Guide 2026"
   description: "freight from. **Updated:** July 21, 2026 | **Reading time:** 24 min | **Expert reviewed**"
@@ -819,7 +819,7 @@ A: Shanghai Pudong (PVG) has the most international air cargo capacity and fligh
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -959,14 +959,14 @@ A: Shanghai Pudong (PVG) has the most international air cargo capacity and fligh
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T20:49:03.468Z",
   "dateModified": "2026-07-24T20:49:03.468Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/air-freight-china-guide"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/air-freight-china-guide"
   },
   "articleSection": "silver",
   "keywords": [

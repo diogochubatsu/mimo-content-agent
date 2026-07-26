@@ -4,7 +4,7 @@ title: "Fitness Equipment Import Guide 2026"
 description: "fitness equipment. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["fitness equipment", "import", "china", "supplier", "wholesale", "alibaba", "amazon", "margin", "profit"]
 slug: "fitness-equipment-import-guide-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/fitness-equipment-import-guide-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/fitness-equipment-import-guide-2026"
 og:
   title: "Fitness Equipment Import Guide 2026"
   description: "fitness equipment. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -597,14 +597,14 @@ A: Fitness equipment typically falls under HTS codes 9506 (sports equipment) or 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.165Z",
   "dateModified": "2026-07-24T04:05:22.165Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/fitness-equipment-import"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/fitness-equipment-import"
   },
   "articleSection": "silver",
   "keywords": [

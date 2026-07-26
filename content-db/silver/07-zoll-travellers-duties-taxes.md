@@ -3,8 +3,8 @@ og:
   title: "Zoll Reisende: Abgaben und Steuern - Kompletter Leitfaden"
   description: "Vollständiger Leitfaden zu Zollregelungen für Reisende. Zollgebühren, Steuern, Freibeträge und wie man Probleme beim Zoll vermeidet."
   type: "article"
-  url: "https://importguide1688.com/articles/07-zoll-travellers-duties-taxes"
-  image: "https://importguide1688.com/og/07-zoll-travellers-duties-taxes.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/07-zoll-travellers-duties-taxes"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/07-zoll-travellers-duties-taxes.png"
   site_name: "Import Guide 1688"
 title: "Zoll für Reisende: Abgaben und Steuern - Kompletter Leitfaden 2026"
 description: "Vollständiger Leitfaden zu Zollregelungen für Reisende. Zollgebühren, Steuern, Freibeträge und wie man Probleme beim Zoll vermeidet."
@@ -13,7 +13,7 @@ keywords: [Zoll, Reisende, Abgaben, Steuern, Einfuhr, Freibeträge, Zollgebühre
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/zoll-reisende-abgaben-und-steuern-komplett"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/zoll-reisende-abgaben-und-steuern-komplett"
 ---
 
 # Zoll für Reisende: Abgaben und Steuern - Kompletter Leitfaden 2026

@@ -3,8 +3,8 @@ og:
   title: "German Customs Fees & Import Tax Guide 2026"
   description: "Complete guide to German customs fees, import taxes, and duties. Learn how to calculate Einfuhrzoll, EUSt, and other costs for importing into Germany."
   type: "article"
-  url: "https://importguide1688.com/articles/02-german-customs-fees-import-tax-guide"
-  image: "https://importguide1688.com/og/02-german-customs-fees-import-tax-guide.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/02-german-customs-fees-import-tax-guide"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/02-german-customs-fees-import-tax-guide.png"
   site_name: "Import Guide 1688"
 title: "German Customs Fees & Import Tax Guide 2026"
 description: "Complete guide to German customs fees, import taxes, and duties. Learn how to calculate Einfuhrzoll, EUSt, and other costs for importing into Germany."
@@ -13,7 +13,7 @@ keywords: [German customs, import tax, Einfuhrzoll, EUSt, Zollgebühren, import 
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/german-customs-fees-import-tax-guide-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/german-customs-fees-import-tax-guide-2026"
 ---
 
 # German Customs Fees & Import Tax Guide 2026

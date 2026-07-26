@@ -3,11 +3,11 @@
 og:
   title: "I Was Wrong About the Solo Operator Era (And I've Never Been Happier About It)"
   description: "keywords: ["wrong about", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/i-was-wrong-about-the-solo-operator-era-and-i-ve-never-been-happier-about-it"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/i-was-wrong-about-the-solo-operator-era-and-i-ve-never-been-happier-about-it"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/i-was-wrong-about-the-solo-operator-era-and-ive-never-been-h"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/i-was-wrong-about-the-solo-operator-era-and-ive-never-been-h.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/i-was-wrong-about-the-solo-operator-era-and-ive-never-been-h"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/i-was-wrong-about-the-solo-operator-era-and-ive-never-been-h.png"
   site_name: "Import Guide 1688"
 title: "I Was Wrong About the Solo Operator Era (And I've Never Been Happier About It)"
 description: "Matthew Gallagher used AI tools to build a $1.8B telehealth business with just 2 employees. This proves the Solo Operator Era is real and AI-powered ecommerce is accessible to everyone."
@@ -16,7 +16,7 @@ keywords: [i, was, wrong, about, the]
 date: 2026-07-25
 tier: silver
 source: bronze-to-silver
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/i-was-wrong-about-the-solo-operator-era-and-i-ve-never-been-happier-about-it"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/i-was-wrong-about-the-solo-operator-era-and-i-ve-never-been-happier-about-it"
 ---
 
 # I Was Wrong About the Solo Operator Era (And I've Never Been Happier About It)
@@ -274,8 +274,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com))
-- [1688.com](https://[1688.com](https://www.1688.com))
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Jingsourcing Blog](https://jingsourcing.com/blog/)
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 

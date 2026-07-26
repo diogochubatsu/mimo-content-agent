@@ -4,7 +4,7 @@ title: "Complete Guide: WooCommerce for Import Business (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "1688", "alibaba"]
 slug: "complete-guide-woocommerce-for-import-business-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-woocommerce-for-import-business-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-woocommerce-for-import-business-2026"
 og:
   title: "Complete Guide: WooCommerce for Import Business (2026)"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
@@ -634,8 +634,8 @@ A: Yes, WooCommerce provides several methods for country-specific pricing: curre
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -759,14 +759,14 @@ A: Yes, WooCommerce provides several methods for country-specific pricing: curre
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.214Z",
   "dateModified": "2026-07-24T04:05:22.214Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/woocommerce-guide"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/woocommerce-guide"
   },
   "articleSection": "silver",
   "keywords": [

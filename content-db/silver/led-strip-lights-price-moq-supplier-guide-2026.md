@@ -429,7 +429,7 @@ A: Canton Fair in April and October offers the best selection. Order 3-4 months 
 
 - 1688.com: https://www.1688.com
 - Alibaba.com: https://www.alibaba.com
-- Amazon Seller Central: https://sellercentral.amazon.com
+- Amazon Seller Central: https://sellercentral.[Amazon.com](https://www.amazon.com)
 - US UL Certification: https://www.ul.com
 - EU CE Marking: https://ec.europa.eu/growth/single-market/ce-marking
 - Canton Fair: https://www.cantonfair.org.cn

@@ -3,11 +3,11 @@
 og:
   title: "Zeradas as alíquotas de impostos de importação para bens de capital, informática e telecomunicação"
   description: "keywords: ["zeradas alíquotas", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/zeradas-as-al-quotas-de-impostos-de-importa-o-para-bens-de-capital-inform-tica-e"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/zeradas-as-al-quotas-de-impostos-de-importa-o-para-bens-de-capital-inform-tica-e"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/06-aliqzero-importacao-bens-capital"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/06-aliqzero-importacao-bens-capital.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/06-aliqzero-importacao-bens-capital"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/06-aliqzero-importacao-bens-capital.png"
   site_name: "Import Guide 1688"
 title: "Zeradas as alíquotas de impostos de importação para bens de capital, informática e telecomunicação"
 description: "Comprehensive guide to zeradas as alíquotas de impostos de importação para bens de capital, informática e telecomunicação"
@@ -16,7 +16,7 @@ keywords: [zeradas, alíquotas, impostos, importação, para]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/zeradas-as-al-quotas-de-impostos-de-importa-o-para-bens-de-capital-inform-tica-e"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/zeradas-as-al-quotas-de-impostos-de-importa-o-para-bens-de-capital-inform-tica-e"
 ---
 
 # Zeradas as alíquotas de impostos de importação para bens de capital, informática e telecomunicação
@@ -300,7 +300,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

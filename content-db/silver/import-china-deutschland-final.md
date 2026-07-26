@@ -3,11 +3,11 @@
 og:
   title: "Import aus China - Verkauf & Marketing in Deutschland: Kompletter Leitfaden 2026"
   description: "keywords: ["import china", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "profit"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-verkauf-marketing-in-deutschland-kompletter-leitfaden-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-aus-china-verkauf-marketing-in-deutschland-kompletter-leitfaden-2026"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-china-deutschland-final"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/import-china-deutschland-final.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-china-deutschland-final"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/import-china-deutschland-final.png"
   site_name: "Import Guide 1688"
 date: 2026-07-25
 title: "Import aus China - Verkauf & Marketing in Deutschland: Kompletter Leitfaden 2026"
@@ -31,7 +31,7 @@ word_count: 3200
 status: published
 schema_type: "Article"
 faq_schema: true
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-aus-china-verkauf-marketing-in-deutschland-kompletter-leitfaden-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-aus-china-verkauf-marketing-in-deutschland-kompletter-leitfaden-2026"
 ---
 
 # Import aus China - Verkauf & Marketing in Deutschland: Kompletter Leitfaden 2026
@@ -152,8 +152,8 @@ Importing from China costs 30-50% less than domestic wholesale, but total landed
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -800,14 +800,14 @@ Strategie: Sammeln Sie E-Mail-Adressen über Amazon-Käufer (innerhalb der Richt
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.046Z",
   "dateModified": "2026-07-25T17:24:34.046Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/import-china-deutschland-final"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-china-deutschland-final"
   },
   "articleSection": "silver",
   "keywords": [

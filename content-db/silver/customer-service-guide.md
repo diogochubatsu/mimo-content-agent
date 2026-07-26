@@ -609,7 +609,7 @@ A: Track three metrics: (1) Support cost as a percentage of revenue (target: und
 4. Salesforce State of the Connected Customer 2026 — https://www.salesforce.com/research-reports/state-of-the-connected-customer/
 5. Forrester Customer Experience Index 2026 — https://www.forrester.com/research/
 6. Gartner Customer Service and Support Leaders Survey — https://www.gartner.com/en/customer-service-support
-7. Amazon Seller Central Support Best Practices — https://sellercentral.[Amazon.com](https://www.amazon.com)/help/
+7. Amazon Seller Central Support Best Practices — https://sellercentral.[Amazon.com](https://www.[Amazon.com](https://www.amazon.com))/help/
 
 ---
 

@@ -4,7 +4,7 @@ title: "Complete Guide: Product Photography for Ecommerce (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "amazon"]
 slug: "complete-guide-product-photography-for-ecommerce-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-product-photography-for-ecommerce-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-product-photography-for-ecommerce-2026"
 og:
   title: "Complete Guide: Product Photography for Ecommerce (2026)"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -529,8 +529,8 @@ A: Refresh product images when: introducing new variants or colors, updating pac
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -628,14 +628,14 @@ A: Refresh product images when: introducing new variants or colors, updating pac
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-25T03:38:03.898Z",
   "dateModified": "2026-07-25T03:38:03.898Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/product-photography-guide"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/product-photography-guide"
   },
   "articleSection": "silver",
   "keywords": [

@@ -3,11 +3,11 @@
 og:
   title: "Import From China to Canada: Complete Guide with Customs, Duties, and Logistics"
   description: "keywords: ["import from", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
-canonical: "https://importguide1688.com/articles/import-from-china-to-canada-complete-guide-with-customs-duties-and-logistics"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-from-china-to-canada-complete-guide-with-customs-duties-and-logistics"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/18-import-from-china-to-canada"
-  image: "https://importguide1688.com/og/18-import-from-china-to-canada.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/18-import-from-china-to-canada"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/18-import-from-china-to-canada.png"
   site_name: "Import Guide 1688"
 title: "Import From China to Canada: Complete Guide with Customs, Duties, and Logistics"
 source: "Leeline Sourcing Blog"
@@ -40,7 +40,7 @@ external_links:
   - "https://www.cbsa-asfc.gc.ca/"
   - "https://www.canada.ca/en/revenue-agency.html"
   - "https://www.tc.canada.ca/"
-canonical: "https://importguide1688.com/articles/import-from-china-to-canada-complete-guide-with-customs-duties-and-logistics"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-from-china-to-canada-complete-guide-with-customs-duties-and-logistics"
 ---
 
 # Import From China to Canada: Complete Guide with Customs, Duties, and Logistics
@@ -353,7 +353,7 @@ GST/HST = (Declared Value + Duty) × Tax Rate
 
 ### Sources & References
 
-- [1688.com official marketplace](https://1688.com)
+- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

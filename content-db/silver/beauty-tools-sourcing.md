@@ -4,7 +4,7 @@ title: "Complete Guide: Beauty Tools Sourcing 2026"
 description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "alibaba", "margin"]
 slug: "complete-guide-beauty-tools-sourcing-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-beauty-tools-sourcing-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-beauty-tools-sourcing-2026"
 og:
   title: "Complete Guide: Beauty Tools Sourcing 2026"
   description: "complete guide:. **Updated:** July 21, 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -598,14 +598,14 @@ A: Register trademarks in key markets (US, EU, China) before production begins. 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.128Z",
   "dateModified": "2026-07-24T04:05:22.129Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/beauty-tools-sourcing"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/beauty-tools-sourcing"
   },
   "articleSection": "silver",
   "keywords": [

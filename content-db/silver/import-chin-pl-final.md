@@ -3,11 +3,11 @@
 og:
   title: "Import z Chin — Kompletny Przewodnik Zaawansowanej Optymalizacji 2026"
   description: "keywords: ["import chin", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-kompletny-przewodnik-zaawansowanej-optymalizacji-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-z-chin-kompletny-przewodnik-zaawansowanej-optymalizacji-2026"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/import-chin-pl-final"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/import-chin-pl-final.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-chin-pl-final"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/import-chin-pl-final.png"
   site_name: "Import Guide 1688"
 title: "Import z Chin — Kompletny Przewodnik Zaawansowanej Optymalizacji 2026"
 slug: import-chin-pl-final
@@ -28,7 +28,7 @@ tier: silver
 date: 2026-07-25
 author: MiMo PC-2
 word_count: 3200+
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/import-z-chin-kompletny-przewodnik-zaawansowanej-optymalizacji-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/import-z-chin-kompletny-przewodnik-zaawansowanej-optymalizacji-2026"
 ---
 
 # Import z Chin — Kompletny Przewodnik Zaawansowanej Optymalizacji 2026
@@ -626,8 +626,8 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 

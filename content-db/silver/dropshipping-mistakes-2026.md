@@ -4,7 +4,7 @@ title: "Complete Guide: Common Dropshipping Mistakes to Avoid in 202"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "dropship", "1688", "alibaba", "amazon", "fba", "margin"]
 slug: "complete-guide-common-dropshipping-mistakes-to-avoid-in-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-common-dropshipping-mistakes-to-avoid-in-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-common-dropshipping-mistakes-to-avoid-in-2026"
 og:
   title: "Complete Guide: Common Dropshipping Mistakes to Avoid in 202"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -523,7 +523,7 @@ A: Dropshipping is legal in most countries, but regulations vary. You typically 
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -559,14 +559,14 @@ A: Dropshipping is legal in most countries, but regulations vary. You typically 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.163Z",
   "dateModified": "2026-07-24T04:05:22.163Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/dropshipping-mistakes-2026"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/dropshipping-mistakes-2026"
   },
   "articleSection": "silver",
   "keywords": [

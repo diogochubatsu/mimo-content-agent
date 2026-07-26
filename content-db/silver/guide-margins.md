@@ -4,7 +4,7 @@ title: "How to Calculate Import Margins 2026"
 description: "calculate import. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["calculate import", "import", "china", "supplier", "1688", "alibaba", "amazon", "fba", "margin", "profit"]
 slug: "how-to-calculate-import-margins-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-calculate-import-margins-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-calculate-import-margins-2026"
 og:
   title: "How to Calculate Import Margins 2026"
   description: "calculate import. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -488,8 +488,8 @@ A: Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -530,14 +530,14 @@ A: Gross margin = (Revenue - COGS) / Revenue. Net margin includes all expenses (
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.174Z",
   "dateModified": "2026-07-24T04:05:22.174Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/guide-margins"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/guide-margins"
   },
   "articleSection": "silver",
   "keywords": [

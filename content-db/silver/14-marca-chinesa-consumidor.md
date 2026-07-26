@@ -3,11 +3,11 @@
 og:
   title: "Marcas chinesas e o consumidor brasileiro"
   description: "keywords: ["marcas chinesas", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide1688.com/articles/marcas-chinesas-e-o-consumidor-brasileiro"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/marcas-chinesas-e-o-consumidor-brasileiro"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/14-marca-chinesa-consumidor"
-  image: "https://importguide1688.com/og/14-marca-chinesa-consumidor.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/14-marca-chinesa-consumidor"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/14-marca-chinesa-consumidor.png"
   site_name: "Import Guide 1688"
 title: "Marcas chinesas e o consumidor brasileiro"
 description: "Comprehensive guide to marcas chinesas e o consumidor brasileiro"
@@ -16,7 +16,7 @@ keywords: [marcas, chinesas, consumidor, brasileiro]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/marcas-chinesas-e-o-consumidor-brasileiro"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/marcas-chinesas-e-o-consumidor-brasileiro"
 ---
 
 # Marcas chinesas e o consumidor brasileiro
@@ -328,7 +328,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

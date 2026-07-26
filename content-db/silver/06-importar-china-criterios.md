@@ -3,8 +3,8 @@ og:
   title: "Importar da China: os critérios que definem se a operação compensa"
   description: "Análise completa dos critérios para avaliar se importar da China compensa. Cálculo de ROI, análise de risco, comparativo de produtos e checklist de decisão."
   type: "article"
-  url: "https://importguide1688.com/articles/06-importar-china-criterios"
-  image: "https://importguide1688.com/og/06-importar-china-criterios.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/06-importar-china-criterios"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/06-importar-china-criterios.png"
   site_name: "Import Guide 1688"
 title: "Importar da China: os critérios que definem se a operação compensa"
 description: "Análise completa dos critérios para avaliar se importar da China compensa. Cálculo de ROI, análise de risco, comparativo de produtos e checklist de decisão."
@@ -13,7 +13,7 @@ keywords: [importar china, critérios, análise viabilidade, ROI importação, c
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/importar-da-china-os-criterios-que-definem-se-a-operacao-compensa"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/importar-da-china-os-criterios-que-definem-se-a-operacao-compensa"
 ---
 
 # Importar da China: os critérios que definem se a operação compensa
@@ -368,5 +368,5 @@ Automatize pedidos via API, diversifique fornecedores, crie marca própria, e ex
 - [Receita Federal](https://www.gov.br/receitafederal) — Consulta de NCM e tributos
 - [Sebrae](https://www.sebrae.com.br) — Apoio a pequenas empresas
 - [E-Commerce Brasil](https://www.ecommercebrasil.com.br) — Maior comunidade de e-commerce
-- [Alibaba.com](https://alibaba.com) — Global B2B marketplace
+- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
 - [Jungle Scout](https://junglescout.com) — Ferramenta de análise de produtos

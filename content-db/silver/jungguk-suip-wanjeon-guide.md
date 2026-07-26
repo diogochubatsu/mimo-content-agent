@@ -3,11 +3,11 @@
 og:
   title: "중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설"
   description: "keywords: ["2026: 절차·관세·kc", "import", "china", "supplier", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/2026-kc"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/2026-kc"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/jungguk-suip-wanjeon-guide"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/jungguk-suip-wanjeon-guide.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/jungguk-suip-wanjeon-guide"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/jungguk-suip-wanjeon-guide.png"
   site_name: "Import Guide 1688"
 title: "중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설"
 slug: "jungguk-suip-wanjeon-guide-2026"
@@ -62,7 +62,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
 
 ## Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -99,7 +99,7 @@ A: Alipay for 1688, Trade Assurance for Alibaba, T/T for bulk orders.
     - name: "수입 비용을 절감하는 방법이 있나요?"
       acceptedAnswer:
         text: "HS코드 최적화, 적절한 배송 방법 선택, 대량 발주 할인, 관세사와의 장기 계약 등을 통해 비용을 절감할 수 있습니다."
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/2026-kc"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/2026-kc"
 ---
 
 # 중국 수입 완전 가이드 2026: 한국 수입 절차·관세·KC 인증 모든 것을 해설
@@ -593,7 +593,7 @@ KC 마크는 제품에 다음 정보와 함께 표시해야 합니다:
 - 인증서 (ISO, CE 등)
 
 **기타 플랫폼:**
-- **[1688.com](https://www.1688.com)**: 중국 내 도매 플랫폼
+- **[1688.com](https://www.[1688.com](https://www.1688.com))**: 중국 내 도매 플랫폼
 - **Made-in-China.com**: 중국 제조업체 디렉토리
 - **Global Sources**: 글로벌 무역 플랫폼
 
@@ -792,14 +792,14 @@ KC 마크는 제품에 다음 정보와 함께 표시해야 합니다:
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-25T17:24:34.050Z",
   "dateModified": "2026-07-25T17:24:34.050Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/jungguk-suip-wanjeon-guide"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/jungguk-suip-wanjeon-guide"
   },
   "articleSection": "silver",
   "keywords": [

@@ -3,8 +3,8 @@ og:
   title: "Como importar produtos da China para revender no Brasil"
   description: "Guia completo passo a passo para importar produtos da China e revender no Brasil. Cálculo de custos, impostos, documentação e estratégias para maximizar lucro."
   type: "article"
-  url: "https://importguide1688.com/articles/08-como-importar-china-revender"
-  image: "https://importguide1688.com/og/08-como-importar-china-revender.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/08-como-importar-china-revender"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/08-como-importar-china-revender.png"
   site_name: "Import Guide 1688"
 title: "Como importar produtos da China para revender no Brasil"
 description: "Guia completo passo a passo para importar produtos da China e revender no Brasil. Cálculo de custos, impostos, documentação e estratégias para maximizar lucro."
@@ -13,7 +13,7 @@ keywords: [como importar, produtos china, revender brasil, alibaba, 1688, impost
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/como-importar-produtos-da-china-para-revender-no-brasil"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/como-importar-produtos-da-china-para-revender-no-brasil"
 ---
 
 # Como importar produtos da China para revender no Brasil
@@ -332,5 +332,5 @@ Contrate um despachante aduaneiro experiente, comece com um produto simples (bai
 - [E-Commerce Brasil](https://www.ecommercebrasil.com.br) — Maior comunidade de e-commerce
 - [Sebrae](https://www.sebrae.com.br) — Apoio a pequenas empresas
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [ABIMAQ](https://www.abimaq.org.br) — Associação dos Fabricantes

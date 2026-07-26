@@ -3,11 +3,11 @@
 og:
   title: "Lei autoriza importação de materiais médicos com registro na Anvisa ou em órgãos internacionais"
   description: "keywords: ["autoriza importação", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/lei-autoriza-importa-o-de-materiais-m-dicos-com-registro-na-anvisa-ou-em-rg-os-i"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/lei-autoriza-importa-o-de-materiais-m-dicos-com-registro-na-anvisa-ou-em-rg-os-i"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/08-lei-importacao-materiais-medicos"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/08-lei-importacao-materiais-medicos.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/08-lei-importacao-materiais-medicos"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/08-lei-importacao-materiais-medicos.png"
   site_name: "Import Guide 1688"
 title: "Lei autoriza importação de materiais médicos com registro na Anvisa ou em órgãos internacionais"
 description: "Comprehensive guide to lei autoriza importação de materiais médicos com registro na anvisa ou em órgãos internacionais"
@@ -16,7 +16,7 @@ keywords: [autoriza, importação, materiais, médicos, registro]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/lei-autoriza-importa-o-de-materiais-m-dicos-com-registro-na-anvisa-ou-em-rg-os-i"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/lei-autoriza-importa-o-de-materiais-m-dicos-com-registro-na-anvisa-ou-em-rg-os-i"
 ---
 
 # Lei autoriza importação de materiais médicos com registro na Anvisa ou em órgãos internacionais
@@ -377,8 +377,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

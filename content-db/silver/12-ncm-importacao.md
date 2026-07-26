@@ -3,11 +3,11 @@
 og:
   title: "NCM para importação: guia essencial para classificação e uso"
   description: "keywords: ["para importação:", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide1688.com/articles/ncm-para-importa-o-guia-essencial-para-classifica-o-e-uso"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/ncm-para-importa-o-guia-essencial-para-classifica-o-e-uso"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/12-ncm-importacao"
-  image: "https://importguide1688.com/og/12-ncm-importacao.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/12-ncm-importacao"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/12-ncm-importacao.png"
   site_name: "Import Guide 1688"
 title: "NCM para importação: guia essencial para classificação e uso"
 description: "Comprehensive guide to ncm para importação: guia essencial para classificação e uso"
@@ -16,7 +16,7 @@ keywords: [para, importação:, guia, essencial, para]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/ncm-para-importa-o-guia-essencial-para-classifica-o-e-uso"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/ncm-para-importa-o-guia-essencial-para-classifica-o-e-uso"
 ---
 
 # NCM para importação: guia essencial para classificação e uso
@@ -325,8 +325,8 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 
 ## Sources & References
 
-- [Alibaba.com](https://[Alibaba.com](https://www.alibaba.com)) — Global B2B marketplace
-- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [Alibaba.com](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com))) — Global B2B marketplace
+- [1688.com](https://[1688.com](https://www.[1688.com](https://www.1688.com))) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

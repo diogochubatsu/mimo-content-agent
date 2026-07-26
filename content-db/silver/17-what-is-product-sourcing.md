@@ -3,11 +3,11 @@
 og:
   title: "What is Product Sourcing: Complete Guide to Sourcing Fundamentals and Strategies"
   description: "keywords: ["what product", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
-canonical: "https://importguide1688.com/articles/what-is-product-sourcing-complete-guide-to-sourcing-fundamentals-and-strategies"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/what-is-product-sourcing-complete-guide-to-sourcing-fundamentals-and-strategies"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/17-what-is-product-sourcing"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/17-what-is-product-sourcing.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/17-what-is-product-sourcing"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/17-what-is-product-sourcing.png"
   site_name: "Import Guide 1688"
 title: "What is Product Sourcing: Complete Guide to Sourcing Fundamentals and Strategies"
 source: "Leeline Sourcing Blog"
@@ -39,7 +39,7 @@ internal_links:
 external_links:
   - "https://www.investopedia.com/terms/s/sourcing.asp"
   - "https://www.cbp.gov/trade/basic-import-export"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/what-is-product-sourcing-complete-guide-to-sourcing-fundamentals-and-strategies"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/what-is-product-sourcing-complete-guide-to-sourcing-fundamentals-and-strategies"
 ---
 
 # What is Product Sourcing: Complete Guide to Sourcing Fundamentals and Strategies
@@ -450,8 +450,8 @@ What's your primary goal?
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

@@ -2,11 +2,11 @@
 date: 2026-07-25
 title: "Test Silver Products: Complete Sourcing Guide from China 2026"
 tier: "silver"
-site: "importguide1688.com"
+site: "importguide[1688.com](https://www.1688.com)"
 created: "2026-07-24T03:15:37.855Z"
 keywords: ["test silver products", "silver plated items", "import silver from china", "wholesale silver jewelry", "silver supplier china", "1688 silver", "alibaba silver", "dropship silver products", "silver plating wholesale", "sterling silver import"]
 description: "Complete guide to sourcing test silver products from China. Compare 1688 vs Alibaba prices, find verified suppliers, calculate margins, and learn import regulations. Updated July 2026."
-canonical: "https://importguide1688.com/articles/complete-guide-to-test-silver-2026"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-to-test-silver-2026"
 slug: "complete-guide-test-silver-2026"
 og:
   title: "Test Silver Products: Complete Sourcing Guide from China 2026"
@@ -58,7 +58,7 @@ The global silver jewelry market reached $28.4 billion in 2025 and is projected 
 
 ## Detailed Platform Comparison
 
-### 1688.com — Best Prices
+### [1688.com](https://www.1688.com) — Best Prices
 
 1688 offers the lowest prices for test silver products, with 30-50% savings compared to Alibaba. However, it requires Chinese language skills or a sourcing agent.
 
@@ -399,8 +399,8 @@ A: Request assay certificates from suppliers. Use XRF testing (non-destructive) 
 
 ## Sources & References
 
-- [1688.com marketplace analysis (July 2026)](https://www.1688.com)
-- [Alibaba.com Gold Supplier directory](https://www.alibaba.com)
+- [1688.com marketplace analysis (July 2026)](https://www.[1688.com](https://www.1688.com))
+- [Alibaba.com Gold Supplier directory](https://www.[Alibaba.com](https://www.alibaba.com))
 - Silver Institute — World Silver Survey 2025
 - Jingsourcing 1688 guide — [jingsourcing.com/blog](https://jingsourcing.com/blog/)
 - Reddit r/AmazonFBA — silver product discussions

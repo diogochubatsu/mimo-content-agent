@@ -3,11 +3,11 @@
 og:
   title: "Supplier Management Guide: Complete Framework for Supplier Relationships and Performance"
   description: "keywords: ["supplier management", "import", "china", "supplier", "1688", "alibaba", "margin", "profit"]
-canonical: "https://importguide1688.com/articles/supplier-management-guide-complete-framework-for-supplier-relationships-and-perf"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/supplier-management-guide-complete-framework-for-supplier-relationships-and-perf"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/15-supplier-management-guide"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/15-supplier-management-guide.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/15-supplier-management-guide"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/15-supplier-management-guide.png"
   site_name: "Import Guide 1688"
 title: "Supplier Management Guide: Complete Framework for Supplier Relationships and Performance"
 source: "Leeline Sourcing Blog"
@@ -39,7 +39,7 @@ internal_links:
 external_links:
   - "https://www.amfori.org/"
   - "https://www.iso.org/iso-9001-quality-management.html"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/supplier-management-guide-complete-framework-for-supplier-relationships-and-perf"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/supplier-management-guide-complete-framework-for-supplier-relationships-and-perf"
 ---
 
 # Supplier Management Guide: Complete Framework for Supplier Relationships and Performance
@@ -393,8 +393,8 @@ This complete framework covers relationship building, performance tracking, nego
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

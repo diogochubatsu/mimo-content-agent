@@ -3,8 +3,8 @@ og:
   title: "Dropshipping Só para Importar da China: Guia Completo"
   description: "Guia completo sobre dropshipping direto da China. Fornecedores, logística, impostos, pagamentos e estratégias para lucrar com importação."
   type: "article"
-  url: "https://importguide1688.com/articles/04-dropshipping-so-importar-china"
-  image: "https://importguide1688.com/og/04-dropshipping-so-importar-china.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/04-dropshipping-so-importar-china"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/04-dropshipping-so-importar-china.png"
   site_name: "Import Guide 1688"
 title: "Dropshipping Só para Importar da China: Guia Completo"
 description: "Guia completo sobre dropshipping direto da China. Fornecedores, logística, impostos, pagamentos e estratégias para lucrar com importação."
@@ -13,7 +13,7 @@ keywords: [dropshipping china, importar china, fornecedores chineses, 1688, alib
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/dropshipping-so-para-importar-da-china-guia-completo"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/dropshipping-so-para-importar-da-china-guia-completo"
 ---
 
 # Dropshipping Só para Importar da China: Guia Completo
@@ -100,7 +100,7 @@ Cliente faz pedido → Você encaminha ao fornecedor → Fornecedor envia → Cl
 | Idioma | Inglês |
 | Suporte | 24/7 |
 
-### 1688.com
+### [1688.com](https://www.1688.com)
 
 **Ideal para:** Compradores experientes que buscam o menor preço
 
@@ -433,7 +433,7 @@ Inclua todos os custos: produto, frete, impostos, plataforma, tráfego, e atendi
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
-- [AliExpress.com](https://aliexpress.com) — Retail from China
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
+- [AliExpress.com](https://[AliExpress](https://www.aliexpress.com)) — Retail from China
 - [Receita Federal](https://www.gov.br/receitafederal) — Consulta de NCM
 - [Sebrae](https://www.sebrae.com.br) — Apoio a pequenas empresas

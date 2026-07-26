@@ -3,11 +3,11 @@
 og:
   title: "Governo isenta produtos de três zonas francas de tarifas de importação"
   description: "keywords: ["governo isenta", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon"]
-canonical: "https://importguide1688.com/articles/governo-isenta-produtos-de-tr-s-zonas-francas-de-tarifas-de-importa-o"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/governo-isenta-produtos-de-tr-s-zonas-francas-de-tarifas-de-importa-o"
 ---"
   type: "article"
-  url: "https://importguide1688.com/articles/09-isencao-zonas-francas-tarifas"
-  image: "https://importguide1688.com/og/09-isencao-zonas-francas-tarifas.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/09-isencao-zonas-francas-tarifas"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/09-isencao-zonas-francas-tarifas.png"
   site_name: "Import Guide 1688"
 title: "Governo isenta produtos de três zonas francas de tarifas de importação"
 description: "Comprehensive guide to governo isenta produtos de três zonas francas de tarifas de importação"
@@ -16,7 +16,7 @@ keywords: [governo, isenta, produtos, três, zonas]
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/governo-isenta-produtos-de-tr-s-zonas-francas-de-tarifas-de-importa-o"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/governo-isenta-produtos-de-tr-s-zonas-francas-de-tarifas-de-importa-o"
 ---
 
 # Governo isenta produtos de três zonas francas de tarifas de importação
@@ -386,7 +386,7 @@ Yes, with proper verification. Use Trade Assurance on Alibaba, request samples f
 ## Sources & References
 
 - [Alibaba.com](https://alibaba.com) — Global B2B marketplace
-- [1688.com](https://1688.com) — China domestic wholesale
+- [1688.com](https://[1688.com](https://www.1688.com)) — China domestic wholesale
 - [Jingsourcing Blog](https://jingsourcing.com/blog/) — Import guides
 - [US CBP Import Regulations](https://cbp.gov/trade/basic-import-export)
 - [Leeline Sourcing](https://leelinegroup.com/china-wholesale-websites/) — Platform comparison

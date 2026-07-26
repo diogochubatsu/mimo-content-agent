@@ -3,11 +3,11 @@
 og:
   title: "How to Verify Suppliers: Complete 6-Step System with Anti-Fraud Protocols"
   description: "keywords: ["verify suppliers:", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
-canonical: "https://importguide1688.com/articles/how-to-verify-suppliers-complete-6-step-system-with-anti-fraud-protocols"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-verify-suppliers-complete-6-step-system-with-anti-fraud-protocols"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/04-how-to-verify-suppliers"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/04-how-to-verify-suppliers.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/04-how-to-verify-suppliers"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/04-how-to-verify-suppliers.png"
   site_name: "Import Guide 1688"
 title: "How to Verify Suppliers: Complete 6-Step System with Anti-Fraud Protocols"
 source: "Leeline Sourcing Blog"
@@ -49,7 +49,7 @@ external_links:
   - "https://www.iso.org/iso-9001-quality-management.html"
   - "https://www.iso.org/standard/1141.html"
   - "https://www.amfori.org/"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-verify-suppliers-complete-6-step-system-with-anti-fraud-protocols"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-verify-suppliers-complete-6-step-system-with-anti-fraud-protocols"
 ---
 
 # How to Verify Suppliers: Complete 6-Step System with Anti-Fraud Protocols
@@ -399,8 +399,8 @@ Place controlled pilot order. Book independent pre-shipment inspection. Review a
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 ## Frequently Asked Questions (FAQ)

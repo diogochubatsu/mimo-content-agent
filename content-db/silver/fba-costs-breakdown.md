@@ -4,7 +4,7 @@ title: "amazon complete: Amazon FBA Complete Cost Breakdown 2026: Ev"
 description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
 keywords: ["amazon complete", "import", "china", "supplier", "wholesale", "dropship", "1688", "amazon", "fba", "margin"]
 slug: "amazon-fba-complete-cost-breakdown-2026-every-fee-explained"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/amazon-fba-complete-cost-breakdown-2026-every-fee-explained"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/amazon-fba-complete-cost-breakdown-2026-every-fee-explained"
 og:
   title: "amazon complete: Amazon FBA Complete Cost Breakdown 2026: Ev"
   description: "amazon complete. **Updated:** July 2026 | **Reading time:** 18 min | **Expert reviewed**"
@@ -637,7 +637,7 @@ A: Common hidden costs include: returns processing fees (especially for apparel 
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -766,14 +766,14 @@ A: Common hidden costs include: returns processing fees (especially for apparel 
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T20:49:03.477Z",
   "dateModified": "2026-07-24T20:49:03.477Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/fba-costs-breakdown"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/fba-costs-breakdown"
   },
   "articleSection": "silver",
   "keywords": [

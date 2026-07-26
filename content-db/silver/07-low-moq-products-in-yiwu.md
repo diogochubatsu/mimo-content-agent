@@ -3,11 +3,11 @@
 og:
   title: "How to Find Low-MOQ Products in Yiwu Without Sacrificing Quality (2026 Guide)"
   description: "keywords: ["find low-moq", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "margin"]
-canonical: "https://importguide1688.com/articles/how-to-find-low-moq-products-in-yiwu-without-sacrificing-quality-2026-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-find-low-moq-products-in-yiwu-without-sacrificing-quality-2026-guide"
 ---"
   type: "article"
-  url: "https://importguide[1688.com](https://www.1688.com)/articles/07-low-moq-products-in-yiwu"
-  image: "https://importguide[1688.com](https://www.1688.com)/og/07-low-moq-products-in-yiwu.png"
+  url: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/07-low-moq-products-in-yiwu"
+  image: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/og/07-low-moq-products-in-yiwu.png"
   site_name: "Import Guide 1688"
 title: "How to Find Low-MOQ Products in Yiwu Without Sacrificing Quality (2026 Guide)"
 source: "Goldenshiny Sourcing Blog"
@@ -29,7 +29,7 @@ internal_links:
   - "https://goldenshiny.com/yiwu-sourcing-service-process-pricing-faq/"
 external_links: []
 keywords: ["find low-moq", "import", "china", "supplier", "wholesale", "dropship", "amazon", "margin", "profit"]
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/how-to-find-low-moq-products-in-yiwu-without-sacrificing-quality-2026-guide"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/how-to-find-low-moq-products-in-yiwu-without-sacrificing-quality-2026-guide"
 ---
 
 # How to Find Low-MOQ Products in Yiwu Without Sacrificing Quality (2026 Guide)
@@ -298,7 +298,7 @@ After receiving and selling the products, evaluate:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 

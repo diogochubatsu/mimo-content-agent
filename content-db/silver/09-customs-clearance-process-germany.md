@@ -3,8 +3,8 @@ og:
   title: "Customs Clearance Process in Germany: Complete Guide"
   description: "Complete guide to the German customs clearance process. Documentation, procedures, timelines, costs, and how to avoid common delays."
   type: "article"
-  url: "https://importguide1688.com/articles/09-customs-clearance-process-germany"
-  image: "https://importguide1688.com/og/09-customs-clearance-process-germany.png"
+  url: "https://importguide[1688.com](https://www.1688.com)/articles/09-customs-clearance-process-germany"
+  image: "https://importguide[1688.com](https://www.1688.com)/og/09-customs-clearance-process-germany.png"
   site_name: "Import Guide 1688"
 title: "Customs Clearance Process in Germany: Complete Guide 2026"
 description: "Complete guide to the German customs clearance process. Documentation, procedures, timelines, costs, and how to avoid common delays."
@@ -13,7 +13,7 @@ keywords: [customs clearance, Germany, Zollabfertigung, import process, Einfuhrz
 date: 2026-07-25
 tier: silver
 source: bronze-expansion
-canonical: "https://importguide1688.com/articles/customs-clearance-process-germany-complete-guide"
+canonical: "https://importguide[1688.com](https://www.1688.com)/articles/customs-clearance-process-germany-complete-guide"
 ---
 
 # Customs Clearance Process in Germany: Complete Guide 2026

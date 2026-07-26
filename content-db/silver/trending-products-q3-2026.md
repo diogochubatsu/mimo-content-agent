@@ -4,7 +4,7 @@ title: "Trending Products to Import from China Q3 2026"
 description: "trending products. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
 keywords: ["trending products", "import", "china", "supplier", "wholesale", "dropship", "1688", "alibaba", "amazon", "fba"]
 slug: "trending-products-to-import-from-china-q3-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/trending-products-to-import-from-china-q3-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/trending-products-to-import-from-china-q3-2026"
 og:
   title: "Trending Products to Import from China Q3 2026"
   description: "trending products. **Updated:** July 24, 2026 | **Reading time:** 12 min | **Expert reviewed**"
@@ -347,8 +347,8 @@ A: The top mistakes from community reports: (1) Not calculating true landed cost
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
-- [Alibaba Group](https://[Alibaba.com](https://www.alibaba.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
+- [Alibaba Group](https://[Alibaba.com](https://www.[Alibaba.com](https://www.alibaba.com)))
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
 
@@ -474,14 +474,14 @@ A: The top mistakes from community reports: (1) Not calculating true landed cost
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-24T04:05:22.206Z",
   "dateModified": "2026-07-24T04:05:22.206Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/trending-products-q3-2026"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/trending-products-q3-2026"
   },
   "articleSection": "silver",
   "keywords": [

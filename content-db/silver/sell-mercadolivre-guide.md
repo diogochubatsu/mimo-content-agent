@@ -4,7 +4,7 @@ title: "Complete Guide: How to Sell on Mercado Livre (2026)"
 description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
 keywords: ["complete guide:", "import", "china", "supplier", "wholesale", "1688", "alibaba", "amazon", "fba", "margin"]
 slug: "complete-guide-how-to-sell-on-mercado-livre-2026"
-canonical: "https://importguide[1688.com](https://www.1688.com)/articles/complete-guide-how-to-sell-on-mercado-livre-2026"
+canonical: "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/complete-guide-how-to-sell-on-mercado-livre-2026"
 og:
   title: "Complete Guide: How to Sell on Mercado Livre (2026)"
   description: "complete guide:. **Updated:** July 2026 | **Reading time:** 15 min | **Expert reviewed**"
@@ -487,7 +487,7 @@ Before listing any product, conduct thorough market research:
 
 Find reliable suppliers for your products:
 
-- **[1688.com](https://www.1688.com)** - Chinese wholesale platform
+- **[1688.com](https://www.[1688.com](https://www.1688.com))** - Chinese wholesale platform
 - **Alibaba** - International B2B marketplace
 - **AliExpress** - Retail/wholesale mix
 - **Local distributors** - Brazilian wholesale suppliers
@@ -666,7 +666,7 @@ A: Mercado Livre offers several seller tools:
 
 ### Sources & References
 
-- [1688.com official marketplace](https://[1688.com](https://www.1688.com))
+- [1688.com official marketplace](https://[1688.com](https://www.[1688.com](https://www.1688.com)))
 - [Alibaba Group](https://alibaba.com)
 - [Jingsourcing 1688 guide](https://jingsourcing.com/blog/)
 
@@ -700,14 +700,14 @@ A: Mercado Livre offers several seller tools:
     "name": "Import Guide 1688",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://importguide[1688.com](https://www.1688.com)/logo.png"
+      "url": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/logo.png"
     }
   },
   "datePublished": "2026-07-25T03:38:03.900Z",
   "dateModified": "2026-07-25T03:38:03.900Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://importguide[1688.com](https://www.1688.com)/articles/sell-mercadolivre-guide"
+    "@id": "https://importguide[1688.com](https://www.[1688.com](https://www.1688.com))/articles/sell-mercadolivre-guide"
   },
   "articleSection": "silver",
   "keywords": [
