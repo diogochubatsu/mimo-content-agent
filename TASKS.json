@@ -4556,8 +4556,9 @@
       "target": "deploy-site",
       "description": "DEPLOY: Get site live on Vercel. Verify build, fix errors, deploy, submit sitemap. #1 BLOCKER for revenue.",
       "priority": "critical",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "Deploy verificado via T1123/T1132/T1142. Site build OK."
     },
     {
       "id": "T1161",
