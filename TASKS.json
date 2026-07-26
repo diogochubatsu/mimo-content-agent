@@ -4611,8 +4611,9 @@
       "target": "expand-silver-batch3",
       "description": "Expand 5 B-grade Silver articles to A-grade using batch-silver-expander.js + smart-silver-expander.js. Run quality-gate.js.",
       "priority": "high",
-      "status": "pending",
-      "created": "2026-07-25T22:00:00Z"
+      "status": "done",
+      "created": "2026-07-25T22:00:00Z",
+      "result": "Artigos Silver j\u00e1 expandidos. Todos s\u00e3o grade A."
     },
     {
       "id": "T1166",
